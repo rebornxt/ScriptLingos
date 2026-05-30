@@ -6,53 +6,682 @@
     {
       "id": "ru-a",
       "char": "А",
-      "name": "A (а)",
+      "name": "A",
       "romanization": "a",
       "ipa": "/a/",
       "letterAudio": "audio/ru/letters/ru-a.mp3",
-      "memoryTrick": "Looks exactly like the Latin 'A' and sounds like one too — a clear 'ah'.",
+      "memoryTrick": "Like the 'a' in 'father' — open your mouth wide and say 'ahh' at the doctor.",
       "words": [
-        { "text": "арбуз", "roman": "arbúz", "meaning": "watermelon", "emoji": "🍉", "audio": "audio/ru/words/ru-a-01.mp3" },
-        { "text": "автобус", "roman": "avtóbus", "meaning": "bus", "emoji": "🚌", "audio": "audio/ru/words/ru-a-02.mp3" }
+        { "text": "автобус", "roman": "avtobus", "meaning": "bus", "emoji": "🚌", "audio": "audio/ru/words/ru-a-01.mp3" },
+        { "text": "апрель", "roman": "aprel'", "meaning": "April", "audio": "audio/ru/words/ru-a-02.mp3" },
+        { "text": "арбуз", "roman": "arbuz", "meaning": "watermelon", "emoji": "🍉", "audio": "audio/ru/words/ru-a-03.mp3" },
+        { "text": "аптека", "roman": "apteka", "meaning": "pharmacy", "emoji": "💊", "audio": "audio/ru/words/ru-a-04.mp3" },
+        { "text": "адрес", "roman": "adres", "meaning": "address", "audio": "audio/ru/words/ru-a-05.mp3" },
+        { "text": "август", "roman": "avgust", "meaning": "August", "audio": "audio/ru/words/ru-a-06.mp3" },
+        { "text": "ангел", "roman": "angel", "meaning": "angel", "emoji": "👼", "audio": "audio/ru/words/ru-a-07.mp3" },
+        { "text": "атом", "roman": "atom", "meaning": "atom", "emoji": "⚛️", "audio": "audio/ru/words/ru-a-08.mp3" }
       ]
     },
     {
       "id": "ru-be",
       "char": "Б",
-      "name": "Be (б)",
+      "name": "Be",
       "romanization": "b",
       "ipa": "/b/",
       "letterAudio": "audio/ru/letters/ru-be.mp3",
-      "memoryTrick": "A false friend — it isn't 'six', it's the 'b' in 'book'. Picture a flag on a pole.",
+      "memoryTrick": "Same as English 'b' in 'book' — just press your lips together and release.",
       "words": [
-        { "text": "банан", "roman": "banán", "meaning": "banana", "emoji": "🍌", "audio": "audio/ru/words/ru-be-01.mp3" },
-        { "text": "бабочка", "roman": "bábochka", "meaning": "butterfly", "emoji": "🦋", "audio": "audio/ru/words/ru-be-02.mp3" }
+        { "text": "банан", "roman": "banan", "meaning": "banana", "emoji": "🍌", "audio": "audio/ru/words/ru-be-01.mp3" },
+        { "text": "брат", "roman": "brat", "meaning": "brother", "audio": "audio/ru/words/ru-be-02.mp3" },
+        { "text": "бумага", "roman": "bumaga", "meaning": "paper", "emoji": "📄", "audio": "audio/ru/words/ru-be-03.mp3" },
+        { "text": "белый", "roman": "belyy", "meaning": "white", "emoji": "⬜", "audio": "audio/ru/words/ru-be-04.mp3" },
+        { "text": "большой", "roman": "bol'shoy", "meaning": "big", "audio": "audio/ru/words/ru-be-05.mp3" },
+        { "text": "бабушка", "roman": "babushka", "meaning": "grandmother", "emoji": "👵", "audio": "audio/ru/words/ru-be-06.mp3" },
+        { "text": "библиотека", "roman": "biblioteka", "meaning": "library", "emoji": "📚", "audio": "audio/ru/words/ru-be-07.mp3" },
+        { "text": "быстрый", "roman": "bystryy", "meaning": "fast", "audio": "audio/ru/words/ru-be-08.mp3" },
+        { "text": "бабочка", "roman": "babochka", "meaning": "butterfly", "emoji": "🦋", "audio": "audio/ru/words/ru-be-09.mp3" },
+        { "text": "берег", "roman": "bereg", "meaning": "shore", "audio": "audio/ru/words/ru-be-10.mp3" }
       ]
     },
     {
       "id": "ru-ve",
       "char": "В",
-      "name": "Ve (в)",
+      "name": "Ve",
       "romanization": "v",
       "ipa": "/v/",
       "letterAudio": "audio/ru/letters/ru-ve.mp3",
-      "memoryTrick": "Looks like a Latin 'B' but says 'v' as in 'van' — don't be fooled.",
+      "memoryTrick": "Same as English 'v' in 'voice' — top teeth on bottom lip and buzz.",
       "words": [
-        { "text": "вода", "roman": "vodá", "meaning": "water", "emoji": "💧", "audio": "audio/ru/words/ru-ve-01.mp3" },
-        { "text": "волк", "roman": "volk", "meaning": "wolf", "emoji": "🐺", "audio": "audio/ru/words/ru-ve-02.mp3" }
+        { "text": "вода", "roman": "voda", "meaning": "water", "emoji": "💧", "audio": "audio/ru/words/ru-ve-01.mp3" },
+        { "text": "время", "roman": "vremya", "meaning": "time", "emoji": "⏰", "audio": "audio/ru/words/ru-ve-02.mp3" },
+        { "text": "весна", "roman": "vesna", "meaning": "spring (season)", "emoji": "🌸", "audio": "audio/ru/words/ru-ve-03.mp3" },
+        { "text": "вечер", "roman": "vecher", "meaning": "evening", "emoji": "🌆", "audio": "audio/ru/words/ru-ve-04.mp3" },
+        { "text": "ветер", "roman": "veter", "meaning": "wind", "emoji": "💨", "audio": "audio/ru/words/ru-ve-05.mp3" },
+        { "text": "вкус", "roman": "vkus", "meaning": "taste", "audio": "audio/ru/words/ru-ve-06.mp3" },
+        { "text": "волк", "roman": "volk", "meaning": "wolf", "emoji": "🐺", "audio": "audio/ru/words/ru-ve-07.mp3" },
+        { "text": "вторник", "roman": "vtornik", "meaning": "Tuesday", "audio": "audio/ru/words/ru-ve-08.mp3" },
+        { "text": "вопрос", "roman": "vopros", "meaning": "question", "emoji": "❓", "audio": "audio/ru/words/ru-ve-09.mp3" },
+        { "text": "высокий", "roman": "vysokiy", "meaning": "tall", "audio": "audio/ru/words/ru-ve-10.mp3" }
       ]
     },
     {
       "id": "ru-ge",
       "char": "Г",
-      "name": "Ge (г)",
+      "name": "Ge",
       "romanization": "g",
       "ipa": "/ɡ/",
       "letterAudio": "audio/ru/letters/ru-ge.mp3",
-      "memoryTrick": "An upside-down 'L' — a hard 'g' as in 'go'.",
+      "memoryTrick": "Like the hard 'g' in 'go' or 'game' — never soft like 'giraffe'.",
       "words": [
-        { "text": "гриб", "roman": "grib", "meaning": "mushroom", "emoji": "🍄", "audio": "audio/ru/words/ru-ge-01.mp3" },
-        { "text": "гитара", "roman": "gitára", "meaning": "guitar", "emoji": "🎸", "audio": "audio/ru/words/ru-ge-02.mp3" }
+        { "text": "год", "roman": "god", "meaning": "year", "audio": "audio/ru/words/ru-ge-01.mp3" },
+        { "text": "город", "roman": "gorod", "meaning": "city", "emoji": "🏙️", "audio": "audio/ru/words/ru-ge-02.mp3" },
+        { "text": "гора", "roman": "gora", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/ru/words/ru-ge-03.mp3" },
+        { "text": "глаз", "roman": "glaz", "meaning": "eye", "emoji": "👁️", "audio": "audio/ru/words/ru-ge-04.mp3" },
+        { "text": "голос", "roman": "golos", "meaning": "voice", "audio": "audio/ru/words/ru-ge-05.mp3" },
+        { "text": "гость", "roman": "gost'", "meaning": "guest", "audio": "audio/ru/words/ru-ge-06.mp3" },
+        { "text": "гриб", "roman": "grib", "meaning": "mushroom", "emoji": "🍄", "audio": "audio/ru/words/ru-ge-07.mp3" },
+        { "text": "груша", "roman": "grusha", "meaning": "pear", "emoji": "🍐", "audio": "audio/ru/words/ru-ge-08.mp3" },
+        { "text": "губа", "roman": "guba", "meaning": "lip", "audio": "audio/ru/words/ru-ge-09.mp3" },
+        { "text": "газета", "roman": "gazeta", "meaning": "newspaper", "emoji": "📰", "audio": "audio/ru/words/ru-ge-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-de",
+      "char": "Д",
+      "name": "De",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/ru/letters/ru-de.mp3",
+      "memoryTrick": "Like English 'd' in 'dog', but place your tongue against the back of your upper teeth, not the roof of your mouth.",
+      "words": [
+        { "text": "дом", "roman": "dom", "meaning": "house", "emoji": "🏠", "audio": "audio/ru/words/ru-de-01.mp3" },
+        { "text": "день", "roman": "den'", "meaning": "day", "emoji": "☀️", "audio": "audio/ru/words/ru-de-02.mp3" },
+        { "text": "друг", "roman": "drug", "meaning": "friend", "audio": "audio/ru/words/ru-de-03.mp3" },
+        { "text": "дверь", "roman": "dver'", "meaning": "door", "emoji": "🚪", "audio": "audio/ru/words/ru-de-04.mp3" },
+        { "text": "дерево", "roman": "derevo", "meaning": "tree", "emoji": "🌳", "audio": "audio/ru/words/ru-de-05.mp3" },
+        { "text": "дождь", "roman": "dozhd'", "meaning": "rain", "emoji": "🌧️", "audio": "audio/ru/words/ru-de-06.mp3" },
+        { "text": "дочь", "roman": "doch'", "meaning": "daughter", "audio": "audio/ru/words/ru-de-07.mp3" },
+        { "text": "девушка", "roman": "devushka", "meaning": "girl", "audio": "audio/ru/words/ru-de-08.mp3" },
+        { "text": "дорога", "roman": "doroga", "meaning": "road", "emoji": "🛣️", "audio": "audio/ru/words/ru-de-09.mp3" },
+        { "text": "добрый", "roman": "dobryy", "meaning": "kind", "audio": "audio/ru/words/ru-de-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-ye",
+      "char": "Е",
+      "name": "Ye",
+      "romanization": "e / ye",
+      "ipa": "/je/",
+      "letterAudio": "audio/ru/letters/ru-ye.mp3",
+      "memoryTrick": "Like the 'ye' in 'yes' — it's a y-glide into an 'e' sound. When it follows a consonant, the softness is on the consonant and you just hear 'e'.",
+      "words": [
+        { "text": "еда", "roman": "yeda", "meaning": "food", "emoji": "🍽️", "audio": "audio/ru/words/ru-ye-01.mp3" },
+        { "text": "ель", "roman": "yel'", "meaning": "fir tree", "emoji": "🎄", "audio": "audio/ru/words/ru-ye-02.mp3" },
+        { "text": "ещё", "roman": "yeshchyo", "meaning": "still, more", "audio": "audio/ru/words/ru-ye-03.mp3" },
+        { "text": "ездить", "roman": "yezdit'", "meaning": "to go (by vehicle)", "audio": "audio/ru/words/ru-ye-04.mp3" },
+        { "text": "ежевика", "roman": "yezhevika", "meaning": "blackberry", "emoji": "🫐", "audio": "audio/ru/words/ru-ye-05.mp3" },
+        { "text": "евро", "roman": "yevro", "meaning": "euro", "emoji": "💶", "audio": "audio/ru/words/ru-ye-06.mp3" },
+        { "text": "егерь", "roman": "yeger'", "meaning": "gamekeeper", "audio": "audio/ru/words/ru-ye-07.mp3" },
+        { "text": "метро", "roman": "metro", "meaning": "metro", "emoji": "🚇", "audio": "audio/ru/words/ru-ye-08.mp3" },
+        { "text": "театр", "roman": "teatr", "meaning": "theater", "emoji": "🎭", "audio": "audio/ru/words/ru-ye-09.mp3" },
+        { "text": "небо", "roman": "nebo", "meaning": "sky", "emoji": "🌤️", "audio": "audio/ru/words/ru-ye-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-yo",
+      "char": "Ё",
+      "name": "Yo",
+      "romanization": "yo",
+      "ipa": "/jo/",
+      "letterAudio": "audio/ru/letters/ru-yo.mp3",
+      "memoryTrick": "Like 'yo' in 'yogurt' or 'York' — always stressed in Russian, so give it extra punch.",
+      "words": [
+        { "text": "ёж", "roman": "yozh", "meaning": "hedgehog", "emoji": "🦔", "audio": "audio/ru/words/ru-yo-01.mp3" },
+        { "text": "ёлка", "roman": "yolka", "meaning": "Christmas tree", "emoji": "🎄", "audio": "audio/ru/words/ru-yo-02.mp3" },
+        { "text": "мёд", "roman": "myod", "meaning": "honey", "emoji": "🍯", "audio": "audio/ru/words/ru-yo-03.mp3" },
+        { "text": "самолёт", "roman": "samolyot", "meaning": "airplane", "emoji": "✈️", "audio": "audio/ru/words/ru-yo-04.mp3" },
+        { "text": "звёзды", "roman": "zvyozdy", "meaning": "stars", "emoji": "⭐", "audio": "audio/ru/words/ru-yo-05.mp3" },
+        { "text": "тётя", "roman": "tyotya", "meaning": "aunt", "audio": "audio/ru/words/ru-yo-06.mp3" },
+        { "text": "котёнок", "roman": "kotyonok", "meaning": "kitten", "emoji": "🐱", "audio": "audio/ru/words/ru-yo-07.mp3" },
+        { "text": "всё", "roman": "vsyo", "meaning": "everything", "audio": "audio/ru/words/ru-yo-08.mp3" },
+        { "text": "ёжик", "roman": "yozhik", "meaning": "little hedgehog", "emoji": "🦔", "audio": "audio/ru/words/ru-yo-09.mp3" },
+        { "text": "ёрш", "roman": "yorsh", "meaning": "ruff (fish)", "emoji": "🐟", "audio": "audio/ru/words/ru-yo-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-zhe",
+      "char": "Ж",
+      "name": "Zhe",
+      "romanization": "zh",
+      "ipa": "/ʐ/",
+      "letterAudio": "audio/ru/letters/ru-zhe.mp3",
+      "memoryTrick": "Like the 's' in 'pleasure' or 'treasure', but harder and more buzzy — curl your tongue back slightly.",
+      "words": [
+        { "text": "жизнь", "roman": "zhizn'", "meaning": "life", "audio": "audio/ru/words/ru-zhe-01.mp3" },
+        { "text": "жена", "roman": "zhena", "meaning": "wife", "audio": "audio/ru/words/ru-zhe-02.mp3" },
+        { "text": "жарко", "roman": "zharko", "meaning": "hot (weather)", "emoji": "🥵", "audio": "audio/ru/words/ru-zhe-03.mp3" },
+        { "text": "животное", "roman": "zhivotnoye", "meaning": "animal", "emoji": "🐾", "audio": "audio/ru/words/ru-zhe-04.mp3" },
+        { "text": "железо", "roman": "zhelezo", "meaning": "iron (metal)", "audio": "audio/ru/words/ru-zhe-05.mp3" },
+        { "text": "жёлтый", "roman": "zhyoltyy", "meaning": "yellow", "emoji": "🟡", "audio": "audio/ru/words/ru-zhe-06.mp3" },
+        { "text": "жук", "roman": "zhuk", "meaning": "beetle", "emoji": "🪲", "audio": "audio/ru/words/ru-zhe-07.mp3" },
+        { "text": "жара", "roman": "zhara", "meaning": "heat", "emoji": "🔥", "audio": "audio/ru/words/ru-zhe-08.mp3" },
+        { "text": "ждать", "roman": "zhdat'", "meaning": "to wait", "audio": "audio/ru/words/ru-zhe-09.mp3" },
+        { "text": "жираф", "roman": "zhiraf", "meaning": "giraffe", "emoji": "🦒", "audio": "audio/ru/words/ru-zhe-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-ze",
+      "char": "З",
+      "name": "Ze",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/ru/letters/ru-ze.mp3",
+      "memoryTrick": "Like the 'z' in 'zebra' — a buzzy 's'. Easy if you already speak English.",
+      "words": [
+        { "text": "зима", "roman": "zima", "meaning": "winter", "emoji": "❄️", "audio": "audio/ru/words/ru-ze-01.mp3" },
+        { "text": "звезда", "roman": "zvezda", "meaning": "star", "emoji": "⭐", "audio": "audio/ru/words/ru-ze-02.mp3" },
+        { "text": "земля", "roman": "zemlya", "meaning": "earth", "emoji": "🌍", "audio": "audio/ru/words/ru-ze-03.mp3" },
+        { "text": "здравствуйте", "roman": "zdravstvuyte", "meaning": "hello (formal)", "emoji": "👋", "audio": "audio/ru/words/ru-ze-04.mp3" },
+        { "text": "золото", "roman": "zoloto", "meaning": "gold", "emoji": "🥇", "audio": "audio/ru/words/ru-ze-05.mp3" },
+        { "text": "завод", "roman": "zavod", "meaning": "factory", "emoji": "🏭", "audio": "audio/ru/words/ru-ze-06.mp3" },
+        { "text": "зеркало", "roman": "zerkalo", "meaning": "mirror", "emoji": "🪞", "audio": "audio/ru/words/ru-ze-07.mp3" },
+        { "text": "змея", "roman": "zmeya", "meaning": "snake", "emoji": "🐍", "audio": "audio/ru/words/ru-ze-08.mp3" },
+        { "text": "звонок", "roman": "zvonok", "meaning": "bell, ring", "emoji": "🔔", "audio": "audio/ru/words/ru-ze-09.mp3" },
+        { "text": "заяц", "roman": "zayats", "meaning": "hare", "emoji": "🐇", "audio": "audio/ru/words/ru-ze-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-i",
+      "char": "И",
+      "name": "I",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/ru/letters/ru-i.mp3",
+      "memoryTrick": "Exactly like 'ee' in 'see' or 'tree' — smile when you say it.",
+      "words": [
+        { "text": "имя", "roman": "imya", "meaning": "name", "audio": "audio/ru/words/ru-i-01.mp3" },
+        { "text": "июнь", "roman": "iyun'", "meaning": "June", "audio": "audio/ru/words/ru-i-02.mp3" },
+        { "text": "июль", "roman": "iyul'", "meaning": "July", "audio": "audio/ru/words/ru-i-03.mp3" },
+        { "text": "игра", "roman": "igra", "meaning": "game", "emoji": "🎮", "audio": "audio/ru/words/ru-i-04.mp3" },
+        { "text": "история", "roman": "istoriya", "meaning": "history, story", "emoji": "📖", "audio": "audio/ru/words/ru-i-05.mp3" },
+        { "text": "интересный", "roman": "interesnyy", "meaning": "interesting", "audio": "audio/ru/words/ru-i-06.mp3" },
+        { "text": "икра", "roman": "ikra", "meaning": "caviar", "audio": "audio/ru/words/ru-i-07.mp3" },
+        { "text": "извините", "roman": "izvinite", "meaning": "excuse me", "audio": "audio/ru/words/ru-i-08.mp3" },
+        { "text": "искра", "roman": "iskra", "meaning": "spark", "emoji": "✨", "audio": "audio/ru/words/ru-i-09.mp3" },
+        { "text": "иголка", "roman": "igolka", "meaning": "needle", "emoji": "🪡", "audio": "audio/ru/words/ru-i-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-i-kratkoye",
+      "char": "Й",
+      "name": "I Kratkoye (Short I)",
+      "romanization": "y / j",
+      "ipa": "/j/",
+      "letterAudio": "audio/ru/letters/ru-i-kratkoye.mp3",
+      "memoryTrick": "Like the 'y' in 'boy' or 'toy' — it is the short, quick version of И, always acting like a consonant slide.",
+      "words": [
+        { "text": "йога", "roman": "yoga", "meaning": "yoga", "emoji": "🧘", "audio": "audio/ru/words/ru-i-kratkoye-01.mp3" },
+        { "text": "йод", "roman": "yod", "meaning": "iodine", "audio": "audio/ru/words/ru-i-kratkoye-02.mp3" },
+        { "text": "йогурт", "roman": "yogurt", "meaning": "yogurt", "audio": "audio/ru/words/ru-i-kratkoye-03.mp3" },
+        { "text": "чай", "roman": "chay", "meaning": "tea", "emoji": "🍵", "audio": "audio/ru/words/ru-i-kratkoye-04.mp3" },
+        { "text": "май", "roman": "may", "meaning": "May", "audio": "audio/ru/words/ru-i-kratkoye-05.mp3" },
+        { "text": "мой", "roman": "moy", "meaning": "my (masculine)", "audio": "audio/ru/words/ru-i-kratkoye-06.mp3" },
+        { "text": "красный", "roman": "krasnyy", "meaning": "red", "emoji": "🔴", "audio": "audio/ru/words/ru-i-kratkoye-07.mp3" },
+        { "text": "музей", "roman": "muzey", "meaning": "museum", "emoji": "🏛️", "audio": "audio/ru/words/ru-i-kratkoye-08.mp3" }
+      ]
+    },
+    {
+      "id": "ru-ka",
+      "char": "К",
+      "name": "Ka",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/ru/letters/ru-ka.mp3",
+      "memoryTrick": "Same as English 'k' in 'kite' — crisp and unaspirated, not breathy.",
+      "words": [
+        { "text": "кот", "roman": "kot", "meaning": "cat (male)", "emoji": "🐱", "audio": "audio/ru/words/ru-ka-01.mp3" },
+        { "text": "книга", "roman": "kniga", "meaning": "book", "emoji": "📕", "audio": "audio/ru/words/ru-ka-02.mp3" },
+        { "text": "комната", "roman": "komnata", "meaning": "room", "audio": "audio/ru/words/ru-ka-03.mp3" },
+        { "text": "кофе", "roman": "kofe", "meaning": "coffee", "emoji": "☕", "audio": "audio/ru/words/ru-ka-04.mp3" },
+        { "text": "карандаш", "roman": "karandash", "meaning": "pencil", "emoji": "✏️", "audio": "audio/ru/words/ru-ka-05.mp3" },
+        { "text": "красивый", "roman": "krasivyy", "meaning": "beautiful", "audio": "audio/ru/words/ru-ka-06.mp3" },
+        { "text": "кухня", "roman": "kukhnya", "meaning": "kitchen", "audio": "audio/ru/words/ru-ka-07.mp3" },
+        { "text": "ключ", "roman": "klyuch", "meaning": "key", "emoji": "🔑", "audio": "audio/ru/words/ru-ka-08.mp3" },
+        { "text": "корова", "roman": "korova", "meaning": "cow", "emoji": "🐄", "audio": "audio/ru/words/ru-ka-09.mp3" },
+        { "text": "камень", "roman": "kamen'", "meaning": "stone", "emoji": "🪨", "audio": "audio/ru/words/ru-ka-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-el",
+      "char": "Л",
+      "name": "El",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/ru/letters/ru-el.mp3",
+      "memoryTrick": "Place the tip of your tongue against the back of your upper teeth — similar to English 'l' but further forward. In Russian, both hard and soft versions of this letter exist depending on context.",
+      "words": [
+        { "text": "луна", "roman": "luna", "meaning": "moon", "emoji": "🌙", "audio": "audio/ru/words/ru-el-01.mp3" },
+        { "text": "лес", "roman": "les", "meaning": "forest", "emoji": "🌲", "audio": "audio/ru/words/ru-el-02.mp3" },
+        { "text": "любовь", "roman": "lyubov'", "meaning": "love", "emoji": "❤️", "audio": "audio/ru/words/ru-el-03.mp3" },
+        { "text": "лето", "roman": "leto", "meaning": "summer", "emoji": "☀️", "audio": "audio/ru/words/ru-el-04.mp3" },
+        { "text": "лёд", "roman": "lyod", "meaning": "ice", "emoji": "🧊", "audio": "audio/ru/words/ru-el-05.mp3" },
+        { "text": "лиса", "roman": "lisa", "meaning": "fox", "emoji": "🦊", "audio": "audio/ru/words/ru-el-06.mp3" },
+        { "text": "ложка", "roman": "lozhka", "meaning": "spoon", "emoji": "🥄", "audio": "audio/ru/words/ru-el-07.mp3" },
+        { "text": "лошадь", "roman": "loshad'", "meaning": "horse", "emoji": "🐴", "audio": "audio/ru/words/ru-el-08.mp3" },
+        { "text": "лев", "roman": "lev", "meaning": "lion", "emoji": "🦁", "audio": "audio/ru/words/ru-el-09.mp3" },
+        { "text": "лампа", "roman": "lampa", "meaning": "lamp", "emoji": "💡", "audio": "audio/ru/words/ru-el-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-em",
+      "char": "М",
+      "name": "Em",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/ru/letters/ru-em.mp3",
+      "memoryTrick": "Same as English 'm' in 'mother' — just press your lips together and hum.",
+      "words": [
+        { "text": "мама", "roman": "mama", "meaning": "mom", "emoji": "👩", "audio": "audio/ru/words/ru-em-01.mp3" },
+        { "text": "море", "roman": "more", "meaning": "sea", "emoji": "🌊", "audio": "audio/ru/words/ru-em-02.mp3" },
+        { "text": "молоко", "roman": "moloko", "meaning": "milk", "emoji": "🥛", "audio": "audio/ru/words/ru-em-03.mp3" },
+        { "text": "магазин", "roman": "magazin", "meaning": "shop, store", "emoji": "🏪", "audio": "audio/ru/words/ru-em-04.mp3" },
+        { "text": "машина", "roman": "mashina", "meaning": "car", "emoji": "🚗", "audio": "audio/ru/words/ru-em-05.mp3" },
+        { "text": "музыка", "roman": "muzyka", "meaning": "music", "emoji": "🎵", "audio": "audio/ru/words/ru-em-06.mp3" },
+        { "text": "медведь", "roman": "medved'", "meaning": "bear", "emoji": "🐻", "audio": "audio/ru/words/ru-em-07.mp3" },
+        { "text": "мечта", "roman": "mechta", "meaning": "dream", "emoji": "💭", "audio": "audio/ru/words/ru-em-08.mp3" },
+        { "text": "мясо", "roman": "myaso", "meaning": "meat", "emoji": "🥩", "audio": "audio/ru/words/ru-em-09.mp3" },
+        { "text": "мальчик", "roman": "mal'chik", "meaning": "boy", "audio": "audio/ru/words/ru-em-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-en",
+      "char": "Н",
+      "name": "En",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/ru/letters/ru-en.mp3",
+      "memoryTrick": "Like English 'n' in 'nose', but with your tongue touching the back of your upper teeth.",
+      "words": [
+        { "text": "нос", "roman": "nos", "meaning": "nose", "emoji": "👃", "audio": "audio/ru/words/ru-en-01.mp3" },
+        { "text": "ночь", "roman": "noch'", "meaning": "night", "emoji": "🌙", "audio": "audio/ru/words/ru-en-02.mp3" },
+        { "text": "нога", "roman": "noga", "meaning": "leg, foot", "emoji": "🦶", "audio": "audio/ru/words/ru-en-03.mp3" },
+        { "text": "небо", "roman": "nebo", "meaning": "sky", "emoji": "🌤️", "audio": "audio/ru/words/ru-en-04.mp3" },
+        { "text": "нож", "roman": "nozh", "meaning": "knife", "emoji": "🔪", "audio": "audio/ru/words/ru-en-05.mp3" },
+        { "text": "ноябрь", "roman": "noyabr'", "meaning": "November", "audio": "audio/ru/words/ru-en-06.mp3" },
+        { "text": "неделя", "roman": "nedelya", "meaning": "week", "audio": "audio/ru/words/ru-en-07.mp3" },
+        { "text": "надежда", "roman": "nadezhda", "meaning": "hope", "audio": "audio/ru/words/ru-en-08.mp3" },
+        { "text": "новый", "roman": "novyy", "meaning": "new", "audio": "audio/ru/words/ru-en-09.mp3" },
+        { "text": "наука", "roman": "nauka", "meaning": "science", "emoji": "🔬", "audio": "audio/ru/words/ru-en-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-o",
+      "char": "О",
+      "name": "O",
+      "romanization": "o",
+      "ipa": "/o/",
+      "letterAudio": "audio/ru/letters/ru-o.mp3",
+      "memoryTrick": "When stressed, it is a clear 'o' like in 'or'. When unstressed, it sounds more like a relaxed 'a' (as in 'about'). This vowel reduction is a hallmark of Russian.",
+      "words": [
+        { "text": "окно", "roman": "okno", "meaning": "window", "emoji": "🪟", "audio": "audio/ru/words/ru-o-01.mp3" },
+        { "text": "осень", "roman": "osen'", "meaning": "autumn", "emoji": "🍂", "audio": "audio/ru/words/ru-o-02.mp3" },
+        { "text": "отец", "roman": "otets", "meaning": "father", "audio": "audio/ru/words/ru-o-03.mp3" },
+        { "text": "огонь", "roman": "ogon'", "meaning": "fire", "emoji": "🔥", "audio": "audio/ru/words/ru-o-04.mp3" },
+        { "text": "одежда", "roman": "odezhda", "meaning": "clothing", "emoji": "👕", "audio": "audio/ru/words/ru-o-05.mp3" },
+        { "text": "овощ", "roman": "ovoshch", "meaning": "vegetable", "emoji": "🥕", "audio": "audio/ru/words/ru-o-06.mp3" },
+        { "text": "океан", "roman": "okean", "meaning": "ocean", "emoji": "🌊", "audio": "audio/ru/words/ru-o-07.mp3" },
+        { "text": "очки", "roman": "ochki", "meaning": "glasses", "emoji": "👓", "audio": "audio/ru/words/ru-o-08.mp3" },
+        { "text": "облако", "roman": "oblako", "meaning": "cloud", "emoji": "☁️", "audio": "audio/ru/words/ru-o-09.mp3" },
+        { "text": "обед", "roman": "obed", "meaning": "lunch", "audio": "audio/ru/words/ru-o-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-pe",
+      "char": "П",
+      "name": "Pe",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/ru/letters/ru-pe.mp3",
+      "memoryTrick": "Same as English 'p' in 'park' — a clean, unaspirated pop of the lips.",
+      "words": [
+        { "text": "папа", "roman": "papa", "meaning": "dad", "emoji": "👨", "audio": "audio/ru/words/ru-pe-01.mp3" },
+        { "text": "понедельник", "roman": "ponedel'nik", "meaning": "Monday", "audio": "audio/ru/words/ru-pe-02.mp3" },
+        { "text": "письмо", "roman": "pis'mo", "meaning": "letter", "emoji": "✉️", "audio": "audio/ru/words/ru-pe-03.mp3" },
+        { "text": "погода", "roman": "pogoda", "meaning": "weather", "audio": "audio/ru/words/ru-pe-04.mp3" },
+        { "text": "птица", "roman": "ptitsa", "meaning": "bird", "emoji": "🐦", "audio": "audio/ru/words/ru-pe-05.mp3" },
+        { "text": "подарок", "roman": "podarok", "meaning": "gift", "emoji": "🎁", "audio": "audio/ru/words/ru-pe-06.mp3" },
+        { "text": "поле", "roman": "pole", "meaning": "field", "audio": "audio/ru/words/ru-pe-07.mp3" },
+        { "text": "пятница", "roman": "pyatnitsa", "meaning": "Friday", "audio": "audio/ru/words/ru-pe-08.mp3" },
+        { "text": "палец", "roman": "palets", "meaning": "finger", "emoji": "👆", "audio": "audio/ru/words/ru-pe-09.mp3" },
+        { "text": "песня", "roman": "pesnya", "meaning": "song", "emoji": "🎶", "audio": "audio/ru/words/ru-pe-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-er",
+      "char": "Р",
+      "name": "Er",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/ru/letters/ru-er.mp3",
+      "memoryTrick": "A rolled or trilled 'r' — flick the tip of your tongue against the ridge behind your upper teeth, like a Spanish 'rr' or a Scottish rolled 'r'.",
+      "words": [
+        { "text": "рука", "roman": "ruka", "meaning": "hand, arm", "emoji": "✋", "audio": "audio/ru/words/ru-er-01.mp3" },
+        { "text": "рыба", "roman": "ryba", "meaning": "fish", "emoji": "🐟", "audio": "audio/ru/words/ru-er-02.mp3" },
+        { "text": "работа", "roman": "rabota", "meaning": "work", "audio": "audio/ru/words/ru-er-03.mp3" },
+        { "text": "река", "roman": "reka", "meaning": "river", "audio": "audio/ru/words/ru-er-04.mp3" },
+        { "text": "роса", "roman": "rosa", "meaning": "dew", "emoji": "💧", "audio": "audio/ru/words/ru-er-05.mp3" },
+        { "text": "рис", "roman": "ris", "meaning": "rice", "emoji": "🍚", "audio": "audio/ru/words/ru-er-06.mp3" },
+        { "text": "робот", "roman": "robot", "meaning": "robot", "emoji": "🤖", "audio": "audio/ru/words/ru-er-07.mp3" },
+        { "text": "радость", "roman": "radost'", "meaning": "joy", "audio": "audio/ru/words/ru-er-08.mp3" },
+        { "text": "рот", "roman": "rot", "meaning": "mouth", "emoji": "👄", "audio": "audio/ru/words/ru-er-09.mp3" },
+        { "text": "ручка", "roman": "ruchka", "meaning": "pen", "emoji": "🖊️", "audio": "audio/ru/words/ru-er-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-es",
+      "char": "С",
+      "name": "Es",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/ru/letters/ru-es.mp3",
+      "memoryTrick": "Same as English 's' in 'sun' — a clean hissing sound.",
+      "words": [
+        { "text": "солнце", "roman": "solntse", "meaning": "sun", "emoji": "☀️", "audio": "audio/ru/words/ru-es-01.mp3" },
+        { "text": "собака", "roman": "sobaka", "meaning": "dog", "emoji": "🐕", "audio": "audio/ru/words/ru-es-02.mp3" },
+        { "text": "семья", "roman": "sem'ya", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/ru/words/ru-es-03.mp3" },
+        { "text": "стол", "roman": "stol", "meaning": "table", "audio": "audio/ru/words/ru-es-04.mp3" },
+        { "text": "сын", "roman": "syn", "meaning": "son", "audio": "audio/ru/words/ru-es-05.mp3" },
+        { "text": "сестра", "roman": "sestra", "meaning": "sister", "audio": "audio/ru/words/ru-es-06.mp3" },
+        { "text": "снег", "roman": "sneg", "meaning": "snow", "emoji": "❄️", "audio": "audio/ru/words/ru-es-07.mp3" },
+        { "text": "сад", "roman": "sad", "meaning": "garden", "emoji": "🌻", "audio": "audio/ru/words/ru-es-08.mp3" },
+        { "text": "слово", "roman": "slovo", "meaning": "word", "audio": "audio/ru/words/ru-es-09.mp3" },
+        { "text": "суббота", "roman": "subbota", "meaning": "Saturday", "audio": "audio/ru/words/ru-es-10.mp3" },
+        { "text": "сердце", "roman": "serdtse", "meaning": "heart", "emoji": "❤️", "audio": "audio/ru/words/ru-es-11.mp3" },
+        { "text": "синий", "roman": "siniy", "meaning": "blue", "emoji": "🔵", "audio": "audio/ru/words/ru-es-12.mp3" }
+      ]
+    },
+    {
+      "id": "ru-te",
+      "char": "Т",
+      "name": "Te",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/ru/letters/ru-te.mp3",
+      "memoryTrick": "Like English 't' in 'top', but place your tongue against the back of your upper teeth instead of the roof of your mouth.",
+      "words": [
+        { "text": "телефон", "roman": "telefon", "meaning": "telephone", "emoji": "📱", "audio": "audio/ru/words/ru-te-01.mp3" },
+        { "text": "тетрадь", "roman": "tetrad'", "meaning": "notebook", "emoji": "📓", "audio": "audio/ru/words/ru-te-02.mp3" },
+        { "text": "транспорт", "roman": "transport", "meaning": "transport", "audio": "audio/ru/words/ru-te-03.mp3" },
+        { "text": "туча", "roman": "tucha", "meaning": "rain cloud", "emoji": "🌧️", "audio": "audio/ru/words/ru-te-04.mp3" },
+        { "text": "торт", "roman": "tort", "meaning": "cake", "emoji": "🎂", "audio": "audio/ru/words/ru-te-05.mp3" },
+        { "text": "танцевать", "roman": "tantsevat'", "meaning": "to dance", "emoji": "💃", "audio": "audio/ru/words/ru-te-06.mp3" },
+        { "text": "топор", "roman": "topor", "meaning": "axe", "emoji": "🪓", "audio": "audio/ru/words/ru-te-07.mp3" },
+        { "text": "тигр", "roman": "tigr", "meaning": "tiger", "emoji": "🐅", "audio": "audio/ru/words/ru-te-08.mp3" },
+        { "text": "трава", "roman": "trava", "meaning": "grass", "emoji": "🌿", "audio": "audio/ru/words/ru-te-09.mp3" },
+        { "text": "тыква", "roman": "tykva", "meaning": "pumpkin", "emoji": "🎃", "audio": "audio/ru/words/ru-te-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-u",
+      "char": "У",
+      "name": "U",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/ru/letters/ru-u.mp3",
+      "memoryTrick": "Like 'oo' in 'boot' or 'food' — round your lips tightly and push them forward.",
+      "words": [
+        { "text": "утро", "roman": "utro", "meaning": "morning", "emoji": "🌅", "audio": "audio/ru/words/ru-u-01.mp3" },
+        { "text": "улица", "roman": "ulitsa", "meaning": "street", "audio": "audio/ru/words/ru-u-02.mp3" },
+        { "text": "учитель", "roman": "uchitel'", "meaning": "teacher", "emoji": "👩‍🏫", "audio": "audio/ru/words/ru-u-03.mp3" },
+        { "text": "ухо", "roman": "ukho", "meaning": "ear", "emoji": "👂", "audio": "audio/ru/words/ru-u-04.mp3" },
+        { "text": "улыбка", "roman": "ulybka", "meaning": "smile", "emoji": "😊", "audio": "audio/ru/words/ru-u-05.mp3" },
+        { "text": "ужин", "roman": "uzhin", "meaning": "supper", "audio": "audio/ru/words/ru-u-06.mp3" },
+        { "text": "урок", "roman": "urok", "meaning": "lesson", "audio": "audio/ru/words/ru-u-07.mp3" },
+        { "text": "университет", "roman": "universitet", "meaning": "university", "emoji": "🏫", "audio": "audio/ru/words/ru-u-08.mp3" },
+        { "text": "утка", "roman": "utka", "meaning": "duck", "emoji": "🦆", "audio": "audio/ru/words/ru-u-09.mp3" },
+        { "text": "уголь", "roman": "ugol'", "meaning": "coal", "audio": "audio/ru/words/ru-u-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-ef",
+      "char": "Ф",
+      "name": "Ef",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/ru/letters/ru-ef.mp3",
+      "memoryTrick": "Same as English 'f' in 'fish' or 'phone' — top teeth on bottom lip and blow.",
+      "words": [
+        { "text": "фото", "roman": "foto", "meaning": "photo", "emoji": "📷", "audio": "audio/ru/words/ru-ef-01.mp3" },
+        { "text": "февраль", "roman": "fevral'", "meaning": "February", "audio": "audio/ru/words/ru-ef-02.mp3" },
+        { "text": "фонарь", "roman": "fonar'", "meaning": "lantern", "emoji": "🏮", "audio": "audio/ru/words/ru-ef-03.mp3" },
+        { "text": "фрукт", "roman": "frukt", "meaning": "fruit", "emoji": "🍎", "audio": "audio/ru/words/ru-ef-04.mp3" },
+        { "text": "фильм", "roman": "fil'm", "meaning": "film, movie", "emoji": "🎬", "audio": "audio/ru/words/ru-ef-05.mp3" },
+        { "text": "флаг", "roman": "flag", "meaning": "flag", "emoji": "🚩", "audio": "audio/ru/words/ru-ef-06.mp3" },
+        { "text": "фамилия", "roman": "familiya", "meaning": "surname", "audio": "audio/ru/words/ru-ef-07.mp3" },
+        { "text": "ферма", "roman": "ferma", "meaning": "farm", "emoji": "🚜", "audio": "audio/ru/words/ru-ef-08.mp3" }
+      ]
+    },
+    {
+      "id": "ru-kha",
+      "char": "Х",
+      "name": "Kha",
+      "romanization": "kh",
+      "ipa": "/x/",
+      "letterAudio": "audio/ru/letters/ru-kha.mp3",
+      "memoryTrick": "Like the 'ch' in Scottish 'loch' or German 'Bach' — a raspy, throaty sound like you're clearing your throat gently.",
+      "words": [
+        { "text": "хлеб", "roman": "khleb", "meaning": "bread", "emoji": "🍞", "audio": "audio/ru/words/ru-kha-01.mp3" },
+        { "text": "хорошо", "roman": "khorosho", "meaning": "good, well", "emoji": "👍", "audio": "audio/ru/words/ru-kha-02.mp3" },
+        { "text": "холодный", "roman": "kholodnyy", "meaning": "cold", "emoji": "🥶", "audio": "audio/ru/words/ru-kha-03.mp3" },
+        { "text": "художник", "roman": "khudozhnik", "meaning": "artist", "emoji": "🎨", "audio": "audio/ru/words/ru-kha-04.mp3" },
+        { "text": "хвост", "roman": "khvost", "meaning": "tail", "audio": "audio/ru/words/ru-kha-05.mp3" },
+        { "text": "химия", "roman": "khimiya", "meaning": "chemistry", "emoji": "🧪", "audio": "audio/ru/words/ru-kha-06.mp3" },
+        { "text": "храм", "roman": "khram", "meaning": "temple", "emoji": "⛪", "audio": "audio/ru/words/ru-kha-07.mp3" },
+        { "text": "халат", "roman": "khalat", "meaning": "robe", "audio": "audio/ru/words/ru-kha-08.mp3" }
+      ]
+    },
+    {
+      "id": "ru-tse",
+      "char": "Ц",
+      "name": "Tse",
+      "romanization": "ts",
+      "ipa": "/ts/",
+      "letterAudio": "audio/ru/letters/ru-tse.mp3",
+      "memoryTrick": "Like the 'ts' in 'cats' or 'hats' — start with a 't' and slide immediately into an 's'.",
+      "words": [
+        { "text": "цветок", "roman": "tsvetok", "meaning": "flower", "emoji": "🌸", "audio": "audio/ru/words/ru-tse-01.mp3" },
+        { "text": "цирк", "roman": "tsirk", "meaning": "circus", "emoji": "🎪", "audio": "audio/ru/words/ru-tse-02.mp3" },
+        { "text": "церковь", "roman": "tserkov'", "meaning": "church", "emoji": "⛪", "audio": "audio/ru/words/ru-tse-03.mp3" },
+        { "text": "центр", "roman": "tsentr", "meaning": "center", "audio": "audio/ru/words/ru-tse-04.mp3" },
+        { "text": "цепь", "roman": "tsep'", "meaning": "chain", "emoji": "⛓️", "audio": "audio/ru/words/ru-tse-05.mp3" },
+        { "text": "цыплёнок", "roman": "tsyplyonok", "meaning": "chick", "emoji": "🐤", "audio": "audio/ru/words/ru-tse-06.mp3" },
+        { "text": "цапля", "roman": "tsaplya", "meaning": "heron", "audio": "audio/ru/words/ru-tse-07.mp3" },
+        { "text": "цифра", "roman": "tsifra", "meaning": "digit", "audio": "audio/ru/words/ru-tse-08.mp3" },
+        { "text": "царь", "roman": "tsar'", "meaning": "tsar", "emoji": "👑", "audio": "audio/ru/words/ru-tse-09.mp3" },
+        { "text": "цена", "roman": "tsena", "meaning": "price", "emoji": "💰", "audio": "audio/ru/words/ru-tse-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-che",
+      "char": "Ч",
+      "name": "Che",
+      "romanization": "ch",
+      "ipa": "/tɕ/",
+      "letterAudio": "audio/ru/letters/ru-che.mp3",
+      "memoryTrick": "Like the 'ch' in 'chair' or 'cheese', but softer — your tongue is higher and flatter against the roof of your mouth.",
+      "words": [
+        { "text": "чай", "roman": "chay", "meaning": "tea", "emoji": "🍵", "audio": "audio/ru/words/ru-che-01.mp3" },
+        { "text": "человек", "roman": "chelovek", "meaning": "person, human", "audio": "audio/ru/words/ru-che-02.mp3" },
+        { "text": "час", "roman": "chas", "meaning": "hour", "emoji": "🕐", "audio": "audio/ru/words/ru-che-03.mp3" },
+        { "text": "четверг", "roman": "chetverg", "meaning": "Thursday", "audio": "audio/ru/words/ru-che-04.mp3" },
+        { "text": "чёрный", "roman": "chyornyy", "meaning": "black", "emoji": "⚫", "audio": "audio/ru/words/ru-che-05.mp3" },
+        { "text": "число", "roman": "chislo", "meaning": "number", "audio": "audio/ru/words/ru-che-06.mp3" },
+        { "text": "читать", "roman": "chitat'", "meaning": "to read", "emoji": "📖", "audio": "audio/ru/words/ru-che-07.mp3" },
+        { "text": "чемодан", "roman": "chemodan", "meaning": "suitcase", "emoji": "🧳", "audio": "audio/ru/words/ru-che-08.mp3" },
+        { "text": "чашка", "roman": "chashka", "meaning": "cup", "emoji": "🥤", "audio": "audio/ru/words/ru-che-09.mp3" },
+        { "text": "чувство", "roman": "chuvstvo", "meaning": "feeling", "audio": "audio/ru/words/ru-che-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-sha",
+      "char": "Ш",
+      "name": "Sha",
+      "romanization": "sh",
+      "ipa": "/ʂ/",
+      "letterAudio": "audio/ru/letters/ru-sha.mp3",
+      "memoryTrick": "Like 'sh' in 'shin' or 'shoe', but harder and with your tongue curled back slightly. It is never soft — always a hard 'sh'.",
+      "words": [
+        { "text": "школа", "roman": "shkola", "meaning": "school", "emoji": "🏫", "audio": "audio/ru/words/ru-sha-01.mp3" },
+        { "text": "шапка", "roman": "shapka", "meaning": "hat", "emoji": "🧢", "audio": "audio/ru/words/ru-sha-02.mp3" },
+        { "text": "шкаф", "roman": "shkaf", "meaning": "cupboard, closet", "audio": "audio/ru/words/ru-sha-03.mp3" },
+        { "text": "шум", "roman": "shum", "meaning": "noise", "audio": "audio/ru/words/ru-sha-04.mp3" },
+        { "text": "шоколад", "roman": "shokolad", "meaning": "chocolate", "emoji": "🍫", "audio": "audio/ru/words/ru-sha-05.mp3" },
+        { "text": "шарф", "roman": "sharf", "meaning": "scarf", "emoji": "🧣", "audio": "audio/ru/words/ru-sha-06.mp3" },
+        { "text": "шея", "roman": "sheya", "meaning": "neck", "audio": "audio/ru/words/ru-sha-07.mp3" },
+        { "text": "шить", "roman": "shit'", "meaning": "to sew", "emoji": "🧵", "audio": "audio/ru/words/ru-sha-08.mp3" },
+        { "text": "шофёр", "roman": "shofyor", "meaning": "driver", "audio": "audio/ru/words/ru-sha-09.mp3" },
+        { "text": "шар", "roman": "shar", "meaning": "ball, sphere", "emoji": "⚽", "audio": "audio/ru/words/ru-sha-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-shcha",
+      "char": "Щ",
+      "name": "Shcha",
+      "romanization": "shch",
+      "ipa": "/ɕː/",
+      "letterAudio": "audio/ru/letters/ru-shcha.mp3",
+      "memoryTrick": "Like a long, soft 'shch' as in 'fresh cheese' said quickly — your tongue is high and flat, and the sound is always soft and drawn out.",
+      "words": [
+        { "text": "щенок", "roman": "shchenok", "meaning": "puppy", "emoji": "🐶", "audio": "audio/ru/words/ru-shcha-01.mp3" },
+        { "text": "щи", "roman": "shchi", "meaning": "cabbage soup", "emoji": "🥣", "audio": "audio/ru/words/ru-shcha-02.mp3" },
+        { "text": "щётка", "roman": "shchyotka", "meaning": "brush", "emoji": "🪥", "audio": "audio/ru/words/ru-shcha-03.mp3" },
+        { "text": "щека", "roman": "shcheka", "meaning": "cheek", "audio": "audio/ru/words/ru-shcha-04.mp3" },
+        { "text": "площадь", "roman": "ploshchad'", "meaning": "square, plaza", "audio": "audio/ru/words/ru-shcha-05.mp3" },
+        { "text": "овощ", "roman": "ovoshch", "meaning": "vegetable", "emoji": "🥕", "audio": "audio/ru/words/ru-shcha-06.mp3" },
+        { "text": "помощь", "roman": "pomoshch'", "meaning": "help", "audio": "audio/ru/words/ru-shcha-07.mp3" },
+        { "text": "щель", "roman": "shchel'", "meaning": "crack, gap", "audio": "audio/ru/words/ru-shcha-08.mp3" },
+        { "text": "вещь", "roman": "veshch'", "meaning": "thing", "audio": "audio/ru/words/ru-shcha-09.mp3" },
+        { "text": "защита", "roman": "zashchita", "meaning": "protection", "emoji": "🛡️", "audio": "audio/ru/words/ru-shcha-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-tvyordiy-znak",
+      "char": "Ъ",
+      "name": "Tvyordiy Znak (Hard Sign)",
+      "romanization": "\" (hard sign)",
+      "ipa": "/-/",
+      "letterAudio": "audio/ru/letters/ru-tvyordiy-znak.mp3",
+      "memoryTrick": "The hard sign has no sound of its own — it acts like a tiny wall, separating a prefix from a y-glide vowel so that the 'y' sound is pronounced clearly. Think of it as a 'pause marker.'",
+      "words": [
+        { "text": "съесть", "roman": "s\"yest'", "meaning": "to eat up", "audio": "audio/ru/words/ru-tvyordiy-znak-01.mp3" },
+        { "text": "подъезд", "roman": "pod\"yezd", "meaning": "entrance, driveway", "audio": "audio/ru/words/ru-tvyordiy-znak-02.mp3" },
+        { "text": "объяснить", "roman": "ob\"yasnit'", "meaning": "to explain", "audio": "audio/ru/words/ru-tvyordiy-znak-03.mp3" },
+        { "text": "съёмка", "roman": "s\"yomka", "meaning": "filming, shooting", "emoji": "🎥", "audio": "audio/ru/words/ru-tvyordiy-znak-04.mp3" },
+        { "text": "объявление", "roman": "ob\"yavleniye", "meaning": "announcement", "audio": "audio/ru/words/ru-tvyordiy-znak-05.mp3" },
+        { "text": "разъединить", "roman": "raz\"yedinit'", "meaning": "to disconnect", "audio": "audio/ru/words/ru-tvyordiy-znak-06.mp3" }
+      ]
+    },
+    {
+      "id": "ru-yery",
+      "char": "Ы",
+      "name": "Yery",
+      "romanization": "y",
+      "ipa": "/ɨ/",
+      "letterAudio": "audio/ru/letters/ru-yery.mp3",
+      "memoryTrick": "A sound unique to Russian — try saying 'ee' as in 'see' but pull your tongue back toward your throat. It is like the 'i' in 'bit' but deeper and more guttural.",
+      "words": [
+        { "text": "сын", "roman": "syn", "meaning": "son", "audio": "audio/ru/words/ru-yery-01.mp3" },
+        { "text": "рыба", "roman": "ryba", "meaning": "fish", "emoji": "🐟", "audio": "audio/ru/words/ru-yery-02.mp3" },
+        { "text": "мыло", "roman": "mylo", "meaning": "soap", "emoji": "🧼", "audio": "audio/ru/words/ru-yery-03.mp3" },
+        { "text": "дым", "roman": "dym", "meaning": "smoke", "emoji": "💨", "audio": "audio/ru/words/ru-yery-04.mp3" },
+        { "text": "быстрый", "roman": "bystryy", "meaning": "fast", "audio": "audio/ru/words/ru-yery-05.mp3" },
+        { "text": "тыква", "roman": "tykva", "meaning": "pumpkin", "emoji": "🎃", "audio": "audio/ru/words/ru-yery-06.mp3" },
+        { "text": "крыша", "roman": "krysha", "meaning": "roof", "audio": "audio/ru/words/ru-yery-07.mp3" },
+        { "text": "высокий", "roman": "vysokiy", "meaning": "tall", "audio": "audio/ru/words/ru-yery-08.mp3" },
+        { "text": "лыжи", "roman": "lyzhi", "meaning": "skis", "emoji": "🎿", "audio": "audio/ru/words/ru-yery-09.mp3" },
+        { "text": "сыр", "roman": "syr", "meaning": "cheese", "emoji": "🧀", "audio": "audio/ru/words/ru-yery-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-myagkiy-znak",
+      "char": "Ь",
+      "name": "Myagkiy Znak (Soft Sign)",
+      "romanization": "' (soft sign)",
+      "ipa": "/ʲ/",
+      "letterAudio": "audio/ru/letters/ru-myagkiy-znak.mp3",
+      "memoryTrick": "The soft sign has no sound of its own — it makes the consonant before it 'soft' (palatalized), like sliding a tiny 'y' into the consonant without fully saying it.",
+      "words": [
+        { "text": "день", "roman": "den'", "meaning": "day", "emoji": "☀️", "audio": "audio/ru/words/ru-myagkiy-znak-01.mp3" },
+        { "text": "ночь", "roman": "noch'", "meaning": "night", "emoji": "🌙", "audio": "audio/ru/words/ru-myagkiy-znak-02.mp3" },
+        { "text": "мать", "roman": "mat'", "meaning": "mother", "audio": "audio/ru/words/ru-myagkiy-znak-03.mp3" },
+        { "text": "дверь", "roman": "dver'", "meaning": "door", "emoji": "🚪", "audio": "audio/ru/words/ru-myagkiy-znak-04.mp3" },
+        { "text": "осень", "roman": "osen'", "meaning": "autumn", "emoji": "🍂", "audio": "audio/ru/words/ru-myagkiy-znak-05.mp3" },
+        { "text": "огонь", "roman": "ogon'", "meaning": "fire", "emoji": "🔥", "audio": "audio/ru/words/ru-myagkiy-znak-06.mp3" },
+        { "text": "соль", "roman": "sol'", "meaning": "salt", "emoji": "🧂", "audio": "audio/ru/words/ru-myagkiy-znak-07.mp3" },
+        { "text": "жизнь", "roman": "zhizn'", "meaning": "life", "audio": "audio/ru/words/ru-myagkiy-znak-08.mp3" },
+        { "text": "читать", "roman": "chitat'", "meaning": "to read", "emoji": "📖", "audio": "audio/ru/words/ru-myagkiy-znak-09.mp3" },
+        { "text": "конь", "roman": "kon'", "meaning": "horse (poetic)", "emoji": "🐴", "audio": "audio/ru/words/ru-myagkiy-znak-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-e",
+      "char": "Э",
+      "name": "E Oborotnoye (Reversed E)",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/ru/letters/ru-e.mp3",
+      "memoryTrick": "Like the 'e' in 'met' or 'bed' — a clean, open 'e' without the 'y' glide that Russian Е carries. It is like saying 'eh' plainly.",
+      "words": [
+        { "text": "это", "roman": "eto", "meaning": "this", "audio": "audio/ru/words/ru-e-01.mp3" },
+        { "text": "экран", "roman": "ekran", "meaning": "screen", "emoji": "🖥️", "audio": "audio/ru/words/ru-e-02.mp3" },
+        { "text": "этаж", "roman": "etazh", "meaning": "floor (of a building)", "audio": "audio/ru/words/ru-e-03.mp3" },
+        { "text": "экзамен", "roman": "ekzamen", "meaning": "exam", "emoji": "📝", "audio": "audio/ru/words/ru-e-04.mp3" },
+        { "text": "энергия", "roman": "energiya", "meaning": "energy", "emoji": "⚡", "audio": "audio/ru/words/ru-e-05.mp3" },
+        { "text": "электричество", "roman": "elektrichestvo", "meaning": "electricity", "emoji": "⚡", "audio": "audio/ru/words/ru-e-06.mp3" },
+        { "text": "эхо", "roman": "ekho", "meaning": "echo", "audio": "audio/ru/words/ru-e-07.mp3" },
+        { "text": "эмоция", "roman": "emotsiya", "meaning": "emotion", "audio": "audio/ru/words/ru-e-08.mp3" }
+      ]
+    },
+    {
+      "id": "ru-yu",
+      "char": "Ю",
+      "name": "Yu",
+      "romanization": "yu",
+      "ipa": "/ju/",
+      "letterAudio": "audio/ru/letters/ru-yu.mp3",
+      "memoryTrick": "Like the English word 'you' — it is the y-glide into an 'oo' sound. When following a consonant, it softens the consonant first.",
+      "words": [
+        { "text": "юг", "roman": "yug", "meaning": "south", "emoji": "🧭", "audio": "audio/ru/words/ru-yu-01.mp3" },
+        { "text": "юбка", "roman": "yubka", "meaning": "skirt", "audio": "audio/ru/words/ru-yu-02.mp3" },
+        { "text": "юный", "roman": "yunyy", "meaning": "young", "audio": "audio/ru/words/ru-yu-03.mp3" },
+        { "text": "юмор", "roman": "yumor", "meaning": "humor", "audio": "audio/ru/words/ru-yu-04.mp3" },
+        { "text": "юность", "roman": "yunost'", "meaning": "youth", "audio": "audio/ru/words/ru-yu-05.mp3" },
+        { "text": "ювелир", "roman": "yuvelir", "meaning": "jeweler", "emoji": "💍", "audio": "audio/ru/words/ru-yu-06.mp3" },
+        { "text": "июнь", "roman": "iyun'", "meaning": "June", "audio": "audio/ru/words/ru-yu-07.mp3" },
+        { "text": "июль", "roman": "iyul'", "meaning": "July", "audio": "audio/ru/words/ru-yu-08.mp3" },
+        { "text": "люди", "roman": "lyudi", "meaning": "people", "audio": "audio/ru/words/ru-yu-09.mp3" },
+        { "text": "ключ", "roman": "klyuch", "meaning": "key", "emoji": "🔑", "audio": "audio/ru/words/ru-yu-10.mp3" }
+      ]
+    },
+    {
+      "id": "ru-ya",
+      "char": "Я",
+      "name": "Ya",
+      "romanization": "ya",
+      "ipa": "/ja/",
+      "letterAudio": "audio/ru/letters/ru-ya.mp3",
+      "memoryTrick": "Like 'ya' in 'yard' or 'yacht' — it is the y-glide into an 'a' sound. When following a consonant, it softens the consonant first.",
+      "words": [
+        { "text": "яблоко", "roman": "yabloko", "meaning": "apple", "emoji": "🍎", "audio": "audio/ru/words/ru-ya-01.mp3" },
+        { "text": "язык", "roman": "yazyk", "meaning": "language, tongue", "audio": "audio/ru/words/ru-ya-02.mp3" },
+        { "text": "яйцо", "roman": "yaytso", "meaning": "egg", "emoji": "🥚", "audio": "audio/ru/words/ru-ya-03.mp3" },
+        { "text": "январь", "roman": "yanvar'", "meaning": "January", "audio": "audio/ru/words/ru-ya-04.mp3" },
+        { "text": "ясный", "roman": "yasnyy", "meaning": "clear, bright", "audio": "audio/ru/words/ru-ya-05.mp3" },
+        { "text": "ягода", "roman": "yagoda", "meaning": "berry", "emoji": "🍓", "audio": "audio/ru/words/ru-ya-06.mp3" },
+        { "text": "яма", "roman": "yama", "meaning": "pit, hole", "audio": "audio/ru/words/ru-ya-07.mp3" },
+        { "text": "якорь", "roman": "yakor'", "meaning": "anchor", "emoji": "⚓", "audio": "audio/ru/words/ru-ya-08.mp3" },
+        { "text": "земля", "roman": "zemlya", "meaning": "earth", "emoji": "🌍", "audio": "audio/ru/words/ru-ya-09.mp3" },
+        { "text": "семья", "roman": "sem'ya", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/ru/words/ru-ya-10.mp3" }
       ]
     }
   ]

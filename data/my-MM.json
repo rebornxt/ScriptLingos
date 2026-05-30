@@ -7,708 +7,533 @@
       "id": "my-ka",
       "char": "က",
       "name": "ka gyi",
-      "romanization": "ka",
+      "romanization": "k",
       "ipa": "/k/",
       "letterAudio": "audio/my/letters/my-ka.mp3",
-      "memoryTrick": "Looks like a little plus sign or cross. Imagine it is the starting mark to 'K'atch your attention for the first letter!",
+      "memoryTrick": "Looks like a little plus sign or a bow tied at the top. Think of 'K'icking off the alphabet with this neat, compact shape.",
       "words": [
-        {
-          "text": "ကော်ဖီ",
-          "roman": "kaw hpi",
-          "meaning": "coffee",
-          "emoji": "☕",
-          "audio": "audio/my/words/my-ka-01.mp3"
-        },
-        {
-          "text": "ကလေး",
-          "roman": "ka lay",
-          "meaning": "child",
-          "emoji": "👶",
-          "audio": "audio/my/words/my-ka-02.mp3"
-        }
+        { "text": "ကော်ဖီ", "roman": "kaw-pi", "meaning": "coffee", "emoji": "☕", "audio": "audio/my/words/my-ka-01.mp3" },
+        { "text": "ကလေး", "roman": "ka-lay", "meaning": "child", "emoji": "👶", "audio": "audio/my/words/my-ka-02.mp3" },
+        { "text": "ကား", "roman": "kaa", "meaning": "car", "emoji": "🚗", "audio": "audio/my/words/my-ka-03.mp3" },
+        { "text": "ကြက်", "roman": "kyet", "meaning": "chicken", "emoji": "🐔", "audio": "audio/my/words/my-ka-04.mp3" },
+        { "text": "ကြောင်", "roman": "kyaung", "meaning": "cat", "emoji": "🐱", "audio": "audio/my/words/my-ka-05.mp3" },
+        { "text": "ကျောင်း", "roman": "kyaung", "meaning": "school", "emoji": "🏫", "audio": "audio/my/words/my-ka-06.mp3" },
+        { "text": "ကောင်း", "roman": "kaung", "meaning": "good", "emoji": "👍", "audio": "audio/my/words/my-ka-07.mp3" },
+        { "text": "ကြယ်", "roman": "kyal", "meaning": "star", "emoji": "⭐", "audio": "audio/my/words/my-ka-08.mp3" }
       ]
     },
     {
       "id": "my-kha",
       "char": "ခ",
       "name": "kha gway",
-      "romanization": "kha",
+      "romanization": "hk",
       "ipa": "/kʰ/",
       "letterAudio": "audio/my/letters/my-kha.mp3",
-      "memoryTrick": "It resembles a backward 'C' with an inward curl. Think of a 'C'at curling up.",
+      "memoryTrick": "A curved belly that hooks inward. It resembles a backward 'C' with a curl — imagine a 'C'at curling up for a nap.",
       "words": [
-        {
-          "text": "ခွေး",
-          "roman": "hkway",
-          "meaning": "dog",
-          "emoji": "🐶",
-          "audio": "audio/my/words/my-kha-01.mp3"
-        },
-        {
-          "text": "ခေါက်ဆွဲ",
-          "roman": "hkauk hswel",
-          "meaning": "noodles",
-          "emoji": "🍜",
-          "audio": "audio/my/words/my-kha-02.mp3"
-        }
+        { "text": "ခွေး", "roman": "khway", "meaning": "dog", "emoji": "🐶", "audio": "audio/my/words/my-kha-01.mp3" },
+        { "text": "ခေါက်ဆွဲ", "roman": "khauk-hswe", "meaning": "noodles", "emoji": "🍜", "audio": "audio/my/words/my-kha-02.mp3" },
+        { "text": "ချစ်", "roman": "hkyit", "meaning": "to love", "emoji": "❤️", "audio": "audio/my/words/my-kha-03.mp3" },
+        { "text": "ခြေ", "roman": "hkyay", "meaning": "foot / leg", "emoji": "🦶", "audio": "audio/my/words/my-kha-04.mp3" },
+        { "text": "ခရု", "roman": "hka-yu", "meaning": "shell", "emoji": "🐚", "audio": "audio/my/words/my-kha-05.mp3" },
+        { "text": "ခရမ်း", "roman": "hka-yan", "meaning": "eggplant / purple", "emoji": "🍆", "audio": "audio/my/words/my-kha-06.mp3" }
       ]
     },
     {
       "id": "my-ga",
       "char": "ဂ",
       "name": "ga nge",
-      "romanization": "ga",
-      "ipa": "/g/",
+      "romanization": "g",
+      "ipa": "/ɡ/",
       "letterAudio": "audio/my/letters/my-ga.mp3",
-      "memoryTrick": "Looks like an upside-down 'U'. Think of someone 'G'ulping water from an overturned cup.",
+      "memoryTrick": "An upside-down 'U' with a flat base. Imagine someone 'G'ulping water from an overturned cup.",
       "words": [
-        {
-          "text": "ဂဏန်း",
-          "roman": "ga nan",
-          "meaning": "crab",
-          "emoji": "🦀",
-          "audio": "audio/my/words/my-ga-01.mp3"
-        },
-        {
-          "text": "ဂီတ",
-          "roman": "gi ta",
-          "meaning": "music",
-          "emoji": "🎵",
-          "audio": "audio/my/words/my-ga-02.mp3"
-        }
+        { "text": "ဂဏန်း", "roman": "ga-nan", "meaning": "crab", "emoji": "🦀", "audio": "audio/my/words/my-ga-01.mp3" },
+        { "text": "ဂစ်တာ", "roman": "git-ta", "meaning": "guitar", "emoji": "🎸", "audio": "audio/my/words/my-ga-02.mp3" },
+        { "text": "ဂီတ", "roman": "gi-ta", "meaning": "music", "emoji": "🎵", "audio": "audio/my/words/my-ga-03.mp3" },
+        { "text": "ဂါဝန်", "roman": "ga-wun", "meaning": "gown / dress", "emoji": "👗", "audio": "audio/my/words/my-ga-04.mp3" },
+        { "text": "ဂေါ်ဖီထုပ်", "roman": "gaw-pi-htoke", "meaning": "cabbage", "emoji": "🥬", "audio": "audio/my/words/my-ga-05.mp3" }
       ]
     },
     {
       "id": "my-gha",
       "char": "ဃ",
       "name": "ga gyi",
-      "romanization": "gha",
-      "ipa": "/g/",
+      "romanization": "gh",
+      "ipa": "/ɡ/",
       "letterAudio": "audio/my/letters/my-gha.mp3",
-      "memoryTrick": "A fancy, complex 'W' shape. It is a rare Pali letter, imagine it as a 'G'rand, complex version of ga.",
-      "words": []
+      "memoryTrick": "A rare, ornate Pali letter with a 'W'-like base. It sounds the same as 'g' in modern Burmese — a 'G'rand historical relic of the alphabet.",
+      "words": [
+        { "text": "ဃဋ္ဌ", "roman": "ghat-hta", "meaning": "solid / firm", "emoji": "💪", "audio": "audio/my/words/my-gha-01.mp3" },
+        { "text": "ဃရာဝါသ", "roman": "gha-ra-wa-tha", "meaning": "household life", "emoji": "🏠", "audio": "audio/my/words/my-gha-02.mp3" }
+      ]
     },
     {
       "id": "my-nga",
       "char": "င",
       "name": "nga",
-      "romanization": "nga",
+      "romanization": "ng",
       "ipa": "/ŋ/",
       "letterAudio": "audio/my/letters/my-nga.mp3",
-      "memoryTrick": "Looks like a hook or a curved fishing line, perfect for catching 'Nga' (fish)!",
+      "memoryTrick": "Looks like a curved fishing hook. The letter's own name 'nga' means 'fish' — the best mnemonic there is!",
       "words": [
-        {
-          "text": "ငါး",
-          "roman": "nga",
-          "meaning": "fish",
-          "emoji": "🐟",
-          "audio": "audio/my/words/my-nga-01.mp3"
-        },
-        {
-          "text": "ငွေ",
-          "roman": "ngway",
-          "meaning": "money",
-          "emoji": "💰",
-          "audio": "audio/my/words/my-nga-02.mp3"
-        }
+        { "text": "ငါး", "roman": "ngaa", "meaning": "fish", "emoji": "🐟", "audio": "audio/my/words/my-nga-01.mp3" },
+        { "text": "ငွေ", "roman": "ngway", "meaning": "silver / money", "emoji": "💰", "audio": "audio/my/words/my-nga-02.mp3" },
+        { "text": "ငှက်", "roman": "hnget", "meaning": "bird", "emoji": "🐦", "audio": "audio/my/words/my-nga-03.mp3" },
+        { "text": "ငို", "roman": "ngo", "meaning": "to cry", "emoji": "😢", "audio": "audio/my/words/my-nga-04.mp3" },
+        { "text": "ငတ်", "roman": "ngat", "meaning": "hungry", "emoji": "😋", "audio": "audio/my/words/my-nga-05.mp3" },
+        { "text": "ငရုတ်", "roman": "nga-yote", "meaning": "chili pepper", "emoji": "🌶️", "audio": "audio/my/words/my-nga-06.mp3" },
+        { "text": "ငန်း", "roman": "ngan", "meaning": "goose", "emoji": "🪿", "audio": "audio/my/words/my-nga-07.mp3" },
+        { "text": "ငြိမ်း", "roman": "ngyain", "meaning": "peaceful / quiet", "emoji": "😌", "audio": "audio/my/words/my-nga-08.mp3" }
       ]
     },
     {
       "id": "my-sa",
       "char": "စ",
       "name": "sa lone",
-      "romanization": "sa",
+      "romanization": "s",
       "ipa": "/s/",
       "letterAudio": "audio/my/letters/my-sa.mp3",
-      "memoryTrick": "Looks like a backward 'C'. Say 'S'ee to remember its sound.",
+      "memoryTrick": "Looks like a reversed 'C' curling left. It's the start of many common words — 'S'ee how simple it is?",
       "words": [
-        {
-          "text": "စာအုပ်",
-          "roman": "sa ok",
-          "meaning": "book",
-          "emoji": "📖",
-          "audio": "audio/my/words/my-sa-01.mp3"
-        },
-        {
-          "text": "စပါး",
-          "roman": "sa ba",
-          "meaning": "paddy/rice",
-          "emoji": "🌾",
-          "audio": "audio/my/words/my-sa-02.mp3"
-        }
+        { "text": "စာအုပ်", "roman": "sa-oke", "meaning": "book", "emoji": "📖", "audio": "audio/my/words/my-sa-01.mp3" },
+        { "text": "စား", "roman": "saa", "meaning": "to eat", "emoji": "🍽️", "audio": "audio/my/words/my-sa-02.mp3" },
+        { "text": "စပါး", "roman": "sa-baa", "meaning": "paddy rice", "emoji": "🌾", "audio": "audio/my/words/my-sa-03.mp3" },
+        { "text": "စက်", "roman": "set", "meaning": "machine", "emoji": "⚙️", "audio": "audio/my/words/my-sa-04.mp3" },
+        { "text": "စပျစ်သီး", "roman": "sa-pyit-thi", "meaning": "grape", "emoji": "🍇", "audio": "audio/my/words/my-sa-05.mp3" },
+        { "text": "စိတ်", "roman": "sait", "meaning": "mind", "emoji": "🧠", "audio": "audio/my/words/my-sa-06.mp3" },
+        { "text": "စောင်", "roman": "saung", "meaning": "blanket", "emoji": "🛏️", "audio": "audio/my/words/my-sa-07.mp3" },
+        { "text": "စာ", "roman": "sa", "meaning": "letter / writing", "emoji": "✉️", "audio": "audio/my/words/my-sa-08.mp3" }
       ]
     },
     {
       "id": "my-hsa",
       "char": "ဆ",
       "name": "hsa lein",
-      "romanization": "hsa",
+      "romanization": "hs",
       "ipa": "/sʰ/",
       "letterAudio": "audio/my/letters/my-hsa.mp3",
-      "memoryTrick": "Looks like two rings joined together. Think of it 'Hsa'ying hello with two loops.",
+      "memoryTrick": "Two circular loops joined side by side. It adds a puff of air to 's' — notice the 'h' built right into its name.",
       "words": [
-        {
-          "text": "ဆင်",
-          "roman": "hsin",
-          "meaning": "elephant",
-          "emoji": "🐘",
-          "audio": "audio/my/words/my-hsa-01.mp3"
-        },
-        {
-          "text": "ဆရာ",
-          "roman": "hsaya",
-          "meaning": "teacher",
-          "emoji": "👨‍🏫",
-          "audio": "audio/my/words/my-hsa-02.mp3"
-        }
+        { "text": "ဆရာ", "roman": "hsa-ya", "meaning": "teacher", "emoji": "👨‍🏫", "audio": "audio/my/words/my-hsa-01.mp3" },
+        { "text": "ဆင်", "roman": "hsin", "meaning": "elephant", "emoji": "🐘", "audio": "audio/my/words/my-hsa-02.mp3" },
+        { "text": "ဆေး", "roman": "hsay", "meaning": "medicine", "emoji": "💊", "audio": "audio/my/words/my-hsa-03.mp3" },
+        { "text": "ဆံပင်", "roman": "hsan-pin", "meaning": "hair", "emoji": "💇", "audio": "audio/my/words/my-hsa-04.mp3" },
+        { "text": "ဆန်", "roman": "hsan", "meaning": "uncooked rice", "emoji": "🍚", "audio": "audio/my/words/my-hsa-05.mp3" },
+        { "text": "ဆီ", "roman": "hsi", "meaning": "oil", "emoji": "🛢️", "audio": "audio/my/words/my-hsa-06.mp3" },
+        { "text": "ဆို", "roman": "hso", "meaning": "to say / sing", "emoji": "🎤", "audio": "audio/my/words/my-hsa-07.mp3" },
+        { "text": "ဆယ်", "roman": "hsal", "meaning": "ten", "emoji": "🔟", "audio": "audio/my/words/my-hsa-08.mp3" }
       ]
     },
     {
       "id": "my-za",
       "char": "ဇ",
       "name": "za gwe",
-      "romanization": "za",
+      "romanization": "z",
       "ipa": "/z/",
       "letterAudio": "audio/my/letters/my-za.mp3",
-      "memoryTrick": "Resembles a cursive 'E'. Imagine an elegant 'Z'ebra jumping over it.",
+      "memoryTrick": "A cursive squiggle like a flattened 'E'. Imagine a 'Z'ebra leaping in a graceful curve.",
       "words": [
-        {
-          "text": "ဇွန်း",
-          "roman": "zun",
-          "meaning": "spoon",
-          "emoji": "🥄",
-          "audio": "audio/my/words/my-za-01.mp3"
-        },
-        {
-          "text": "ဇာတ်လမ်း",
-          "roman": "zat lan",
-          "meaning": "story/movie",
-          "emoji": "🎬",
-          "audio": "audio/my/words/my-za-02.mp3"
-        }
+        { "text": "ဇွန်း", "roman": "zun", "meaning": "spoon", "emoji": "🥄", "audio": "audio/my/words/my-za-01.mp3" },
+        { "text": "ဇနီး", "roman": "za-ni", "meaning": "wife", "emoji": "👰", "audio": "audio/my/words/my-za-02.mp3" },
+        { "text": "ဇာတ်", "roman": "zat", "meaning": "story / drama", "emoji": "🎭", "audio": "audio/my/words/my-za-03.mp3" },
+        { "text": "ဇိမ်", "roman": "zain", "meaning": "luxury / comfort", "emoji": "✨", "audio": "audio/my/words/my-za-04.mp3" },
+        { "text": "ဇာ", "roman": "za", "meaning": "lace", "emoji": "🧵", "audio": "audio/my/words/my-za-05.mp3" }
       ]
     },
     {
       "id": "my-zha",
       "char": "ဈ",
       "name": "za myin hswe",
-      "romanization": "zha",
+      "romanization": "zh",
       "ipa": "/z/",
       "letterAudio": "audio/my/letters/my-zha.mp3",
-      "memoryTrick": "Has a long tail trailing down. Only a few words start with this, notably 'market'.",
+      "memoryTrick": "Has a long decorative tail sweeping downward. In modern Burmese it sounds like 'z' — only a few words use this elegant letter.",
       "words": [
-        {
-          "text": "ဈေး",
-          "roman": "zay",
-          "meaning": "market",
-          "emoji": "🛒",
-          "audio": "audio/my/words/my-zha-01.mp3"
-        }
+        { "text": "ဈေး", "roman": "zay", "meaning": "market", "emoji": "🏪", "audio": "audio/my/words/my-zha-01.mp3" },
+        { "text": "ဈာပန", "roman": "za-pa-na", "meaning": "funeral rites", "emoji": "🕯️", "audio": "audio/my/words/my-zha-02.mp3" }
       ]
     },
     {
-      "id": "my-nya-gale",
+      "id": "my-nya-nge",
       "char": "ဉ",
-      "name": "nya gale",
-      "romanization": "nya",
+      "name": "nya nge",
+      "romanization": "ny",
       "ipa": "/ɲ/",
-      "letterAudio": "audio/my/letters/my-nya-gale.mp3",
-      "memoryTrick": "A small squiggly hook. Imagine a 'N'ew little hook to catch an idea.",
+      "letterAudio": "audio/my/letters/my-nya-nge.mp3",
+      "memoryTrick": "The smaller cousin of nya gyi — a compact squiggle. It is used as a subscript form and in a handful of standalone words. Think 'ny' as in 'onion'.",
       "words": [
-        {
-          "text": "ဉာဏ်",
-          "roman": "nyan",
-          "meaning": "wisdom / intelligence",
-          "emoji": "🧠",
-          "audio": "audio/my/words/my-nya-gale-01.mp3"
-        }
+        { "text": "ဉာဏ်", "roman": "nyan", "meaning": "wisdom / intelligence", "emoji": "🧠", "audio": "audio/my/words/my-nya-nge-01.mp3" }
       ]
     },
     {
-      "id": "my-nya-gyi",
+      "id": "my-nya",
       "char": "ည",
       "name": "nya gyi",
-      "romanization": "nya",
+      "romanization": "ny",
       "ipa": "/ɲ/",
-      "letterAudio": "audio/my/letters/my-nya-gyi.mp3",
-      "memoryTrick": "Looks like a complex stack. It literally means 'night' by itself!",
+      "letterAudio": "audio/my/letters/my-nya.mp3",
+      "memoryTrick": "The main form of 'nya' — its own name means 'night'! Looks like a complex stack of loops, like a bedtime story piled high.",
       "words": [
-        {
-          "text": "ည",
-          "roman": "nya",
-          "meaning": "night",
-          "emoji": "🌃",
-          "audio": "audio/my/words/my-nya-gyi-01.mp3"
-        },
-        {
-          "text": "ညီမ",
-          "roman": "nyi ma",
-          "meaning": "younger sister",
-          "emoji": "👧",
-          "audio": "audio/my/words/my-nya-gyi-02.mp3"
-        }
+        { "text": "ည", "roman": "nya", "meaning": "night", "emoji": "🌃", "audio": "audio/my/words/my-nya-01.mp3" },
+        { "text": "ညီ", "roman": "nyi", "meaning": "younger brother", "emoji": "👦", "audio": "audio/my/words/my-nya-02.mp3" },
+        { "text": "ညာ", "roman": "nya", "meaning": "right side", "emoji": "👉", "audio": "audio/my/words/my-nya-03.mp3" },
+        { "text": "ညို", "roman": "nyo", "meaning": "brown", "emoji": "🟤", "audio": "audio/my/words/my-nya-04.mp3" },
+        { "text": "ညစ်", "roman": "nyit", "meaning": "dirty", "emoji": "💩", "audio": "audio/my/words/my-nya-05.mp3" }
       ]
     },
     {
-      "id": "my-ta-talin-gyeik",
+      "id": "my-tta",
       "char": "ဋ",
       "name": "ta talin gyeik",
-      "romanization": "ta",
+      "romanization": "t",
       "ipa": "/t/",
-      "letterAudio": "audio/my/letters/my-ta-talin-gyeik.mp3",
-      "memoryTrick": "A rare Pali letter that looks like an elaborate knot. Think of a 'T'ied knot.",
-      "words": []
-    },
-    {
-      "id": "my-hta-wun-be",
-      "char": "ဌ",
-      "name": "hta wun be",
-      "romanization": "hta",
-      "ipa": "/tʰ/",
-      "letterAudio": "audio/my/letters/my-hta-wun-be.mp3",
-      "memoryTrick": "Looks like an armchair. A place for the 'H'ead of a department to sit.",
+      "letterAudio": "audio/my/letters/my-tta.mp3",
+      "memoryTrick": "A rare retroflex Pali letter that looks like a knot with a tail. It makes the same 't' sound as the common ta but only appears in learned words. Think of an elaborate 'T'ied knot.",
       "words": [
-        {
-          "text": "ဌာန",
-          "roman": "hta na",
-          "meaning": "department",
-          "emoji": "🏢",
-          "audio": "audio/my/words/my-hta-wun-be-01.mp3"
-        }
+        { "text": "ဋီကာ", "roman": "ti-ka", "meaning": "commentary", "emoji": "📝", "audio": "audio/my/words/my-tta-01.mp3" }
       ]
     },
     {
-      "id": "my-da-yin-gauk",
+      "id": "my-ttha",
+      "char": "ဌ",
+      "name": "hta wun be",
+      "romanization": "ht",
+      "ipa": "/tʰ/",
+      "letterAudio": "audio/my/letters/my-ttha.mp3",
+      "memoryTrick": "Looks like a cozy armchair or a bird with a wide beak. Remember it as the 'H'ead of the department's chair.",
+      "words": [
+        { "text": "ဌာန", "roman": "hta-na", "meaning": "department", "emoji": "🏢", "audio": "audio/my/words/my-ttha-01.mp3" },
+        { "text": "ဌာပနာ", "roman": "hta-pa-na", "meaning": "to enshrine relics", "emoji": "🙏", "audio": "audio/my/words/my-ttha-02.mp3" }
+      ]
+    },
+    {
+      "id": "my-dda",
       "char": "ဍ",
       "name": "da yin gauk",
-      "romanization": "da",
+      "romanization": "d",
       "ipa": "/d/",
-      "letterAudio": "audio/my/letters/my-da-yin-gauk.mp3",
-      "memoryTrick": "A rare 'D' sound in Pali words, looking like a bird resting on a cup.",
-      "words": []
+      "letterAudio": "audio/my/letters/my-dda.mp3",
+      "memoryTrick": "A rare Pali letter with a bird-like crest on top. It represents a retroflex 'd' sound — think of a 'D'ove perched on a cup.",
+      "words": [
+        { "text": "ဍရင်ကောက်", "roman": "da-yin-kauk", "meaning": "a variety of rice", "emoji": "🌾", "audio": "audio/my/words/my-dda-01.mp3" }
+      ]
     },
     {
-      "id": "my-dha-ye-hmon",
+      "id": "my-ddha",
       "char": "ဎ",
       "name": "dha ye hmon",
-      "romanization": "dha",
+      "romanization": "dh",
       "ipa": "/d/",
-      "letterAudio": "audio/my/letters/my-dha-ye-hmon.mp3",
-      "memoryTrick": "An extremely rare 'Dha' letter. It looks similar to other rare letters but with a small hook inside.",
+      "letterAudio": "audio/my/letters/my-ddha.mp3",
+      "memoryTrick": "The rarest Burmese consonant, appearing almost exclusively in Pali texts. It has a small inner hook distinguishing it from its relatives. Reserve this one for your 'Dh'ictionary of rare letters.",
       "words": []
     },
     {
-      "id": "my-na-gyi",
+      "id": "my-nna",
       "char": "ဏ",
       "name": "na gyi",
-      "romanization": "na",
+      "romanization": "n",
       "ipa": "/n/",
-      "letterAudio": "audio/my/letters/my-na-gyi.mp3",
-      "memoryTrick": "The 'big Na'. Usually found in Pali words, it looks like a coiled spring.",
+      "letterAudio": "audio/my/letters/my-nna.mp3",
+      "memoryTrick": "The 'big na' — a retroflex 'n' found in Pali loanwords. It looks like a tightly coiled spring ready to release its 'N'ergy.",
       "words": []
     },
     {
       "id": "my-ta",
       "char": "တ",
       "name": "ta wun bu",
-      "romanization": "ta",
+      "romanization": "t",
       "ipa": "/t/",
       "letterAudio": "audio/my/letters/my-ta.mp3",
-      "memoryTrick": "Looks like a simple 'C'. Don't confuse it with English; think 'T'ime to learn Burmese C-shapes!",
+      "memoryTrick": "A simple open 'C' shape — the most common 't' in Burmese. It looks like an archway: think 'T'ime to walk through the door.",
       "words": [
-        {
-          "text": "တံခါး",
-          "roman": "taga",
-          "meaning": "door",
-          "emoji": "🚪",
-          "audio": "audio/my/words/my-ta-01.mp3"
-        },
-        {
-          "text": "တိမ်",
-          "roman": "tein",
-          "meaning": "cloud",
-          "emoji": "☁️",
-          "audio": "audio/my/words/my-ta-02.mp3"
-        }
+        { "text": "တံခါး", "roman": "ta-gaa", "meaning": "door", "emoji": "🚪", "audio": "audio/my/words/my-ta-01.mp3" },
+        { "text": "တစ်", "roman": "tit", "meaning": "one", "emoji": "1️⃣", "audio": "audio/my/words/my-ta-02.mp3" },
+        { "text": "တိမ်", "roman": "tain", "meaning": "cloud", "emoji": "☁️", "audio": "audio/my/words/my-ta-03.mp3" },
+        { "text": "တောင်", "roman": "taung", "meaning": "mountain / south", "emoji": "⛰️", "audio": "audio/my/words/my-ta-04.mp3" },
+        { "text": "တို", "roman": "to", "meaning": "short", "emoji": "📏", "audio": "audio/my/words/my-ta-05.mp3" },
+        { "text": "တော", "roman": "taw", "meaning": "forest", "emoji": "🌲", "audio": "audio/my/words/my-ta-06.mp3" },
+        { "text": "တန်", "roman": "tan", "meaning": "worth / value", "emoji": "💎", "audio": "audio/my/words/my-ta-07.mp3" },
+        { "text": "တောင်း", "roman": "taung", "meaning": "basket / to request", "emoji": "🧺", "audio": "audio/my/words/my-ta-08.mp3" }
       ]
     },
     {
       "id": "my-hta",
       "char": "ထ",
       "name": "hta hsin htoo",
-      "romanization": "hta",
+      "romanization": "ht",
       "ipa": "/tʰ/",
       "letterAudio": "audio/my/letters/my-hta.mp3",
-      "memoryTrick": "Has a loop inside the circle. Think of a 'H'ole in the middle.",
+      "memoryTrick": "Has a distinctive loop inside the main circle — like a donut with a bite out of it. The 'h' adds breath to the 't'.",
       "words": [
-        {
-          "text": "ထီး",
-          "roman": "htee",
-          "meaning": "umbrella",
-          "emoji": "☂️",
-          "audio": "audio/my/words/my-hta-01.mp3"
-        },
-        {
-          "text": "ထမင်း",
-          "roman": "htamin",
-          "meaning": "rice / meal",
-          "emoji": "🍚",
-          "audio": "audio/my/words/my-hta-02.mp3"
-        }
+        { "text": "ထမင်း", "roman": "hta-min", "meaning": "cooked rice / meal", "emoji": "🍚", "audio": "audio/my/words/my-hta-01.mp3" },
+        { "text": "ထီး", "roman": "htee", "meaning": "umbrella", "emoji": "☂️", "audio": "audio/my/words/my-hta-02.mp3" },
+        { "text": "ထိုင်", "roman": "htine", "meaning": "to sit", "emoji": "🪑", "audio": "audio/my/words/my-hta-03.mp3" },
+        { "text": "ထွက်", "roman": "htwet", "meaning": "to exit / come out", "emoji": "🚪", "audio": "audio/my/words/my-hta-04.mp3" },
+        { "text": "ထောပတ်", "roman": "htaw-bat", "meaning": "butter", "emoji": "🧈", "audio": "audio/my/words/my-hta-05.mp3" },
+        { "text": "ထုပ်", "roman": "htoke", "meaning": "to wrap / bundle", "emoji": "🎁", "audio": "audio/my/words/my-hta-06.mp3" }
       ]
     },
     {
       "id": "my-da",
       "char": "ဒ",
       "name": "da dway",
-      "romanization": "da",
+      "romanization": "d",
       "ipa": "/d/",
       "letterAudio": "audio/my/letters/my-da.mp3",
-      "memoryTrick": "A semi-circle facing left. It is 'D'efinitely easy to write.",
+      "memoryTrick": "A smooth semi-circle facing left. It's 'D'efinitely one of the most straightforward shapes to write. Think of a dish or bowl.",
       "words": [
-        {
-          "text": "ဒူး",
-          "roman": "du",
-          "meaning": "knee",
-          "emoji": "🦵",
-          "audio": "audio/my/words/my-da-01.mp3"
-        },
-        {
-          "text": "ဒင်္ဂါး",
-          "roman": "dingar",
-          "meaning": "coin",
-          "emoji": "🪙",
-          "audio": "audio/my/words/my-da-02.mp3"
-        }
+        { "text": "ဒူး", "roman": "duu", "meaning": "knee", "emoji": "🦵", "audio": "audio/my/words/my-da-01.mp3" },
+        { "text": "ဒီ", "roman": "di", "meaning": "this", "emoji": "👉", "audio": "audio/my/words/my-da-02.mp3" },
+        { "text": "ဒါ", "roman": "da", "meaning": "this / that", "emoji": "👆", "audio": "audio/my/words/my-da-03.mp3" },
+        { "text": "ဒင်္ဂါး", "roman": "din-gaa", "meaning": "coin", "emoji": "🪙", "audio": "audio/my/words/my-da-04.mp3" },
+        { "text": "ဒုတ်", "roman": "doke", "meaning": "stick / club", "emoji": "🦯", "audio": "audio/my/words/my-da-05.mp3" }
       ]
     },
     {
       "id": "my-dha",
       "char": "ဓ",
       "name": "da wut hwa",
-      "romanization": "dha",
+      "romanization": "dh",
       "ipa": "/d/",
       "letterAudio": "audio/my/letters/my-dha.mp3",
-      "memoryTrick": "Looks like an incomplete circle dropping down. A 'D'rooping shape.",
+      "memoryTrick": "Looks like a drooping circle with a long stem. Its shape reminds you of a knife pointing down — and one of its first words is 'dhaa' (knife)!",
       "words": [
-        {
-          "text": "ဓား",
-          "roman": "da",
-          "meaning": "knife",
-          "emoji": "🔪",
-          "audio": "audio/my/words/my-dha-01.mp3"
-        },
-        {
-          "text": "ဓာတ်ပုံ",
-          "roman": "dat pon",
-          "meaning": "photograph",
-          "emoji": "📸",
-          "audio": "audio/my/words/my-dha-02.mp3"
-        }
+        { "text": "ဓား", "roman": "dhaa", "meaning": "knife / sword", "emoji": "🔪", "audio": "audio/my/words/my-dha-01.mp3" },
+        { "text": "ဓာတ်ပုံ", "roman": "dat-pone", "meaning": "photograph", "emoji": "📸", "audio": "audio/my/words/my-dha-02.mp3" },
+        { "text": "ဓာတ်", "roman": "dat", "meaning": "element / energy", "emoji": "⚡", "audio": "audio/my/words/my-dha-03.mp3" },
+        { "text": "ဓာတ်ဆား", "roman": "dat-hsaa", "meaning": "alum / mineral salt", "emoji": "🧂", "audio": "audio/my/words/my-dha-04.mp3" },
+        { "text": "ဓာတ်လှေကား", "roman": "dat-hlay-gaa", "meaning": "elevator", "emoji": "🛗", "audio": "audio/my/words/my-dha-05.mp3" }
       ]
     },
     {
       "id": "my-na",
       "char": "န",
       "name": "na nge",
-      "romanization": "na",
+      "romanization": "n",
       "ipa": "/n/",
       "letterAudio": "audio/my/letters/my-na.mp3",
-      "memoryTrick": "Looks like an 'S' curled into a ball at the top. Think 'N'est of curls.",
+      "memoryTrick": "A curved stroke rising into a ball at the top, like a question mark without the dot. Think 'N'est of curls — a bird settled in its nest.",
       "words": [
-        {
-          "text": "နား",
-          "roman": "na",
-          "meaning": "ear",
-          "emoji": "👂",
-          "audio": "audio/my/words/my-na-01.mp3"
-        },
-        {
-          "text": "နွား",
-          "roman": "nwa",
-          "meaning": "cow",
-          "emoji": "🐄",
-          "audio": "audio/my/words/my-na-02.mp3"
-        }
+        { "text": "နား", "roman": "naa", "meaning": "ear", "emoji": "👂", "audio": "audio/my/words/my-na-01.mp3" },
+        { "text": "နှာ", "roman": "hna", "meaning": "nose", "emoji": "👃", "audio": "audio/my/words/my-na-02.mp3" },
+        { "text": "နေ", "roman": "nay", "meaning": "sun / to stay", "emoji": "☀️", "audio": "audio/my/words/my-na-03.mp3" },
+        { "text": "နီ", "roman": "ni", "meaning": "red", "emoji": "🔴", "audio": "audio/my/words/my-na-04.mp3" },
+        { "text": "နာရီ", "roman": "na-yi", "meaning": "clock / hour", "emoji": "🕐", "audio": "audio/my/words/my-na-05.mp3" },
+        { "text": "နွား", "roman": "nwaa", "meaning": "cow", "emoji": "🐄", "audio": "audio/my/words/my-na-06.mp3" },
+        { "text": "နို့", "roman": "no", "meaning": "milk", "emoji": "🥛", "audio": "audio/my/words/my-na-07.mp3" },
+        { "text": "နက်", "roman": "net", "meaning": "black / deep", "emoji": "⬛", "audio": "audio/my/words/my-na-08.mp3" }
       ]
     },
     {
       "id": "my-pa",
       "char": "ပ",
       "name": "pa sauk",
-      "romanization": "pa",
+      "romanization": "p",
       "ipa": "/p/",
       "letterAudio": "audio/my/letters/my-pa.mp3",
-      "memoryTrick": "A simple 'U' shape. Imagine a 'P'ocket to hold things in.",
+      "memoryTrick": "A neat, simple 'U' or bowl shape. Think of a 'P'ocket ready to hold flowers — fitting, since 'pan' means flower in Burmese!",
       "words": [
-        {
-          "text": "ပန်း",
-          "roman": "pan",
-          "meaning": "flower",
-          "emoji": "🌸",
-          "audio": "audio/my/words/my-pa-01.mp3"
-        },
-        {
-          "text": "ပန်းသီး",
-          "roman": "pan dhee",
-          "meaning": "apple",
-          "emoji": "🍎",
-          "audio": "audio/my/words/my-pa-02.mp3"
-        }
+        { "text": "ပန်း", "roman": "pan", "meaning": "flower", "emoji": "🌸", "audio": "audio/my/words/my-pa-01.mp3" },
+        { "text": "ပန်းသီး", "roman": "pan-thi", "meaning": "apple", "emoji": "🍎", "audio": "audio/my/words/my-pa-02.mp3" },
+        { "text": "ပျား", "roman": "pyaa", "meaning": "bee", "emoji": "🐝", "audio": "audio/my/words/my-pa-03.mp3" },
+        { "text": "ပြော", "roman": "pyaw", "meaning": "to speak / tell", "emoji": "🗣️", "audio": "audio/my/words/my-pa-04.mp3" },
+        { "text": "ပိုက်ဆံ", "roman": "paik-hsan", "meaning": "money", "emoji": "💵", "audio": "audio/my/words/my-pa-05.mp3" },
+        { "text": "ပြာ", "roman": "pya", "meaning": "ash / blue", "emoji": "🔵", "audio": "audio/my/words/my-pa-06.mp3" },
+        { "text": "ပွဲ", "roman": "pwe", "meaning": "festival / ceremony", "emoji": "🎉", "audio": "audio/my/words/my-pa-07.mp3" },
+        { "text": "ပုစဉ်း", "roman": "pa-zin", "meaning": "shrimp", "emoji": "🦐", "audio": "audio/my/words/my-pa-08.mp3" }
       ]
     },
     {
       "id": "my-hpa",
       "char": "ဖ",
       "name": "hpa oo htok",
-      "romanization": "hpa",
+      "romanization": "hp",
       "ipa": "/pʰ/",
       "letterAudio": "audio/my/letters/my-hpa.mp3",
-      "memoryTrick": "Looks like 'pa' (ပ) with a little hat on top. The 'P' wears a 'H'at!",
+      "memoryTrick": "Looks just like 'pa' (ပ) but with a little hat or cap on top. The 'P' decided to wear a 'H'at! This extra detail gives it a breathier sound.",
       "words": [
-        {
-          "text": "ဖိနပ်",
-          "roman": "hpi nat",
-          "meaning": "shoe",
-          "emoji": "👞",
-          "audio": "audio/my/words/my-hpa-01.mp3"
-        },
-        {
-          "text": "ဖုန်း",
-          "roman": "hpon",
-          "meaning": "phone",
-          "emoji": "📱",
-          "audio": "audio/my/words/my-hpa-02.mp3"
-        }
+        { "text": "ဖိနပ်", "roman": "hpi-nat", "meaning": "shoe", "emoji": "👞", "audio": "audio/my/words/my-hpa-01.mp3" },
+        { "text": "ဖုန်း", "roman": "hpone", "meaning": "phone", "emoji": "📱", "audio": "audio/my/words/my-hpa-02.mp3" },
+        { "text": "ဖား", "roman": "hpaa", "meaning": "frog", "emoji": "🐸", "audio": "audio/my/words/my-hpa-03.mp3" },
+        { "text": "ဖြူ", "roman": "hpyu", "meaning": "white", "emoji": "⬜", "audio": "audio/my/words/my-hpa-04.mp3" },
+        { "text": "ဖန်ခွက်", "roman": "hpan-khwet", "meaning": "drinking glass", "emoji": "🥛", "audio": "audio/my/words/my-hpa-05.mp3" },
+        { "text": "ဖြည်း", "roman": "hpyay", "meaning": "slow / gentle", "emoji": "🐢", "audio": "audio/my/words/my-hpa-06.mp3" },
+        { "text": "ဖခင်", "roman": "hpa-khin", "meaning": "father", "emoji": "👨", "audio": "audio/my/words/my-hpa-07.mp3" }
       ]
     },
     {
       "id": "my-ba",
       "char": "ဗ",
       "name": "ba det chaing",
-      "romanization": "ba",
+      "romanization": "b",
       "ipa": "/b/",
       "letterAudio": "audio/my/letters/my-ba.mp3",
-      "memoryTrick": "A boxy, notched shape at the bottom. Think of a 'B'ox with a dent.",
+      "memoryTrick": "A boxy shape with a distinctive notch cut into its right side. Imagine a 'B'ox that someone took a bite out of.",
       "words": [
-        {
-          "text": "ဗိုက်",
-          "roman": "baik",
-          "meaning": "stomach",
-          "emoji": "🤰",
-          "audio": "audio/my/words/my-ba-01.mp3"
-        },
-        {
-          "text": "ဗီဒို",
-          "roman": "bi do",
-          "meaning": "cupboard/wardrobe",
-          "emoji": "🚪",
-          "audio": "audio/my/words/my-ba-02.mp3"
-        }
+        { "text": "ဗိုက်", "roman": "baik", "meaning": "stomach / belly", "emoji": "🤰", "audio": "audio/my/words/my-ba-01.mp3" },
+        { "text": "ဗမာ", "roman": "ba-ma", "meaning": "Burmese / Myanmar", "emoji": "🇲🇲", "audio": "audio/my/words/my-ba-02.mp3" },
+        { "text": "ဗလာ", "roman": "ba-la", "meaning": "empty", "emoji": "🈳", "audio": "audio/my/words/my-ba-03.mp3" },
+        { "text": "ဗုဒ္ဓ", "roman": "boke-da", "meaning": "Buddha", "emoji": "🧘", "audio": "audio/my/words/my-ba-04.mp3" },
+        { "text": "ဗီရို", "roman": "bi-yo", "meaning": "cupboard / wardrobe", "emoji": "🗄️", "audio": "audio/my/words/my-ba-05.mp3" }
       ]
     },
     {
       "id": "my-bha",
       "char": "ဘ",
       "name": "ba gone",
-      "romanization": "bha",
+      "romanization": "bh",
       "ipa": "/b/",
       "letterAudio": "audio/my/letters/my-bha.mp3",
-      "memoryTrick": "Looks like a large hump or hill. Think of a 'B'ig hump.",
+      "memoryTrick": "A large, arched hump like a camel's back or a hill. In modern Burmese it sounds like 'b' — think of a 'B'ig hump on the horizon.",
       "words": [
-        {
-          "text": "ဘုရား",
-          "roman": "hpaya",
-          "meaning": "Buddha / pagoda",
-          "emoji": "🕍",
-          "audio": "audio/my/words/my-bha-01.mp3"
-        },
-        {
-          "text": "ဘောင်းဘီ",
-          "roman": "baung bi",
-          "meaning": "trousers",
-          "emoji": "👖",
-          "audio": "audio/my/words/my-bha-02.mp3"
-        }
+        { "text": "ဘုရား", "roman": "hpa-yaa", "meaning": "pagoda / Buddha", "emoji": "🛕", "audio": "audio/my/words/my-bha-01.mp3" },
+        { "text": "ဘောင်းဘီ", "roman": "baung-bi", "meaning": "trousers / pants", "emoji": "👖", "audio": "audio/my/words/my-bha-02.mp3" },
+        { "text": "ဘယ်", "roman": "beh", "meaning": "which / left side", "emoji": "👈", "audio": "audio/my/words/my-bha-03.mp3" },
+        { "text": "ဘဲ", "roman": "beh", "meaning": "duck", "emoji": "🦆", "audio": "audio/my/words/my-bha-04.mp3" },
+        { "text": "ဘဏ်", "roman": "ban", "meaning": "bank", "emoji": "🏦", "audio": "audio/my/words/my-bha-05.mp3" },
+        { "text": "ဘီး", "roman": "bee", "meaning": "comb / wheel", "emoji": "🪮", "audio": "audio/my/words/my-bha-06.mp3" }
       ]
     },
     {
       "id": "my-ma",
       "char": "မ",
       "name": "ma",
-      "romanization": "ma",
+      "romanization": "m",
       "ipa": "/m/",
       "letterAudio": "audio/my/letters/my-ma.mp3",
-      "memoryTrick": "A circle with a tail pointing right. Imagine a 'M'ouse with a long tail.",
+      "memoryTrick": "A perfect circle with a straight tail shooting right — like a mouse with a long tail. Say 'M'ouse to remember it!",
       "words": [
-        {
-          "text": "မီး",
-          "roman": "mee",
-          "meaning": "fire",
-          "emoji": "🔥",
-          "audio": "audio/my/words/my-ma-01.mp3"
-        },
-        {
-          "text": "မိသားစု",
-          "roman": "mi tha zu",
-          "meaning": "family",
-          "emoji": "👪",
-          "audio": "audio/my/words/my-ma-02.mp3"
-        }
+        { "text": "မီး", "roman": "mii", "meaning": "fire / light", "emoji": "🔥", "audio": "audio/my/words/my-ma-01.mp3" },
+        { "text": "မိသားစု", "roman": "mi-tha-zu", "meaning": "family", "emoji": "👪", "audio": "audio/my/words/my-ma-02.mp3" },
+        { "text": "မေ", "roman": "may", "meaning": "May / mother (title)", "emoji": "🤱", "audio": "audio/my/words/my-ma-03.mp3" },
+        { "text": "များ", "roman": "myaa", "meaning": "many", "emoji": "🔢", "audio": "audio/my/words/my-ma-04.mp3" },
+        { "text": "မြေ", "roman": "myay", "meaning": "earth / ground", "emoji": "🌍", "audio": "audio/my/words/my-ma-05.mp3" },
+        { "text": "မိုး", "roman": "mo", "meaning": "rain / sky", "emoji": "🌧️", "audio": "audio/my/words/my-ma-06.mp3" },
+        { "text": "မှို", "roman": "hmo", "meaning": "mushroom", "emoji": "🍄", "audio": "audio/my/words/my-ma-07.mp3" },
+        { "text": "မနက်", "roman": "ma-net", "meaning": "morning", "emoji": "🌅", "audio": "audio/my/words/my-ma-08.mp3" },
+        { "text": "မာ", "roman": "ma", "meaning": "hard / strong", "emoji": "💪", "audio": "audio/my/words/my-ma-09.mp3" },
+        { "text": "မိန်းမ", "roman": "main-ma", "meaning": "woman", "emoji": "👩", "audio": "audio/my/words/my-ma-10.mp3" }
       ]
     },
     {
       "id": "my-ya",
       "char": "ယ",
       "name": "ya palet",
-      "romanization": "ya",
+      "romanization": "y",
       "ipa": "/j/",
       "letterAudio": "audio/my/letters/my-ya.mp3",
-      "memoryTrick": "Looks like a crescent dish or bowl. 'Y'ummy food goes here.",
+      "memoryTrick": "A shallow crescent bowl. 'Y'ummy food goes in this dish — it opens to the right like a bowl waiting to be filled.",
       "words": [
-        {
-          "text": "ယုန်",
-          "roman": "yon",
-          "meaning": "rabbit",
-          "emoji": "🐇",
-          "audio": "audio/my/words/my-ya-01.mp3"
-        },
-        {
-          "text": "ယင်ကောင်",
-          "roman": "yin gaung",
-          "meaning": "fly (insect)",
-          "emoji": "🪰",
-          "audio": "audio/my/words/my-ya-02.mp3"
-        }
+        { "text": "ယုန်", "roman": "yone", "meaning": "rabbit", "emoji": "🐇", "audio": "audio/my/words/my-ya-01.mp3" },
+        { "text": "ယောက်ျား", "roman": "yauk-kyaa", "meaning": "man", "emoji": "👨", "audio": "audio/my/words/my-ya-02.mp3" },
+        { "text": "ယက်", "roman": "yet", "meaning": "fan / to weave", "emoji": "🪭", "audio": "audio/my/words/my-ya-03.mp3" },
+        { "text": "ယဉ်", "roman": "yin", "meaning": "gentle / cultured", "emoji": "🎭", "audio": "audio/my/words/my-ya-04.mp3" },
+        { "text": "ယုံ", "roman": "yone", "meaning": "to believe / trust", "emoji": "🤝", "audio": "audio/my/words/my-ya-05.mp3" }
       ]
     },
     {
       "id": "my-ra",
       "char": "ရ",
       "name": "ya gauk",
-      "romanization": "ra / ya",
+      "romanization": "r (written) / y (spoken)",
       "ipa": "/j/",
       "letterAudio": "audio/my/letters/my-ra.mp3",
-      "memoryTrick": "An upright hook shape. In standard Burmese, this is pronounced like 'Y', despite being 'R' in writing.",
+      "memoryTrick": "An upright hook or walking stick. It is spelled like 'r' but pronounced like 'y' in modern Burmese — a classic spelling quirk. Think 'R'ebel letter that changed its sound!",
       "words": [
-        {
-          "text": "ရေ",
-          "roman": "yay",
-          "meaning": "water",
-          "emoji": "💧",
-          "audio": "audio/my/words/my-ra-01.mp3"
-        },
-        {
-          "text": "ရထား",
-          "roman": "ya hta",
-          "meaning": "train",
-          "emoji": "🚂",
-          "audio": "audio/my/words/my-ra-02.mp3"
-        }
+        { "text": "ရေ", "roman": "yay", "meaning": "water", "emoji": "💧", "audio": "audio/my/words/my-ra-01.mp3" },
+        { "text": "ရထား", "roman": "ya-htaa", "meaning": "train", "emoji": "🚂", "audio": "audio/my/words/my-ra-02.mp3" },
+        { "text": "ရယ်", "roman": "yai", "meaning": "to laugh", "emoji": "😂", "audio": "audio/my/words/my-ra-03.mp3" },
+        { "text": "ရုံး", "roman": "yone", "meaning": "office", "emoji": "🏢", "audio": "audio/my/words/my-ra-04.mp3" },
+        { "text": "ရာ", "roman": "ya", "meaning": "hundred", "emoji": "💯", "audio": "audio/my/words/my-ra-05.mp3" },
+        { "text": "ရုပ်", "roman": "yoke", "meaning": "appearance / form", "emoji": "🎭", "audio": "audio/my/words/my-ra-06.mp3" },
+        { "text": "ရပ်", "roman": "yat", "meaning": "village / neighborhood", "emoji": "🏘️", "audio": "audio/my/words/my-ra-07.mp3" }
       ]
     },
     {
       "id": "my-la",
       "char": "လ",
       "name": "la",
-      "romanization": "la",
+      "romanization": "l",
       "ipa": "/l/",
       "letterAudio": "audio/my/letters/my-la.mp3",
-      "memoryTrick": "A perfect, open horseshoe circle. It means 'moon' in Burmese, which matches its round shape!",
+      "memoryTrick": "A perfect open horseshoe. It stands alone as the word for 'moon' (la) — its round, graceful shape matches the crescent moon perfectly.",
       "words": [
-        {
-          "text": "လ",
-          "roman": "la",
-          "meaning": "moon / month",
-          "emoji": "🌙",
-          "audio": "audio/my/words/my-la-01.mp3"
-        },
-        {
-          "text": "လမ်း",
-          "roman": "lan",
-          "meaning": "road",
-          "emoji": "🛣️",
-          "audio": "audio/my/words/my-la-02.mp3"
-        }
+        { "text": "လ", "roman": "la", "meaning": "moon / month", "emoji": "🌙", "audio": "audio/my/words/my-la-01.mp3" },
+        { "text": "လမ်း", "roman": "lan", "meaning": "road / street", "emoji": "🛣️", "audio": "audio/my/words/my-la-02.mp3" },
+        { "text": "လက်", "roman": "let", "meaning": "hand / arm", "emoji": "✋", "audio": "audio/my/words/my-la-03.mp3" },
+        { "text": "လာ", "roman": "la", "meaning": "to come", "emoji": "🚶", "audio": "audio/my/words/my-la-04.mp3" },
+        { "text": "လေး", "roman": "lay", "meaning": "four / heavy", "emoji": "4️⃣", "audio": "audio/my/words/my-la-05.mp3" },
+        { "text": "လူ", "roman": "lu", "meaning": "person", "emoji": "🧑", "audio": "audio/my/words/my-la-06.mp3" },
+        { "text": "လိပ်", "roman": "laik", "meaning": "turtle", "emoji": "🐢", "audio": "audio/my/words/my-la-07.mp3" },
+        { "text": "လွယ်", "roman": "lwe", "meaning": "easy", "emoji": "✅", "audio": "audio/my/words/my-la-08.mp3" }
       ]
     },
     {
       "id": "my-wa",
       "char": "ဝ",
       "name": "wa",
-      "romanization": "wa",
+      "romanization": "w",
       "ipa": "/w/",
       "letterAudio": "audio/my/letters/my-wa.mp3",
-      "memoryTrick": "A perfectly closed circle. A 'W'hole circle for Wa.",
+      "memoryTrick": "A perfectly closed circle — the only completely round letter. A 'W'hole circle for Wa. Easy to spot and easy to draw!",
       "words": [
-        {
-          "text": "ဝက်",
-          "roman": "wet",
-          "meaning": "pig",
-          "emoji": "🐷",
-          "audio": "audio/my/words/my-wa-01.mp3"
-        },
-        {
-          "text": "ဝါး",
-          "roman": "wa",
-          "meaning": "bamboo",
-          "emoji": "🎋",
-          "audio": "audio/my/words/my-wa-02.mp3"
-        }
+        { "text": "ဝက်", "roman": "wet", "meaning": "pig", "emoji": "🐷", "audio": "audio/my/words/my-wa-01.mp3" },
+        { "text": "ဝါ", "roman": "wa", "meaning": "yellow", "emoji": "🟡", "audio": "audio/my/words/my-wa-02.mp3" },
+        { "text": "ဝင်", "roman": "win", "meaning": "to enter", "emoji": "🚪", "audio": "audio/my/words/my-wa-03.mp3" },
+        { "text": "ဝါး", "roman": "waa", "meaning": "bamboo", "emoji": "🎋", "audio": "audio/my/words/my-wa-04.mp3" },
+        { "text": "ဝမ်း", "roman": "wun", "meaning": "belly / stomach", "emoji": "🤰", "audio": "audio/my/words/my-wa-05.mp3" },
+        { "text": "ဝတ်", "roman": "wut", "meaning": "to wear (clothes)", "emoji": "👕", "audio": "audio/my/words/my-wa-06.mp3" },
+        { "text": "ဝေ", "roman": "way", "meaning": "to distribute / be abundant", "emoji": "🎁", "audio": "audio/my/words/my-wa-07.mp3" }
       ]
     },
     {
       "id": "my-tha",
       "char": "သ",
       "name": "tha",
-      "romanization": "tha",
+      "romanization": "th",
       "ipa": "/θ/",
       "letterAudio": "audio/my/letters/my-tha.mp3",
-      "memoryTrick": "Looks like an 'o' intersecting with a backward 'c'. Think of a 'Th'ick knot.",
+      "memoryTrick": "An intersecting 'o' and reverse 'c'. It makes the 'th' sound as in English 'think' — a rare sound shared with English. Think 'Th'is crossed shape.",
       "words": [
-        {
-          "text": "သွား",
-          "roman": "thwa",
-          "meaning": "tooth / to go",
-          "emoji": "🦷",
-          "audio": "audio/my/words/my-tha-01.mp3"
-        },
-        {
-          "text": "သစ်ပင်",
-          "roman": "thit pin",
-          "meaning": "tree",
-          "emoji": "🌳",
-          "audio": "audio/my/words/my-tha-02.mp3"
-        }
+        { "text": "သား", "roman": "thaa", "meaning": "son / meat", "emoji": "👦", "audio": "audio/my/words/my-tha-01.mp3" },
+        { "text": "သီး", "roman": "thi", "meaning": "fruit", "emoji": "🍎", "audio": "audio/my/words/my-tha-02.mp3" },
+        { "text": "သစ်", "roman": "thit", "meaning": "new / wood", "emoji": "🪵", "audio": "audio/my/words/my-tha-03.mp3" },
+        { "text": "သူ", "roman": "thu", "meaning": "he / she / person", "emoji": "🧑", "audio": "audio/my/words/my-tha-04.mp3" },
+        { "text": "သုံး", "roman": "thone", "meaning": "three / to use", "emoji": "3️⃣", "audio": "audio/my/words/my-tha-05.mp3" },
+        { "text": "သွား", "roman": "thwaa", "meaning": "tooth / to go", "emoji": "🦷", "audio": "audio/my/words/my-tha-06.mp3" },
+        { "text": "သင်", "roman": "thin", "meaning": "you", "emoji": "👉", "audio": "audio/my/words/my-tha-07.mp3" },
+        { "text": "သိ", "roman": "thi", "meaning": "to know", "emoji": "💡", "audio": "audio/my/words/my-tha-08.mp3" }
       ]
     },
     {
       "id": "my-ha",
       "char": "ဟ",
       "name": "ha",
-      "romanization": "ha",
+      "romanization": "h",
       "ipa": "/h/",
       "letterAudio": "audio/my/letters/my-ha.mp3",
-      "memoryTrick": "A large loop over a smaller base. Looks a bit like a person laughing 'H'a ha!",
+      "memoryTrick": "A large loop over a small base — looks like someone belly-laughing: 'H'a ha ha! The loop represents the open mouth of laughter.",
       "words": [
-        {
-          "text": "ဟင်း",
-          "roman": "hin",
-          "meaning": "curry",
-          "emoji": "🍲",
-          "audio": "audio/my/words/my-ha-01.mp3"
-        }
+        { "text": "ဟင်း", "roman": "hin", "meaning": "curry", "emoji": "🍲", "audio": "audio/my/words/my-ha-01.mp3" },
+        { "text": "ဟုတ်", "roman": "hoke", "meaning": "to be true / real", "emoji": "✅", "audio": "audio/my/words/my-ha-02.mp3" },
+        { "text": "ဟို", "roman": "ho", "meaning": "that (over there)", "emoji": "👈", "audio": "audio/my/words/my-ha-03.mp3" },
+        { "text": "ဟာ", "roman": "ha", "meaning": "thing", "emoji": "📦", "audio": "audio/my/words/my-ha-04.mp3" },
+        { "text": "ဟန်", "roman": "han", "meaning": "manner / style", "emoji": "🎨", "audio": "audio/my/words/my-ha-05.mp3" }
       ]
     },
     {
-      "id": "my-la-gyi",
+      "id": "my-lla",
       "char": "ဠ",
       "name": "la gyi",
-      "romanization": "la",
+      "romanization": "l",
       "ipa": "/l/",
-      "letterAudio": "audio/my/letters/my-la-gyi.mp3",
-      "memoryTrick": "The 'big La'. Stacked circles, primarily used in formal or Pali words.",
-      "words": []
+      "letterAudio": "audio/my/letters/my-lla.mp3",
+      "memoryTrick": "The 'big La' — a rare stacked-circles shape used mainly in Pali loanwords. Think of it as the 'L'uxury edition of the ordinary la.",
+      "words": [
+        { "text": "ဠင်းတ", "roman": "lin-da", "meaning": "vulture", "emoji": "🦅", "audio": "audio/my/words/my-lla-01.mp3" }
+      ]
     },
     {
       "id": "my-a",
@@ -717,171 +542,173 @@
       "romanization": "a",
       "ipa": "/ʔ/",
       "letterAudio": "audio/my/letters/my-a.mp3",
-      "memoryTrick": "Looks like the number 3. It acts as a glottal stop and carries independent vowels.",
+      "memoryTrick": "Looks just like the number 3! It carries the glottal stop and serves as the base for independent vowels. Think: three vowel sounds start from 'A'.",
       "words": [
-        {
-          "text": "အဖေ",
-          "roman": "a hpay",
-          "meaning": "father",
-          "emoji": "👨",
-          "audio": "audio/my/words/my-a-01.mp3"
-        },
-        {
-          "text": "အမေ",
-          "roman": "a may",
-          "meaning": "mother",
-          "emoji": "👩",
-          "audio": "audio/my/words/my-a-02.mp3"
-        }
+        { "text": "အိမ်", "roman": "ain", "meaning": "house / home", "emoji": "🏠", "audio": "audio/my/words/my-a-01.mp3" },
+        { "text": "အမေ", "roman": "a-may", "meaning": "mother", "emoji": "👩", "audio": "audio/my/words/my-a-02.mp3" },
+        { "text": "အဖေ", "roman": "a-hpay", "meaning": "father", "emoji": "👨", "audio": "audio/my/words/my-a-03.mp3" },
+        { "text": "အေး", "roman": "ay", "meaning": "cold", "emoji": "🥶", "audio": "audio/my/words/my-a-04.mp3" },
+        { "text": "အို", "roman": "o", "meaning": "old (age)", "emoji": "👴", "audio": "audio/my/words/my-a-05.mp3" },
+        { "text": "အား", "roman": "aa", "meaning": "strength / to rest", "emoji": "💪", "audio": "audio/my/words/my-a-06.mp3" },
+        { "text": "အပ်", "roman": "at", "meaning": "needle", "emoji": "🪡", "audio": "audio/my/words/my-a-07.mp3" }
       ]
     },
     {
       "id": "my-asat",
       "char": "်",
-      "name": "asat",
+      "name": "asat (that)",
       "romanization": "kills inherent vowel",
       "letterAudio": "audio/my/letters/my-asat.mp3",
-      "memoryTrick": "The 'killer' stroke on top. It removes the natural 'a' sound from a consonant."
+      "memoryTrick": "The 'killer' stroke placed above a consonant. It removes the built-in 'a' vowel, leaving just the bare consonant sound — like a mute button for vowels."
     },
     {
-      "id": "my-tall-aa",
+      "id": "my-yay-cha-tall",
       "char": "ါ",
-      "name": "yay-cha (tall)",
-      "romanization": "a",
+      "name": "yay cha (tall form)",
+      "romanization": "aa (long a)",
       "ipa": "/à/",
-      "letterAudio": "audio/my/letters/my-tall-aa.mp3",
-      "memoryTrick": "A tall stick next to a letter to extend it to an 'ah' sound. Used for certain letters so they don't look like Ka!"
+      "letterAudio": "audio/my/letters/my-yay-cha-tall.mp3",
+      "memoryTrick": "A tall vertical stroke next to a letter to give it an 'ah' sound. Used with certain consonants (like ခ and ဂ) where the rounded form would collide with the letter shape. Think of it stretching the sound taller."
     },
     {
-      "id": "my-round-aa",
+      "id": "my-yay-cha-round",
       "char": "ာ",
-      "name": "yay-cha (round)",
-      "romanization": "a",
+      "name": "yay cha (round form)",
+      "romanization": "aa (long a)",
       "ipa": "/à/",
-      "letterAudio": "audio/my/letters/my-round-aa.mp3",
-      "memoryTrick": "A curved hook next to a letter to give an 'ah' sound. The standard yay-cha."
+      "letterAudio": "audio/my/letters/my-yay-cha-round.mp3",
+      "memoryTrick": "The standard curved hook that extends a consonant to an 'ah' sound. It tucks neatly beside most Burmese letters like a handle on a cup."
     },
     {
       "id": "my-vowel-i",
       "char": "ိ",
-      "name": "lone-gyi-tin",
-      "romanization": "i",
+      "name": "lone gyi tin",
+      "romanization": "i (short)",
       "ipa": "/ì/",
       "letterAudio": "audio/my/letters/my-vowel-i.mp3",
-      "memoryTrick": "A little floating circle on top. Think of the dot on top of the English 'i'!"
+      "memoryTrick": "A tiny floating circle perched above the consonant. Just like the dot on an English 'i', this little mark means 'ee' — short and sweet."
     },
     {
-      "id": "my-vowel-ee",
+      "id": "my-vowel-ii",
       "char": "ီ",
-      "name": "lone-gyi-tin-hsan-khat",
-      "romanization": "ee",
+      "name": "lone gyi tin hsan khat",
+      "romanization": "ii (long)",
       "ipa": "/í/",
-      "letterAudio": "audio/my/letters/my-vowel-ee.mp3",
-      "memoryTrick": "A floating circle with a tail slicing it. It extends 'i' into a long 'ee' sound."
+      "letterAudio": "audio/my/letters/my-vowel-ii.mp3",
+      "memoryTrick": "The floating circle with a tail slicing through it. It stretches the short 'i' into a long 'ee' — the tail literally lengthens the vowel!"
     },
     {
       "id": "my-vowel-u",
       "char": "ု",
-      "name": "ta-chaung-ngin",
-      "romanization": "u",
+      "name": "ta chaung ngin",
+      "romanization": "u (short)",
       "ipa": "/ù/",
       "letterAudio": "audio/my/letters/my-vowel-u.mp3",
-      "memoryTrick": "A small dash pulling down under the letter. Makes an 'oo' sound, like pulling your lips forward."
+      "memoryTrick": "A small hook pulling down from below the consonant. Makes a short 'oo' sound — imagine pulling your lips forward into a quick kiss shape."
     },
     {
       "id": "my-vowel-uu",
       "char": "ူ",
-      "name": "hnit-chaung-ngin",
-      "romanization": "uu",
+      "name": "hna chaung ngin",
+      "romanization": "uu (long)",
       "ipa": "/ú/",
       "letterAudio": "audio/my/letters/my-vowel-uu.mp3",
-      "memoryTrick": "Two dashes curling under the letter. The double pull makes a longer 'uu' sound."
+      "memoryTrick": "Two curling hooks hanging beneath the letter. The double hook makes a longer 'oo' — twice the pull, twice the length."
     },
     {
       "id": "my-vowel-e",
       "char": "ေ",
-      "name": "thway-hto",
-      "romanization": "e",
+      "name": "thway hto",
+      "romanization": "e / ay",
       "ipa": "/è/",
       "letterAudio": "audio/my/letters/my-vowel-e.mp3",
-      "memoryTrick": "Written before the consonant, but pronounced after. Looks like a little comma hanging in front, making an 'ay' sound."
+      "memoryTrick": "Placed BEFORE the consonant in writing, but pronounced AFTER it — a Burmese brain-teaser! This little comma-like mark hanging in front says 'ay'. Read the diacritic first, then the consonant — backwards from what you see."
     },
     {
       "id": "my-vowel-ai",
       "char": "ဲ",
-      "name": "nauk-pyit",
-      "romanization": "ai",
+      "name": "nauk pyit",
+      "romanization": "ai / eh",
       "ipa": "/ɛ́/",
       "letterAudio": "audio/my/letters/my-vowel-ai.mp3",
-      "memoryTrick": "Hangs off the right shoulder of the letter. Makes an 'eh' or 'ai' sound."
+      "memoryTrick": "Dangles off the right shoulder of the consonant. Makes an 'eh' or 'ai' sound — like the 'e' in English 'bed'. It leans away like a shy shoulder shrug."
     },
     {
-      "id": "my-tone-1",
+      "id": "my-anusvara",
+      "char": "ံ",
+      "name": "thei thei tin (anusvara)",
+      "romanization": "an / nasalization",
+      "ipa": "/ɴ/",
+      "letterAudio": "audio/my/letters/my-anusvara.mp3",
+      "memoryTrick": "A tiny dot above the letter followed by an asat-like stroke. It nasalizes the vowel — say 'an' and feel the sound go through your nose. Like a little roof hatch letting the air escape upward."
+    },
+    {
+      "id": "my-tone-creaky",
       "char": "့",
-      "name": "auk-myit",
-      "romanization": "creaky tone",
-      "letterAudio": "audio/my/letters/my-tone-1.mp3",
-      "memoryTrick": "A sharp little dot under the letter. Drops the pitch to be short and creaky!"
+      "name": "auk myit",
+      "romanization": "creaky / checked tone",
+      "letterAudio": "audio/my/letters/my-tone-creaky.mp3",
+      "memoryTrick": "A sharp little dot tucked beneath the letter. It drops the pitch abruptly to create a short, creaky sound — like your voice just stumbled on a tiny pebble."
     },
     {
-      "id": "my-tone-3",
+      "id": "my-tone-high",
       "char": "း",
-      "name": "wa-tsa-hnak-lon-pauk (visarga)",
+      "name": "wit sa pauk (visarga)",
       "romanization": "high tone",
-      "letterAudio": "audio/my/letters/my-tone-3.mp3",
-      "memoryTrick": "Two dots like a colon at the end. Raises the pitch to be high and long!"
+      "letterAudio": "audio/my/letters/my-tone-high.mp3",
+      "memoryTrick": "Two dots like a colon at the end of the syllable. It lifts the voice high and holds it — imagine a singer hitting and sustaining a high note."
     },
     {
       "id": "my-medial-ya",
       "char": "ျ",
-      "name": "ya-pin",
-      "romanization": "y",
+      "name": "ya pin",
+      "romanization": "adds -y- to consonant",
       "ipa": "/j/",
       "letterAudio": "audio/my/letters/my-medial-ya.mp3",
-      "memoryTrick": "Hooks onto the bottom right, blending a 'Y' sound into the consonant."
+      "memoryTrick": "Hooks onto the bottom right of a consonant, blending a 'y' sound into it — like adding 'y' to 'k' to make 'ky'. Think of it pinning a 'y' to the letter."
     },
     {
       "id": "my-medial-ra",
       "char": "ြ",
-      "name": "ya-yit",
-      "romanization": "y",
+      "name": "ya yit",
+      "romanization": "adds -y- to consonant (historically -r-)",
       "ipa": "/j/",
       "letterAudio": "audio/my/letters/my-medial-ra.mp3",
-      "memoryTrick": "A big box wrapping around the letter. Also adds a 'Y' sound (historically an 'R')."
+      "memoryTrick": "A large rectangular frame wrapping around the consonant. Despite its 'ra' name, in modern Burmese it also produces a 'y' sound. Think of it as a wide 'R'ectangle that changed its tune over the centuries."
     },
     {
       "id": "my-medial-wa",
       "char": "ွ",
-      "name": "wa-hswe",
-      "romanization": "w",
+      "name": "wa hswe",
+      "romanization": "adds -w- to consonant",
       "ipa": "/w/",
       "letterAudio": "audio/my/letters/my-medial-wa.mp3",
-      "memoryTrick": "A tiny triangle/circle underneath the letter. Adds a 'W' sound."
+      "memoryTrick": "A tiny triangle tucked under the letter. It adds a 'w' glide — like a small 'W'edge squeezed under the consonant to lift its sound."
     },
     {
       "id": "my-medial-ha",
       "char": "ှ",
-      "name": "ha-hto",
-      "romanization": "h",
+      "name": "ha hto",
+      "romanization": "adds breathiness / devoices",
       "ipa": "/h/",
       "letterAudio": "audio/my/letters/my-medial-ha.mp3",
-      "memoryTrick": "A tiny arrowhead pointing left under the letter. Makes the consonant breathy or voiceless."
+      "memoryTrick": "A tiny arrowhead pointing left beneath the consonant. It makes the sound breathier or voiceless — like someone whispering 'h' into the letter from below."
     },
     {
       "id": "my-comma",
       "char": "၊",
-      "name": "pudaung",
-      "romanization": "comma",
+      "name": "pote kalay",
+      "romanization": "comma / clause separator",
       "letterAudio": "audio/my/letters/my-comma.mp3",
-      "memoryTrick": "A single vertical stroke. Functions just like a comma to pause reading."
+      "memoryTrick": "A single thin vertical stroke. It works just like a comma — a quick breath before the sentence continues. 'Kalay' means 'little' — it's the little pause."
     },
     {
       "id": "my-fullstop",
       "char": "။",
-      "name": "pudaung gyi",
-      "romanization": "full stop",
+      "name": "pote ma / pote gyi",
+      "romanization": "full stop / period",
       "letterAudio": "audio/my/letters/my-fullstop.mp3",
-      "memoryTrick": "Double vertical strokes. Stops the sentence firmly, like a period."
+      "memoryTrick": "Two parallel vertical strokes. It marks the end of a sentence — a firm double stop. 'Ma' or 'gyi' means 'big' — it's the big finish!"
     }
   ]
 }

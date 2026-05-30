@@ -6,53 +6,652 @@
     {
       "id": "sw-a",
       "char": "A",
-      "name": "A",
+      "name": "a",
       "romanization": "a",
-      "ipa": "/a/",
+      "ipa": "/ɑ/",
       "letterAudio": "audio/sw/letters/sw-a.mp3",
-      "memoryTrick": "A steady 'ah'. Swahili is spelled just as it sounds, so the letters never trick you.",
+      "memoryTrick": "Like the 'a' in 'father' — open and relaxed. Swahili vowels are pure and short; never glide them like in English 'day'.",
       "words": [
-        { "text": "asante", "roman": "a-SAN-te", "meaning": "thank you", "emoji": "🙏", "audio": "audio/sw/words/sw-a-01.mp3" },
-        { "text": "ardhi", "roman": "AR-dhi", "meaning": "land / earth", "emoji": "🌍", "audio": "audio/sw/words/sw-a-02.mp3" }
+        { "text": "asante", "roman": "asante", "meaning": "thank you", "emoji": "🙏", "audio": "audio/sw/words/sw-a-01.mp3" },
+        { "text": "amani", "roman": "amani", "meaning": "peace", "emoji": "🕊️", "audio": "audio/sw/words/sw-a-02.mp3" },
+        { "text": "askari", "roman": "askari", "meaning": "guard, soldier", "emoji": "🛡️", "audio": "audio/sw/words/sw-a-03.mp3" },
+        { "text": "afya", "roman": "afya", "meaning": "health", "emoji": "❤️", "audio": "audio/sw/words/sw-a-04.mp3" },
+        { "text": "anza", "roman": "anza", "meaning": "start, begin", "emoji": "▶️", "audio": "audio/sw/words/sw-a-05.mp3" },
+        { "text": "akili", "roman": "akili", "meaning": "intelligence, mind", "emoji": "🧠", "audio": "audio/sw/words/sw-a-06.mp3" },
+        { "text": "asubuhi", "roman": "asubuhi", "meaning": "morning", "emoji": "🌅", "audio": "audio/sw/words/sw-a-07.mp3" },
+        { "text": "ardhi", "roman": "ardhi", "meaning": "earth, land", "emoji": "🌍", "audio": "audio/sw/words/sw-a-08.mp3" },
+        { "text": "anga", "roman": "anga", "meaning": "sky", "emoji": "☁️", "audio": "audio/sw/words/sw-a-09.mp3" },
+        { "text": "alhamisi", "roman": "alhamisi", "meaning": "Thursday", "emoji": "📅", "audio": "audio/sw/words/sw-a-10.mp3" }
+      ]
+    },
+    {
+      "id": "sw-b",
+      "char": "B",
+      "name": "be",
+      "romanization": "b",
+      "ipa": "/ɓ/",
+      "letterAudio": "audio/sw/letters/sw-b.mp3",
+      "memoryTrick": "A soft, almost swallowed 'b' — your throat closes slightly as you say it. Try saying 'b' while holding your breath for a split second.",
+      "words": [
+        { "text": "baba", "roman": "baba", "meaning": "father", "emoji": "👨", "audio": "audio/sw/words/sw-b-01.mp3" },
+        { "text": "baridi", "roman": "baridi", "meaning": "cold", "emoji": "🥶", "audio": "audio/sw/words/sw-b-02.mp3" },
+        { "text": "bahari", "roman": "bahari", "meaning": "sea, ocean", "emoji": "🌊", "audio": "audio/sw/words/sw-b-03.mp3" },
+        { "text": "barua", "roman": "barua", "meaning": "letter, mail", "emoji": "✉️", "audio": "audio/sw/words/sw-b-04.mp3" },
+        { "text": "barabara", "roman": "barabara", "meaning": "road", "emoji": "🛣️", "audio": "audio/sw/words/sw-b-05.mp3" },
+        { "text": "bustani", "roman": "bustani", "meaning": "garden", "emoji": "🌿", "audio": "audio/sw/words/sw-b-06.mp3" },
+        { "text": "baiskeli", "roman": "baiskeli", "meaning": "bicycle", "emoji": "🚲", "audio": "audio/sw/words/sw-b-07.mp3" },
+        { "text": "bia", "roman": "bia", "meaning": "beer", "emoji": "🍺", "audio": "audio/sw/words/sw-b-08.mp3" },
+        { "text": "bundi", "roman": "bundi", "meaning": "owl", "emoji": "🦉", "audio": "audio/sw/words/sw-b-09.mp3" },
+        { "text": "bega", "roman": "bega", "meaning": "shoulder", "emoji": "💪", "audio": "audio/sw/words/sw-b-10.mp3" }
+      ]
+    },
+    {
+      "id": "sw-c",
+      "char": "C",
+      "name": "ce",
+      "romanization": "c",
+      "ipa": "/tʃ/",
+      "letterAudio": "audio/sw/letters/sw-c.mp3",
+      "memoryTrick": "C almost never appears alone in native Swahili — it lives inside the digraph CH for the 'ch' sound. In loanwords it's pronounced like 'ch' as in 'cheese'.",
+      "words": [
+        { "text": "baiskeli", "roman": "baiskeli", "meaning": "bicycle", "emoji": "🚲", "audio": "audio/sw/words/sw-c-01.mp3" },
+        { "text": "penseli", "roman": "penseli", "meaning": "pencil", "emoji": "✏️", "audio": "audio/sw/words/sw-c-02.mp3" },
+        { "text": "kliniki", "roman": "kliniki", "meaning": "clinic", "emoji": "🏥", "audio": "audio/sw/words/sw-c-03.mp3" }
+      ]
+    },
+    {
+      "id": "sw-ch",
+      "char": "Ch",
+      "name": "che",
+      "romanization": "ch",
+      "ipa": "/tʃ/",
+      "letterAudio": "audio/sw/letters/sw-ch.mp3",
+      "memoryTrick": "Exactly like 'ch' in 'chair' or 'cheese'. A crisp, clean sound that starts many everyday Swahili words.",
+      "words": [
+        { "text": "chakula", "roman": "chakula", "meaning": "food", "emoji": "🍲", "audio": "audio/sw/words/sw-ch-01.mp3" },
+        { "text": "chai", "roman": "chai", "meaning": "tea", "emoji": "☕", "audio": "audio/sw/words/sw-ch-02.mp3" },
+        { "text": "chumba", "roman": "chumba", "meaning": "room", "emoji": "🚪", "audio": "audio/sw/words/sw-ch-03.mp3" },
+        { "text": "chini", "roman": "chini", "meaning": "down, below", "emoji": "⬇️", "audio": "audio/sw/words/sw-ch-04.mp3" },
+        { "text": "chuo", "roman": "chuo", "meaning": "college, school", "emoji": "🏫", "audio": "audio/sw/words/sw-ch-05.mp3" },
+        { "text": "cheza", "roman": "cheza", "meaning": "play, dance", "emoji": "💃", "audio": "audio/sw/words/sw-ch-06.mp3" },
+        { "text": "chumvi", "roman": "chumvi", "meaning": "salt", "emoji": "🧂", "audio": "audio/sw/words/sw-ch-07.mp3" },
+        { "text": "chafu", "roman": "chafu", "meaning": "dirty", "emoji": "💩", "audio": "audio/sw/words/sw-ch-08.mp3" },
+        { "text": "chapa", "roman": "chapa", "meaning": "print, stamp", "emoji": "🖨️", "audio": "audio/sw/words/sw-ch-09.mp3" },
+        { "text": "changa", "roman": "changa", "meaning": "young, small", "emoji": "🐣", "audio": "audio/sw/words/sw-ch-10.mp3" },
+        { "text": "chura", "roman": "chura", "meaning": "frog", "emoji": "🐸", "audio": "audio/sw/words/sw-ch-11.mp3" },
+        { "text": "chemsha", "roman": "chemsha", "meaning": "boil", "emoji": "♨️", "audio": "audio/sw/words/sw-ch-12.mp3" }
+      ]
+    },
+    {
+      "id": "sw-d",
+      "char": "D",
+      "name": "de",
+      "romanization": "d",
+      "ipa": "/ɗ/",
+      "letterAudio": "audio/sw/letters/sw-d.mp3",
+      "memoryTrick": "Like 'd' but with a slight inward pull of air — your tongue touches the roof of your mouth a bit further back than in English. Think of a gentle, softer 'd'.",
+      "words": [
+        { "text": "daktari", "roman": "daktari", "meaning": "doctor", "emoji": "👨‍⚕️", "audio": "audio/sw/words/sw-d-01.mp3" },
+        { "text": "darasa", "roman": "darasa", "meaning": "classroom", "emoji": "📚", "audio": "audio/sw/words/sw-d-02.mp3" },
+        { "text": "damu", "roman": "damu", "meaning": "blood", "emoji": "🩸", "audio": "audio/sw/words/sw-d-03.mp3" },
+        { "text": "dawa", "roman": "dawa", "meaning": "medicine", "emoji": "💊", "audio": "audio/sw/words/sw-d-04.mp3" },
+        { "text": "duka", "roman": "duka", "meaning": "shop", "emoji": "🏪", "audio": "audio/sw/words/sw-d-05.mp3" },
+        { "text": "dada", "roman": "dada", "meaning": "sister", "emoji": "👧", "audio": "audio/sw/words/sw-d-06.mp3" },
+        { "text": "dirisha", "roman": "dirisha", "meaning": "window", "emoji": "🪟", "audio": "audio/sw/words/sw-d-07.mp3" },
+        { "text": "duara", "roman": "duara", "meaning": "circle", "emoji": "⭕", "audio": "audio/sw/words/sw-d-08.mp3" },
+        { "text": "doa", "roman": "doa", "meaning": "stain, spot", "emoji": "🔴", "audio": "audio/sw/words/sw-d-09.mp3" },
+        { "text": "dubu", "roman": "dubu", "meaning": "bear", "emoji": "🐻", "audio": "audio/sw/words/sw-d-10.mp3" }
+      ]
+    },
+    {
+      "id": "sw-dh",
+      "char": "Dh",
+      "name": "dhe",
+      "romanization": "dh",
+      "ipa": "/ð/",
+      "letterAudio": "audio/sw/letters/sw-dh.mp3",
+      "memoryTrick": "Like 'th' in English 'the' or 'this' — your tongue touches your upper teeth while buzzing your voice. Found mostly in words of Arabic origin.",
+      "words": [
+        { "text": "dhahabu", "roman": "dhahabu", "meaning": "gold", "emoji": "🥇", "audio": "audio/sw/words/sw-dh-01.mp3" },
+        { "text": "dhambi", "roman": "dhambi", "meaning": "sin", "audio": "audio/sw/words/sw-dh-02.mp3" },
+        { "text": "dhana", "roman": "dhana", "meaning": "concept, idea", "emoji": "💡", "audio": "audio/sw/words/sw-dh-03.mp3" },
+        { "text": "dharau", "roman": "dharau", "meaning": "contempt, disrespect", "audio": "audio/sw/words/sw-dh-04.mp3" },
+        { "text": "dhiki", "roman": "dhiki", "meaning": "distress, hardship", "audio": "audio/sw/words/sw-dh-05.mp3" },
+        { "text": "dhifa", "roman": "dhifa", "meaning": "feast, banquet", "emoji": "🍽️", "audio": "audio/sw/words/sw-dh-06.mp3" }
+      ]
+    },
+    {
+      "id": "sw-e",
+      "char": "E",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/sw/letters/sw-e.mp3",
+      "memoryTrick": "Like the 'e' in 'bed' or 'get' — open and short. Never sounds like the long 'ay' glide of English 'they'.",
+      "words": [
+        { "text": "embe", "roman": "embe", "meaning": "mango", "emoji": "🥭", "audio": "audio/sw/words/sw-e-01.mp3" },
+        { "text": "elimu", "roman": "elimu", "meaning": "education", "emoji": "🎓", "audio": "audio/sw/words/sw-e-02.mp3" },
+        { "text": "eneo", "roman": "eneo", "meaning": "area, zone", "emoji": "🗺️", "audio": "audio/sw/words/sw-e-03.mp3" },
+        { "text": "eleza", "roman": "eleza", "meaning": "explain", "emoji": "🗣️", "audio": "audio/sw/words/sw-e-04.mp3" },
+        { "text": "elewa", "roman": "elewa", "meaning": "understand", "emoji": "💭", "audio": "audio/sw/words/sw-e-05.mp3" },
+        { "text": "enda", "roman": "enda", "meaning": "go", "emoji": "🚶", "audio": "audio/sw/words/sw-e-06.mp3" },
+        { "text": "eneza", "roman": "eneza", "meaning": "spread", "audio": "audio/sw/words/sw-e-07.mp3" },
+        { "text": "egemea", "roman": "egemea", "meaning": "lean on, rely on", "audio": "audio/sw/words/sw-e-08.mp3" }
+      ]
+    },
+    {
+      "id": "sw-f",
+      "char": "F",
+      "name": "fe",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/sw/letters/sw-f.mp3",
+      "memoryTrick": "Exactly like English 'f' in 'fish' — top teeth on bottom lip, blow air through. Simple and familiar.",
+      "words": [
+        { "text": "farasi", "roman": "farasi", "meaning": "horse", "emoji": "🐴", "audio": "audio/sw/words/sw-f-01.mp3" },
+        { "text": "fedha", "roman": "fedha", "meaning": "silver, money", "emoji": "🪙", "audio": "audio/sw/words/sw-f-02.mp3" },
+        { "text": "furaha", "roman": "furaha", "meaning": "happiness, joy", "emoji": "😊", "audio": "audio/sw/words/sw-f-03.mp3" },
+        { "text": "funga", "roman": "funga", "meaning": "close, lock, fast", "emoji": "🔒", "audio": "audio/sw/words/sw-f-04.mp3" },
+        { "text": "fundi", "roman": "fundi", "meaning": "craftsman, expert", "emoji": "🔧", "audio": "audio/sw/words/sw-f-05.mp3" },
+        { "text": "fupi", "roman": "fupi", "meaning": "short", "emoji": "📏", "audio": "audio/sw/words/sw-f-06.mp3" },
+        { "text": "futa", "roman": "futa", "meaning": "wipe, erase", "emoji": "🧹", "audio": "audio/sw/words/sw-f-07.mp3" },
+        { "text": "fagia", "roman": "fagia", "meaning": "sweep", "emoji": "🧹", "audio": "audio/sw/words/sw-f-08.mp3" },
+        { "text": "fanya", "roman": "fanya", "meaning": "do, make", "emoji": "🛠️", "audio": "audio/sw/words/sw-f-09.mp3" },
+        { "text": "figo", "roman": "figo", "meaning": "kidney", "audio": "audio/sw/words/sw-f-10.mp3" }
+      ]
+    },
+    {
+      "id": "sw-g",
+      "char": "G",
+      "name": "ge",
+      "romanization": "g",
+      "ipa": "/ɠ/",
+      "letterAudio": "audio/sw/letters/sw-g.mp3",
+      "memoryTrick": "A swallowed 'g' — like saying 'g' in 'go' but with your throat closing briefly. Always hard like 'go', never soft like 'giraffe'.",
+      "words": [
+        { "text": "gari", "roman": "gari", "meaning": "car", "emoji": "🚗", "audio": "audio/sw/words/sw-g-01.mp3" },
+        { "text": "goti", "roman": "goti", "meaning": "knee", "emoji": "🦵", "audio": "audio/sw/words/sw-g-02.mp3" },
+        { "text": "giza", "roman": "giza", "meaning": "darkness", "emoji": "🌑", "audio": "audio/sw/words/sw-g-03.mp3" },
+        { "text": "gereza", "roman": "gereza", "meaning": "prison", "audio": "audio/sw/words/sw-g-04.mp3" },
+        { "text": "gundi", "roman": "gundi", "meaning": "glue", "audio": "audio/sw/words/sw-g-05.mp3" },
+        { "text": "gome", "roman": "gome", "meaning": "bark (of tree)", "emoji": "🌳", "audio": "audio/sw/words/sw-g-06.mp3" },
+        { "text": "gonga", "roman": "gonga", "meaning": "knock, hit", "emoji": "👊", "audio": "audio/sw/words/sw-g-07.mp3" },
+        { "text": "gawa", "roman": "gawa", "meaning": "divide, distribute", "emoji": "➗", "audio": "audio/sw/words/sw-g-08.mp3" }
+      ]
+    },
+    {
+      "id": "sw-gh",
+      "char": "Gh",
+      "name": "ghe",
+      "romanization": "gh",
+      "ipa": "/ɣ/",
+      "letterAudio": "audio/sw/letters/sw-gh.mp3",
+      "memoryTrick": "A gargling 'g' — like the French 'r' in 'Paris' or a voiced version of the 'ch' in Scottish 'loch'. Your tongue vibrates near the back of your throat. Found in Arabic loanwords.",
+      "words": [
+        { "text": "ghali", "roman": "ghali", "meaning": "expensive", "emoji": "💸", "audio": "audio/sw/words/sw-gh-01.mp3" },
+        { "text": "ghafla", "roman": "ghafla", "meaning": "suddenly", "emoji": "⚡", "audio": "audio/sw/words/sw-gh-02.mp3" },
+        { "text": "gharama", "roman": "gharama", "meaning": "cost, expense", "emoji": "💰", "audio": "audio/sw/words/sw-gh-03.mp3" },
+        { "text": "ghuba", "roman": "ghuba", "meaning": "gulf, bay", "emoji": "🏝️", "audio": "audio/sw/words/sw-gh-04.mp3" },
+        { "text": "ghiliba", "roman": "ghiliba", "meaning": "deceive", "audio": "audio/sw/words/sw-gh-05.mp3" },
+        { "text": "ghasia", "roman": "ghasia", "meaning": "chaos, turmoil", "audio": "audio/sw/words/sw-gh-06.mp3" }
+      ]
+    },
+    {
+      "id": "sw-h",
+      "char": "H",
+      "name": "he",
+      "romanization": "h",
+      "ipa": "/h/",
+      "letterAudio": "audio/sw/letters/sw-h.mp3",
+      "memoryTrick": "A clear, breathy 'h' like in 'house' — always pronounced, never silent. You should feel a puff of air from deep in your throat.",
+      "words": [
+        { "text": "habari", "roman": "habari", "meaning": "news, hello (greeting)", "emoji": "📰", "audio": "audio/sw/words/sw-h-01.mp3" },
+        { "text": "hewa", "roman": "hewa", "meaning": "air", "emoji": "💨", "audio": "audio/sw/words/sw-h-02.mp3" },
+        { "text": "haki", "roman": "haki", "meaning": "justice, right", "emoji": "⚖️", "audio": "audio/sw/words/sw-h-03.mp3" },
+        { "text": "haraka", "roman": "haraka", "meaning": "hurry, fast", "emoji": "🏃", "audio": "audio/sw/words/sw-h-04.mp3" },
+        { "text": "hasira", "roman": "hasira", "meaning": "anger", "emoji": "😡", "audio": "audio/sw/words/sw-h-05.mp3" },
+        { "text": "heri", "roman": "heri", "meaning": "blessing, good fortune", "emoji": "🍀", "audio": "audio/sw/words/sw-h-06.mp3" },
+        { "text": "heshima", "roman": "heshima", "meaning": "respect, honor", "emoji": "🤝", "audio": "audio/sw/words/sw-h-07.mp3" },
+        { "text": "hoteli", "roman": "hoteli", "meaning": "hotel", "emoji": "🏨", "audio": "audio/sw/words/sw-h-08.mp3" },
+        { "text": "huduma", "roman": "huduma", "meaning": "service", "emoji": "🛎️", "audio": "audio/sw/words/sw-h-09.mp3" },
+        { "text": "huru", "roman": "huru", "meaning": "free", "emoji": "🕊️", "audio": "audio/sw/words/sw-h-10.mp3" }
+      ]
+    },
+    {
+      "id": "sw-i",
+      "char": "I",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/sw/letters/sw-i.mp3",
+      "memoryTrick": "Like 'ee' in 'see' or 'tea' — a clean, tense 'ee' sound. Keep it short and pure; don't let it slide into a diphthong.",
+      "words": [
+        { "text": "inzi", "roman": "inzi", "meaning": "fly (insect)", "emoji": "🪰", "audio": "audio/sw/words/sw-i-01.mp3" },
+        { "text": "injili", "roman": "injili", "meaning": "gospel", "emoji": "📖", "audio": "audio/sw/words/sw-i-02.mp3" },
+        { "text": "ishi", "roman": "ishi", "meaning": "live", "emoji": "🏠", "audio": "audio/sw/words/sw-i-03.mp3" },
+        { "text": "imba", "roman": "imba", "meaning": "sing", "emoji": "🎤", "audio": "audio/sw/words/sw-i-04.mp3" },
+        { "text": "ingia", "roman": "ingia", "meaning": "enter", "emoji": "🚪", "audio": "audio/sw/words/sw-i-05.mp3" },
+        { "text": "ita", "roman": "ita", "meaning": "call", "emoji": "📞", "audio": "audio/sw/words/sw-i-06.mp3" },
+        { "text": "ibada", "roman": "ibada", "meaning": "worship", "audio": "audio/sw/words/sw-i-07.mp3" },
+        { "text": "inuka", "roman": "inuka", "meaning": "rise, get up", "emoji": "⬆️", "audio": "audio/sw/words/sw-i-08.mp3" },
+        { "text": "ilani", "roman": "ilani", "meaning": "notice, announcement", "emoji": "📢", "audio": "audio/sw/words/sw-i-09.mp3" }
+      ]
+    },
+    {
+      "id": "sw-j",
+      "char": "J",
+      "name": "je",
+      "romanization": "j",
+      "ipa": "/ʄ/",
+      "letterAudio": "audio/sw/letters/sw-j.mp3",
+      "memoryTrick": "Like 'j' in 'jam' but with that characteristic Swahili inward pull — your tongue presses up as your throat closes briefly. Think 'j' with a hiccup.",
+      "words": [
+        { "text": "jina", "roman": "jina", "meaning": "name", "emoji": "📛", "audio": "audio/sw/words/sw-j-01.mp3" },
+        { "text": "jua", "roman": "jua", "meaning": "sun", "emoji": "☀️", "audio": "audio/sw/words/sw-j-02.mp3" },
+        { "text": "jibu", "roman": "jibu", "meaning": "answer", "emoji": "💬", "audio": "audio/sw/words/sw-j-03.mp3" },
+        { "text": "jambo", "roman": "jambo", "meaning": "hello, matter", "emoji": "👋", "audio": "audio/sw/words/sw-j-04.mp3" },
+        { "text": "jana", "roman": "jana", "meaning": "yesterday", "emoji": "📆", "audio": "audio/sw/words/sw-j-05.mp3" },
+        { "text": "jiko", "roman": "jiko", "meaning": "kitchen, stove", "emoji": "🍳", "audio": "audio/sw/words/sw-j-06.mp3" },
+        { "text": "jeshi", "roman": "jeshi", "meaning": "army", "emoji": "🪖", "audio": "audio/sw/words/sw-j-07.mp3" },
+        { "text": "jenga", "roman": "jenga", "meaning": "build", "emoji": "🏗️", "audio": "audio/sw/words/sw-j-08.mp3" },
+        { "text": "jirani", "roman": "jirani", "meaning": "neighbor", "emoji": "🏘️", "audio": "audio/sw/words/sw-j-09.mp3" },
+        { "text": "jumatano", "roman": "jumatano", "meaning": "Wednesday", "emoji": "📅", "audio": "audio/sw/words/sw-j-10.mp3" },
+        { "text": "jasho", "roman": "jasho", "meaning": "sweat", "emoji": "💦", "audio": "audio/sw/words/sw-j-11.mp3" }
       ]
     },
     {
       "id": "sw-k",
       "char": "K",
-      "name": "Ka",
+      "name": "ke",
       "romanization": "k",
       "ipa": "/k/",
       "letterAudio": "audio/sw/letters/sw-k.mp3",
-      "memoryTrick": "A clean 'k' as in 'kite' — and it shows up everywhere in the 'ki-' noun class.",
+      "memoryTrick": "A crisp, unaspirated 'k' — like 'k' in 'skin' or 'ski', not the breathy 'k' of 'king'. Keep it clean and dry.",
       "words": [
-        { "text": "kitabu", "roman": "ki-TA-bu", "meaning": "book", "emoji": "📖", "audio": "audio/sw/words/sw-k-01.mp3" },
-        { "text": "kuku", "roman": "KU-ku", "meaning": "chicken", "emoji": "🐔", "audio": "audio/sw/words/sw-k-02.mp3" }
+        { "text": "kazi", "roman": "kazi", "meaning": "work, job", "emoji": "💼", "audio": "audio/sw/words/sw-k-01.mp3" },
+        { "text": "kitabu", "roman": "kitabu", "meaning": "book", "emoji": "📖", "audio": "audio/sw/words/sw-k-02.mp3" },
+        { "text": "kalamu", "roman": "kalamu", "meaning": "pen", "emoji": "🖊️", "audio": "audio/sw/words/sw-k-03.mp3" },
+        { "text": "kula", "roman": "kula", "meaning": "eat", "emoji": "🍴", "audio": "audio/sw/words/sw-k-04.mp3" },
+        { "text": "kaka", "roman": "kaka", "meaning": "brother", "emoji": "👦", "audio": "audio/sw/words/sw-k-05.mp3" },
+        { "text": "kijiji", "roman": "kijiji", "meaning": "village", "emoji": "🏡", "audio": "audio/sw/words/sw-k-06.mp3" },
+        { "text": "kofia", "roman": "kofia", "meaning": "hat, cap", "emoji": "🧢", "audio": "audio/sw/words/sw-k-07.mp3" },
+        { "text": "kuku", "roman": "kuku", "meaning": "chicken", "emoji": "🐔", "audio": "audio/sw/words/sw-k-08.mp3" },
+        { "text": "kumi", "roman": "kumi", "meaning": "ten", "emoji": "🔟", "audio": "audio/sw/words/sw-k-09.mp3" },
+        { "text": "kuu", "roman": "kuu", "meaning": "main, big, great", "emoji": "🏛️", "audio": "audio/sw/words/sw-k-10.mp3" },
+        { "text": "kitanda", "roman": "kitanda", "meaning": "bed", "emoji": "🛏️", "audio": "audio/sw/words/sw-k-11.mp3" },
+        { "text": "kisu", "roman": "kisu", "meaning": "knife", "emoji": "🔪", "audio": "audio/sw/words/sw-k-12.mp3" }
+      ]
+    },
+    {
+      "id": "sw-l",
+      "char": "L",
+      "name": "le",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/sw/letters/sw-l.mp3",
+      "memoryTrick": "A light, clear 'l' like in 'leaf' — your tongue tip touches right behind your front teeth. Never the dark, swallowed 'l' of 'full'.",
+      "words": [
+        { "text": "leo", "roman": "leo", "meaning": "today", "emoji": "📅", "audio": "audio/sw/words/sw-l-01.mp3" },
+        { "text": "lala", "roman": "lala", "meaning": "sleep", "emoji": "😴", "audio": "audio/sw/words/sw-l-02.mp3" },
+        { "text": "lugha", "roman": "lugha", "meaning": "language", "emoji": "🗣️", "audio": "audio/sw/words/sw-l-03.mp3" },
+        { "text": "limau", "roman": "limau", "meaning": "lemon", "emoji": "🍋", "audio": "audio/sw/words/sw-l-04.mp3" },
+        { "text": "leta", "roman": "leta", "meaning": "bring", "emoji": "📦", "audio": "audio/sw/words/sw-l-05.mp3" },
+        { "text": "lima", "roman": "lima", "meaning": "cultivate, farm", "emoji": "🌾", "audio": "audio/sw/words/sw-l-06.mp3" },
+        { "text": "lipa", "roman": "lipa", "meaning": "pay", "emoji": "💳", "audio": "audio/sw/words/sw-l-07.mp3" },
+        { "text": "laki", "roman": "laki", "meaning": "hundred thousand", "emoji": "💯", "audio": "audio/sw/words/sw-l-08.mp3" },
+        { "text": "laana", "roman": "laana", "meaning": "curse", "audio": "audio/sw/words/sw-l-09.mp3" },
+        { "text": "lishe", "roman": "lishe", "meaning": "nutrition", "emoji": "🥗", "audio": "audio/sw/words/sw-l-10.mp3" }
       ]
     },
     {
       "id": "sw-m",
       "char": "M",
-      "name": "Ma",
+      "name": "me",
       "romanization": "m",
       "ipa": "/m/",
       "letterAudio": "audio/sw/letters/sw-m.mp3",
-      "memoryTrick": "Plain 'm' — but it can also begin a word as its own syllable, as in 'mtoto' (child).",
+      "memoryTrick": "Just like English 'm' in 'mother' — lips together, voice on. M is the Swahili noun-class superstar; it starts more words than any other consonant.",
       "words": [
-        { "text": "maji", "roman": "MA-ji", "meaning": "water", "emoji": "💧", "audio": "audio/sw/words/sw-m-01.mp3" },
-        { "text": "mama", "roman": "MA-ma", "meaning": "mother", "emoji": "👩", "audio": "audio/sw/words/sw-m-02.mp3" }
+        { "text": "mama", "roman": "mama", "meaning": "mother", "emoji": "👩", "audio": "audio/sw/words/sw-m-01.mp3" },
+        { "text": "maji", "roman": "maji", "meaning": "water", "emoji": "💧", "audio": "audio/sw/words/sw-m-02.mp3" },
+        { "text": "mji", "roman": "mji", "meaning": "city, town", "emoji": "🏙️", "audio": "audio/sw/words/sw-m-03.mp3" },
+        { "text": "mtu", "roman": "mtu", "meaning": "person", "emoji": "🧑", "audio": "audio/sw/words/sw-m-04.mp3" },
+        { "text": "mkono", "roman": "mkono", "meaning": "hand, arm", "emoji": "✋", "audio": "audio/sw/words/sw-m-05.mp3" },
+        { "text": "mwezi", "roman": "mwezi", "meaning": "moon, month", "emoji": "🌙", "audio": "audio/sw/words/sw-m-06.mp3" },
+        { "text": "mwalimu", "roman": "mwalimu", "meaning": "teacher", "emoji": "👩‍🏫", "audio": "audio/sw/words/sw-m-07.mp3" },
+        { "text": "mgeni", "roman": "mgeni", "meaning": "guest, stranger", "emoji": "🧳", "audio": "audio/sw/words/sw-m-08.mp3" },
+        { "text": "mdomo", "roman": "mdomo", "meaning": "mouth, lip", "emoji": "👄", "audio": "audio/sw/words/sw-m-09.mp3" },
+        { "text": "miti", "roman": "miti", "meaning": "trees", "emoji": "🌲", "audio": "audio/sw/words/sw-m-10.mp3" },
+        { "text": "mboga", "roman": "mboga", "meaning": "vegetable", "emoji": "🥬", "audio": "audio/sw/words/sw-m-11.mp3" },
+        { "text": "mbwa", "roman": "mbwa", "meaning": "dog", "emoji": "🐕", "audio": "audio/sw/words/sw-m-12.mp3" }
       ]
     },
     {
       "id": "sw-n",
       "char": "N",
-      "name": "Na",
+      "name": "ne",
       "romanization": "n",
       "ipa": "/n/",
       "letterAudio": "audio/sw/letters/sw-n.mp3",
-      "memoryTrick": "A simple 'n' — often paired as 'ny' (one sound) or starting words like 'ndizi'.",
+      "memoryTrick": "Like English 'n' in 'nose'. In Swahili, N can also be a syllable by itself (as in 'nchi' — country).",
       "words": [
-        { "text": "nyumba", "roman": "NYUM-ba", "meaning": "house", "emoji": "🏠", "audio": "audio/sw/words/sw-n-01.mp3" },
-        { "text": "ndizi", "roman": "n-DI-zi", "meaning": "banana", "emoji": "🍌", "audio": "audio/sw/words/sw-n-02.mp3" }
+        { "text": "nchi", "roman": "nchi", "meaning": "country", "emoji": "🇰🇪", "audio": "audio/sw/words/sw-n-01.mp3" },
+        { "text": "njia", "roman": "njia", "meaning": "path, way", "emoji": "🛤️", "audio": "audio/sw/words/sw-n-02.mp3" },
+        { "text": "nyumba", "roman": "nyumba", "meaning": "house", "emoji": "🏠", "audio": "audio/sw/words/sw-n-03.mp3" },
+        { "text": "neno", "roman": "neno", "meaning": "word", "emoji": "📝", "audio": "audio/sw/words/sw-n-04.mp3" },
+        { "text": "nusu", "roman": "nusu", "meaning": "half", "emoji": "½", "audio": "audio/sw/words/sw-n-05.mp3" },
+        { "text": "nazi", "roman": "nazi", "meaning": "coconut", "emoji": "🥥", "audio": "audio/sw/words/sw-n-06.mp3" },
+        { "text": "nani", "roman": "nani", "meaning": "who", "emoji": "❓", "audio": "audio/sw/words/sw-n-07.mp3" },
+        { "text": "ndizi", "roman": "ndizi", "meaning": "banana", "emoji": "🍌", "audio": "audio/sw/words/sw-n-08.mp3" },
+        { "text": "ndoto", "roman": "ndoto", "meaning": "dream", "emoji": "💭", "audio": "audio/sw/words/sw-n-09.mp3" },
+        { "text": "nguo", "roman": "nguo", "meaning": "clothes", "emoji": "👕", "audio": "audio/sw/words/sw-n-10.mp3" }
+      ]
+    },
+    {
+      "id": "sw-ny",
+      "char": "Ny",
+      "name": "nye",
+      "romanization": "ny",
+      "ipa": "/ɲ/",
+      "letterAudio": "audio/sw/letters/sw-ny.mp3",
+      "memoryTrick": "Like the 'ñ' in Spanish 'niño' or 'ny' in 'canyon'. Your tongue presses flat against the roof of your mouth. Very common in Swahili — you'll use it every day.",
+      "words": [
+        { "text": "nyumba", "roman": "nyumba", "meaning": "house", "emoji": "🏠", "audio": "audio/sw/words/sw-ny-01.mp3" },
+        { "text": "nyota", "roman": "nyota", "meaning": "star", "emoji": "⭐", "audio": "audio/sw/words/sw-ny-02.mp3" },
+        { "text": "nyanya", "roman": "nyanya", "meaning": "grandmother; tomato", "emoji": "🍅", "audio": "audio/sw/words/sw-ny-03.mp3" },
+        { "text": "nyama", "roman": "nyama", "meaning": "meat", "emoji": "🥩", "audio": "audio/sw/words/sw-ny-04.mp3" },
+        { "text": "nywele", "roman": "nywele", "meaning": "hair", "emoji": "💇", "audio": "audio/sw/words/sw-ny-05.mp3" },
+        { "text": "nyani", "roman": "nyani", "meaning": "baboon", "emoji": "🐒", "audio": "audio/sw/words/sw-ny-06.mp3" },
+        { "text": "nyuki", "roman": "nyuki", "meaning": "bee", "emoji": "🐝", "audio": "audio/sw/words/sw-ny-07.mp3" },
+        { "text": "nyundo", "roman": "nyundo", "meaning": "hammer", "emoji": "🔨", "audio": "audio/sw/words/sw-ny-08.mp3" },
+        { "text": "nyimbo", "roman": "nyimbo", "meaning": "song", "emoji": "🎵", "audio": "audio/sw/words/sw-ny-09.mp3" },
+        { "text": "nyasi", "roman": "nyasi", "meaning": "grass", "emoji": "🌱", "audio": "audio/sw/words/sw-ny-10.mp3" },
+        { "text": "nyoka", "roman": "nyoka", "meaning": "snake", "emoji": "🐍", "audio": "audio/sw/words/sw-ny-11.mp3" }
+      ]
+    },
+    {
+      "id": "sw-ng",
+      "char": "Ng",
+      "name": "nge",
+      "romanization": "ng",
+      "ipa": "/ŋɡ/",
+      "letterAudio": "audio/sw/letters/sw-ng.mp3",
+      "memoryTrick": "Two sounds in one: 'ng' as in 'finger' followed by a hard 'g'. Unlike ng' (with apostrophe), this one has that extra 'g' kick at the end.",
+      "words": [
+        { "text": "ngoma", "roman": "ngoma", "meaning": "drum, dance", "emoji": "🥁", "audio": "audio/sw/words/sw-ng-01.mp3" },
+        { "text": "nguo", "roman": "nguo", "meaning": "clothes", "emoji": "👕", "audio": "audio/sw/words/sw-ng-02.mp3" },
+        { "text": "ngazi", "roman": "ngazi", "meaning": "ladder, stairs", "emoji": "🪜", "audio": "audio/sw/words/sw-ng-03.mp3" },
+        { "text": "ngano", "roman": "ngano", "meaning": "wheat", "emoji": "🌾", "audio": "audio/sw/words/sw-ng-04.mp3" },
+        { "text": "nguvu", "roman": "nguvu", "meaning": "strength, power", "emoji": "💪", "audio": "audio/sw/words/sw-ng-05.mp3" },
+        { "text": "ngamia", "roman": "ngamia", "meaning": "camel", "emoji": "🐪", "audio": "audio/sw/words/sw-ng-06.mp3" }
+      ]
+    },
+    {
+      "id": "sw-ng'",
+      "char": "Ng'",
+      "name": "ng'e",
+      "romanization": "ng'",
+      "ipa": "/ŋ/",
+      "letterAudio": "audio/sw/letters/sw-ng'.mp3",
+      "memoryTrick": "Like 'ng' in English 'sing' — a single pure nasal sound at the back of your throat. The apostrophe is the secret: it means NO hard 'g' follows. Compare: ng'ombe (cow) vs ngoma (drum).",
+      "words": [
+        { "text": "ng'ombe", "roman": "ng'ombe", "meaning": "cow", "emoji": "🐄", "audio": "audio/sw/words/sw-ng'-01.mp3" },
+        { "text": "ng'aa", "roman": "ng'aa", "meaning": "shine, glow", "emoji": "✨", "audio": "audio/sw/words/sw-ng'-02.mp3" },
+        { "text": "ng'ara", "roman": "ng'ara", "meaning": "glitter, sparkle", "emoji": "💎", "audio": "audio/sw/words/sw-ng'-03.mp3" },
+        { "text": "ng'o", "roman": "ng'o", "meaning": "wildebeest, gnu", "emoji": "🦬", "audio": "audio/sw/words/sw-ng'-04.mp3" },
+        { "text": "ng'atuka", "roman": "ng'atuka", "meaning": "split, crack", "audio": "audio/sw/words/sw-ng'-05.mp3" },
+        { "text": "ng'oa", "roman": "ng'oa", "meaning": "uproot, pull out", "audio": "audio/sw/words/sw-ng'-06.mp3" }
+      ]
+    },
+    {
+      "id": "sw-o",
+      "char": "O",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/ɔ/",
+      "letterAudio": "audio/sw/letters/sw-o.mp3",
+      "memoryTrick": "Like the 'o' in 'thought' or 'dog' — open and round. Not the tight 'oh' of English 'go'; keep your jaw slightly dropped.",
+      "words": [
+        { "text": "ota", "roman": "ota", "meaning": "dream; grow (plants)", "emoji": "🌱", "audio": "audio/sw/words/sw-o-01.mp3" },
+        { "text": "ogelea", "roman": "ogelea", "meaning": "swim", "emoji": "🏊", "audio": "audio/sw/words/sw-o-02.mp3" },
+        { "text": "oka", "roman": "oka", "meaning": "bake", "emoji": "🍞", "audio": "audio/sw/words/sw-o-03.mp3" },
+        { "text": "ona", "roman": "ona", "meaning": "see", "emoji": "👁️", "audio": "audio/sw/words/sw-o-04.mp3" },
+        { "text": "ongea", "roman": "ongea", "meaning": "speak, talk", "emoji": "🗣️", "audio": "audio/sw/words/sw-o-05.mp3" },
+        { "text": "onya", "roman": "onya", "meaning": "warn", "emoji": "⚠️", "audio": "audio/sw/words/sw-o-06.mp3" },
+        { "text": "omba", "roman": "omba", "meaning": "pray, request", "emoji": "🙏", "audio": "audio/sw/words/sw-o-07.mp3" },
+        { "text": "osha", "roman": "osha", "meaning": "wash", "emoji": "🧼", "audio": "audio/sw/words/sw-o-08.mp3" },
+        { "text": "ondoka", "roman": "ondoka", "meaning": "leave, depart", "emoji": "🚶", "audio": "audio/sw/words/sw-o-09.mp3" }
+      ]
+    },
+    {
+      "id": "sw-p",
+      "char": "P",
+      "name": "pe",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/sw/letters/sw-p.mp3",
+      "memoryTrick": "A light, unaspirated 'p' — like the 'p' in 'spin' or 'spot', not the breathy pop of 'pin'. Hold your palm in front of your mouth; you should feel almost no air.",
+      "words": [
+        { "text": "paka", "roman": "paka", "meaning": "cat", "emoji": "🐱", "audio": "audio/sw/words/sw-p-01.mp3" },
+        { "text": "pesa", "roman": "pesa", "meaning": "money", "emoji": "💵", "audio": "audio/sw/words/sw-p-02.mp3" },
+        { "text": "paa", "roman": "paa", "meaning": "roof; deer", "emoji": "🦌", "audio": "audio/sw/words/sw-p-03.mp3" },
+        { "text": "pita", "roman": "pita", "meaning": "pass, go by", "emoji": "🚶", "audio": "audio/sw/words/sw-p-04.mp3" },
+        { "text": "penda", "roman": "penda", "meaning": "love, like", "emoji": "❤️", "audio": "audio/sw/words/sw-p-05.mp3" },
+        { "text": "pika", "roman": "pika", "meaning": "cook", "emoji": "👨‍🍳", "audio": "audio/sw/words/sw-p-06.mp3" },
+        { "text": "pima", "roman": "pima", "meaning": "measure, test", "emoji": "📏", "audio": "audio/sw/words/sw-p-07.mp3" },
+        { "text": "ponya", "roman": "ponya", "meaning": "heal", "emoji": "🏥", "audio": "audio/sw/words/sw-p-08.mp3" },
+        { "text": "pumzika", "roman": "pumzika", "meaning": "rest, relax", "emoji": "😌", "audio": "audio/sw/words/sw-p-09.mp3" },
+        { "text": "pazia", "roman": "pazia", "meaning": "curtain", "emoji": "🪟", "audio": "audio/sw/words/sw-p-10.mp3" },
+        { "text": "panya", "roman": "panya", "meaning": "rat, mouse", "emoji": "🐭", "audio": "audio/sw/words/sw-p-11.mp3" }
+      ]
+    },
+    {
+      "id": "sw-r",
+      "char": "R",
+      "name": "re",
+      "romanization": "r",
+      "ipa": "/ɾ/",
+      "letterAudio": "audio/sw/letters/sw-r.mp3",
+      "memoryTrick": "A quick single tap of the tongue behind your teeth — like the 'tt' in American 'butter' or 'dd' in 'ladder'. Never a rolled or guttural 'r'.",
+      "words": [
+        { "text": "rafiki", "roman": "rafiki", "meaning": "friend", "emoji": "👫", "audio": "audio/sw/words/sw-r-01.mp3" },
+        { "text": "rangi", "roman": "rangi", "meaning": "color", "emoji": "🎨", "audio": "audio/sw/words/sw-r-02.mp3" },
+        { "text": "ruka", "roman": "ruka", "meaning": "fly, jump", "emoji": "🦅", "audio": "audio/sw/words/sw-r-03.mp3" },
+        { "text": "rudi", "roman": "rudi", "meaning": "return, come back", "emoji": "↩️", "audio": "audio/sw/words/sw-r-04.mp3" },
+        { "text": "redio", "roman": "redio", "meaning": "radio", "emoji": "📻", "audio": "audio/sw/words/sw-r-05.mp3" },
+        { "text": "roho", "roman": "roho", "meaning": "spirit, soul", "emoji": "💫", "audio": "audio/sw/words/sw-r-06.mp3" },
+        { "text": "rahisi", "roman": "rahisi", "meaning": "cheap, easy", "emoji": "👍", "audio": "audio/sw/words/sw-r-07.mp3" },
+        { "text": "ruhusa", "roman": "ruhusa", "meaning": "permission", "emoji": "✅", "audio": "audio/sw/words/sw-r-08.mp3" },
+        { "text": "risasi", "roman": "risasi", "meaning": "bullet, lead", "audio": "audio/sw/words/sw-r-09.mp3" },
+        { "text": "rusha", "roman": "rusha", "meaning": "throw, hurl", "emoji": "🤾", "audio": "audio/sw/words/sw-r-10.mp3" }
+      ]
+    },
+    {
+      "id": "sw-s",
+      "char": "S",
+      "name": "se",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/sw/letters/sw-s.mp3",
+      "memoryTrick": "Exactly like English 's' in 'sun' — always a clean hissing 's', never a 'z' sound. The Swahili 's' is sharper than in English.",
+      "words": [
+        { "text": "samaki", "roman": "samaki", "meaning": "fish", "emoji": "🐟", "audio": "audio/sw/words/sw-s-01.mp3" },
+        { "text": "simba", "roman": "simba", "meaning": "lion", "emoji": "🦁", "audio": "audio/sw/words/sw-s-02.mp3" },
+        { "text": "saa", "roman": "saa", "meaning": "clock, time, hour", "emoji": "🕐", "audio": "audio/sw/words/sw-s-03.mp3" },
+        { "text": "sabuni", "roman": "sabuni", "meaning": "soap", "emoji": "🧼", "audio": "audio/sw/words/sw-s-04.mp3" },
+        { "text": "sokoni", "roman": "sokoni", "meaning": "at the market", "emoji": "🛒", "audio": "audio/sw/words/sw-s-05.mp3" },
+        { "text": "salama", "roman": "salama", "meaning": "safe, peaceful", "emoji": "🕊️", "audio": "audio/sw/words/sw-s-06.mp3" },
+        { "text": "sukari", "roman": "sukari", "meaning": "sugar", "emoji": "🍬", "audio": "audio/sw/words/sw-s-07.mp3" },
+        { "text": "saba", "roman": "saba", "meaning": "seven", "emoji": "7️⃣", "audio": "audio/sw/words/sw-s-08.mp3" },
+        { "text": "sikia", "roman": "sikia", "meaning": "hear", "emoji": "👂", "audio": "audio/sw/words/sw-s-09.mp3" },
+        { "text": "sema", "roman": "sema", "meaning": "say, speak", "emoji": "💬", "audio": "audio/sw/words/sw-s-10.mp3" },
+        { "text": "subiri", "roman": "subiri", "meaning": "wait", "emoji": "⏳", "audio": "audio/sw/words/sw-s-11.mp3" },
+        { "text": "safari", "roman": "safari", "meaning": "journey, trip", "emoji": "🧳", "audio": "audio/sw/words/sw-s-12.mp3" }
+      ]
+    },
+    {
+      "id": "sw-sh",
+      "char": "Sh",
+      "name": "she",
+      "romanization": "sh",
+      "ipa": "/ʃ/",
+      "letterAudio": "audio/sw/letters/sw-sh.mp3",
+      "memoryTrick": "Like 'sh' in 'she' or 'ship' — a hushing sound your tongue makes near the roof of your mouth. One of the most common sounds in the language.",
+      "words": [
+        { "text": "shule", "roman": "shule", "meaning": "school", "emoji": "🏫", "audio": "audio/sw/words/sw-sh-01.mp3" },
+        { "text": "shamba", "roman": "shamba", "meaning": "farm, field", "emoji": "🌾", "audio": "audio/sw/words/sw-sh-02.mp3" },
+        { "text": "shoka", "roman": "shoka", "meaning": "axe", "emoji": "🪓", "audio": "audio/sw/words/sw-sh-03.mp3" },
+        { "text": "shida", "roman": "shida", "meaning": "problem, difficulty", "emoji": "😰", "audio": "audio/sw/words/sw-sh-04.mp3" },
+        { "text": "shingo", "roman": "shingo", "meaning": "neck", "emoji": "🧣", "audio": "audio/sw/words/sw-sh-05.mp3" },
+        { "text": "shukrani", "roman": "shukrani", "meaning": "thanks, gratitude", "emoji": "🙏", "audio": "audio/sw/words/sw-sh-06.mp3" },
+        { "text": "shauri", "roman": "shauri", "meaning": "advice, matter, affair", "emoji": "💡", "audio": "audio/sw/words/sw-sh-07.mp3" },
+        { "text": "shetani", "roman": "shetani", "meaning": "devil, demon", "emoji": "👿", "audio": "audio/sw/words/sw-sh-08.mp3" },
+        { "text": "shirika", "roman": "shirika", "meaning": "organization, company", "emoji": "🏢", "audio": "audio/sw/words/sw-sh-09.mp3" },
+        { "text": "sherehe", "roman": "sherehe", "meaning": "celebration, party", "emoji": "🎉", "audio": "audio/sw/words/sw-sh-10.mp3" },
+        { "text": "shangazi", "roman": "shangazi", "meaning": "paternal aunt", "emoji": "👩", "audio": "audio/sw/words/sw-sh-11.mp3" }
+      ]
+    },
+    {
+      "id": "sw-t",
+      "char": "T",
+      "name": "te",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/sw/letters/sw-t.mp3",
+      "memoryTrick": "An unaspirated 't' — like the 't' in 'stop' or 'star', not the breathy 't' of 'top'. Touch your tongue right behind your upper teeth, no puff of air.",
+      "words": [
+        { "text": "taa", "roman": "taa", "meaning": "lamp, light", "emoji": "💡", "audio": "audio/sw/words/sw-t-01.mp3" },
+        { "text": "tatu", "roman": "tatu", "meaning": "three", "emoji": "3️⃣", "audio": "audio/sw/words/sw-t-02.mp3" },
+        { "text": "tembo", "roman": "tembo", "meaning": "elephant", "emoji": "🐘", "audio": "audio/sw/words/sw-t-03.mp3" },
+        { "text": "tupa", "roman": "tupa", "meaning": "throw, discard", "emoji": "🗑️", "audio": "audio/sw/words/sw-t-04.mp3" },
+        { "text": "taka", "roman": "taka", "meaning": "want", "emoji": "🙋", "audio": "audio/sw/words/sw-t-05.mp3" },
+        { "text": "toka", "roman": "toka", "meaning": "come from, exit", "emoji": "🚪", "audio": "audio/sw/words/sw-t-06.mp3" },
+        { "text": "tunda", "roman": "tunda", "meaning": "fruit", "emoji": "🍎", "audio": "audio/sw/words/sw-t-07.mp3" },
+        { "text": "tisa", "roman": "tisa", "meaning": "nine", "emoji": "9️⃣", "audio": "audio/sw/words/sw-t-08.mp3" },
+        { "text": "tega", "roman": "tega", "meaning": "set (a trap), lay", "emoji": "🪤", "audio": "audio/sw/words/sw-t-09.mp3" },
+        { "text": "tumbo", "roman": "tumbo", "meaning": "stomach, belly", "emoji": "🤰", "audio": "audio/sw/words/sw-t-10.mp3" },
+        { "text": "tazama", "roman": "tazama", "meaning": "look, watch", "emoji": "👀", "audio": "audio/sw/words/sw-t-11.mp3" }
+      ]
+    },
+    {
+      "id": "sw-th",
+      "char": "Th",
+      "name": "the",
+      "romanization": "th",
+      "ipa": "/θ/",
+      "letterAudio": "audio/sw/letters/sw-th.mp3",
+      "memoryTrick": "Like 'th' in English 'thin' or 'think' — tongue between teeth, no voice. Found in Arabic loanwords. Don't confuse it with 'dh' (which is voiced, like 'the').",
+      "words": [
+        { "text": "thamani", "roman": "thamani", "meaning": "value, worth", "emoji": "💎", "audio": "audio/sw/words/sw-th-01.mp3" },
+        { "text": "theluji", "roman": "theluji", "meaning": "snow", "emoji": "❄️", "audio": "audio/sw/words/sw-th-02.mp3" },
+        { "text": "thibitisha", "roman": "thibitisha", "meaning": "confirm, prove", "emoji": "✅", "audio": "audio/sw/words/sw-th-03.mp3" },
+        { "text": "thawabu", "roman": "thawabu", "meaning": "reward", "emoji": "🏆", "audio": "audio/sw/words/sw-th-04.mp3" },
+        { "text": "thalatha", "roman": "thalatha", "meaning": "three (Arabic origin)", "emoji": "3️⃣", "audio": "audio/sw/words/sw-th-05.mp3" },
+        { "text": "thamini", "roman": "thamini", "meaning": "appraise, value", "audio": "audio/sw/words/sw-th-06.mp3" }
+      ]
+    },
+    {
+      "id": "sw-u",
+      "char": "U",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/sw/letters/sw-u.mp3",
+      "memoryTrick": "Like 'oo' in 'moon' or 'food' — round your lips tightly and keep the sound pure. Short and clean, never sliding into a 'yoo' glide.",
+      "words": [
+        { "text": "uso", "roman": "uso", "meaning": "face", "emoji": "😊", "audio": "audio/sw/words/sw-u-01.mp3" },
+        { "text": "ua", "roman": "ua", "meaning": "flower; fence", "emoji": "🌸", "audio": "audio/sw/words/sw-u-02.mp3" },
+        { "text": "ukuta", "roman": "ukuta", "meaning": "wall", "emoji": "🧱", "audio": "audio/sw/words/sw-u-03.mp3" },
+        { "text": "upepo", "roman": "upepo", "meaning": "wind", "emoji": "💨", "audio": "audio/sw/words/sw-u-04.mp3" },
+        { "text": "usingizi", "roman": "usingizi", "meaning": "sleep, sleepiness", "emoji": "😴", "audio": "audio/sw/words/sw-u-05.mp3" },
+        { "text": "ulimi", "roman": "ulimi", "meaning": "tongue", "emoji": "👅", "audio": "audio/sw/words/sw-u-06.mp3" },
+        { "text": "ufunguo", "roman": "ufunguo", "meaning": "key", "emoji": "🔑", "audio": "audio/sw/words/sw-u-07.mp3" },
+        { "text": "upendo", "roman": "upendo", "meaning": "love", "emoji": "❤️", "audio": "audio/sw/words/sw-u-08.mp3" },
+        { "text": "ugali", "roman": "ugali", "meaning": "stiff maize porridge", "emoji": "🍚", "audio": "audio/sw/words/sw-u-09.mp3" },
+        { "text": "unga", "roman": "unga", "meaning": "flour", "emoji": "🌾", "audio": "audio/sw/words/sw-u-10.mp3" },
+        { "text": "uma", "roman": "uma", "meaning": "bite; fork", "emoji": "🍴", "audio": "audio/sw/words/sw-u-11.mp3" }
+      ]
+    },
+    {
+      "id": "sw-v",
+      "char": "V",
+      "name": "ve",
+      "romanization": "v",
+      "ipa": "/v/",
+      "letterAudio": "audio/sw/letters/sw-v.mp3",
+      "memoryTrick": "Like English 'v' in 'voice' — top teeth on bottom lip, voice on. Same as in English, so you already know how to make this sound.",
+      "words": [
+        { "text": "viazi", "roman": "viazi", "meaning": "potatoes", "emoji": "🥔", "audio": "audio/sw/words/sw-v-01.mp3" },
+        { "text": "viatu", "roman": "viatu", "meaning": "shoes", "emoji": "👟", "audio": "audio/sw/words/sw-v-02.mp3" },
+        { "text": "vua", "roman": "vua", "meaning": "fish (verb); undress", "emoji": "🎣", "audio": "audio/sw/words/sw-v-03.mp3" },
+        { "text": "vuta", "roman": "vuta", "meaning": "pull", "emoji": "🧲", "audio": "audio/sw/words/sw-v-04.mp3" },
+        { "text": "vaa", "roman": "vaa", "meaning": "wear, dress", "emoji": "👗", "audio": "audio/sw/words/sw-v-05.mp3" },
+        { "text": "vunja", "roman": "vunja", "meaning": "break", "emoji": "💔", "audio": "audio/sw/words/sw-v-06.mp3" },
+        { "text": "vita", "roman": "vita", "meaning": "war", "emoji": "⚔️", "audio": "audio/sw/words/sw-v-07.mp3" },
+        { "text": "vumbi", "roman": "vumbi", "meaning": "dust", "emoji": "💨", "audio": "audio/sw/words/sw-v-08.mp3" },
+        { "text": "vuruga", "roman": "vuruga", "meaning": "disturb, disrupt", "audio": "audio/sw/words/sw-v-09.mp3" },
+        { "text": "vicheko", "roman": "vicheko", "meaning": "laughter", "emoji": "😂", "audio": "audio/sw/words/sw-v-10.mp3" }
+      ]
+    },
+    {
+      "id": "sw-w",
+      "char": "W",
+      "name": "we",
+      "romanization": "w",
+      "ipa": "/w/",
+      "letterAudio": "audio/sw/letters/sw-w.mp3",
+      "memoryTrick": "Like English 'w' in 'water' — round your lips and release. In Swahili, W often appears between vowels where English wouldn't, giving the language its flowing sound.",
+      "words": [
+        { "text": "watu", "roman": "watu", "meaning": "people", "emoji": "👥", "audio": "audio/sw/words/sw-w-01.mp3" },
+        { "text": "wakati", "roman": "wakati", "meaning": "time, when", "emoji": "⏰", "audio": "audio/sw/words/sw-w-02.mp3" },
+        { "text": "wali", "roman": "wali", "meaning": "cooked rice", "emoji": "🍚", "audio": "audio/sw/words/sw-w-03.mp3" },
+        { "text": "wewe", "roman": "wewe", "meaning": "you (singular)", "emoji": "👉", "audio": "audio/sw/words/sw-w-04.mp3" },
+        { "text": "wimbo", "roman": "wimbo", "meaning": "song", "emoji": "🎵", "audio": "audio/sw/words/sw-w-05.mp3" },
+        { "text": "waziri", "roman": "waziri", "meaning": "minister", "emoji": "👔", "audio": "audio/sw/words/sw-w-06.mp3" },
+        { "text": "wingu", "roman": "wingu", "meaning": "cloud", "emoji": "☁️", "audio": "audio/sw/words/sw-w-07.mp3" },
+        { "text": "wema", "roman": "wema", "meaning": "goodness, kindness", "emoji": "😇", "audio": "audio/sw/words/sw-w-08.mp3" },
+        { "text": "wino", "roman": "wino", "meaning": "ink", "emoji": "🖋️", "audio": "audio/sw/words/sw-w-09.mp3" },
+        { "text": "wakala", "roman": "wakala", "meaning": "agency", "emoji": "🏢", "audio": "audio/sw/words/sw-w-10.mp3" }
+      ]
+    },
+    {
+      "id": "sw-y",
+      "char": "Y",
+      "name": "ye",
+      "romanization": "y",
+      "ipa": "/j/",
+      "letterAudio": "audio/sw/letters/sw-y.mp3",
+      "memoryTrick": "Like 'y' in English 'yes' or 'yellow' — a quick glide. The IPA symbol is /j/ (same as German 'j'), not the English letter Y sound.",
+      "words": [
+        { "text": "yai", "roman": "yai", "meaning": "egg", "emoji": "🥚", "audio": "audio/sw/words/sw-y-01.mp3" },
+        { "text": "yeye", "roman": "yeye", "meaning": "he, she", "emoji": "🧑", "audio": "audio/sw/words/sw-y-02.mp3" },
+        { "text": "yote", "roman": "yote", "meaning": "all, everything", "emoji": "💯", "audio": "audio/sw/words/sw-y-03.mp3" },
+        { "text": "yatima", "roman": "yatima", "meaning": "orphan", "audio": "audio/sw/words/sw-y-04.mp3" },
+        { "text": "yumba", "roman": "yumba", "meaning": "sway, wobble", "emoji": "🎢", "audio": "audio/sw/words/sw-y-05.mp3" },
+        { "text": "yapasa", "roman": "yapasa", "meaning": "it is necessary", "audio": "audio/sw/words/sw-y-06.mp3" },
+        { "text": "yabisi", "roman": "yabisi", "meaning": "dry land", "emoji": "🏜️", "audio": "audio/sw/words/sw-y-07.mp3" },
+        { "text": "yeyusha", "roman": "yeyusha", "meaning": "melt, dissolve", "emoji": "🫠", "audio": "audio/sw/words/sw-y-08.mp3" }
+      ]
+    },
+    {
+      "id": "sw-z",
+      "char": "Z",
+      "name": "ze",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/sw/letters/sw-z.mp3",
+      "memoryTrick": "Like 'z' in 'zebra' or 'buzz' — a buzzing 's' with your voice on. Keep it sharp; Swahili never softens Z into an S sound.",
+      "words": [
+        { "text": "zamani", "roman": "zamani", "meaning": "long ago, ancient times", "emoji": "⏳", "audio": "audio/sw/words/sw-z-01.mp3" },
+        { "text": "zuri", "roman": "zuri", "meaning": "good, beautiful", "emoji": "👍", "audio": "audio/sw/words/sw-z-02.mp3" },
+        { "text": "zaliwa", "roman": "zaliwa", "meaning": "be born", "emoji": "👶", "audio": "audio/sw/words/sw-z-03.mp3" },
+        { "text": "zima", "roman": "zima", "meaning": "whole; extinguish", "emoji": "🧯", "audio": "audio/sw/words/sw-z-04.mp3" },
+        { "text": "ziwa", "roman": "ziwa", "meaning": "lake", "emoji": "🏞️", "audio": "audio/sw/words/sw-z-05.mp3" },
+        { "text": "zungumza", "roman": "zungumza", "meaning": "speak, converse", "emoji": "💬", "audio": "audio/sw/words/sw-z-06.mp3" },
+        { "text": "zuia", "roman": "zuia", "meaning": "prevent, stop", "emoji": "🚫", "audio": "audio/sw/words/sw-z-07.mp3" },
+        { "text": "zana", "roman": "zana", "meaning": "tool, instrument", "emoji": "🔧", "audio": "audio/sw/words/sw-z-08.mp3" },
+        { "text": "zawadi", "roman": "zawadi", "meaning": "gift, present", "emoji": "🎁", "audio": "audio/sw/words/sw-z-09.mp3" },
+        { "text": "zoea", "roman": "zoea", "meaning": "get used to, adapt", "emoji": "🔄", "audio": "audio/sw/words/sw-z-10.mp3" }
       ]
     }
   ]

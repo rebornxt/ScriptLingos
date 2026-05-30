@@ -5,54 +5,747 @@
   "letters": [
     {
       "id": "pt-a",
-      "char": "A",
-      "name": "Á",
+      "char": "a",
+      "name": "a",
       "romanization": "a",
       "ipa": "/a/",
       "letterAudio": "audio/pt/letters/pt-a.mp3",
-      "memoryTrick": "An open 'ah'. Watch for its nasal cousin ã, which hums through the nose.",
+      "memoryTrick": "The letter A sounds like the 'a' in 'father' — open and warm, like a Brazilian 'ah!' of delight when seeing the beach.",
       "words": [
-        { "text": "água", "roman": "Á-gua", "meaning": "water", "emoji": "💧", "audio": "audio/pt/words/pt-a-01.mp3" },
-        { "text": "abacaxi", "roman": "a-ba-ka-SHEE", "meaning": "pineapple", "emoji": "🍍", "audio": "audio/pt/words/pt-a-02.mp3" }
+        { "text": "abacaxi", "roman": "abacaxi", "meaning": "pineapple", "emoji": "🍍", "audio": "audio/pt/words/pt-a-01.mp3" },
+        { "text": "abelha", "roman": "abelha", "meaning": "bee", "emoji": "🐝", "audio": "audio/pt/words/pt-a-02.mp3" },
+        { "text": "água", "roman": "água", "meaning": "water", "emoji": "💧", "audio": "audio/pt/words/pt-a-03.mp3" },
+        { "text": "amigo", "roman": "amigo", "meaning": "friend", "emoji": "👫", "audio": "audio/pt/words/pt-a-04.mp3" },
+        { "text": "amor", "roman": "amor", "meaning": "love", "emoji": "❤️", "audio": "audio/pt/words/pt-a-05.mp3" },
+        { "text": "animal", "roman": "animal", "meaning": "animal", "emoji": "🐾", "audio": "audio/pt/words/pt-a-06.mp3" },
+        { "text": "anel", "roman": "anel", "meaning": "ring", "emoji": "💍", "audio": "audio/pt/words/pt-a-07.mp3" },
+        { "text": "areia", "roman": "areia", "meaning": "sand", "emoji": "🏖️", "audio": "audio/pt/words/pt-a-08.mp3" },
+        { "text": "árvore", "roman": "árvore", "meaning": "tree", "emoji": "🌳", "audio": "audio/pt/words/pt-a-09.mp3" },
+        { "text": "avião", "roman": "avião", "meaning": "airplane", "emoji": "✈️", "audio": "audio/pt/words/pt-a-10.mp3" },
+        { "text": "azul", "roman": "azul", "meaning": "blue", "emoji": "🔵", "audio": "audio/pt/words/pt-a-11.mp3" },
+        { "text": "abóbora", "roman": "abóbora", "meaning": "pumpkin", "emoji": "🎃", "audio": "audio/pt/words/pt-a-12.mp3" },
+        { "text": "alegria", "roman": "alegria", "meaning": "joy", "emoji": "😊", "audio": "audio/pt/words/pt-a-13.mp3" },
+        { "text": "amarelo", "roman": "amarelo", "meaning": "yellow", "emoji": "🟡", "audio": "audio/pt/words/pt-a-14.mp3" },
+        { "text": "aranha", "roman": "aranha", "meaning": "spider", "emoji": "🕷️", "audio": "audio/pt/words/pt-a-15.mp3" }
       ]
     },
     {
-      "id": "pt-a-til",
-      "char": "Ã",
-      "name": "A com til",
-      "romanization": "ã",
-      "ipa": "/ɐ̃/",
-      "letterAudio": "audio/pt/letters/pt-a-til.mp3",
-      "memoryTrick": "The wavy tilde means 'send it through your nose' — a nasal 'ã', like the end of 'pão'.",
+      "id": "pt-b",
+      "char": "b",
+      "name": "bê",
+      "romanization": "b",
+      "ipa": "/b/",
+      "letterAudio": "audio/pt/letters/pt-b.mp3",
+      "memoryTrick": "B sounds just like English 'b' in 'ball'. Think of a Brazilian 'bola' (ball) bouncing on the sand — same crisp pop of the lips.",
       "words": [
-        { "text": "pão", "roman": "powng", "meaning": "bread", "emoji": "🍞", "audio": "audio/pt/words/pt-a-til-01.mp3" },
-        { "text": "maçã", "roman": "ma-SANG", "meaning": "apple", "emoji": "🍎", "audio": "audio/pt/words/pt-a-til-02.mp3" }
+        { "text": "bola", "roman": "bola", "meaning": "ball", "emoji": "⚽", "audio": "audio/pt/words/pt-b-01.mp3" },
+        { "text": "bolo", "roman": "bolo", "meaning": "cake", "emoji": "🎂", "audio": "audio/pt/words/pt-b-02.mp3" },
+        { "text": "boca", "roman": "boca", "meaning": "mouth", "emoji": "👄", "audio": "audio/pt/words/pt-b-03.mp3" },
+        { "text": "barco", "roman": "barco", "meaning": "boat", "emoji": "⛵", "audio": "audio/pt/words/pt-b-04.mp3" },
+        { "text": "bebê", "roman": "bebê", "meaning": "baby", "emoji": "👶", "audio": "audio/pt/words/pt-b-05.mp3" },
+        { "text": "beijo", "roman": "beijo", "meaning": "kiss", "emoji": "💋", "audio": "audio/pt/words/pt-b-06.mp3" },
+        { "text": "bonito", "roman": "bonito", "meaning": "beautiful", "emoji": "✨", "audio": "audio/pt/words/pt-b-07.mp3" },
+        { "text": "branco", "roman": "branco", "meaning": "white", "emoji": "⬜", "audio": "audio/pt/words/pt-b-08.mp3" },
+        { "text": "braço", "roman": "braço", "meaning": "arm", "emoji": "💪", "audio": "audio/pt/words/pt-b-09.mp3" },
+        { "text": "bicho", "roman": "bicho", "meaning": "critter", "emoji": "🐛", "audio": "audio/pt/words/pt-b-10.mp3" },
+        { "text": "beber", "roman": "beber", "meaning": "to drink", "emoji": "🥤", "audio": "audio/pt/words/pt-b-11.mp3" },
+        { "text": "banho", "roman": "banho", "meaning": "bath", "emoji": "🛁", "audio": "audio/pt/words/pt-b-12.mp3" }
       ]
     },
     {
       "id": "pt-c",
-      "char": "C",
-      "name": "Cê",
+      "char": "c",
+      "name": "cê",
       "romanization": "c",
-      "ipa": "/k/, /s/",
+      "ipa": "/k/",
       "letterAudio": "audio/pt/letters/pt-c.mp3",
-      "memoryTrick": "Hard 'k' before a, o, u; soft 's' before e, i. With a cedilla (ç) it's always 's'.",
+      "memoryTrick": "C has two faces: hard like 'k' before A, O, U (casa), and soft like 's' before E and I (cidade) — a clever chameleon of the alphabet.",
       "words": [
-        { "text": "casa", "roman": "KA-za", "meaning": "house", "emoji": "🏠", "audio": "audio/pt/words/pt-c-01.mp3" },
-        { "text": "cachorro", "roman": "ka-SHO-ho", "meaning": "dog", "emoji": "🐕", "audio": "audio/pt/words/pt-c-02.mp3" }
+        { "text": "casa", "roman": "casa", "meaning": "house", "emoji": "🏠", "audio": "audio/pt/words/pt-c-01.mp3" },
+        { "text": "carro", "roman": "carro", "meaning": "car", "emoji": "🚗", "audio": "audio/pt/words/pt-c-02.mp3" },
+        { "text": "cachorro", "roman": "cachorro", "meaning": "dog", "emoji": "🐕", "audio": "audio/pt/words/pt-c-03.mp3" },
+        { "text": "café", "roman": "café", "meaning": "coffee", "emoji": "☕", "audio": "audio/pt/words/pt-c-04.mp3" },
+        { "text": "cabeça", "roman": "cabeça", "meaning": "head", "emoji": "🗣️", "audio": "audio/pt/words/pt-c-05.mp3" },
+        { "text": "cama", "roman": "cama", "meaning": "bed", "emoji": "🛏️", "audio": "audio/pt/words/pt-c-06.mp3" },
+        { "text": "canto", "roman": "canto", "meaning": "corner / singing", "emoji": "🎵", "audio": "audio/pt/words/pt-c-07.mp3" },
+        { "text": "campo", "roman": "campo", "meaning": "field", "emoji": "🌾", "audio": "audio/pt/words/pt-c-08.mp3" },
+        { "text": "carne", "roman": "carne", "meaning": "meat", "emoji": "🥩", "audio": "audio/pt/words/pt-c-09.mp3" },
+        { "text": "carta", "roman": "carta", "meaning": "letter", "emoji": "✉️", "audio": "audio/pt/words/pt-c-10.mp3" },
+        { "text": "cidade", "roman": "cidade", "meaning": "city", "emoji": "🏙️", "audio": "audio/pt/words/pt-c-11.mp3" },
+        { "text": "céu", "roman": "céu", "meaning": "sky", "emoji": "🌤️", "audio": "audio/pt/words/pt-c-12.mp3" }
+      ]
+    },
+    {
+      "id": "pt-d",
+      "char": "d",
+      "name": "dê",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/pt/letters/pt-d.mp3",
+      "memoryTrick": "D is like English 'd' in 'dog', but before 'i' or unstressed final 'e' it softens to a 'jee' sound — so 'dia' (day) sounds like 'jee-ah' in many regions.",
+      "words": [
+        { "text": "dedo", "roman": "dedo", "meaning": "finger", "emoji": "👆", "audio": "audio/pt/words/pt-d-01.mp3" },
+        { "text": "dente", "roman": "dente", "meaning": "tooth", "emoji": "🦷", "audio": "audio/pt/words/pt-d-02.mp3" },
+        { "text": "dia", "roman": "dia", "meaning": "day", "emoji": "☀️", "audio": "audio/pt/words/pt-d-03.mp3" },
+        { "text": "dinheiro", "roman": "dinheiro", "meaning": "money", "emoji": "💰", "audio": "audio/pt/words/pt-d-04.mp3" },
+        { "text": "doce", "roman": "doce", "meaning": "sweet", "emoji": "🍬", "audio": "audio/pt/words/pt-d-05.mp3" },
+        { "text": "dois", "roman": "dois", "meaning": "two", "emoji": "2️⃣", "audio": "audio/pt/words/pt-d-06.mp3" },
+        { "text": "dormir", "roman": "dormir", "meaning": "to sleep", "emoji": "😴", "audio": "audio/pt/words/pt-d-07.mp3" },
+        { "text": "doer", "roman": "doer", "meaning": "to hurt", "emoji": "🤕", "audio": "audio/pt/words/pt-d-08.mp3" },
+        { "text": "direito", "roman": "direito", "meaning": "right", "emoji": "👉", "audio": "audio/pt/words/pt-d-09.mp3" },
+        { "text": "duro", "roman": "duro", "meaning": "hard", "emoji": "🪨", "audio": "audio/pt/words/pt-d-10.mp3" },
+        { "text": "dançar", "roman": "dançar", "meaning": "to dance", "emoji": "💃", "audio": "audio/pt/words/pt-d-11.mp3" },
+        { "text": "dente-de-leão", "roman": "dente-de-leão", "meaning": "dandelion", "emoji": "🌼", "audio": "audio/pt/words/pt-d-12.mp3" }
+      ]
+    },
+    {
+      "id": "pt-e",
+      "char": "e",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/e/",
+      "letterAudio": "audio/pt/letters/pt-e.mp3",
+      "memoryTrick": "E can be open like in 'bed' or closed like in 'they'. At the end of words, it often shrinks to an 'ee' sound — so 'noite' (night) ends like 'noy-chee'.",
+      "words": [
+        { "text": "escola", "roman": "escola", "meaning": "school", "emoji": "🏫", "audio": "audio/pt/words/pt-e-01.mp3" },
+        { "text": "estrela", "roman": "estrela", "meaning": "star", "emoji": "⭐", "audio": "audio/pt/words/pt-e-02.mp3" },
+        { "text": "elefante", "roman": "elefante", "meaning": "elephant", "emoji": "🐘", "audio": "audio/pt/words/pt-e-03.mp3" },
+        { "text": "espelho", "roman": "espelho", "meaning": "mirror", "emoji": "🪞", "audio": "audio/pt/words/pt-e-04.mp3" },
+        { "text": "escada", "roman": "escada", "meaning": "stairs", "emoji": "🪜", "audio": "audio/pt/words/pt-e-05.mp3" },
+        { "text": "escrever", "roman": "escrever", "meaning": "to write", "emoji": "✍️", "audio": "audio/pt/words/pt-e-06.mp3" },
+        { "text": "encontrar", "roman": "encontrar", "meaning": "to find", "emoji": "🔍", "audio": "audio/pt/words/pt-e-07.mp3" },
+        { "text": "entrar", "roman": "entrar", "meaning": "to enter", "emoji": "🚪", "audio": "audio/pt/words/pt-e-08.mp3" },
+        { "text": "ensinar", "roman": "ensinar", "meaning": "to teach", "emoji": "📚", "audio": "audio/pt/words/pt-e-09.mp3" },
+        { "text": "esperar", "roman": "esperar", "meaning": "to wait", "emoji": "⏳", "audio": "audio/pt/words/pt-e-10.mp3" }
+      ]
+    },
+    {
+      "id": "pt-f",
+      "char": "f",
+      "name": "efe",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/pt/letters/pt-f.mp3",
+      "memoryTrick": "F is the same as English — just like the 'f' in 'family' or in Brazilian 'família'. Steady and reliable, no surprises.",
+      "words": [
+        { "text": "fogo", "roman": "fogo", "meaning": "fire", "emoji": "🔥", "audio": "audio/pt/words/pt-f-01.mp3" },
+        { "text": "flor", "roman": "flor", "meaning": "flower", "emoji": "🌸", "audio": "audio/pt/words/pt-f-02.mp3" },
+        { "text": "fome", "roman": "fome", "meaning": "hunger", "emoji": "🍽️", "audio": "audio/pt/words/pt-f-03.mp3" },
+        { "text": "forte", "roman": "forte", "meaning": "strong", "emoji": "💪", "audio": "audio/pt/words/pt-f-04.mp3" },
+        { "text": "frio", "roman": "frio", "meaning": "cold", "emoji": "🥶", "audio": "audio/pt/words/pt-f-05.mp3" },
+        { "text": "fruta", "roman": "fruta", "meaning": "fruit", "emoji": "🍎", "audio": "audio/pt/words/pt-f-06.mp3" },
+        { "text": "família", "roman": "família", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/pt/words/pt-f-07.mp3" },
+        { "text": "feliz", "roman": "feliz", "meaning": "happy", "emoji": "😄", "audio": "audio/pt/words/pt-f-08.mp3" },
+        { "text": "falar", "roman": "falar", "meaning": "to speak", "emoji": "🗣️", "audio": "audio/pt/words/pt-f-09.mp3" },
+        { "text": "festa", "roman": "festa", "meaning": "party", "emoji": "🎉", "audio": "audio/pt/words/pt-f-10.mp3" }
+      ]
+    },
+    {
+      "id": "pt-g",
+      "char": "g",
+      "name": "gê",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "letterAudio": "audio/pt/letters/pt-g.mp3",
+      "memoryTrick": "G before A, O, U sounds like 'g' in 'go'. Before E and I, it becomes the 'zh' sound like the 's' in 'pleasure' — so 'gente' (people) starts with a soft buzz.",
+      "words": [
+        { "text": "gato", "roman": "gato", "meaning": "cat", "emoji": "🐱", "audio": "audio/pt/words/pt-g-01.mp3" },
+        { "text": "galo", "roman": "galo", "meaning": "rooster", "emoji": "🐓", "audio": "audio/pt/words/pt-g-02.mp3" },
+        { "text": "garfo", "roman": "garfo", "meaning": "fork", "emoji": "🍴", "audio": "audio/pt/words/pt-g-03.mp3" },
+        { "text": "garota", "roman": "garota", "meaning": "girl", "emoji": "👧", "audio": "audio/pt/words/pt-g-04.mp3" },
+        { "text": "gelo", "roman": "gelo", "meaning": "ice", "emoji": "🧊", "audio": "audio/pt/words/pt-g-05.mp3" },
+        { "text": "gente", "roman": "gente", "meaning": "people", "emoji": "👥", "audio": "audio/pt/words/pt-g-06.mp3" },
+        { "text": "grande", "roman": "grande", "meaning": "big", "emoji": "🐘", "audio": "audio/pt/words/pt-g-07.mp3" },
+        { "text": "gordo", "roman": "gordo", "meaning": "fat", "emoji": "🍔", "audio": "audio/pt/words/pt-g-08.mp3" },
+        { "text": "gostar", "roman": "gostar", "meaning": "to like", "emoji": "👍", "audio": "audio/pt/words/pt-g-09.mp3" },
+        { "text": "grito", "roman": "grito", "meaning": "shout", "emoji": "📢", "audio": "audio/pt/words/pt-g-10.mp3" }
+      ]
+    },
+    {
+      "id": "pt-h",
+      "char": "h",
+      "name": "agá",
+      "romanization": "h",
+      "ipa": "",
+      "letterAudio": "audio/pt/letters/pt-h.mp3",
+      "memoryTrick": "H is completely silent in Portuguese — it is the shy letter that never utters a sound. 'Hotel' is pronounced 'o-tel' and 'hoje' (today) begins with a pure 'o'.",
+      "words": [
+        { "text": "hoje", "roman": "hoje", "meaning": "today", "emoji": "📅", "audio": "audio/pt/words/pt-h-01.mp3" },
+        { "text": "homem", "roman": "homem", "meaning": "man", "emoji": "👨", "audio": "audio/pt/words/pt-h-02.mp3" },
+        { "text": "hora", "roman": "hora", "meaning": "hour", "emoji": "🕐", "audio": "audio/pt/words/pt-h-03.mp3" },
+        { "text": "hotel", "roman": "hotel", "meaning": "hotel", "emoji": "🏨", "audio": "audio/pt/words/pt-h-04.mp3" },
+        { "text": "humano", "roman": "humano", "meaning": "human", "emoji": "🧑", "audio": "audio/pt/words/pt-h-05.mp3" },
+        { "text": "horta", "roman": "horta", "meaning": "vegetable garden", "emoji": "🥬", "audio": "audio/pt/words/pt-h-06.mp3" },
+        { "text": "história", "roman": "história", "meaning": "story", "emoji": "📖", "audio": "audio/pt/words/pt-h-07.mp3" },
+        { "text": "herói", "roman": "herói", "meaning": "hero", "emoji": "🦸", "audio": "audio/pt/words/pt-h-08.mp3" }
+      ]
+    },
+    {
+      "id": "pt-i",
+      "char": "i",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/pt/letters/pt-i.mp3",
+      "memoryTrick": "I is always a clean 'ee' sound like in 'see' — no surprises, always pure. Think of the Brazilian 'sim' (yes) with that bright, smiling vowel.",
+      "words": [
+        { "text": "igreja", "roman": "igreja", "meaning": "church", "emoji": "⛪", "audio": "audio/pt/words/pt-i-01.mp3" },
+        { "text": "ilha", "roman": "ilha", "meaning": "island", "emoji": "🏝️", "audio": "audio/pt/words/pt-i-02.mp3" },
+        { "text": "irmão", "roman": "irmão", "meaning": "brother", "emoji": "👦", "audio": "audio/pt/words/pt-i-03.mp3" },
+        { "text": "irmã", "roman": "irmã", "meaning": "sister", "emoji": "👧", "audio": "audio/pt/words/pt-i-04.mp3" },
+        { "text": "igual", "roman": "igual", "meaning": "equal", "emoji": "🟰", "audio": "audio/pt/words/pt-i-05.mp3" },
+        { "text": "ideia", "roman": "ideia", "meaning": "idea", "emoji": "💡", "audio": "audio/pt/words/pt-i-06.mp3" },
+        { "text": "início", "roman": "início", "meaning": "beginning", "emoji": "🏁", "audio": "audio/pt/words/pt-i-07.mp3" },
+        { "text": "inteligente", "roman": "inteligente", "meaning": "intelligent", "emoji": "🧠", "audio": "audio/pt/words/pt-i-08.mp3" }
+      ]
+    },
+    {
+      "id": "pt-j",
+      "char": "j",
+      "name": "jota",
+      "romanization": "j",
+      "ipa": "/ʒ/",
+      "letterAudio": "audio/pt/letters/pt-j.mp3",
+      "memoryTrick": "J always gives the 'zh' sound like the 's' in 'pleasure' — consistent and never changes. 'Jogo' (game) starts with that same soft buzz as 'gente'.",
+      "words": [
+        { "text": "janela", "roman": "janela", "meaning": "window", "emoji": "🪟", "audio": "audio/pt/words/pt-j-01.mp3" },
+        { "text": "jardim", "roman": "jardim", "meaning": "garden", "emoji": "🌻", "audio": "audio/pt/words/pt-j-02.mp3" },
+        { "text": "jantar", "roman": "jantar", "meaning": "dinner", "emoji": "🍽️", "audio": "audio/pt/words/pt-j-03.mp3" },
+        { "text": "jeito", "roman": "jeito", "meaning": "way", "emoji": "🛤️", "audio": "audio/pt/words/pt-j-04.mp3" },
+        { "text": "jovem", "roman": "jovem", "meaning": "young", "emoji": "🧑", "audio": "audio/pt/words/pt-j-05.mp3" },
+        { "text": "joelho", "roman": "joelho", "meaning": "knee", "emoji": "🦵", "audio": "audio/pt/words/pt-j-06.mp3" },
+        { "text": "jogar", "roman": "jogar", "meaning": "to play", "emoji": "🎮", "audio": "audio/pt/words/pt-j-07.mp3" },
+        { "text": "jornal", "roman": "jornal", "meaning": "newspaper", "emoji": "📰", "audio": "audio/pt/words/pt-j-08.mp3" },
+        { "text": "junto", "roman": "junto", "meaning": "together", "emoji": "🤝", "audio": "audio/pt/words/pt-j-09.mp3" },
+        { "text": "justo", "roman": "justo", "meaning": "fair", "emoji": "⚖️", "audio": "audio/pt/words/pt-j-10.mp3" }
+      ]
+    },
+    {
+      "id": "pt-k",
+      "char": "k",
+      "name": "cá",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/pt/letters/pt-k.mp3",
+      "memoryTrick": "K only appears in borrowed words and sounds just like English 'k' — as in 'kayak' or the Japanese 'karatê'. A rare guest in Portuguese.",
+      "words": [
+        { "text": "kayak", "roman": "kayak", "meaning": "kayak", "emoji": "🛶", "audio": "audio/pt/words/pt-k-01.mp3" },
+        { "text": "ketchup", "roman": "ketchup", "meaning": "ketchup", "emoji": "🍅", "audio": "audio/pt/words/pt-k-02.mp3" },
+        { "text": "kiwi", "roman": "kiwi", "meaning": "kiwi", "emoji": "🥝", "audio": "audio/pt/words/pt-k-03.mp3" },
+        { "text": "karatê", "roman": "karatê", "meaning": "karate", "emoji": "🥋", "audio": "audio/pt/words/pt-k-04.mp3" },
+        { "text": "kung fu", "roman": "kung fu", "meaning": "kung fu", "emoji": "🤸", "audio": "audio/pt/words/pt-k-05.mp3" }
+      ]
+    },
+    {
+      "id": "pt-l",
+      "char": "l",
+      "name": "ele",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/pt/letters/pt-l.mp3",
+      "memoryTrick": "L at the start of a syllable is like English 'l' in 'love'. At the end of a syllable, it becomes a 'w' sound — so 'Brasil' sounds like 'bra-zee-oo'.",
+      "words": [
+        { "text": "lago", "roman": "lago", "meaning": "lake", "emoji": "🏞️", "audio": "audio/pt/words/pt-l-01.mp3" },
+        { "text": "laranja", "roman": "laranja", "meaning": "orange", "emoji": "🍊", "audio": "audio/pt/words/pt-l-02.mp3" },
+        { "text": "leite", "roman": "leite", "meaning": "milk", "emoji": "🥛", "audio": "audio/pt/words/pt-l-03.mp3" },
+        { "text": "leão", "roman": "leão", "meaning": "lion", "emoji": "🦁", "audio": "audio/pt/words/pt-l-04.mp3" },
+        { "text": "livro", "roman": "livro", "meaning": "book", "emoji": "📕", "audio": "audio/pt/words/pt-l-05.mp3" },
+        { "text": "limpo", "roman": "limpo", "meaning": "clean", "emoji": "🧹", "audio": "audio/pt/words/pt-l-06.mp3" },
+        { "text": "lindo", "roman": "lindo", "meaning": "gorgeous", "emoji": "😍", "audio": "audio/pt/words/pt-l-07.mp3" },
+        { "text": "longe", "roman": "longe", "meaning": "far", "emoji": "📏", "audio": "audio/pt/words/pt-l-08.mp3" },
+        { "text": "lua", "roman": "lua", "meaning": "moon", "emoji": "🌙", "audio": "audio/pt/words/pt-l-09.mp3" },
+        { "text": "luz", "roman": "luz", "meaning": "light", "emoji": "💡", "audio": "audio/pt/words/pt-l-10.mp3" }
+      ]
+    },
+    {
+      "id": "pt-m",
+      "char": "m",
+      "name": "eme",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/pt/letters/pt-m.mp3",
+      "memoryTrick": "M at the start of a syllable sounds like English 'm'. At the end of a syllable, it nasalizes the vowel before it — 'bom' (good) ends with your nose, not your lips.",
+      "words": [
+        { "text": "maçã", "roman": "maçã", "meaning": "apple", "emoji": "🍎", "audio": "audio/pt/words/pt-m-01.mp3" },
+        { "text": "mão", "roman": "mão", "meaning": "hand", "emoji": "✋", "audio": "audio/pt/words/pt-m-02.mp3" },
+        { "text": "mar", "roman": "mar", "meaning": "sea", "emoji": "🌊", "audio": "audio/pt/words/pt-m-03.mp3" },
+        { "text": "mãe", "roman": "mãe", "meaning": "mother", "emoji": "👩", "audio": "audio/pt/words/pt-m-04.mp3" },
+        { "text": "médico", "roman": "médico", "meaning": "doctor", "emoji": "🩺", "audio": "audio/pt/words/pt-m-05.mp3" },
+        { "text": "melhor", "roman": "melhor", "meaning": "better", "emoji": "🌟", "audio": "audio/pt/words/pt-m-06.mp3" },
+        { "text": "mesa", "roman": "mesa", "meaning": "table", "emoji": "🪑", "audio": "audio/pt/words/pt-m-07.mp3" },
+        { "text": "milho", "roman": "milho", "meaning": "corn", "emoji": "🌽", "audio": "audio/pt/words/pt-m-08.mp3" },
+        { "text": "montanha", "roman": "montanha", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/pt/words/pt-m-09.mp3" },
+        { "text": "mulher", "roman": "mulher", "meaning": "woman", "emoji": "👩", "audio": "audio/pt/words/pt-m-10.mp3" }
+      ]
+    },
+    {
+      "id": "pt-n",
+      "char": "n",
+      "name": "ene",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/pt/letters/pt-n.mp3",
+      "memoryTrick": "N at the start of a syllable is like English 'n'. At the end of a syllable, it nasalizes the vowel — much like M, so 'pente' (comb) has a nasal first syllable.",
+      "words": [
+        { "text": "nariz", "roman": "nariz", "meaning": "nose", "emoji": "👃", "audio": "audio/pt/words/pt-n-01.mp3" },
+        { "text": "navio", "roman": "navio", "meaning": "ship", "emoji": "🚢", "audio": "audio/pt/words/pt-n-02.mp3" },
+        { "text": "neve", "roman": "neve", "meaning": "snow", "emoji": "❄️", "audio": "audio/pt/words/pt-n-03.mp3" },
+        { "text": "neto", "roman": "neto", "meaning": "grandson", "emoji": "👦", "audio": "audio/pt/words/pt-n-04.mp3" },
+        { "text": "noite", "roman": "noite", "meaning": "night", "emoji": "🌙", "audio": "audio/pt/words/pt-n-05.mp3" },
+        { "text": "nome", "roman": "nome", "meaning": "name", "emoji": "📛", "audio": "audio/pt/words/pt-n-06.mp3" },
+        { "text": "norte", "roman": "norte", "meaning": "north", "emoji": "🧭", "audio": "audio/pt/words/pt-n-07.mp3" },
+        { "text": "novo", "roman": "novo", "meaning": "new", "emoji": "🆕", "audio": "audio/pt/words/pt-n-08.mp3" },
+        { "text": "nuvem", "roman": "nuvem", "meaning": "cloud", "emoji": "☁️", "audio": "audio/pt/words/pt-n-09.mp3" },
+        { "text": "nunca", "roman": "nunca", "meaning": "never", "emoji": "🚫", "audio": "audio/pt/words/pt-n-10.mp3" }
+      ]
+    },
+    {
+      "id": "pt-o",
+      "char": "o",
+      "name": "ó",
+      "romanization": "o",
+      "ipa": "/o/",
+      "letterAudio": "audio/pt/letters/pt-o.mp3",
+      "memoryTrick": "O can be open like 'awe' or closed like 'oh'. At the end of words, it often reduces to an 'oo' sound — 'ovo' (egg) sounds almost like 'oh-voo'.",
+      "words": [
+        { "text": "óculos", "roman": "óculos", "meaning": "glasses", "emoji": "👓", "audio": "audio/pt/words/pt-o-01.mp3" },
+        { "text": "oceano", "roman": "oceano", "meaning": "ocean", "emoji": "🌊", "audio": "audio/pt/words/pt-o-02.mp3" },
+        { "text": "olho", "roman": "olho", "meaning": "eye", "emoji": "👁️", "audio": "audio/pt/words/pt-o-03.mp3" },
+        { "text": "ombro", "roman": "ombro", "meaning": "shoulder", "emoji": "🦴", "audio": "audio/pt/words/pt-o-04.mp3" },
+        { "text": "onde", "roman": "onde", "meaning": "where", "emoji": "📍", "audio": "audio/pt/words/pt-o-05.mp3" },
+        { "text": "ontem", "roman": "ontem", "meaning": "yesterday", "emoji": "📆", "audio": "audio/pt/words/pt-o-06.mp3" },
+        { "text": "orelha", "roman": "orelha", "meaning": "ear", "emoji": "👂", "audio": "audio/pt/words/pt-o-07.mp3" },
+        { "text": "ouro", "roman": "ouro", "meaning": "gold", "emoji": "🥇", "audio": "audio/pt/words/pt-o-08.mp3" },
+        { "text": "ovo", "roman": "ovo", "meaning": "egg", "emoji": "🥚", "audio": "audio/pt/words/pt-o-09.mp3" },
+        { "text": "ouvir", "roman": "ouvir", "meaning": "to hear", "emoji": "👂", "audio": "audio/pt/words/pt-o-10.mp3" }
       ]
     },
     {
       "id": "pt-p",
-      "char": "P",
-      "name": "Pê",
+      "char": "p",
+      "name": "pê",
       "romanization": "p",
       "ipa": "/p/",
       "letterAudio": "audio/pt/letters/pt-p.mp3",
-      "memoryTrick": "A clean 'p' with no puff of air after it — lighter than the English 'p'.",
+      "memoryTrick": "P is the same as English 'p' but softer — a crisp, unaspirated pop of the lips. 'Pão' (bread) has a gentle puff, not the explosive 'p' of English 'pan'.",
       "words": [
-        { "text": "praia", "roman": "PRAI-a", "meaning": "beach", "emoji": "🏖️", "audio": "audio/pt/words/pt-p-01.mp3" },
-        { "text": "pé", "roman": "peh", "meaning": "foot", "emoji": "🦶", "audio": "audio/pt/words/pt-p-02.mp3" }
+        { "text": "pai", "roman": "pai", "meaning": "father", "emoji": "👨", "audio": "audio/pt/words/pt-p-01.mp3" },
+        { "text": "pão", "roman": "pão", "meaning": "bread", "emoji": "🍞", "audio": "audio/pt/words/pt-p-02.mp3" },
+        { "text": "pássaro", "roman": "pássaro", "meaning": "bird", "emoji": "🐦", "audio": "audio/pt/words/pt-p-03.mp3" },
+        { "text": "pedra", "roman": "pedra", "meaning": "stone", "emoji": "🪨", "audio": "audio/pt/words/pt-p-04.mp3" },
+        { "text": "peixe", "roman": "peixe", "meaning": "fish", "emoji": "🐟", "audio": "audio/pt/words/pt-p-05.mp3" },
+        { "text": "pequeno", "roman": "pequeno", "meaning": "small", "emoji": "🔹", "audio": "audio/pt/words/pt-p-06.mp3" },
+        { "text": "pessoa", "roman": "pessoa", "meaning": "person", "emoji": "🧍", "audio": "audio/pt/words/pt-p-07.mp3" },
+        { "text": "planta", "roman": "planta", "meaning": "plant", "emoji": "🪴", "audio": "audio/pt/words/pt-p-08.mp3" },
+        { "text": "ponte", "roman": "ponte", "meaning": "bridge", "emoji": "🌉", "audio": "audio/pt/words/pt-p-09.mp3" },
+        { "text": "porta", "roman": "porta", "meaning": "door", "emoji": "🚪", "audio": "audio/pt/words/pt-p-10.mp3" },
+        { "text": "praia", "roman": "praia", "meaning": "beach", "emoji": "🏖️", "audio": "audio/pt/words/pt-p-11.mp3" },
+        { "text": "preto", "roman": "preto", "meaning": "black", "emoji": "⬛", "audio": "audio/pt/words/pt-p-12.mp3" }
+      ]
+    },
+    {
+      "id": "pt-q",
+      "char": "q",
+      "name": "quê",
+      "romanization": "q",
+      "ipa": "/k/",
+      "letterAudio": "audio/pt/letters/pt-q.mp3",
+      "memoryTrick": "Q always appears before U in Portuguese. 'Qu' before A or O sounds like 'kw' (quarto), while before E or I it sounds like 'k' (queijo) — the U goes silent.",
+      "words": [
+        { "text": "quadro", "roman": "quadro", "meaning": "picture", "emoji": "🖼️", "audio": "audio/pt/words/pt-q-01.mp3" },
+        { "text": "qual", "roman": "qual", "meaning": "which", "emoji": "❓", "audio": "audio/pt/words/pt-q-02.mp3" },
+        { "text": "quando", "roman": "quando", "meaning": "when", "emoji": "🕰️", "audio": "audio/pt/words/pt-q-03.mp3" },
+        { "text": "quanto", "roman": "quanto", "meaning": "how much", "emoji": "🔢", "audio": "audio/pt/words/pt-q-04.mp3" },
+        { "text": "quarto", "roman": "quarto", "meaning": "room", "emoji": "🛏️", "audio": "audio/pt/words/pt-q-05.mp3" },
+        { "text": "quase", "roman": "quase", "meaning": "almost", "emoji": "🤏", "audio": "audio/pt/words/pt-q-06.mp3" },
+        { "text": "queijo", "roman": "queijo", "meaning": "cheese", "emoji": "🧀", "audio": "audio/pt/words/pt-q-07.mp3" },
+        { "text": "querer", "roman": "querer", "meaning": "to want", "emoji": "🙏", "audio": "audio/pt/words/pt-q-08.mp3" }
+      ]
+    },
+    {
+      "id": "pt-r",
+      "char": "r",
+      "name": "erre",
+      "romanization": "r",
+      "ipa": "/ʁ/",
+      "letterAudio": "audio/pt/letters/pt-r.mp3",
+      "memoryTrick": "R at the start of a word or when doubled is a guttural 'h' sound (like clearing your throat softly). Between vowels, it is a quick tap like the 'dd' in American 'ladder'.",
+      "words": [
+        { "text": "rainha", "roman": "rainha", "meaning": "queen", "emoji": "👑", "audio": "audio/pt/words/pt-r-01.mp3" },
+        { "text": "rato", "roman": "rato", "meaning": "rat", "emoji": "🐀", "audio": "audio/pt/words/pt-r-02.mp3" },
+        { "text": "rede", "roman": "rede", "meaning": "net", "emoji": "🕸️", "audio": "audio/pt/words/pt-r-03.mp3" },
+        { "text": "rei", "roman": "rei", "meaning": "king", "emoji": "🤴", "audio": "audio/pt/words/pt-r-04.mp3" },
+        { "text": "relógio", "roman": "relógio", "meaning": "clock", "emoji": "🕰️", "audio": "audio/pt/words/pt-r-05.mp3" },
+        { "text": "rico", "roman": "rico", "meaning": "rich", "emoji": "💎", "audio": "audio/pt/words/pt-r-06.mp3" },
+        { "text": "rio", "roman": "rio", "meaning": "river", "emoji": "🏞️", "audio": "audio/pt/words/pt-r-07.mp3" },
+        { "text": "roda", "roman": "roda", "meaning": "wheel", "emoji": "🛞", "audio": "audio/pt/words/pt-r-08.mp3" },
+        { "text": "roupa", "roman": "roupa", "meaning": "clothes", "emoji": "👕", "audio": "audio/pt/words/pt-r-09.mp3" },
+        { "text": "rua", "roman": "rua", "meaning": "street", "emoji": "🛣️", "audio": "audio/pt/words/pt-r-10.mp3" }
+      ]
+    },
+    {
+      "id": "pt-s",
+      "char": "s",
+      "name": "esse",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/pt/letters/pt-s.mp3",
+      "memoryTrick": "S between vowels buzzes like 'z' in 'zebra'. At the start of a word or when doubled, it is a crisp 's'. 'Casa' (house) has a buzzing S, while 'sapo' (frog) has a sharp one.",
+      "words": [
+        { "text": "sábado", "roman": "sábado", "meaning": "Saturday", "emoji": "📅", "audio": "audio/pt/words/pt-s-01.mp3" },
+        { "text": "sapo", "roman": "sapo", "meaning": "frog", "emoji": "🐸", "audio": "audio/pt/words/pt-s-02.mp3" },
+        { "text": "saúde", "roman": "saúde", "meaning": "health", "emoji": "❤️‍🩹", "audio": "audio/pt/words/pt-s-03.mp3" },
+        { "text": "semente", "roman": "semente", "meaning": "seed", "emoji": "🌱", "audio": "audio/pt/words/pt-s-04.mp3" },
+        { "text": "sempre", "roman": "sempre", "meaning": "always", "emoji": "♾️", "audio": "audio/pt/words/pt-s-05.mp3" },
+        { "text": "sinal", "roman": "sinal", "meaning": "sign", "emoji": "🛑", "audio": "audio/pt/words/pt-s-06.mp3" },
+        { "text": "sol", "roman": "sol", "meaning": "sun", "emoji": "☀️", "audio": "audio/pt/words/pt-s-07.mp3" },
+        { "text": "sono", "roman": "sono", "meaning": "sleep", "emoji": "😴", "audio": "audio/pt/words/pt-s-08.mp3" },
+        { "text": "sopa", "roman": "sopa", "meaning": "soup", "emoji": "🍜", "audio": "audio/pt/words/pt-s-09.mp3" },
+        { "text": "sorriso", "roman": "sorriso", "meaning": "smile", "emoji": "😊", "audio": "audio/pt/words/pt-s-10.mp3" },
+        { "text": "suco", "roman": "suco", "meaning": "juice", "emoji": "🧃", "audio": "audio/pt/words/pt-s-11.mp3" },
+        { "text": "sul", "roman": "sul", "meaning": "south", "emoji": "⬇️", "audio": "audio/pt/words/pt-s-12.mp3" }
+      ]
+    },
+    {
+      "id": "pt-t",
+      "char": "t",
+      "name": "tê",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/pt/letters/pt-t.mp3",
+      "memoryTrick": "T is like English 't' in 'top', but before 'i' or unstressed final 'e' it softens to a 'chee' sound — 'tio' (uncle) sounds like 'chee-oh' in most of Brazil.",
+      "words": [
+        { "text": "tarde", "roman": "tarde", "meaning": "afternoon", "emoji": "🌅", "audio": "audio/pt/words/pt-t-01.mp3" },
+        { "text": "telhado", "roman": "telhado", "meaning": "roof", "emoji": "🏠", "audio": "audio/pt/words/pt-t-02.mp3" },
+        { "text": "tempo", "roman": "tempo", "meaning": "time", "emoji": "⏰", "audio": "audio/pt/words/pt-t-03.mp3" },
+        { "text": "terra", "roman": "terra", "meaning": "earth", "emoji": "🌍", "audio": "audio/pt/words/pt-t-04.mp3" },
+        { "text": "tigre", "roman": "tigre", "meaning": "tiger", "emoji": "🐅", "audio": "audio/pt/words/pt-t-05.mp3" },
+        { "text": "trabalho", "roman": "trabalho", "meaning": "work", "emoji": "💼", "audio": "audio/pt/words/pt-t-06.mp3" },
+        { "text": "trem", "roman": "trem", "meaning": "train", "emoji": "🚂", "audio": "audio/pt/words/pt-t-07.mp3" },
+        { "text": "triste", "roman": "triste", "meaning": "sad", "emoji": "😢", "audio": "audio/pt/words/pt-t-08.mp3" },
+        { "text": "tudo", "roman": "tudo", "meaning": "everything", "emoji": "🌐", "audio": "audio/pt/words/pt-t-09.mp3" },
+        { "text": "tulipa", "roman": "tulipa", "meaning": "tulip", "emoji": "🌷", "audio": "audio/pt/words/pt-t-10.mp3" }
+      ]
+    },
+    {
+      "id": "pt-u",
+      "char": "u",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/pt/letters/pt-u.mp3",
+      "memoryTrick": "U is always a clean 'oo' sound like in 'moon' — steady, pure, and never diphthongized. 'Uva' (grape) starts with that round, simple 'oo'.",
+      "words": [
+        { "text": "uva", "roman": "uva", "meaning": "grape", "emoji": "🍇", "audio": "audio/pt/words/pt-u-01.mp3" },
+        { "text": "urso", "roman": "urso", "meaning": "bear", "emoji": "🐻", "audio": "audio/pt/words/pt-u-02.mp3" },
+        { "text": "unha", "roman": "unha", "meaning": "nail", "emoji": "💅", "audio": "audio/pt/words/pt-u-03.mp3" },
+        { "text": "último", "roman": "último", "meaning": "last", "emoji": "🏁", "audio": "audio/pt/words/pt-u-04.mp3" },
+        { "text": "umbigo", "roman": "umbigo", "meaning": "navel", "emoji": "🔘", "audio": "audio/pt/words/pt-u-05.mp3" },
+        { "text": "usar", "roman": "usar", "meaning": "to use", "emoji": "🔧", "audio": "audio/pt/words/pt-u-06.mp3" },
+        { "text": "urgente", "roman": "urgente", "meaning": "urgent", "emoji": "⚠️", "audio": "audio/pt/words/pt-u-07.mp3" },
+        { "text": "universo", "roman": "universo", "meaning": "universe", "emoji": "🌌", "audio": "audio/pt/words/pt-u-08.mp3" }
+      ]
+    },
+    {
+      "id": "pt-v",
+      "char": "v",
+      "name": "vê",
+      "romanization": "v",
+      "ipa": "/v/",
+      "letterAudio": "audio/pt/letters/pt-v.mp3",
+      "memoryTrick": "V sounds just like English 'v' in 'voice' — Brazilians clearly distinguish V from B, so 'vaca' (cow) and 'baca' (berry) never get confused.",
+      "words": [
+        { "text": "vaca", "roman": "vaca", "meaning": "cow", "emoji": "🐄", "audio": "audio/pt/words/pt-v-01.mp3" },
+        { "text": "velho", "roman": "velho", "meaning": "old", "emoji": "👴", "audio": "audio/pt/words/pt-v-02.mp3" },
+        { "text": "vela", "roman": "vela", "meaning": "candle", "emoji": "🕯️", "audio": "audio/pt/words/pt-v-03.mp3" },
+        { "text": "vento", "roman": "vento", "meaning": "wind", "emoji": "💨", "audio": "audio/pt/words/pt-v-04.mp3" },
+        { "text": "verão", "roman": "verão", "meaning": "summer", "emoji": "☀️", "audio": "audio/pt/words/pt-v-05.mp3" },
+        { "text": "verde", "roman": "verde", "meaning": "green", "emoji": "🟢", "audio": "audio/pt/words/pt-v-06.mp3" },
+        { "text": "vestido", "roman": "vestido", "meaning": "dress", "emoji": "👗", "audio": "audio/pt/words/pt-v-07.mp3" },
+        { "text": "vida", "roman": "vida", "meaning": "life", "emoji": "💖", "audio": "audio/pt/words/pt-v-08.mp3" },
+        { "text": "vinho", "roman": "vinho", "meaning": "wine", "emoji": "🍷", "audio": "audio/pt/words/pt-v-09.mp3" },
+        { "text": "voar", "roman": "voar", "meaning": "to fly", "emoji": "🕊️", "audio": "audio/pt/words/pt-v-10.mp3" }
+      ]
+    },
+    {
+      "id": "pt-w",
+      "char": "w",
+      "name": "dáblio",
+      "romanization": "w",
+      "ipa": "/w/",
+      "letterAudio": "audio/pt/letters/pt-w.mp3",
+      "memoryTrick": "W only appears in borrowed words and names. It usually sounds like English 'w' (web, waffle), but in German-origin names it can sound like 'v'.",
+      "words": [
+        { "text": "web", "roman": "web", "meaning": "web", "emoji": "🌐", "audio": "audio/pt/words/pt-w-01.mp3" },
+        { "text": "waffle", "roman": "waffle", "meaning": "waffle", "emoji": "🧇", "audio": "audio/pt/words/pt-w-02.mp3" },
+        { "text": "windsurf", "roman": "windsurf", "meaning": "windsurfing", "emoji": "🏄", "audio": "audio/pt/words/pt-w-03.mp3" },
+        { "text": "walkman", "roman": "walkman", "meaning": "walkman", "emoji": "🎧", "audio": "audio/pt/words/pt-w-04.mp3" }
+      ]
+    },
+    {
+      "id": "pt-x",
+      "char": "x",
+      "name": "xis",
+      "romanization": "x",
+      "ipa": "/ʃ/",
+      "letterAudio": "audio/pt/letters/pt-x.mp3",
+      "memoryTrick": "X is the trickster of Portuguese! It can sound like 'sh' (xadrez), 'ks' (táxi), 's' (próximo), or 'z' (exame). The 'sh' sound is the most common at the start of words.",
+      "words": [
+        { "text": "xadrez", "roman": "xadrez", "meaning": "chess", "emoji": "♟️", "audio": "audio/pt/words/pt-x-01.mp3" },
+        { "text": "xale", "roman": "xale", "meaning": "shawl", "emoji": "🧣", "audio": "audio/pt/words/pt-x-02.mp3" },
+        { "text": "xampu", "roman": "xampu", "meaning": "shampoo", "emoji": "🧴", "audio": "audio/pt/words/pt-x-03.mp3" },
+        { "text": "xarope", "roman": "xarope", "meaning": "syrup", "emoji": "🍯", "audio": "audio/pt/words/pt-x-04.mp3" },
+        { "text": "xícara", "roman": "xícara", "meaning": "cup", "emoji": "☕", "audio": "audio/pt/words/pt-x-05.mp3" },
+        { "text": "xerife", "roman": "xerife", "meaning": "sheriff", "emoji": "⭐", "audio": "audio/pt/words/pt-x-06.mp3" },
+        { "text": "xodó", "roman": "xodó", "meaning": "darling", "emoji": "🥰", "audio": "audio/pt/words/pt-x-07.mp3" }
+      ]
+    },
+    {
+      "id": "pt-y",
+      "char": "y",
+      "name": "ípsilon",
+      "romanization": "y",
+      "ipa": "/i/",
+      "letterAudio": "audio/pt/letters/pt-y.mp3",
+      "memoryTrick": "Y only appears in borrowed words and sounds like 'ee' as in 'happy' — think of the Japanese 'yakisoba' or the Indian 'yoga' adopted into Portuguese.",
+      "words": [
+        { "text": "yoga", "roman": "yoga", "meaning": "yoga", "emoji": "🧘", "audio": "audio/pt/words/pt-y-01.mp3" },
+        { "text": "yakisoba", "roman": "yakisoba", "meaning": "yakisoba noodles", "emoji": "🍜", "audio": "audio/pt/words/pt-y-02.mp3" },
+        { "text": "yin-yang", "roman": "yin-yang", "meaning": "yin-yang", "emoji": "☯️", "audio": "audio/pt/words/pt-y-03.mp3" },
+        { "text": "yeti", "roman": "yeti", "meaning": "yeti", "emoji": "👣", "audio": "audio/pt/words/pt-y-04.mp3" }
+      ]
+    },
+    {
+      "id": "pt-z",
+      "char": "z",
+      "name": "zê",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/pt/letters/pt-z.mp3",
+      "memoryTrick": "Z at the start of a word sounds like English 'z' in 'zoo' — a buzzing vibration. At the end of a word, it can sound like 's'. 'Zebra' keeps its buzz in Portuguese too.",
+      "words": [
+        { "text": "zebra", "roman": "zebra", "meaning": "zebra", "emoji": "🦓", "audio": "audio/pt/words/pt-z-01.mp3" },
+        { "text": "zero", "roman": "zero", "meaning": "zero", "emoji": "0️⃣", "audio": "audio/pt/words/pt-z-02.mp3" },
+        { "text": "zíper", "roman": "zíper", "meaning": "zipper", "emoji": "🤐", "audio": "audio/pt/words/pt-z-03.mp3" },
+        { "text": "zangado", "roman": "zangado", "meaning": "angry", "emoji": "😠", "audio": "audio/pt/words/pt-z-04.mp3" },
+        { "text": "zoológico", "roman": "zoológico", "meaning": "zoo", "emoji": "🦁", "audio": "audio/pt/words/pt-z-05.mp3" },
+        { "text": "zumbi", "roman": "zumbi", "meaning": "zombie", "emoji": "🧟", "audio": "audio/pt/words/pt-z-06.mp3" },
+        { "text": "zona", "roman": "zona", "meaning": "zone", "emoji": "🗺️", "audio": "audio/pt/words/pt-z-07.mp3" }
+      ]
+    },
+    {
+      "id": "pt-c-cedilha",
+      "char": "ç",
+      "name": "cê-cedilha",
+      "romanization": "c",
+      "ipa": "/s/",
+      "letterAudio": "audio/pt/letters/pt-c-cedilha.mp3",
+      "memoryTrick": "The cedilha (little tail under the C) guarantees a soft 's' sound before A, O, and U — it is the key to words like 'açúcar' (sugar) and 'coração' (heart). Without the tail, those vowels would force a hard K.",
+      "words": [
+        { "text": "açúcar", "roman": "açúcar", "meaning": "sugar", "emoji": "🍬", "audio": "audio/pt/words/pt-c-cedilha-01.mp3" },
+        { "text": "maçã", "roman": "maçã", "meaning": "apple", "emoji": "🍎", "audio": "audio/pt/words/pt-c-cedilha-02.mp3" },
+        { "text": "coração", "roman": "coração", "meaning": "heart", "emoji": "❤️", "audio": "audio/pt/words/pt-c-cedilha-03.mp3" },
+        { "text": "cabeça", "roman": "cabeça", "meaning": "head", "emoji": "🗣️", "audio": "audio/pt/words/pt-c-cedilha-04.mp3" },
+        { "text": "força", "roman": "força", "meaning": "strength", "emoji": "💪", "audio": "audio/pt/words/pt-c-cedilha-05.mp3" },
+        { "text": "dançar", "roman": "dançar", "meaning": "to dance", "emoji": "💃", "audio": "audio/pt/words/pt-c-cedilha-06.mp3" },
+        { "text": "começar", "roman": "começar", "meaning": "to begin", "emoji": "▶️", "audio": "audio/pt/words/pt-c-cedilha-07.mp3" },
+        { "text": "preço", "roman": "preço", "meaning": "price", "emoji": "🏷️", "audio": "audio/pt/words/pt-c-cedilha-08.mp3" },
+        { "text": "almoço", "roman": "almoço", "meaning": "lunch", "emoji": "🥗", "audio": "audio/pt/words/pt-c-cedilha-09.mp3" },
+        { "text": "criança", "roman": "criança", "meaning": "child", "emoji": "👶", "audio": "audio/pt/words/pt-c-cedilha-10.mp3" },
+        { "text": "abraço", "roman": "abraço", "meaning": "hug", "emoji": "🤗", "audio": "audio/pt/words/pt-c-cedilha-11.mp3" },
+        { "text": "pedaço", "roman": "pedaço", "meaning": "piece", "emoji": "🧩", "audio": "audio/pt/words/pt-c-cedilha-12.mp3" }
+      ]
+    },
+    {
+      "id": "pt-a-til",
+      "char": "ã",
+      "name": "a-til",
+      "romanization": "a",
+      "ipa": "/ɐ̃/",
+      "letterAudio": "audio/pt/letters/pt-a-til.mp3",
+      "memoryTrick": "The tilde over A gives it a nasal 'uhn' sound — imagine saying 'ah' while pinching your nose gently. 'Mão' (hand) has that soft, resonant hum.",
+      "words": [
+        { "text": "mão", "roman": "mão", "meaning": "hand", "emoji": "✋", "audio": "audio/pt/words/pt-a-til-01.mp3" },
+        { "text": "pão", "roman": "pão", "meaning": "bread", "emoji": "🍞", "audio": "audio/pt/words/pt-a-til-02.mp3" },
+        { "text": "irmã", "roman": "irmã", "meaning": "sister", "emoji": "👧", "audio": "audio/pt/words/pt-a-til-03.mp3" },
+        { "text": "manhã", "roman": "manhã", "meaning": "morning", "emoji": "🌅", "audio": "audio/pt/words/pt-a-til-04.mp3" },
+        { "text": "não", "roman": "não", "meaning": "no", "emoji": "🙅", "audio": "audio/pt/words/pt-a-til-05.mp3" },
+        { "text": "limão", "roman": "limão", "meaning": "lemon", "emoji": "🍋", "audio": "audio/pt/words/pt-a-til-06.mp3" },
+        { "text": "cão", "roman": "cão", "meaning": "dog", "emoji": "🐕", "audio": "audio/pt/words/pt-a-til-07.mp3" },
+        { "text": "sabão", "roman": "sabão", "meaning": "soap", "emoji": "🧼", "audio": "audio/pt/words/pt-a-til-08.mp3" },
+        { "text": "feijão", "roman": "feijão", "meaning": "beans", "emoji": "🫘", "audio": "audio/pt/words/pt-a-til-09.mp3" },
+        { "text": "chão", "roman": "chão", "meaning": "floor", "emoji": "🏠", "audio": "audio/pt/words/pt-a-til-10.mp3" }
+      ]
+    },
+    {
+      "id": "pt-o-til",
+      "char": "õ",
+      "name": "o-til",
+      "romanization": "o",
+      "ipa": "/õ/",
+      "letterAudio": "audio/pt/letters/pt-o-til.mp3",
+      "memoryTrick": "The tilde over O gives it a nasal 'ohn' sound — your mouth rounds for 'oh' while your nose hums along. Listen for it in the plural 'ões' words like 'aviões' (airplanes).",
+      "words": [
+        { "text": "põe", "roman": "põe", "meaning": "puts", "emoji": "📥", "audio": "audio/pt/words/pt-o-til-01.mp3" },
+        { "text": "compõe", "roman": "compõe", "meaning": "composes", "emoji": "🎼", "audio": "audio/pt/words/pt-o-til-02.mp3" },
+        { "text": "aviões", "roman": "aviões", "meaning": "airplanes", "emoji": "✈️", "audio": "audio/pt/words/pt-o-til-03.mp3" },
+        { "text": "leões", "roman": "leões", "meaning": "lions", "emoji": "🦁", "audio": "audio/pt/words/pt-o-til-04.mp3" },
+        { "text": "limões", "roman": "limões", "meaning": "lemons", "emoji": "🍋", "audio": "audio/pt/words/pt-o-til-05.mp3" },
+        { "text": "botões", "roman": "botões", "meaning": "buttons", "emoji": "🔘", "audio": "audio/pt/words/pt-o-til-06.mp3" },
+        { "text": "caminhões", "roman": "caminhões", "meaning": "trucks", "emoji": "🚛", "audio": "audio/pt/words/pt-o-til-07.mp3" },
+        { "text": "nações", "roman": "nações", "meaning": "nations", "emoji": "🏳️", "audio": "audio/pt/words/pt-o-til-08.mp3" },
+        { "text": "ações", "roman": "ações", "meaning": "actions", "emoji": "🎬", "audio": "audio/pt/words/pt-o-til-09.mp3" },
+        { "text": "opções", "roman": "opções", "meaning": "options", "emoji": "📋", "audio": "audio/pt/words/pt-o-til-10.mp3" }
+      ]
+    },
+    {
+      "id": "pt-a-agudo",
+      "char": "á",
+      "name": "a-agudo",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/pt/letters/pt-a-agudo.mp3",
+      "memoryTrick": "The acute accent on A marks the stressed syllable — it is the same open 'ah' sound but now it carries the rhythmic beat. 'Água' (water) hits the first syllable with force.",
+      "words": [
+        { "text": "água", "roman": "água", "meaning": "water", "emoji": "💧", "audio": "audio/pt/words/pt-a-agudo-01.mp3" },
+        { "text": "árvore", "roman": "árvore", "meaning": "tree", "emoji": "🌳", "audio": "audio/pt/words/pt-a-agudo-02.mp3" },
+        { "text": "fácil", "roman": "fácil", "meaning": "easy", "emoji": "👍", "audio": "audio/pt/words/pt-a-agudo-03.mp3" },
+        { "text": "rápido", "roman": "rápido", "meaning": "fast", "emoji": "⚡", "audio": "audio/pt/words/pt-a-agudo-04.mp3" },
+        { "text": "página", "roman": "página", "meaning": "page", "emoji": "📄", "audio": "audio/pt/words/pt-a-agudo-05.mp3" },
+        { "text": "mágico", "roman": "mágico", "meaning": "magical", "emoji": "🪄", "audio": "audio/pt/words/pt-a-agudo-06.mp3" },
+        { "text": "álbum", "roman": "álbum", "meaning": "album", "emoji": "📸", "audio": "audio/pt/words/pt-a-agudo-07.mp3" },
+        { "text": "área", "roman": "área", "meaning": "area", "emoji": "📐", "audio": "audio/pt/words/pt-a-agudo-08.mp3" }
+      ]
+    },
+    {
+      "id": "pt-a-circunflexo",
+      "char": "â",
+      "name": "a-circunflexo",
+      "romanization": "a",
+      "ipa": "/ɐ/",
+      "letterAudio": "audio/pt/letters/pt-a-circunflexo.mp3",
+      "memoryTrick": "The circumflex over A closes it slightly to an 'uh' sound — like the 'u' in English 'but'. 'Âncora' (anchor) starts with that closed, muted 'a'.",
+      "words": [
+        { "text": "âncora", "roman": "âncora", "meaning": "anchor", "emoji": "⚓", "audio": "audio/pt/words/pt-a-circunflexo-01.mp3" },
+        { "text": "lâmpada", "roman": "lâmpada", "meaning": "lamp", "emoji": "💡", "audio": "audio/pt/words/pt-a-circunflexo-02.mp3" },
+        { "text": "câmara", "roman": "câmara", "meaning": "chamber", "emoji": "📷", "audio": "audio/pt/words/pt-a-circunflexo-03.mp3" },
+        { "text": "tâmara", "roman": "tâmara", "meaning": "date fruit", "emoji": "🌴", "audio": "audio/pt/words/pt-a-circunflexo-04.mp3" },
+        { "text": "âmbito", "roman": "âmbito", "meaning": "scope", "emoji": "🎯", "audio": "audio/pt/words/pt-a-circunflexo-05.mp3" },
+        { "text": "ângulo", "roman": "ângulo", "meaning": "angle", "emoji": "📐", "audio": "audio/pt/words/pt-a-circunflexo-06.mp3" },
+        { "text": "ânimo", "roman": "ânimo", "meaning": "spirit", "emoji": "💫", "audio": "audio/pt/words/pt-a-circunflexo-07.mp3" },
+        { "text": "câncer", "roman": "câncer", "meaning": "cancer", "emoji": "♋", "audio": "audio/pt/words/pt-a-circunflexo-08.mp3" }
+      ]
+    },
+    {
+      "id": "pt-e-agudo",
+      "char": "é",
+      "name": "e-agudo",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/pt/letters/pt-e-agudo.mp3",
+      "memoryTrick": "The acute on E forces it open to 'eh' like in 'bed' — no ambiguity, always open. 'Café' (coffee) and 'pé' (foot) both use this bright, unrounded sound.",
+      "words": [
+        { "text": "café", "roman": "café", "meaning": "coffee", "emoji": "☕", "audio": "audio/pt/words/pt-e-agudo-01.mp3" },
+        { "text": "pé", "roman": "pé", "meaning": "foot", "emoji": "🦶", "audio": "audio/pt/words/pt-e-agudo-02.mp3" },
+        { "text": "médico", "roman": "médico", "meaning": "doctor", "emoji": "🩺", "audio": "audio/pt/words/pt-e-agudo-03.mp3" },
+        { "text": "época", "roman": "época", "meaning": "era", "emoji": "📅", "audio": "audio/pt/words/pt-e-agudo-04.mp3" },
+        { "text": "férias", "roman": "férias", "meaning": "vacation", "emoji": "🏖️", "audio": "audio/pt/words/pt-e-agudo-05.mp3" },
+        { "text": "número", "roman": "número", "meaning": "number", "emoji": "🔢", "audio": "audio/pt/words/pt-e-agudo-06.mp3" },
+        { "text": "égua", "roman": "égua", "meaning": "mare", "emoji": "🐴", "audio": "audio/pt/words/pt-e-agudo-07.mp3" },
+        { "text": "épico", "roman": "épico", "meaning": "epic", "emoji": "🏆", "audio": "audio/pt/words/pt-e-agudo-08.mp3" }
+      ]
+    },
+    {
+      "id": "pt-e-circunflexo",
+      "char": "ê",
+      "name": "e-circunflexo",
+      "romanization": "e",
+      "ipa": "/e/",
+      "letterAudio": "audio/pt/letters/pt-e-circunflexo.mp3",
+      "memoryTrick": "The circumflex on E closes it to a pure 'ay' sound — like the 'e' in English 'they'. 'Você' (you) and 'mês' (month) both use this smoother, more contained E.",
+      "words": [
+        { "text": "você", "roman": "você", "meaning": "you", "emoji": "👉", "audio": "audio/pt/words/pt-e-circunflexo-01.mp3" },
+        { "text": "mês", "roman": "mês", "meaning": "month", "emoji": "📅", "audio": "audio/pt/words/pt-e-circunflexo-02.mp3" },
+        { "text": "três", "roman": "três", "meaning": "three", "emoji": "3️⃣", "audio": "audio/pt/words/pt-e-circunflexo-03.mp3" },
+        { "text": "português", "roman": "português", "meaning": "Portuguese", "emoji": "🇧🇷", "audio": "audio/pt/words/pt-e-circunflexo-04.mp3" },
+        { "text": "inglês", "roman": "inglês", "meaning": "English", "emoji": "🇬🇧", "audio": "audio/pt/words/pt-e-circunflexo-05.mp3" },
+        { "text": "francês", "roman": "francês", "meaning": "French", "emoji": "🇫🇷", "audio": "audio/pt/words/pt-e-circunflexo-06.mp3" },
+        { "text": "bebê", "roman": "bebê", "meaning": "baby", "emoji": "👶", "audio": "audio/pt/words/pt-e-circunflexo-07.mp3" },
+        { "text": "freguês", "roman": "freguês", "meaning": "customer", "emoji": "🛒", "audio": "audio/pt/words/pt-e-circunflexo-08.mp3" }
+      ]
+    },
+    {
+      "id": "pt-i-agudo",
+      "char": "í",
+      "name": "i-agudo",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/pt/letters/pt-i-agudo.mp3",
+      "memoryTrick": "The acute on I marks stress — the sound stays the pure 'ee', now just the boss of the syllable. 'Ímã' (magnet) puts the emphasis right on that first vowel.",
+      "words": [
+        { "text": "índio", "roman": "índio", "meaning": "indigenous person", "emoji": "🧑", "audio": "audio/pt/words/pt-i-agudo-01.mp3" },
+        { "text": "ímã", "roman": "ímã", "meaning": "magnet", "emoji": "🧲", "audio": "audio/pt/words/pt-i-agudo-02.mp3" },
+        { "text": "último", "roman": "último", "meaning": "last", "emoji": "🏁", "audio": "audio/pt/words/pt-i-agudo-03.mp3" },
+        { "text": "difícil", "roman": "difícil", "meaning": "difficult", "emoji": "🤔", "audio": "audio/pt/words/pt-i-agudo-04.mp3" },
+        { "text": "possível", "roman": "possível", "meaning": "possible", "emoji": "✅", "audio": "audio/pt/words/pt-i-agudo-05.mp3" },
+        { "text": "íntimo", "roman": "íntimo", "meaning": "intimate", "emoji": "💞", "audio": "audio/pt/words/pt-i-agudo-06.mp3" },
+        { "text": "ímpar", "roman": "ímpar", "meaning": "odd/unique", "emoji": "👆", "audio": "audio/pt/words/pt-i-agudo-07.mp3" }
+      ]
+    },
+    {
+      "id": "pt-o-agudo",
+      "char": "ó",
+      "name": "o-agudo",
+      "romanization": "o",
+      "ipa": "/ɔ/",
+      "letterAudio": "audio/pt/letters/pt-o-agudo.mp3",
+      "memoryTrick": "The acute on O forces it open to 'aw' like in 'dog' — bold and round. 'Óculos' (glasses) starts with that wide-open 'aw' that fills the mouth.",
+      "words": [
+        { "text": "óculos", "roman": "óculos", "meaning": "glasses", "emoji": "👓", "audio": "audio/pt/words/pt-o-agudo-01.mp3" },
+        { "text": "óleo", "roman": "óleo", "meaning": "oil", "emoji": "🛢️", "audio": "audio/pt/words/pt-o-agudo-02.mp3" },
+        { "text": "órgão", "roman": "órgão", "meaning": "organ", "emoji": "🫁", "audio": "audio/pt/words/pt-o-agudo-03.mp3" },
+        { "text": "ópera", "roman": "ópera", "meaning": "opera", "emoji": "🎭", "audio": "audio/pt/words/pt-o-agudo-04.mp3" },
+        { "text": "ótimo", "roman": "ótimo", "meaning": "great", "emoji": "👌", "audio": "audio/pt/words/pt-o-agudo-05.mp3" },
+        { "text": "óbvio", "roman": "óbvio", "meaning": "obvious", "emoji": "💡", "audio": "audio/pt/words/pt-o-agudo-06.mp3" },
+        { "text": "sólido", "roman": "sólido", "meaning": "solid", "emoji": "🧱", "audio": "audio/pt/words/pt-o-agudo-07.mp3" },
+        { "text": "histórico", "roman": "histórico", "meaning": "historic", "emoji": "📜", "audio": "audio/pt/words/pt-o-agudo-08.mp3" }
+      ]
+    },
+    {
+      "id": "pt-o-circunflexo",
+      "char": "ô",
+      "name": "o-circunflexo",
+      "romanization": "o",
+      "ipa": "/o/",
+      "letterAudio": "audio/pt/letters/pt-o-circunflexo.mp3",
+      "memoryTrick": "The circumflex on O closes it to a rounded 'oh' — smoother and more contained than the open ó. 'Ônibus' (bus) starts with a neat, pursed 'oh'.",
+      "words": [
+        { "text": "ônibus", "roman": "ônibus", "meaning": "bus", "emoji": "🚌", "audio": "audio/pt/words/pt-o-circunflexo-01.mp3" },
+        { "text": "cômodo", "roman": "cômodo", "meaning": "comfortable", "emoji": "🛋️", "audio": "audio/pt/words/pt-o-circunflexo-02.mp3" },
+        { "text": "estômago", "roman": "estômago", "meaning": "stomach", "emoji": "🤢", "audio": "audio/pt/words/pt-o-circunflexo-03.mp3" },
+        { "text": "fôlego", "roman": "fôlego", "meaning": "breath", "emoji": "💨", "audio": "audio/pt/words/pt-o-circunflexo-04.mp3" },
+        { "text": "vovô", "roman": "vovô", "meaning": "grandpa", "emoji": "👴", "audio": "audio/pt/words/pt-o-circunflexo-05.mp3" },
+        { "text": "pôr", "roman": "pôr", "meaning": "to put", "emoji": "📥", "audio": "audio/pt/words/pt-o-circunflexo-06.mp3" },
+        { "text": "gôndola", "roman": "gôndola", "meaning": "gondola", "emoji": "🚣", "audio": "audio/pt/words/pt-o-circunflexo-07.mp3" },
+        { "text": "ônus", "roman": "ônus", "meaning": "burden", "emoji": "🏋️", "audio": "audio/pt/words/pt-o-circunflexo-08.mp3" }
+      ]
+    },
+    {
+      "id": "pt-u-agudo",
+      "char": "ú",
+      "name": "u-agudo",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/pt/letters/pt-u-agudo.mp3",
+      "memoryTrick": "The acute on U marks stress — the sound stays the round 'oo', now just with the spotlight. 'Útil' (useful) hits that first syllable with a confident 'oo'.",
+      "words": [
+        { "text": "útil", "roman": "útil", "meaning": "useful", "emoji": "🔧", "audio": "audio/pt/words/pt-u-agudo-01.mp3" },
+        { "text": "último", "roman": "último", "meaning": "last", "emoji": "🏁", "audio": "audio/pt/words/pt-u-agudo-02.mp3" },
+        { "text": "único", "roman": "único", "meaning": "unique", "emoji": "☝️", "audio": "audio/pt/words/pt-u-agudo-03.mp3" },
+        { "text": "úmido", "roman": "úmido", "meaning": "humid", "emoji": "💧", "audio": "audio/pt/words/pt-u-agudo-04.mp3" },
+        { "text": "saúde", "roman": "saúde", "meaning": "health", "emoji": "❤️‍🩹", "audio": "audio/pt/words/pt-u-agudo-05.mp3" },
+        { "text": "baú", "roman": "baú", "meaning": "chest", "emoji": "🧳", "audio": "audio/pt/words/pt-u-agudo-06.mp3" },
+        { "text": "conteúdo", "roman": "conteúdo", "meaning": "content", "emoji": "📝", "audio": "audio/pt/words/pt-u-agudo-07.mp3" }
       ]
     }
   ]

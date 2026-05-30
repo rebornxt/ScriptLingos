@@ -6,54 +6,1034 @@
     {
       "id": "hi-a",
       "char": "अ",
-      "name": "A",
+      "name": "a",
       "romanization": "a",
       "ipa": "/ə/",
       "letterAudio": "audio/hi/letters/hi-a.mp3",
-      "memoryTrick": "The very first vowel — a short, neutral 'uh', the default sound built into every consonant.",
+      "memoryTrick": "Like the 'a' in English 'about' — short, neutral, and relaxed. This is Hindi's inherent vowel, the one hiding inside every consonant.",
       "words": [
-        { "text": "अनानास", "roman": "anānās", "meaning": "pineapple", "emoji": "🍍", "audio": "audio/hi/words/hi-a-01.mp3" },
-        { "text": "अंगूर", "roman": "angūr", "meaning": "grapes", "emoji": "🍇", "audio": "audio/hi/words/hi-a-02.mp3" }
+        { "text": "अनार", "roman": "anār", "meaning": "pomegranate", "emoji": "🫚", "audio": "audio/hi/words/hi-a-01.mp3" },
+        { "text": "अंगूर", "roman": "aṅgūr", "meaning": "grapes", "emoji": "🍇", "audio": "audio/hi/words/hi-a-02.mp3" },
+        { "text": "अदरक", "roman": "adrak", "meaning": "ginger", "emoji": "🫚", "audio": "audio/hi/words/hi-a-03.mp3" },
+        { "text": "अख़बार", "roman": "axbār", "meaning": "newspaper", "emoji": "📰", "audio": "audio/hi/words/hi-a-04.mp3" },
+        { "text": "अस्पताल", "roman": "aspatāl", "meaning": "hospital", "emoji": "🏥", "audio": "audio/hi/words/hi-a-05.mp3" },
+        { "text": "अचार", "roman": "acār", "meaning": "pickle", "emoji": "🥒", "audio": "audio/hi/words/hi-a-06.mp3" }
       ]
     },
     {
       "id": "hi-aa",
       "char": "आ",
-      "name": "Aa",
+      "name": "ā",
       "romanization": "ā",
       "ipa": "/aː/",
       "letterAudio": "audio/hi/letters/hi-aa.mp3",
-      "memoryTrick": "Like अ but held longer — a long, open 'aah'. The extra vertical stroke means 'stretch it out'.",
+      "memoryTrick": "Like the 'a' in English 'father' — hold it longer than the short अ. Think of the doctor saying 'say aah.'",
       "words": [
         { "text": "आम", "roman": "ām", "meaning": "mango", "emoji": "🥭", "audio": "audio/hi/words/hi-aa-01.mp3" },
-        { "text": "आलू", "roman": "ālū", "meaning": "potato", "emoji": "🥔", "audio": "audio/hi/words/hi-aa-02.mp3" }
+        { "text": "आग", "roman": "āg", "meaning": "fire", "emoji": "🔥", "audio": "audio/hi/words/hi-aa-02.mp3" },
+        { "text": "आलू", "roman": "ālū", "meaning": "potato", "emoji": "🥔", "audio": "audio/hi/words/hi-aa-03.mp3" },
+        { "text": "आसमान", "roman": "āsamān", "meaning": "sky", "emoji": "🌌", "audio": "audio/hi/words/hi-aa-04.mp3" },
+        { "text": "आईना", "roman": "āīnā", "meaning": "mirror", "emoji": "🪞", "audio": "audio/hi/words/hi-aa-05.mp3" },
+        { "text": "आँख", "roman": "ā̃kh", "meaning": "eye", "emoji": "👁", "audio": "audio/hi/words/hi-aa-06.mp3" },
+        { "text": "आदमी", "roman": "ādmī", "meaning": "man", "emoji": "👨", "audio": "audio/hi/words/hi-aa-07.mp3" },
+        { "text": "आराम", "roman": "ārām", "meaning": "rest", "emoji": "😌", "audio": "audio/hi/words/hi-aa-08.mp3" }
+      ]
+    },
+    {
+      "id": "hi-i",
+      "char": "इ",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/ɪ/",
+      "letterAudio": "audio/hi/letters/hi-i.mp3",
+      "memoryTrick": "Like the 'i' in English 'sit' — short, crisp, and front-of-mouth. Do NOT say it like 'eye'.",
+      "words": [
+        { "text": "इमली", "roman": "imlī", "meaning": "tamarind", "emoji": "🫘", "audio": "audio/hi/words/hi-i-01.mp3" },
+        { "text": "इंद्रधनुष", "roman": "indradhanuṣ", "meaning": "rainbow", "emoji": "🌈", "audio": "audio/hi/words/hi-i-02.mp3" },
+        { "text": "इनाम", "roman": "inām", "meaning": "prize", "emoji": "🏆", "audio": "audio/hi/words/hi-i-03.mp3" },
+        { "text": "इमारत", "roman": "imārat", "meaning": "building", "emoji": "🏢", "audio": "audio/hi/words/hi-i-04.mp3" },
+        { "text": "इलाक़ा", "roman": "ilāqā", "meaning": "area", "emoji": "📍", "audio": "audio/hi/words/hi-i-05.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ii",
+      "char": "ई",
+      "name": "ī",
+      "romanization": "ī",
+      "ipa": "/iː/",
+      "letterAudio": "audio/hi/letters/hi-ii.mp3",
+      "memoryTrick": "Like 'ee' in English 'see' — smile wide and let the sound stretch twice as long as इ. Think of a happy 'eeee!'",
+      "words": [
+        { "text": "ईख", "roman": "īkh", "meaning": "sugarcane", "emoji": "🎋", "audio": "audio/hi/words/hi-ii-01.mp3" },
+        { "text": "ईद", "roman": "īd", "meaning": "Eid", "emoji": "🌙", "audio": "audio/hi/words/hi-ii-02.mp3" },
+        { "text": "ईंट", "roman": "īṇṭ", "meaning": "brick", "emoji": "🧱", "audio": "audio/hi/words/hi-ii-03.mp3" },
+        { "text": "ईश्वर", "roman": "īśvar", "meaning": "God", "emoji": "🙏", "audio": "audio/hi/words/hi-ii-04.mp3" }
+      ]
+    },
+    {
+      "id": "hi-u",
+      "char": "उ",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/ʊ/",
+      "letterAudio": "audio/hi/letters/hi-u.mp3",
+      "memoryTrick": "Like 'u' in English 'put' — short, with lips slightly rounded but relaxed. Think of saying 'uh-oh' without the 'oh.'",
+      "words": [
+        { "text": "उल्लू", "roman": "ullū", "meaning": "owl", "emoji": "🦉", "audio": "audio/hi/words/hi-u-01.mp3" },
+        { "text": "उंगली", "roman": "uṅglī", "meaning": "finger", "emoji": "👆", "audio": "audio/hi/words/hi-u-02.mp3" },
+        { "text": "उपहार", "roman": "uphār", "meaning": "gift", "emoji": "🎁", "audio": "audio/hi/words/hi-u-03.mp3" },
+        { "text": "उम्र", "roman": "umr", "meaning": "age", "emoji": "🎂", "audio": "audio/hi/words/hi-u-04.mp3" },
+        { "text": "उत्तर", "roman": "uttar", "meaning": "answer / north", "emoji": "🧭", "audio": "audio/hi/words/hi-u-05.mp3" }
+      ]
+    },
+    {
+      "id": "hi-uu",
+      "char": "ऊ",
+      "name": "ū",
+      "romanization": "ū",
+      "ipa": "/uː/",
+      "letterAudio": "audio/hi/letters/hi-uu.mp3",
+      "memoryTrick": "Like 'oo' in English 'food' — purse your lips tightly and hold it long. Imagine a ghost going 'oooo.'",
+      "words": [
+        { "text": "ऊन", "roman": "ūn", "meaning": "wool", "emoji": "🧶", "audio": "audio/hi/words/hi-uu-01.mp3" },
+        { "text": "ऊँट", "roman": "ū̃ṭ", "meaning": "camel", "emoji": "🐪", "audio": "audio/hi/words/hi-uu-02.mp3" },
+        { "text": "ऊर्जा", "roman": "ūrjā", "meaning": "energy", "emoji": "⚡", "audio": "audio/hi/words/hi-uu-03.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ri",
+      "char": "ऋ",
+      "name": "ṛ",
+      "romanization": "ṛ",
+      "ipa": "/rɪ/",
+      "letterAudio": "audio/hi/letters/hi-ri.mp3",
+      "memoryTrick": "A rolled 'r' followed by short 'i' — like 'ri' in 'river' but with a quick tongue tap. In modern Hindi often pronounced like 'ri' in 'rich.'",
+      "words": [
+        { "text": "ऋषि", "roman": "ṛṣi", "meaning": "sage / seer", "emoji": "🧘", "audio": "audio/hi/words/hi-ri-01.mp3" },
+        { "text": "ऋतु", "roman": "ṛtu", "meaning": "season", "emoji": "🍂", "audio": "audio/hi/words/hi-ri-02.mp3" },
+        { "text": "ऋण", "roman": "ṛṇ", "meaning": "debt", "emoji": "💸", "audio": "audio/hi/words/hi-ri-03.mp3" }
+      ]
+    },
+    {
+      "id": "hi-e",
+      "char": "ए",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/eː/",
+      "letterAudio": "audio/hi/letters/hi-e.mp3",
+      "memoryTrick": "Like 'ay' in English 'say' but a pure, long vowel — no glide at the end. Think of the Canadian 'eh?' held steady.",
+      "words": [
+        { "text": "एक", "roman": "ek", "meaning": "one", "emoji": "1️⃣", "audio": "audio/hi/words/hi-e-01.mp3" },
+        { "text": "एड़ी", "roman": "eṛī", "meaning": "heel", "emoji": "🦶", "audio": "audio/hi/words/hi-e-02.mp3" },
+        { "text": "एलान", "roman": "elān", "meaning": "announcement", "emoji": "📢", "audio": "audio/hi/words/hi-e-03.mp3" },
+        { "text": "एहसान", "roman": "ehsān", "meaning": "favor / gratitude", "emoji": "🤝", "audio": "audio/hi/words/hi-e-04.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ai",
+      "char": "ऐ",
+      "name": "ai",
+      "romanization": "ai",
+      "ipa": "/ɛː/",
+      "letterAudio": "audio/hi/letters/hi-ai.mp3",
+      "memoryTrick": "Like 'a' in English 'cat' but held long — open your mouth wider than for ए. Imagine a doctor pressing your tongue down: 'aaaai.'",
+      "words": [
+        { "text": "ऐनक", "roman": "ainak", "meaning": "glasses / spectacles", "emoji": "👓", "audio": "audio/hi/words/hi-ai-01.mp3" },
+        { "text": "ऐलान", "roman": "ailān", "meaning": "declaration", "emoji": "📜", "audio": "audio/hi/words/hi-ai-02.mp3" },
+        { "text": "ऐंठन", "roman": "aiṇṭhan", "meaning": "sprain / twist", "emoji": "🦵", "audio": "audio/hi/words/hi-ai-03.mp3" }
+      ]
+    },
+    {
+      "id": "hi-o",
+      "char": "ओ",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/oː/",
+      "letterAudio": "audio/hi/letters/hi-o.mp3",
+      "memoryTrick": "Like 'o' in English 'go' but clipped — no rounding-off at the end. Pure, steady, and round like your lips making an 'O.'",
+      "words": [
+        { "text": "ओस", "roman": "os", "meaning": "dew", "emoji": "💧", "audio": "audio/hi/words/hi-o-01.mp3" },
+        { "text": "ओखली", "roman": "okhlī", "meaning": "mortar (for grinding)", "emoji": "🧂", "audio": "audio/hi/words/hi-o-02.mp3" },
+        { "text": "ओर", "roman": "or", "meaning": "direction / side", "emoji": "➡️", "audio": "audio/hi/words/hi-o-03.mp3" },
+        { "text": "ओला", "roman": "olā", "meaning": "hailstone", "emoji": "🧊", "audio": "audio/hi/words/hi-o-04.mp3" }
+      ]
+    },
+    {
+      "id": "hi-au",
+      "char": "औ",
+      "name": "au",
+      "romanization": "au",
+      "ipa": "/ɔː/",
+      "letterAudio": "audio/hi/letters/hi-au.mp3",
+      "memoryTrick": "Like 'aw' in English 'saw' — deep and open. Think of the sound you make when you see something cute: 'aww.'",
+      "words": [
+        { "text": "औरत", "roman": "aurat", "meaning": "woman", "emoji": "👩", "audio": "audio/hi/words/hi-au-01.mp3" },
+        { "text": "औज़ार", "roman": "auzār", "meaning": "tool", "emoji": "🔧", "audio": "audio/hi/words/hi-au-02.mp3" },
+        { "text": "औषधि", "roman": "auṣadhi", "meaning": "medicine / herb", "emoji": "💊", "audio": "audio/hi/words/hi-au-03.mp3" },
+        { "text": "और", "roman": "aur", "meaning": "and / more", "emoji": "➕", "audio": "audio/hi/words/hi-au-04.mp3" }
       ]
     },
     {
       "id": "hi-ka",
       "char": "क",
-      "name": "Ka",
+      "name": "ka",
       "romanization": "ka",
-      "ipa": "/kə/",
+      "ipa": "/k/",
       "letterAudio": "audio/hi/letters/hi-ka.mp3",
-      "memoryTrick": "The first consonant — a clean 'k' with the built-in 'a' vowel, so it reads 'ka'.",
+      "memoryTrick": "Like 'k' in English 'skate' — crisp and unaspirated. Hold a tissue in front of your mouth; it should NOT move when you say it.",
       "words": [
-        { "text": "कमल", "roman": "kamal", "meaning": "lotus", "emoji": "🪷", "audio": "audio/hi/words/hi-ka-01.mp3" },
-        { "text": "कबूतर", "roman": "kabūtar", "meaning": "pigeon", "emoji": "🕊️", "audio": "audio/hi/words/hi-ka-02.mp3" }
+        { "text": "कबूतर", "roman": "kabūtar", "meaning": "pigeon", "emoji": "🕊", "audio": "audio/hi/words/hi-ka-01.mp3" },
+        { "text": "कमल", "roman": "kamal", "meaning": "lotus", "emoji": "🪷", "audio": "audio/hi/words/hi-ka-02.mp3" },
+        { "text": "किताब", "roman": "kitāb", "meaning": "book", "emoji": "📖", "audio": "audio/hi/words/hi-ka-03.mp3" },
+        { "text": "कागज़", "roman": "kāgaz", "meaning": "paper", "emoji": "📄", "audio": "audio/hi/words/hi-ka-04.mp3" },
+        { "text": "कुत्ता", "roman": "kuttā", "meaning": "dog", "emoji": "🐕", "audio": "audio/hi/words/hi-ka-05.mp3" },
+        { "text": "कमरा", "roman": "kamrā", "meaning": "room", "emoji": "🚪", "audio": "audio/hi/words/hi-ka-06.mp3" },
+        { "text": "कान", "roman": "kān", "meaning": "ear", "emoji": "👂", "audio": "audio/hi/words/hi-ka-07.mp3" },
+        { "text": "कहानी", "roman": "kahānī", "meaning": "story", "emoji": "📚", "audio": "audio/hi/words/hi-ka-08.mp3" }
+      ]
+    },
+    {
+      "id": "hi-kha",
+      "char": "ख",
+      "name": "kha",
+      "romanization": "kha",
+      "ipa": "/kʰ/",
+      "letterAudio": "audio/hi/letters/hi-kha.mp3",
+      "memoryTrick": "Like 'k' with a strong puff of air — similar to 'ck-h' in 'black hat' said fast. That tissue should flutter.",
+      "words": [
+        { "text": "खरगोश", "roman": "khargoś", "meaning": "rabbit", "emoji": "🐰", "audio": "audio/hi/words/hi-kha-01.mp3" },
+        { "text": "खिड़की", "roman": "khiṛkī", "meaning": "window", "emoji": "🪟", "audio": "audio/hi/words/hi-kha-02.mp3" },
+        { "text": "खाना", "roman": "khānā", "meaning": "food / to eat", "emoji": "🍛", "audio": "audio/hi/words/hi-kha-03.mp3" },
+        { "text": "खिलौना", "roman": "khilaunā", "meaning": "toy", "emoji": "🧸", "audio": "audio/hi/words/hi-kha-04.mp3" },
+        { "text": "खुशी", "roman": "khuśī", "meaning": "happiness", "emoji": "😊", "audio": "audio/hi/words/hi-kha-05.mp3" },
+        { "text": "खबर", "roman": "khabar", "meaning": "news", "emoji": "📰", "audio": "audio/hi/words/hi-kha-06.mp3" },
+        { "text": "खंभा", "roman": "khambhā", "meaning": "pillar / pole", "emoji": "🏛", "audio": "audio/hi/words/hi-kha-07.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ga",
+      "char": "ग",
+      "name": "ga",
+      "romanization": "ga",
+      "ipa": "/g/",
+      "letterAudio": "audio/hi/letters/hi-ga.mp3",
+      "memoryTrick": "Like 'g' in English 'go' — voiced but without the puff of air. Your vocal cords should vibrate.",
+      "words": [
+        { "text": "गाय", "roman": "gāy", "meaning": "cow", "emoji": "🐄", "audio": "audio/hi/words/hi-ga-01.mp3" },
+        { "text": "गुलाब", "roman": "gulāb", "meaning": "rose", "emoji": "🌹", "audio": "audio/hi/words/hi-ga-02.mp3" },
+        { "text": "गधा", "roman": "gadhā", "meaning": "donkey", "emoji": "🐴", "audio": "audio/hi/words/hi-ga-03.mp3" },
+        { "text": "गाना", "roman": "gānā", "meaning": "song / to sing", "emoji": "🎵", "audio": "audio/hi/words/hi-ga-04.mp3" },
+        { "text": "गरम", "roman": "garam", "meaning": "hot", "emoji": "🥵", "audio": "audio/hi/words/hi-ga-05.mp3" },
+        { "text": "गली", "roman": "galī", "meaning": "lane / alley", "emoji": "🛤", "audio": "audio/hi/words/hi-ga-06.mp3" },
+        { "text": "गेंद", "roman": "gend", "meaning": "ball", "emoji": "⚽", "audio": "audio/hi/words/hi-ga-07.mp3" }
+      ]
+    },
+    {
+      "id": "hi-gha",
+      "char": "घ",
+      "name": "gha",
+      "romanization": "gha",
+      "ipa": "/gʱ/",
+      "letterAudio": "audio/hi/letters/hi-gha.mp3",
+      "memoryTrick": "Like 'g' but with a breathy, murmured release — imagine saying 'g' while sighing. A deep, throaty voiced puff.",
+      "words": [
+        { "text": "घर", "roman": "ghar", "meaning": "house / home", "emoji": "🏠", "audio": "audio/hi/words/hi-gha-01.mp3" },
+        { "text": "घड़ी", "roman": "ghaṛī", "meaning": "clock / watch", "emoji": "🕐", "audio": "audio/hi/words/hi-gha-02.mp3" },
+        { "text": "घोड़ा", "roman": "ghoṛā", "meaning": "horse", "emoji": "🐎", "audio": "audio/hi/words/hi-gha-03.mp3" },
+        { "text": "घास", "roman": "ghās", "meaning": "grass", "emoji": "🌿", "audio": "audio/hi/words/hi-gha-04.mp3" },
+        { "text": "घटना", "roman": "ghaṭnā", "meaning": "incident / event", "emoji": "📋", "audio": "audio/hi/words/hi-gha-05.mp3" },
+        { "text": "घाव", "roman": "ghāv", "meaning": "wound", "emoji": "🩹", "audio": "audio/hi/words/hi-gha-06.mp3" }
+      ]
+    },
+    {
+      "id": "hi-nga",
+      "char": "ङ",
+      "name": "ṅa",
+      "romanization": "ṅa",
+      "ipa": "/ŋ/",
+      "letterAudio": "audio/hi/letters/hi-nga.mp3",
+      "memoryTrick": "Like 'ng' in English 'sing' — the sound at the back of your throat. This letter almost never starts a Hindi word; it appears inside words before क, ख, ग, घ.",
+      "words": [
+        { "text": "वाङ्मय", "roman": "vāṅmay", "meaning": "literature", "emoji": "📚", "audio": "audio/hi/words/hi-nga-01.mp3" },
+        { "text": "प्राङ्गण", "roman": "prāṅgaṇ", "meaning": "courtyard", "emoji": "🏡", "audio": "audio/hi/words/hi-nga-02.mp3" },
+        { "text": "अङ्क", "roman": "aṅka", "meaning": "number / digit", "emoji": "🔢", "audio": "audio/hi/words/hi-nga-03.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ca",
+      "char": "च",
+      "name": "ca",
+      "romanization": "ca",
+      "ipa": "/tʃ/",
+      "letterAudio": "audio/hi/letters/hi-ca.mp3",
+      "memoryTrick": "Like 'ch' in English 'church' but softer — unaspirated. Your tongue touches the roof of your mouth lightly.",
+      "words": [
+        { "text": "चम्मच", "roman": "cammac", "meaning": "spoon", "emoji": "🥄", "audio": "audio/hi/words/hi-ca-01.mp3" },
+        { "text": "चाँद", "roman": "cā̃d", "meaning": "moon", "emoji": "🌙", "audio": "audio/hi/words/hi-ca-02.mp3" },
+        { "text": "चाबी", "roman": "cābī", "meaning": "key", "emoji": "🔑", "audio": "audio/hi/words/hi-ca-03.mp3" },
+        { "text": "चाय", "roman": "cāy", "meaning": "tea", "emoji": "🍵", "audio": "audio/hi/words/hi-ca-04.mp3" },
+        { "text": "चिड़िया", "roman": "ciṛiyā", "meaning": "bird", "emoji": "🐦", "audio": "audio/hi/words/hi-ca-05.mp3" },
+        { "text": "चेहरा", "roman": "cehrā", "meaning": "face", "emoji": "😊", "audio": "audio/hi/words/hi-ca-06.mp3" },
+        { "text": "चमड़ा", "roman": "camṛā", "meaning": "leather", "emoji": "👜", "audio": "audio/hi/words/hi-ca-07.mp3" }
+      ]
+    },
+    {
+      "id": "hi-cha",
+      "char": "छ",
+      "name": "cha",
+      "romanization": "cha",
+      "ipa": "/tʃʰ/",
+      "letterAudio": "audio/hi/letters/hi-cha.mp3",
+      "memoryTrick": "Like 'ch' with a strong puff of air — imagine sneezing while saying 'church.' The aspirated version of च.",
+      "words": [
+        { "text": "छाता", "roman": "chātā", "meaning": "umbrella", "emoji": "☂", "audio": "audio/hi/words/hi-cha-01.mp3" },
+        { "text": "छिपकली", "roman": "chipkalī", "meaning": "lizard", "emoji": "🦎", "audio": "audio/hi/words/hi-cha-02.mp3" },
+        { "text": "छुट्टी", "roman": "chuṭṭī", "meaning": "holiday / day off", "emoji": "🏖", "audio": "audio/hi/words/hi-cha-03.mp3" },
+        { "text": "छवि", "roman": "chavi", "meaning": "image / picture", "emoji": "🖼", "audio": "audio/hi/words/hi-cha-04.mp3" },
+        { "text": "छलनी", "roman": "chalanī", "meaning": "sieve", "emoji": "🪣", "audio": "audio/hi/words/hi-cha-05.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ja",
+      "char": "ज",
+      "name": "ja",
+      "romanization": "ja",
+      "ipa": "/dʒ/",
+      "letterAudio": "audio/hi/letters/hi-ja.mp3",
+      "memoryTrick": "Like 'j' in English 'jug' — voiced and soft, no puff. Your tongue presses against the roof of your mouth just behind your teeth.",
+      "words": [
+        { "text": "जहाज़", "roman": "jahāz", "meaning": "ship", "emoji": "🚢", "audio": "audio/hi/words/hi-ja-01.mp3" },
+        { "text": "जूता", "roman": "jūtā", "meaning": "shoe", "emoji": "👞", "audio": "audio/hi/words/hi-ja-02.mp3" },
+        { "text": "जंगल", "roman": "jaṅgal", "meaning": "forest / jungle", "emoji": "🌳", "audio": "audio/hi/words/hi-ja-03.mp3" },
+        { "text": "जादू", "roman": "jādū", "meaning": "magic", "emoji": "🪄", "audio": "audio/hi/words/hi-ja-04.mp3" },
+        { "text": "जलेबी", "roman": "jalebī", "meaning": "jalebi (sweet)", "emoji": "🍯", "audio": "audio/hi/words/hi-ja-05.mp3" },
+        { "text": "जानवर", "roman": "jānvar", "meaning": "animal", "emoji": "🐾", "audio": "audio/hi/words/hi-ja-06.mp3" },
+        { "text": "जन्मदिन", "roman": "janmadin", "meaning": "birthday", "emoji": "🎂", "audio": "audio/hi/words/hi-ja-07.mp3" }
+      ]
+    },
+    {
+      "id": "hi-jha",
+      "char": "झ",
+      "name": "jha",
+      "romanization": "jha",
+      "ipa": "/dʒʱ/",
+      "letterAudio": "audio/hi/letters/hi-jha.mp3",
+      "memoryTrick": "Like 'j' with a breathy release — imagine saying 'jug' while sighing heavily. A murmured, voiced 'jh' sound.",
+      "words": [
+        { "text": "झील", "roman": "jhīl", "meaning": "lake", "emoji": "🏞", "audio": "audio/hi/words/hi-jha-01.mp3" },
+        { "text": "झंडा", "roman": "jhaṇḍā", "meaning": "flag", "emoji": "🚩", "audio": "audio/hi/words/hi-jha-02.mp3" },
+        { "text": "झरना", "roman": "jharnā", "meaning": "waterfall", "emoji": "🏔", "audio": "audio/hi/words/hi-jha-03.mp3" },
+        { "text": "झाड़ू", "roman": "jhāṛū", "meaning": "broom", "emoji": "🧹", "audio": "audio/hi/words/hi-jha-04.mp3" },
+        { "text": "झोपड़ी", "roman": "jhopṛī", "meaning": "hut", "emoji": "🛖", "audio": "audio/hi/words/hi-jha-05.mp3" },
+        { "text": "झूला", "roman": "jhūlā", "meaning": "swing", "emoji": "🎠", "audio": "audio/hi/words/hi-jha-06.mp3" }
+      ]
+    },
+    {
+      "id": "hi-nya",
+      "char": "ञ",
+      "name": "ña",
+      "romanization": "ña",
+      "ipa": "/ɲ/",
+      "letterAudio": "audio/hi/letters/hi-nya.mp3",
+      "memoryTrick": "Like 'ny' in English 'canyon' or Spanish 'mañana' — the tongue touches the hard palate. Very rare at the start of words.",
+      "words": [
+        { "text": "यज्ञ", "roman": "yajña", "meaning": "sacrifice / ritual", "emoji": "🔥", "audio": "audio/hi/words/hi-nya-01.mp3" },
+        { "text": "पञ्च", "roman": "pañca", "meaning": "five", "emoji": "5️⃣", "audio": "audio/hi/words/hi-nya-02.mp3" },
+        { "text": "प्राञ्जल", "roman": "prāñjal", "meaning": "sincere / straightforward", "emoji": "🤲", "audio": "audio/hi/words/hi-nya-03.mp3" }
+      ]
+    },
+    {
+      "id": "hi-tta",
+      "char": "ट",
+      "name": "ṭa",
+      "romanization": "ṭa",
+      "ipa": "/ʈ/",
+      "letterAudio": "audio/hi/letters/hi-tta.mp3",
+      "memoryTrick": "Like 't' but curl your tongue way back to touch the roof of your mouth — a hard, retroflex sound. Like the 't' in an Indian-accented 'top.'",
+      "words": [
+        { "text": "टमाटर", "roman": "ṭamāṭar", "meaning": "tomato", "emoji": "🍅", "audio": "audio/hi/words/hi-tta-01.mp3" },
+        { "text": "टोपी", "roman": "ṭopī", "meaning": "cap / hat", "emoji": "🧢", "audio": "audio/hi/words/hi-tta-02.mp3" },
+        { "text": "टेबल", "roman": "ṭebal", "meaning": "table", "emoji": "🪑", "audio": "audio/hi/words/hi-tta-03.mp3" },
+        { "text": "टिकट", "roman": "ṭikaṭ", "meaning": "ticket", "emoji": "🎫", "audio": "audio/hi/words/hi-tta-04.mp3" },
+        { "text": "टोकरी", "roman": "ṭokrī", "meaning": "basket", "emoji": "🧺", "audio": "audio/hi/words/hi-tta-05.mp3" },
+        { "text": "टांग", "roman": "ṭāṅg", "meaning": "leg", "emoji": "🦵", "audio": "audio/hi/words/hi-tta-06.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ttha",
+      "char": "ठ",
+      "name": "ṭha",
+      "romanization": "ṭha",
+      "ipa": "/ʈʰ/",
+      "letterAudio": "audio/hi/letters/hi-ttha.mp3",
+      "memoryTrick": "Like ठ is to ट what ख is to क — same retroflex tongue position but with a strong puff of air. Imagine a forceful 'th' with tongue curled back.",
+      "words": [
+        { "text": "ठंड", "roman": "ṭhaṇḍ", "meaning": "cold", "emoji": "🥶", "audio": "audio/hi/words/hi-ttha-01.mp3" },
+        { "text": "ठेला", "roman": "ṭhelā", "meaning": "cart / pushcart", "emoji": "🛒", "audio": "audio/hi/words/hi-ttha-02.mp3" },
+        { "text": "ठोकर", "roman": "ṭhokar", "meaning": "stumble / kick", "emoji": "🦶", "audio": "audio/hi/words/hi-ttha-03.mp3" },
+        { "text": "ठाकुर", "roman": "ṭhākur", "meaning": "lord / title", "emoji": "👑", "audio": "audio/hi/words/hi-ttha-04.mp3" },
+        { "text": "ठिकाना", "roman": "ṭhikānā", "meaning": "address / place", "emoji": "📍", "audio": "audio/hi/words/hi-ttha-05.mp3" }
+      ]
+    },
+    {
+      "id": "hi-dda",
+      "char": "ड",
+      "name": "ḍa",
+      "romanization": "ḍa",
+      "ipa": "/ɖ/",
+      "letterAudio": "audio/hi/letters/hi-dda.mp3",
+      "memoryTrick": "Like 'd' but with your tongue curled back retroflex — deeper and harder than regular English 'd.' Your tongue taps the roof further back.",
+      "words": [
+        { "text": "डमरू", "roman": "ḍamrū", "meaning": "small drum (damaru)", "emoji": "🥁", "audio": "audio/hi/words/hi-dda-01.mp3" },
+        { "text": "डिब्बा", "roman": "ḍibbā", "meaning": "box / container", "emoji": "📦", "audio": "audio/hi/words/hi-dda-02.mp3" },
+        { "text": "डाक", "roman": "ḍāk", "meaning": "mail / post", "emoji": "📬", "audio": "audio/hi/words/hi-dda-03.mp3" },
+        { "text": "डंडा", "roman": "ḍaṇḍā", "meaning": "stick", "emoji": "🏑", "audio": "audio/hi/words/hi-dda-04.mp3" },
+        { "text": "डर", "roman": "ḍar", "meaning": "fear", "emoji": "😨", "audio": "audio/hi/words/hi-dda-05.mp3" },
+        { "text": "डाल", "roman": "ḍāl", "meaning": "branch / lentil dish", "emoji": "🍲", "audio": "audio/hi/words/hi-dda-06.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ddha",
+      "char": "ढ",
+      "name": "ḍha",
+      "romanization": "ḍha",
+      "ipa": "/ɖʱ/",
+      "letterAudio": "audio/hi/letters/hi-ddha.mp3",
+      "memoryTrick": "Like ड with a heavy, breathy release — curl your tongue back for the retroflex 'd' then sigh through it. A deep, throaty voiced puff.",
+      "words": [
+        { "text": "ढोल", "roman": "ḍhol", "meaning": "drum (dhol)", "emoji": "🥁", "audio": "audio/hi/words/hi-ddha-01.mp3" },
+        { "text": "ढक्कन", "roman": "ḍhakkan", "meaning": "lid / cover", "emoji": "🫙", "audio": "audio/hi/words/hi-ddha-02.mp3" },
+        { "text": "ढेर", "roman": "ḍher", "meaning": "pile / heap", "emoji": "📚", "audio": "audio/hi/words/hi-ddha-03.mp3" },
+        { "text": "ढाल", "roman": "ḍhāl", "meaning": "shield / slope", "emoji": "🛡", "audio": "audio/hi/words/hi-ddha-04.mp3" }
+      ]
+    },
+    {
+      "id": "hi-nna",
+      "char": "ण",
+      "name": "ṇa",
+      "romanization": "ṇa",
+      "ipa": "/ɳ/",
+      "letterAudio": "audio/hi/letters/hi-nna.mp3",
+      "memoryTrick": "Like 'n' but with your tongue curled back retroflex — deeper than English 'n.' The 'n' in many Indian-accented English words. Almost never starts a Hindi word.",
+      "words": [
+        { "text": "गणेश", "roman": "gaṇeś", "meaning": "Ganesh (the deity)", "emoji": "🐘", "audio": "audio/hi/words/hi-nna-01.mp3" },
+        { "text": "अणु", "roman": "aṇu", "meaning": "atom / molecule", "emoji": "⚛", "audio": "audio/hi/words/hi-nna-02.mp3" },
+        { "text": "गणना", "roman": "gaṇanā", "meaning": "counting / calculation", "emoji": "🧮", "audio": "audio/hi/words/hi-nna-03.mp3" },
+        { "text": "कोण", "roman": "koṇ", "meaning": "angle", "emoji": "📐", "audio": "audio/hi/words/hi-nna-04.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ta",
+      "char": "त",
+      "name": "ta",
+      "romanization": "ta",
+      "ipa": "/t̪/",
+      "letterAudio": "audio/hi/letters/hi-ta.mp3",
+      "memoryTrick": "Like 't' but with your tongue touching your teeth (dental), not the roof of your mouth. Think of the French or Spanish 't' — softer and more forward.",
+      "words": [
+        { "text": "तितली", "roman": "titlī", "meaning": "butterfly", "emoji": "🦋", "audio": "audio/hi/words/hi-ta-01.mp3" },
+        { "text": "तारा", "roman": "tārā", "meaning": "star", "emoji": "⭐", "audio": "audio/hi/words/hi-ta-02.mp3" },
+        { "text": "तरबूज़", "roman": "tarbūz", "meaning": "watermelon", "emoji": "🍉", "audio": "audio/hi/words/hi-ta-03.mp3" },
+        { "text": "तस्वीर", "roman": "tasvīr", "meaning": "picture / photo", "emoji": "🖼", "audio": "audio/hi/words/hi-ta-04.mp3" },
+        { "text": "तराज़ू", "roman": "tarāzū", "meaning": "scale / balance", "emoji": "⚖", "audio": "audio/hi/words/hi-ta-05.mp3" },
+        { "text": "ताला", "roman": "tālā", "meaning": "lock", "emoji": "🔒", "audio": "audio/hi/words/hi-ta-06.mp3" },
+        { "text": "तकिया", "roman": "takiyā", "meaning": "pillow", "emoji": "🛏", "audio": "audio/hi/words/hi-ta-07.mp3" }
+      ]
+    },
+    {
+      "id": "hi-tha",
+      "char": "थ",
+      "name": "tha",
+      "romanization": "tha",
+      "ipa": "/t̪ʰ/",
+      "letterAudio": "audio/hi/letters/hi-tha.mp3",
+      "memoryTrick": "Like 't' with teeth-touching position plus a puff of air — imagine saying 'table' while breathing out hard. Dental and aspirated.",
+      "words": [
+        { "text": "थाली", "roman": "thālī", "meaning": "plate / platter", "emoji": "🍽", "audio": "audio/hi/words/hi-tha-01.mp3" },
+        { "text": "थैला", "roman": "thailā", "meaning": "bag", "emoji": "🛍", "audio": "audio/hi/words/hi-tha-02.mp3" },
+        { "text": "थका", "roman": "thakā", "meaning": "tired", "emoji": "😮‍💨", "audio": "audio/hi/words/hi-tha-03.mp3" },
+        { "text": "थंब", "roman": "thamb", "meaning": "pillar", "emoji": "🏛", "audio": "audio/hi/words/hi-tha-04.mp3" },
+        { "text": "थप्पड़", "roman": "thappaṛ", "meaning": "slap", "emoji": "🫲", "audio": "audio/hi/words/hi-tha-05.mp3" }
+      ]
+    },
+    {
+      "id": "hi-da",
+      "char": "द",
+      "name": "da",
+      "romanization": "da",
+      "ipa": "/d̪/",
+      "letterAudio": "audio/hi/letters/hi-da.mp3",
+      "memoryTrick": "Like 'th' in English 'this' — a soft, dental 'd' with tongue touching the back of your top teeth. Not the hard English 'd.'",
+      "words": [
+        { "text": "दरवाज़ा", "roman": "darvāzā", "meaning": "door", "emoji": "🚪", "audio": "audio/hi/words/hi-da-01.mp3" },
+        { "text": "दवा", "roman": "davā", "meaning": "medicine", "emoji": "💊", "audio": "audio/hi/words/hi-da-02.mp3" },
+        { "text": "दीया", "roman": "dīyā", "meaning": "lamp / diya", "emoji": "🪔", "audio": "audio/hi/words/hi-da-03.mp3" },
+        { "text": "दूध", "roman": "dūdh", "meaning": "milk", "emoji": "🥛", "audio": "audio/hi/words/hi-da-04.mp3" },
+        { "text": "दोस्त", "roman": "dost", "meaning": "friend", "emoji": "🧑‍🤝‍🧑", "audio": "audio/hi/words/hi-da-05.mp3" },
+        { "text": "दिन", "roman": "din", "meaning": "day", "emoji": "☀", "audio": "audio/hi/words/hi-da-06.mp3" },
+        { "text": "दुनिया", "roman": "duniyā", "meaning": "world", "emoji": "🌍", "audio": "audio/hi/words/hi-da-07.mp3" },
+        { "text": "दिल", "roman": "dil", "meaning": "heart", "emoji": "❤", "audio": "audio/hi/words/hi-da-08.mp3" }
+      ]
+    },
+    {
+      "id": "hi-dha",
+      "char": "ध",
+      "name": "dha",
+      "romanization": "dha",
+      "ipa": "/d̪ʱ/",
+      "letterAudio": "audio/hi/letters/hi-dha.mp3",
+      "memoryTrick": "Like 'd' with your tongue on your teeth plus a breathy release — imagine saying 'the' while exhaling warmly. Voiced dental with a sigh.",
+      "words": [
+        { "text": "धन", "roman": "dhan", "meaning": "wealth / money", "emoji": "💰", "audio": "audio/hi/words/hi-dha-01.mp3" },
+        { "text": "धरती", "roman": "dhartī", "meaning": "earth / land", "emoji": "🌏", "audio": "audio/hi/words/hi-dha-02.mp3" },
+        { "text": "ध्यान", "roman": "dhyān", "meaning": "attention / meditation", "emoji": "🧘", "audio": "audio/hi/words/hi-dha-03.mp3" },
+        { "text": "धूप", "roman": "dhūp", "meaning": "sunshine / incense", "emoji": "☀", "audio": "audio/hi/words/hi-dha-04.mp3" },
+        { "text": "धागा", "roman": "dhāgā", "meaning": "thread", "emoji": "🧵", "audio": "audio/hi/words/hi-dha-05.mp3" },
+        { "text": "धनुष", "roman": "dhanuṣ", "meaning": "bow (archery)", "emoji": "🏹", "audio": "audio/hi/words/hi-dha-06.mp3" }
+      ]
+    },
+    {
+      "id": "hi-na",
+      "char": "न",
+      "name": "na",
+      "romanization": "na",
+      "ipa": "/n/",
+      "letterAudio": "audio/hi/letters/hi-na.mp3",
+      "memoryTrick": "Like 'n' in English 'name' — tongue touches your teeth (dental), just like त and द. It's the regular, everyday Hindi 'n.'",
+      "words": [
+        { "text": "नमक", "roman": "namak", "meaning": "salt", "emoji": "🧂", "audio": "audio/hi/words/hi-na-01.mp3" },
+        { "text": "नदी", "roman": "nadī", "meaning": "river", "emoji": "🏞", "audio": "audio/hi/words/hi-na-02.mp3" },
+        { "text": "नारियल", "roman": "nāriyal", "meaning": "coconut", "emoji": "🥥", "audio": "audio/hi/words/hi-na-03.mp3" },
+        { "text": "नाक", "roman": "nāk", "meaning": "nose", "emoji": "👃", "audio": "audio/hi/words/hi-na-04.mp3" },
+        { "text": "नींबू", "roman": "nīmbū", "meaning": "lemon / lime", "emoji": "🍋", "audio": "audio/hi/words/hi-na-05.mp3" },
+        { "text": "नया", "roman": "nayā", "meaning": "new", "emoji": "🆕", "audio": "audio/hi/words/hi-na-06.mp3" },
+        { "text": "नक्शा", "roman": "nakśā", "meaning": "map", "emoji": "🗺", "audio": "audio/hi/words/hi-na-07.mp3" }
+      ]
+    },
+    {
+      "id": "hi-pa",
+      "char": "प",
+      "name": "pa",
+      "romanization": "pa",
+      "ipa": "/p/",
+      "letterAudio": "audio/hi/letters/hi-pa.mp3",
+      "memoryTrick": "Like 'p' in English 'spot' — crisp, unaspirated, with lips pressed together. No puff of air; the tissue stays still.",
+      "words": [
+        { "text": "पतंग", "roman": "pataṅg", "meaning": "kite", "emoji": "🪁", "audio": "audio/hi/words/hi-pa-01.mp3" },
+        { "text": "पानी", "roman": "pānī", "meaning": "water", "emoji": "💧", "audio": "audio/hi/words/hi-pa-02.mp3" },
+        { "text": "पहाड़", "roman": "pahāṛ", "meaning": "mountain", "emoji": "⛰", "audio": "audio/hi/words/hi-pa-03.mp3" },
+        { "text": "पेड़", "roman": "peṛ", "meaning": "tree", "emoji": "🌳", "audio": "audio/hi/words/hi-pa-04.mp3" },
+        { "text": "पुस्तक", "roman": "pustak", "meaning": "book", "emoji": "📗", "audio": "audio/hi/words/hi-pa-05.mp3" },
+        { "text": "पंखा", "roman": "paṅkhā", "meaning": "fan", "emoji": "🪭", "audio": "audio/hi/words/hi-pa-06.mp3" },
+        { "text": "पैर", "roman": "pair", "meaning": "foot / leg", "emoji": "🦶", "audio": "audio/hi/words/hi-pa-07.mp3" },
+        { "text": "पत्ता", "roman": "pattā", "meaning": "leaf", "emoji": "🍃", "audio": "audio/hi/words/hi-pa-08.mp3" }
+      ]
+    },
+    {
+      "id": "hi-pha",
+      "char": "फ",
+      "name": "pha",
+      "romanization": "pha",
+      "ipa": "/pʰ/",
+      "letterAudio": "audio/hi/letters/hi-pha.mp3",
+      "memoryTrick": "Like 'p' with a strong puff of air — say 'pin' but really breathe out. The tissue test: it should flutter noticeably.",
+      "words": [
+        { "text": "फूल", "roman": "phūl", "meaning": "flower", "emoji": "🌸", "audio": "audio/hi/words/hi-pha-01.mp3" },
+        { "text": "फल", "roman": "phal", "meaning": "fruit", "emoji": "🍎", "audio": "audio/hi/words/hi-pha-02.mp3" },
+        { "text": "फिर", "roman": "phir", "meaning": "then / again", "emoji": "🔁", "audio": "audio/hi/words/hi-pha-03.mp3" },
+        { "text": "फाटक", "roman": "phāṭak", "meaning": "gate", "emoji": "🚧", "audio": "audio/hi/words/hi-pha-04.mp3" },
+        { "text": "फौज", "roman": "phauj", "meaning": "army", "emoji": "🪖", "audio": "audio/hi/words/hi-pha-05.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ba",
+      "char": "ब",
+      "name": "ba",
+      "romanization": "ba",
+      "ipa": "/b/",
+      "letterAudio": "audio/hi/letters/hi-ba.mp3",
+      "memoryTrick": "Like 'b' in English 'boy' — lips together, voiced, no puff. Your vocal cords vibrate as you open your lips.",
+      "words": [
+        { "text": "बिल्ली", "roman": "billī", "meaning": "cat", "emoji": "🐱", "audio": "audio/hi/words/hi-ba-01.mp3" },
+        { "text": "बादल", "roman": "bādal", "meaning": "cloud", "emoji": "☁", "audio": "audio/hi/words/hi-ba-02.mp3" },
+        { "text": "बारिश", "roman": "bāriś", "meaning": "rain", "emoji": "🌧", "audio": "audio/hi/words/hi-ba-03.mp3" },
+        { "text": "बत्तख", "roman": "battakh", "meaning": "duck", "emoji": "🦆", "audio": "audio/hi/words/hi-ba-04.mp3" },
+        { "text": "बंदर", "roman": "bandar", "meaning": "monkey", "emoji": "🐒", "audio": "audio/hi/words/hi-ba-05.mp3" },
+        { "text": "बाज़ार", "roman": "bāzār", "meaning": "market", "emoji": "🏪", "audio": "audio/hi/words/hi-ba-06.mp3" },
+        { "text": "बच्चा", "roman": "baccā", "meaning": "child", "emoji": "👶", "audio": "audio/hi/words/hi-ba-07.mp3" },
+        { "text": "बर्फ़", "roman": "barf", "meaning": "ice / snow", "emoji": "❄", "audio": "audio/hi/words/hi-ba-08.mp3" }
+      ]
+    },
+    {
+      "id": "hi-bha",
+      "char": "भ",
+      "name": "bha",
+      "romanization": "bha",
+      "ipa": "/bʱ/",
+      "letterAudio": "audio/hi/letters/hi-bha.mp3",
+      "memoryTrick": "Like 'b' with a breathy, murmured release — imagine saying 'boy' while sighing heavily through your nose. Voiced and aspirated.",
+      "words": [
+        { "text": "भालू", "roman": "bhālū", "meaning": "bear", "emoji": "🐻", "audio": "audio/hi/words/hi-bha-01.mp3" },
+        { "text": "भैंस", "roman": "bhains", "meaning": "water buffalo", "emoji": "🐃", "audio": "audio/hi/words/hi-bha-02.mp3" },
+        { "text": "भूकंप", "roman": "bhūkamp", "meaning": "earthquake", "emoji": "🏚", "audio": "audio/hi/words/hi-bha-03.mp3" },
+        { "text": "भोजन", "roman": "bhojan", "meaning": "meal / food", "emoji": "🍲", "audio": "audio/hi/words/hi-bha-04.mp3" },
+        { "text": "भाषा", "roman": "bhāṣā", "meaning": "language", "emoji": "🗣", "audio": "audio/hi/words/hi-bha-05.mp3" },
+        { "text": "भारत", "roman": "bhārat", "meaning": "India", "emoji": "🇮🇳", "audio": "audio/hi/words/hi-bha-06.mp3" }
       ]
     },
     {
       "id": "hi-ma",
       "char": "म",
-      "name": "Ma",
+      "name": "ma",
       "romanization": "ma",
-      "ipa": "/mə/",
+      "ipa": "/m/",
       "letterAudio": "audio/hi/letters/hi-ma.mp3",
-      "memoryTrick": "A rounded belly with a tail — hum the 'm' in 'mother' with its built-in 'a'.",
+      "memoryTrick": "Like 'm' in English 'mother' — lips together, hum through your nose. Same warm, nasal sound in every language.",
       "words": [
-        { "text": "मछली", "roman": "machhlī", "meaning": "fish", "emoji": "🐟", "audio": "audio/hi/words/hi-ma-01.mp3" },
-        { "text": "मोर", "roman": "mor", "meaning": "peacock", "emoji": "🦚", "audio": "audio/hi/words/hi-ma-02.mp3" }
+        { "text": "मछली", "roman": "machlī", "meaning": "fish", "emoji": "🐟", "audio": "audio/hi/words/hi-ma-01.mp3" },
+        { "text": "मकान", "roman": "makān", "meaning": "house / building", "emoji": "🏘", "audio": "audio/hi/words/hi-ma-02.mp3" },
+        { "text": "मोर", "roman": "mor", "meaning": "peacock", "emoji": "🦚", "audio": "audio/hi/words/hi-ma-03.mp3" },
+        { "text": "मिठाई", "roman": "miṭhāī", "meaning": "sweets", "emoji": "🍬", "audio": "audio/hi/words/hi-ma-04.mp3" },
+        { "text": "मोमबत्ती", "roman": "mombattī", "meaning": "candle", "emoji": "🕯", "audio": "audio/hi/words/hi-ma-05.mp3" },
+        { "text": "मैदान", "roman": "maidān", "meaning": "field / ground", "emoji": "🏟", "audio": "audio/hi/words/hi-ma-06.mp3" },
+        { "text": "महीना", "roman": "mahīnā", "meaning": "month", "emoji": "📅", "audio": "audio/hi/words/hi-ma-07.mp3" },
+        { "text": "मौसम", "roman": "mausam", "meaning": "weather / season", "emoji": "🌤", "audio": "audio/hi/words/hi-ma-08.mp3" }
       ]
+    },
+    {
+      "id": "hi-ya",
+      "char": "य",
+      "name": "ya",
+      "romanization": "ya",
+      "ipa": "/j/",
+      "letterAudio": "audio/hi/letters/hi-ya.mp3",
+      "memoryTrick": "Like 'y' in English 'yes' — a smooth, palatal glide. Your tongue approaches the roof of your mouth without fully touching.",
+      "words": [
+        { "text": "याद", "roman": "yād", "meaning": "memory", "emoji": "🧠", "audio": "audio/hi/words/hi-ya-01.mp3" },
+        { "text": "यात्री", "roman": "yātrī", "meaning": "traveler / passenger", "emoji": "🧳", "audio": "audio/hi/words/hi-ya-02.mp3" },
+        { "text": "योग", "roman": "yog", "meaning": "yoga", "emoji": "🧘", "audio": "audio/hi/words/hi-ya-03.mp3" },
+        { "text": "युवा", "roman": "yuvā", "meaning": "youth / young", "emoji": "🧑", "audio": "audio/hi/words/hi-ya-04.mp3" },
+        { "text": "यज्ञ", "roman": "yajña", "meaning": "ritual sacrifice", "emoji": "🔥", "audio": "audio/hi/words/hi-ya-05.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ra",
+      "char": "र",
+      "name": "ra",
+      "romanization": "ra",
+      "ipa": "/r/",
+      "letterAudio": "audio/hi/letters/hi-ra.mp3",
+      "memoryTrick": "A quick tongue-tap 'r' like the Spanish single 'r' in 'pero' or the 'dd' in American English 'ladder.' Not the rolled Scottish 'r.'",
+      "words": [
+        { "text": "रसोई", "roman": "rasoī", "meaning": "kitchen", "emoji": "🍳", "audio": "audio/hi/words/hi-ra-01.mp3" },
+        { "text": "रंग", "roman": "raṅg", "meaning": "color", "emoji": "🎨", "audio": "audio/hi/words/hi-ra-02.mp3" },
+        { "text": "रोटी", "roman": "roṭī", "meaning": "bread / roti", "emoji": "🫓", "audio": "audio/hi/words/hi-ra-03.mp3" },
+        { "text": "रात", "roman": "rāt", "meaning": "night", "emoji": "🌃", "audio": "audio/hi/words/hi-ra-04.mp3" },
+        { "text": "राजा", "roman": "rājā", "meaning": "king", "emoji": "🤴", "audio": "audio/hi/words/hi-ra-05.mp3" },
+        { "text": "रास्ता", "roman": "rāstā", "meaning": "road / path", "emoji": "🛣", "audio": "audio/hi/words/hi-ra-06.mp3" },
+        { "text": "रोशनी", "roman": "rośnī", "meaning": "light", "emoji": "💡", "audio": "audio/hi/words/hi-ra-07.mp3" }
+      ]
+    },
+    {
+      "id": "hi-la",
+      "char": "ल",
+      "name": "la",
+      "romanization": "la",
+      "ipa": "/l/",
+      "letterAudio": "audio/hi/letters/hi-la.mp3",
+      "memoryTrick": "Like 'l' in English 'love' — tongue touches the back of your top teeth. A clear, bright 'l,' never the dark 'l' of English 'full.'",
+      "words": [
+        { "text": "लड़का", "roman": "laṛkā", "meaning": "boy", "emoji": "👦", "audio": "audio/hi/words/hi-la-01.mp3" },
+        { "text": "लड़की", "roman": "laṛkī", "meaning": "girl", "emoji": "👧", "audio": "audio/hi/words/hi-la-02.mp3" },
+        { "text": "लकड़ी", "roman": "lakṛī", "meaning": "wood / stick", "emoji": "🪵", "audio": "audio/hi/words/hi-la-03.mp3" },
+        { "text": "लाल", "roman": "lāl", "meaning": "red", "emoji": "🔴", "audio": "audio/hi/words/hi-la-04.mp3" },
+        { "text": "लहर", "roman": "lahar", "meaning": "wave", "emoji": "🌊", "audio": "audio/hi/words/hi-la-05.mp3" },
+        { "text": "लोमड़ी", "roman": "lomṛī", "meaning": "fox", "emoji": "🦊", "audio": "audio/hi/words/hi-la-06.mp3" },
+        { "text": "लिपि", "roman": "lipi", "meaning": "script / writing", "emoji": "✍", "audio": "audio/hi/words/hi-la-07.mp3" }
+      ]
+    },
+    {
+      "id": "hi-va",
+      "char": "व",
+      "name": "va",
+      "romanization": "va",
+      "ipa": "/ʋ/",
+      "letterAudio": "audio/hi/letters/hi-va.mp3",
+      "memoryTrick": "Between English 'v' and 'w' — lips approach each other but don't quite touch. Like a very soft 'v' or a slightly buzzy 'w.'",
+      "words": [
+        { "text": "वन", "roman": "van", "meaning": "forest", "emoji": "🌲", "audio": "audio/hi/words/hi-va-01.mp3" },
+        { "text": "वर्षा", "roman": "varṣā", "meaning": "rain / monsoon", "emoji": "⛈", "audio": "audio/hi/words/hi-va-02.mp3" },
+        { "text": "विज्ञान", "roman": "vijñān", "meaning": "science", "emoji": "🔬", "audio": "audio/hi/words/hi-va-03.mp3" },
+        { "text": "वायु", "roman": "vāyu", "meaning": "air / wind", "emoji": "💨", "audio": "audio/hi/words/hi-va-04.mp3" },
+        { "text": "विद्यालय", "roman": "vidyālay", "meaning": "school", "emoji": "🏫", "audio": "audio/hi/words/hi-va-05.mp3" },
+        { "text": "वकील", "roman": "vakīl", "meaning": "lawyer", "emoji": "⚖", "audio": "audio/hi/words/hi-va-06.mp3" },
+        { "text": "वजन", "roman": "vajan", "meaning": "weight", "emoji": "⚖", "audio": "audio/hi/words/hi-va-07.mp3" }
+      ]
+    },
+    {
+      "id": "hi-sha",
+      "char": "श",
+      "name": "śa",
+      "romanization": "śa",
+      "ipa": "/ʃ/",
+      "letterAudio": "audio/hi/letters/hi-sha.mp3",
+      "memoryTrick": "Like 'sh' in English 'shoe' — tongue near the roof of your mouth, palatal. The most common Hindi 'sh' sound.",
+      "words": [
+        { "text": "शेर", "roman": "śer", "meaning": "lion / tiger", "emoji": "🦁", "audio": "audio/hi/words/hi-sha-01.mp3" },
+        { "text": "शहद", "roman": "śahad", "meaning": "honey", "emoji": "🍯", "audio": "audio/hi/words/hi-sha-02.mp3" },
+        { "text": "शीशा", "roman": "śīśā", "meaning": "mirror / glass", "emoji": "🪞", "audio": "audio/hi/words/hi-sha-03.mp3" },
+        { "text": "शरीर", "roman": "śarīr", "meaning": "body", "emoji": "🧍", "audio": "audio/hi/words/hi-sha-04.mp3" },
+        { "text": "शहर", "roman": "śahar", "meaning": "city", "emoji": "🏙", "audio": "audio/hi/words/hi-sha-05.mp3" },
+        { "text": "शिक्षक", "roman": "śikṣak", "meaning": "teacher", "emoji": "👨‍🏫", "audio": "audio/hi/words/hi-sha-06.mp3" },
+        { "text": "शांति", "roman": "śānti", "meaning": "peace", "emoji": "☮", "audio": "audio/hi/words/hi-sha-07.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ssa",
+      "char": "ष",
+      "name": "ṣa",
+      "romanization": "ṣa",
+      "ipa": "/ʂ/",
+      "letterAudio": "audio/hi/letters/hi-ssa.mp3",
+      "memoryTrick": "Like 'sh' but with your tongue curled back (retroflex) — deeper and harder than श. Imagine saying 'sh' while pulling your tongue back.",
+      "words": [
+        { "text": "भाषा", "roman": "bhāṣā", "meaning": "language", "emoji": "🗣", "audio": "audio/hi/words/hi-ssa-01.mp3" },
+        { "text": "वर्ष", "roman": "varṣ", "meaning": "year", "emoji": "📆", "audio": "audio/hi/words/hi-ssa-02.mp3" },
+        { "text": "कृषि", "roman": "kṛṣi", "meaning": "agriculture", "emoji": "🌾", "audio": "audio/hi/words/hi-ssa-03.mp3" },
+        { "text": "विष", "roman": "viṣ", "meaning": "poison", "emoji": "☠", "audio": "audio/hi/words/hi-ssa-04.mp3" },
+        { "text": "पुरुष", "roman": "puruṣ", "meaning": "man / male", "emoji": "👨", "audio": "audio/hi/words/hi-ssa-05.mp3" }
+      ]
+    },
+    {
+      "id": "hi-sa",
+      "char": "स",
+      "name": "sa",
+      "romanization": "sa",
+      "ipa": "/s/",
+      "letterAudio": "audio/hi/letters/hi-sa.mp3",
+      "memoryTrick": "Like 's' in English 'sun' — a clean, dental hiss with tongue near your teeth. The everyday Hindi 's' you'll use most often.",
+      "words": [
+        { "text": "साँप", "roman": "sā̃p", "meaning": "snake", "emoji": "🐍", "audio": "audio/hi/words/hi-sa-01.mp3" },
+        { "text": "सूरज", "roman": "sūraj", "meaning": "sun", "emoji": "☀", "audio": "audio/hi/words/hi-sa-02.mp3" },
+        { "text": "सेब", "roman": "seb", "meaning": "apple", "emoji": "🍎", "audio": "audio/hi/words/hi-sa-03.mp3" },
+        { "text": "सपना", "roman": "sapnā", "meaning": "dream", "emoji": "💭", "audio": "audio/hi/words/hi-sa-04.mp3" },
+        { "text": "सड़क", "roman": "saṛak", "meaning": "road / street", "emoji": "🛣", "audio": "audio/hi/words/hi-sa-05.mp3" },
+        { "text": "समुद्र", "roman": "samudra", "meaning": "sea / ocean", "emoji": "🌊", "audio": "audio/hi/words/hi-sa-06.mp3" },
+        { "text": "सोना", "roman": "sonā", "meaning": "gold / to sleep", "emoji": "🥇", "audio": "audio/hi/words/hi-sa-07.mp3" },
+        { "text": "संगीत", "roman": "saṅgīt", "meaning": "music", "emoji": "🎶", "audio": "audio/hi/words/hi-sa-08.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ha",
+      "char": "ह",
+      "name": "ha",
+      "romanization": "ha",
+      "ipa": "/ɦ/",
+      "letterAudio": "audio/hi/letters/hi-ha.mp3",
+      "memoryTrick": "A voiced, breathy 'h' — like the 'h' in English 'behind' or the sound of a gentle sigh. Your vocal cords vibrate while air passes through.",
+      "words": [
+        { "text": "हाथी", "roman": "hāthī", "meaning": "elephant", "emoji": "🐘", "audio": "audio/hi/words/hi-ha-01.mp3" },
+        { "text": "हवा", "roman": "havā", "meaning": "wind / air", "emoji": "🌬", "audio": "audio/hi/words/hi-ha-02.mp3" },
+        { "text": "हाथ", "roman": "hāth", "meaning": "hand", "emoji": "🤚", "audio": "audio/hi/words/hi-ha-03.mp3" },
+        { "text": "हँसी", "roman": "hãsī", "meaning": "laughter", "emoji": "😂", "audio": "audio/hi/words/hi-ha-04.mp3" },
+        { "text": "हीरा", "roman": "hīrā", "meaning": "diamond", "emoji": "💎", "audio": "audio/hi/words/hi-ha-05.mp3" },
+        { "text": "होंठ", "roman": "hoṇṭh", "meaning": "lips", "emoji": "👄", "audio": "audio/hi/words/hi-ha-06.mp3" },
+        { "text": "हल", "roman": "hal", "meaning": "plow / solution", "emoji": "🌱", "audio": "audio/hi/words/hi-ha-07.mp3" },
+        { "text": "हरा", "roman": "harā", "meaning": "green", "emoji": "🟢", "audio": "audio/hi/words/hi-ha-08.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ksha",
+      "char": "क्ष",
+      "name": "kṣa",
+      "romanization": "kṣa",
+      "ipa": "/kʃ/",
+      "letterAudio": "audio/hi/letters/hi-ksha.mp3",
+      "memoryTrick": "A conjunct of क + ष — sounds like 'ksh' as in 'backshift.' Start with a crisp 'k' and slide into a retroflex 'sh.'",
+      "words": [
+        { "text": "क्षमा", "roman": "kṣamā", "meaning": "forgiveness", "emoji": "🤲", "audio": "audio/hi/words/hi-ksha-01.mp3" },
+        { "text": "शिक्षक", "roman": "śikṣak", "meaning": "teacher", "emoji": "👨‍🏫", "audio": "audio/hi/words/hi-ksha-02.mp3" },
+        { "text": "रक्षा", "roman": "rakṣā", "meaning": "protection", "emoji": "🛡", "audio": "audio/hi/words/hi-ksha-03.mp3" },
+        { "text": "लक्ष्य", "roman": "lakṣya", "meaning": "goal / target", "emoji": "🎯", "audio": "audio/hi/words/hi-ksha-04.mp3" }
+      ]
+    },
+    {
+      "id": "hi-tra",
+      "char": "त्र",
+      "name": "tra",
+      "romanization": "tra",
+      "ipa": "/t̪r/",
+      "letterAudio": "audio/hi/letters/hi-tra.mp3",
+      "memoryTrick": "A conjunct of त + र — like 'tr' in English 'tree' but with a dental 't' (tongue on teeth). Quick transition from 't' to rolled 'r.'",
+      "words": [
+        { "text": "त्रिशूल", "roman": "triśūl", "meaning": "trident", "emoji": "🔱", "audio": "audio/hi/words/hi-tra-01.mp3" },
+        { "text": "पत्र", "roman": "patra", "meaning": "letter / leaf", "emoji": "✉", "audio": "audio/hi/words/hi-tra-02.mp3" },
+        { "text": "नेत्र", "roman": "netra", "meaning": "eye", "emoji": "👁", "audio": "audio/hi/words/hi-tra-03.mp3" },
+        { "text": "चित्र", "roman": "citra", "meaning": "picture / painting", "emoji": "🎨", "audio": "audio/hi/words/hi-tra-04.mp3" },
+        { "text": "यात्रा", "roman": "yātrā", "meaning": "journey", "emoji": "🧳", "audio": "audio/hi/words/hi-tra-05.mp3" },
+        { "text": "त्रिकोण", "roman": "trikoṇ", "meaning": "triangle", "emoji": "🔺", "audio": "audio/hi/words/hi-tra-06.mp3" }
+      ]
+    },
+    {
+      "id": "hi-jna",
+      "char": "ज्ञ",
+      "name": "jña",
+      "romanization": "jña",
+      "ipa": "/ɡj/",
+      "letterAudio": "audio/hi/letters/hi-jna.mp3",
+      "memoryTrick": "A conjunct of ज + ञ — in modern Hindi pronounced like 'gya' as in 'gyat.' Imagine saying 'g' and 'y' together quickly. Some regions say 'dnya.'",
+      "words": [
+        { "text": "ज्ञान", "roman": "jñān", "meaning": "knowledge", "emoji": "📖", "audio": "audio/hi/words/hi-jna-01.mp3" },
+        { "text": "विज्ञान", "roman": "vijñān", "meaning": "science", "emoji": "🔬", "audio": "audio/hi/words/hi-jna-02.mp3" },
+        { "text": "यज्ञ", "roman": "yajña", "meaning": "sacrifice", "emoji": "🔥", "audio": "audio/hi/words/hi-jna-03.mp3" },
+        { "text": "सर्वज्ञ", "roman": "sarvajña", "meaning": "all-knowing / omniscient", "emoji": "🧠", "audio": "audio/hi/words/hi-jna-04.mp3" }
+      ]
+    },
+    {
+      "id": "hi-qa",
+      "char": "क़",
+      "name": "qa",
+      "romanization": "qa",
+      "ipa": "/q/",
+      "letterAudio": "audio/hi/letters/hi-qa.mp3",
+      "memoryTrick": "Like a 'k' made deep in the throat, way back near your uvula — imagine the Arabic 'Qaf.' Borrowed from Persian/Arabic for words like 'qalam' (pen). The dot underneath क signals this deeper sound.",
+      "words": [
+        { "text": "क़लम", "roman": "qalam", "meaning": "pen", "emoji": "🖊", "audio": "audio/hi/words/hi-qa-01.mp3" },
+        { "text": "क़िला", "roman": "qilā", "meaning": "fort", "emoji": "🏰", "audio": "audio/hi/words/hi-qa-02.mp3" },
+        { "text": "क़ीमत", "roman": "qīmat", "meaning": "price / value", "emoji": "🏷", "audio": "audio/hi/words/hi-qa-03.mp3" },
+        { "text": "क़रीब", "roman": "qarīb", "meaning": "near / close", "emoji": "📍", "audio": "audio/hi/words/hi-qa-04.mp3" },
+        { "text": "क़ानून", "roman": "qānūn", "meaning": "law", "emoji": "⚖", "audio": "audio/hi/words/hi-qa-05.mp3" },
+        { "text": "क़सम", "roman": "qasam", "meaning": "oath / swear", "emoji": "🤞", "audio": "audio/hi/words/hi-qa-06.mp3" },
+        { "text": "क़ैद", "roman": "qaid", "meaning": "prison / captivity", "emoji": "🔒", "audio": "audio/hi/words/hi-qa-07.mp3" }
+      ]
+    },
+    {
+      "id": "hi-xa",
+      "char": "ख़",
+      "name": "xa",
+      "romanization": "xa",
+      "ipa": "/x/",
+      "letterAudio": "audio/hi/letters/hi-xa.mp3",
+      "memoryTrick": "Like the 'ch' in Scottish 'loch' or German 'Bach' — a throaty, fricative sound like clearing your throat gently. The dot under ख turns the aspirated 'kh' into this guttural sound.",
+      "words": [
+        { "text": "ख़बर", "roman": "xabar", "meaning": "news", "emoji": "📰", "audio": "audio/hi/words/hi-xa-01.mp3" },
+        { "text": "ख़त", "roman": "xat", "meaning": "letter (mail)", "emoji": "✉", "audio": "audio/hi/words/hi-xa-02.mp3" },
+        { "text": "ख़ुश", "roman": "xuś", "meaning": "happy", "emoji": "😊", "audio": "audio/hi/words/hi-xa-03.mp3" },
+        { "text": "ख़रीदना", "roman": "xarīdnā", "meaning": "to buy", "emoji": "🛒", "audio": "audio/hi/words/hi-xa-04.mp3" },
+        { "text": "ख़र्च", "roman": "xarc", "meaning": "expense / spending", "emoji": "💸", "audio": "audio/hi/words/hi-xa-05.mp3" },
+        { "text": "ख़तरा", "roman": "xatrā", "meaning": "danger", "emoji": "⚠", "audio": "audio/hi/words/hi-xa-06.mp3" },
+        { "text": "ख़याल", "roman": "xayāl", "meaning": "thought / idea", "emoji": "💡", "audio": "audio/hi/words/hi-xa-07.mp3" }
+      ]
+    },
+    {
+      "id": "hi-gha-nukta",
+      "char": "ग़",
+      "name": "ġa",
+      "romanization": "ġa",
+      "ipa": "/ɣ/",
+      "letterAudio": "audio/hi/letters/hi-gha-nukta.mp3",
+      "memoryTrick": "Like the French 'r' in 'Paris' or a voiced version of ख़ — a soft, gargling sound made with vibrating vocal cords. Rare in everyday Hindi.",
+      "words": [
+        { "text": "ग़रीब", "roman": "ġarīb", "meaning": "poor", "emoji": "🫂", "audio": "audio/hi/words/hi-gha-nukta-01.mp3" },
+        { "text": "ग़लत", "roman": "ġalat", "meaning": "wrong / mistake", "emoji": "❌", "audio": "audio/hi/words/hi-gha-nukta-02.mp3" },
+        { "text": "ग़ुस्सा", "roman": "ġussā", "meaning": "anger", "emoji": "😤", "audio": "audio/hi/words/hi-gha-nukta-03.mp3" },
+        { "text": "ग़ज़ल", "roman": "ġazal", "meaning": "ghazal (poetic form)", "emoji": "🎤", "audio": "audio/hi/words/hi-gha-nukta-04.mp3" },
+        { "text": "ग़म", "roman": "ġam", "meaning": "sorrow / grief", "emoji": "😢", "audio": "audio/hi/words/hi-gha-nukta-05.mp3" }
+      ]
+    },
+    {
+      "id": "hi-za",
+      "char": "ज़",
+      "name": "za",
+      "romanization": "za",
+      "ipa": "/z/",
+      "letterAudio": "audio/hi/letters/hi-za.mp3",
+      "memoryTrick": "Like 'z' in English 'zebra' — a voiced buzzing 's.' The dot under ज turns the 'j' sound into this familiar 'z.' Very common in Hindi.",
+      "words": [
+        { "text": "ज़मीन", "roman": "zamīn", "meaning": "earth / ground", "emoji": "🌍", "audio": "audio/hi/words/hi-za-01.mp3" },
+        { "text": "ज़रूरत", "roman": "zarūrat", "meaning": "need / necessity", "emoji": "❗", "audio": "audio/hi/words/hi-za-02.mp3" },
+        { "text": "ज़िंदगी", "roman": "zindagī", "meaning": "life", "emoji": "🧬", "audio": "audio/hi/words/hi-za-03.mp3" },
+        { "text": "ज़ोर", "roman": "zor", "meaning": "force / strength", "emoji": "💪", "audio": "audio/hi/words/hi-za-04.mp3" },
+        { "text": "ज़हर", "roman": "zahar", "meaning": "poison", "emoji": "☠", "audio": "audio/hi/words/hi-za-05.mp3" },
+        { "text": "ज़ुबान", "roman": "zubān", "meaning": "tongue / language", "emoji": "👅", "audio": "audio/hi/words/hi-za-06.mp3" },
+        { "text": "ज़ख्म", "roman": "zaxm", "meaning": "wound", "emoji": "🩹", "audio": "audio/hi/words/hi-za-07.mp3" },
+        { "text": "ज़्यादा", "roman": "zyādā", "meaning": "more / much", "emoji": "➕", "audio": "audio/hi/words/hi-za-08.mp3" }
+      ]
+    },
+    {
+      "id": "hi-rra",
+      "char": "ड़",
+      "name": "ṛa",
+      "romanization": "ṛa",
+      "ipa": "/ɽ/",
+      "letterAudio": "audio/hi/letters/hi-rra.mp3",
+      "memoryTrick": "A retroflex flap — like the 'rd' in an American 'ladder' said quickly, but with your tongue curled back. A single tap of the curled tongue. Never starts a word.",
+      "words": [
+        { "text": "लड़का", "roman": "laṛkā", "meaning": "boy", "emoji": "👦", "audio": "audio/hi/words/hi-rra-01.mp3" },
+        { "text": "बड़ा", "roman": "baṛā", "meaning": "big / large", "emoji": "📏", "audio": "audio/hi/words/hi-rra-02.mp3" },
+        { "text": "पहाड़", "roman": "pahāṛ", "meaning": "mountain", "emoji": "⛰", "audio": "audio/hi/words/hi-rra-03.mp3" },
+        { "text": "सड़क", "roman": "saṛak", "meaning": "road", "emoji": "🛣", "audio": "audio/hi/words/hi-rra-04.mp3" },
+        { "text": "कड़ा", "roman": "kaṛā", "meaning": "hard / bracelet", "emoji": "💍", "audio": "audio/hi/words/hi-rra-05.mp3" },
+        { "text": "घड़ी", "roman": "ghaṛī", "meaning": "watch / clock", "emoji": "⌚", "audio": "audio/hi/words/hi-rra-06.mp3" }
+      ]
+    },
+    {
+      "id": "hi-rrha",
+      "char": "ढ़",
+      "name": "ṛha",
+      "romanization": "ṛha",
+      "ipa": "/ɽʱ/",
+      "letterAudio": "audio/hi/letters/hi-rrha.mp3",
+      "memoryTrick": "Like ड़ but with a breathy release — the retroflex flap followed by a puff of air. The aspirated version of the flap. Appears in very few Hindi words.",
+      "words": [
+        { "text": "पढ़ना", "roman": "paṛhnā", "meaning": "to read / study", "emoji": "📖", "audio": "audio/hi/words/hi-rrha-01.mp3" },
+        { "text": "बाढ़", "roman": "bāṛh", "meaning": "flood", "emoji": "🌊", "audio": "audio/hi/words/hi-rrha-02.mp3" },
+        { "text": "गूँढ़ना", "roman": "gū̃ṛhnā", "meaning": "to tie / knot", "emoji": "🪢", "audio": "audio/hi/words/hi-rrha-03.mp3" }
+      ]
+    },
+    {
+      "id": "hi-fa",
+      "char": "फ़",
+      "name": "fa",
+      "romanization": "fa",
+      "ipa": "/f/",
+      "letterAudio": "audio/hi/letters/hi-fa.mp3",
+      "memoryTrick": "Like 'f' in English 'fun' — top teeth on bottom lip, blow air through. The dot under फ turns the aspirated 'ph' into the familiar 'f.' Very common in modern Hindi.",
+      "words": [
+        { "text": "फ़ल", "roman": "fal", "meaning": "fruit / result", "emoji": "🍎", "audio": "audio/hi/words/hi-fa-01.mp3" },
+        { "text": "फ़िल्म", "roman": "film", "meaning": "film / movie", "emoji": "🎬", "audio": "audio/hi/words/hi-fa-02.mp3" },
+        { "text": "फ़ोन", "roman": "fon", "meaning": "phone", "emoji": "📱", "audio": "audio/hi/words/hi-fa-03.mp3" },
+        { "text": "फ़ौज", "roman": "fauj", "meaning": "army", "emoji": "🪖", "audio": "audio/hi/words/hi-fa-04.mp3" },
+        { "text": "फ़ैसला", "roman": "faislā", "meaning": "decision / verdict", "emoji": "⚖", "audio": "audio/hi/words/hi-fa-05.mp3" },
+        { "text": "फ़र्क", "roman": "farq", "meaning": "difference", "emoji": "↔", "audio": "audio/hi/words/hi-fa-06.mp3" },
+        { "text": "साफ़", "roman": "sāf", "meaning": "clean", "emoji": "🧹", "audio": "audio/hi/words/hi-fa-07.mp3" },
+        { "text": "फ़ायदा", "roman": "fāydā", "meaning": "benefit / advantage", "emoji": "✅", "audio": "audio/hi/words/hi-fa-08.mp3" }
+      ]
+    },
+    {
+      "id": "hi-aa-matra",
+      "char": "ा",
+      "name": "ā mātrā",
+      "romanization": "ā (vowel sign)",
+      "ipa": "/aː/",
+      "letterAudio": "audio/hi/letters/hi-aa-matra.mp3",
+      "memoryTrick": "The vertical line after a consonant lengthens the inherent 'a' to 'ā' — like क becomes का (kā). Think of it as stretching the short 'a' sound."
+    },
+    {
+      "id": "hi-i-matra",
+      "char": "ि",
+      "name": "i mātrā",
+      "romanization": "i (vowel sign)",
+      "ipa": "/ɪ/",
+      "letterAudio": "audio/hi/letters/hi-i-matra.mp3",
+      "memoryTrick": "The curved stroke before a consonant adds a short 'i' — like क becomes कि (ki). It sits to the LEFT of the consonant even though the 'i' sound comes AFTER it."
+    },
+    {
+      "id": "hi-ii-matra",
+      "char": "ी",
+      "name": "ī mātrā",
+      "romanization": "ī (vowel sign)",
+      "ipa": "/iː/",
+      "letterAudio": "audio/hi/letters/hi-ii-matra.mp3",
+      "memoryTrick": "The curved stroke after a consonant gives a long 'ī' — like क becomes की (kī). It looks like a mirror-image of the short ि matra, now sitting on the right."
+    },
+    {
+      "id": "hi-u-matra",
+      "char": "ु",
+      "name": "u mātrā",
+      "romanization": "u (vowel sign)",
+      "ipa": "/ʊ/",
+      "letterAudio": "audio/hi/letters/hi-u-matra.mp3",
+      "memoryTrick": "The small hook underneath a consonant adds a short 'u' — like क becomes कु (ku). It's a tiny curve that hangs below the letter."
+    },
+    {
+      "id": "hi-uu-matra",
+      "char": "ू",
+      "name": "ū mātrā",
+      "romanization": "ū (vowel sign)",
+      "ipa": "/uː/",
+      "letterAudio": "audio/hi/letters/hi-uu-matra.mp3",
+      "memoryTrick": "The curl underneath a consonant gives a long 'ū' — like क becomes कू (kū). It's the extended version of the short u hook, curving further."
+    },
+    {
+      "id": "hi-ri-matra",
+      "char": "ृ",
+      "name": "ṛ mātrā",
+      "romanization": "ṛ (vowel sign)",
+      "ipa": "/rɪ/",
+      "letterAudio": "audio/hi/letters/hi-ri-matra.mp3",
+      "memoryTrick": "The half-moon underneath a consonant adds 'ṛ' — like क becomes कृ (kṛ). Looks like a tiny crescent hanging below the letter. Rare in everyday words."
+    },
+    {
+      "id": "hi-e-matra",
+      "char": "े",
+      "name": "e mātrā",
+      "romanization": "e (vowel sign)",
+      "ipa": "/eː/",
+      "letterAudio": "audio/hi/letters/hi-e-matra.mp3",
+      "memoryTrick": "The slanted stroke above a consonant gives 'e' — like क becomes के (ke). It sits on top, like a little roof over the letter."
+    },
+    {
+      "id": "hi-ai-matra",
+      "char": "ै",
+      "name": "ai mātrā",
+      "romanization": "ai (vowel sign)",
+      "ipa": "/ɛː/",
+      "letterAudio": "audio/hi/letters/hi-ai-matra.mp3",
+      "memoryTrick": "Two slanted strokes above a consonant give 'ai' — like क becomes कै (kai). It's like the e mātrā with an extra stroke, opening the sound wider."
+    },
+    {
+      "id": "hi-o-matra",
+      "char": "ो",
+      "name": "o mātrā",
+      "romanization": "o (vowel sign)",
+      "ipa": "/oː/",
+      "letterAudio": "audio/hi/letters/hi-o-matra.mp3",
+      "memoryTrick": "The e mātrā े plus the ā mātrā ा after the consonant gives 'o' — like क becomes को (ko). It's a two-part diacritic that wraps around the letter."
+    },
+    {
+      "id": "hi-au-matra",
+      "char": "ौ",
+      "name": "au mātrā",
+      "romanization": "au (vowel sign)",
+      "ipa": "/ɔː/",
+      "letterAudio": "audio/hi/letters/hi-au-matra.mp3",
+      "memoryTrick": "The ai mātrā ै plus the ā mātrā ा after the consonant gives 'au' — like क becomes कौ (kau). The two-part wrapper that opens into a deep 'aw' sound."
+    },
+    {
+      "id": "hi-anusvara",
+      "char": "ं",
+      "name": "anusvāra",
+      "romanization": "ṁ / ṃ (nasalization dot)",
+      "ipa": "nasalization",
+      "letterAudio": "audio/hi/letters/hi-anusvara.mp3",
+      "memoryTrick": "The dot above a letter adds a nasal sound — like in रंग (raṅg, color). It's like the 'n' in French 'bon' or the nasal hum at the end of 'sing.'"
+    },
+    {
+      "id": "hi-chandrabindu",
+      "char": "ँ",
+      "name": "candrabindu",
+      "romanization": "˜ / ñ (nasalization crescent-dot)",
+      "ipa": "nasalization",
+      "letterAudio": "audio/hi/letters/hi-chandrabindu.mp3",
+      "memoryTrick": "The crescent with a dot (moon-dot) above a vowel nasalizes it — like in हाँ (hā̃, yes). Think of it as the 'n' sound creeping into the vowel. 'Chandra' means moon."
+    },
+    {
+      "id": "hi-visarga",
+      "char": "ः",
+      "name": "visarga",
+      "romanization": "ḥ (breathy release)",
+      "ipa": "/h/",
+      "letterAudio": "audio/hi/letters/hi-visarga.mp3",
+      "memoryTrick": "Two dots after a letter add a breathy 'h' echo — like a whispered puff after the vowel. Rare in everyday Hindi, mostly in Sanskrit loanwords like दुःख (duḥkh, sorrow)."
+    },
+    {
+      "id": "hi-virama",
+      "char": "्",
+      "name": "virāma / halant",
+      "romanization": "(vowel killer / halant)",
+      "letterAudio": "audio/hi/letters/hi-virama.mp3",
+      "memoryTrick": "The small diagonal stroke underneath a consonant removes its inherent 'a' vowel — like क् (k instead of ka). It's the 'silencer' that lets consonants stack into conjuncts like क्त (kt)."
     }
   ]
 }

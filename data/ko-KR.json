@@ -6,53 +6,762 @@
     {
       "id": "ko-giyeok",
       "char": "ㄱ",
-      "name": "Giyeok (기역)",
-      "romanization": "g / k",
+      "name": "giyeok",
+      "romanization": "g (initial), k (final)",
       "ipa": "/k/",
       "letterAudio": "audio/ko/letters/ko-giyeok.mp3",
-      "memoryTrick": "Shaped like a bent gun or an angled corner — picture the barrel pointing for the 'g' in 'go'.",
+      "memoryTrick": "Looks like a gun — think 'g' for gun and 'g' for giyeok. It makes a soft g sound like in 'go' at the start of a syllable and a sharper k at the end.",
       "words": [
-        { "text": "가방", "roman": "ga-bang", "meaning": "bag", "emoji": "🎒", "audio": "audio/ko/words/ko-giyeok-01.mp3" },
-        { "text": "고양이", "roman": "go-yang-i", "meaning": "cat", "emoji": "🐈", "audio": "audio/ko/words/ko-giyeok-02.mp3" }
+        { "text": "가방", "roman": "gabang", "meaning": "bag", "emoji": "🎒", "audio": "audio/ko/words/ko-giyeok-01.mp3" },
+        { "text": "가수", "roman": "gasu", "meaning": "singer", "emoji": "🎤", "audio": "audio/ko/words/ko-giyeok-02.mp3" },
+        { "text": "가을", "roman": "gaeul", "meaning": "autumn", "emoji": "🍂", "audio": "audio/ko/words/ko-giyeok-03.mp3" },
+        { "text": "가족", "roman": "gajok", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/ko/words/ko-giyeok-04.mp3" },
+        { "text": "고양이", "roman": "goyangi", "meaning": "cat", "emoji": "🐱", "audio": "audio/ko/words/ko-giyeok-05.mp3" },
+        { "text": "거울", "roman": "geoul", "meaning": "mirror", "emoji": "🪞", "audio": "audio/ko/words/ko-giyeok-06.mp3" },
+        { "text": "기차", "roman": "gicha", "meaning": "train", "emoji": "🚂", "audio": "audio/ko/words/ko-giyeok-07.mp3" },
+        { "text": "구름", "roman": "gureum", "meaning": "cloud", "emoji": "☁️", "audio": "audio/ko/words/ko-giyeok-08.mp3" },
+        { "text": "김치", "roman": "gimchi", "meaning": "kimchi", "emoji": "🥬", "audio": "audio/ko/words/ko-giyeok-09.mp3" },
+        { "text": "강", "roman": "gang", "meaning": "river", "emoji": "🏞️", "audio": "audio/ko/words/ko-giyeok-10.mp3" },
+        { "text": "감자", "roman": "gamja", "meaning": "potato", "emoji": "🥔", "audio": "audio/ko/words/ko-giyeok-11.mp3" },
+        { "text": "공", "roman": "gong", "meaning": "ball", "emoji": "⚽", "audio": "audio/ko/words/ko-giyeok-12.mp3" }
       ]
     },
     {
       "id": "ko-nieun",
       "char": "ㄴ",
-      "name": "Nieun (니은)",
+      "name": "nieun",
       "romanization": "n",
       "ipa": "/n/",
       "letterAudio": "audio/ko/letters/ko-nieun.mp3",
-      "memoryTrick": "An L-shape, like a tongue tapping behind the front teeth — exactly where 'n' is made.",
+      "memoryTrick": "Looks like the curve of a nose — 'n' for nose and 'n' for nieun. It makes the same 'n' sound as in English 'nice'.",
       "words": [
-        { "text": "나무", "roman": "na-mu", "meaning": "tree", "emoji": "🌳", "audio": "audio/ko/words/ko-nieun-01.mp3" },
-        { "text": "눈", "roman": "nun", "meaning": "eye / snow", "emoji": "👁️", "audio": "audio/ko/words/ko-nieun-02.mp3" }
+        { "text": "나무", "roman": "namu", "meaning": "tree", "emoji": "🌳", "audio": "audio/ko/words/ko-nieun-01.mp3" },
+        { "text": "나라", "roman": "nara", "meaning": "country", "emoji": "🇰🇷", "audio": "audio/ko/words/ko-nieun-02.mp3" },
+        { "text": "눈", "roman": "nun", "meaning": "eye / snow", "emoji": "👁️", "audio": "audio/ko/words/ko-nieun-03.mp3" },
+        { "text": "날씨", "roman": "nalssi", "meaning": "weather", "emoji": "🌤️", "audio": "audio/ko/words/ko-nieun-04.mp3" },
+        { "text": "노래", "roman": "norae", "meaning": "song", "emoji": "🎵", "audio": "audio/ko/words/ko-nieun-05.mp3" },
+        { "text": "네", "roman": "ne", "meaning": "yes", "emoji": "👍", "audio": "audio/ko/words/ko-nieun-06.mp3" },
+        { "text": "남자", "roman": "namja", "meaning": "man", "emoji": "👨", "audio": "audio/ko/words/ko-nieun-07.mp3" },
+        { "text": "누나", "roman": "nuna", "meaning": "older sister (to male)", "emoji": "👧", "audio": "audio/ko/words/ko-nieun-08.mp3" },
+        { "text": "냉장고", "roman": "naengjanggo", "meaning": "refrigerator", "emoji": "🧊", "audio": "audio/ko/words/ko-nieun-09.mp3" },
+        { "text": "낮", "roman": "nat", "meaning": "daytime", "emoji": "☀️", "audio": "audio/ko/words/ko-nieun-10.mp3" }
       ]
     },
     {
-      "id": "ko-a",
-      "char": "ㅏ",
-      "name": "A (아)",
-      "romanization": "a",
-      "ipa": "/a/",
-      "letterAudio": "audio/ko/letters/ko-a.mp3",
-      "memoryTrick": "A vertical line with a short branch pointing right — the branch 'opens' your mouth to 'ah'.",
+      "id": "ko-digeut",
+      "char": "ㄷ",
+      "name": "digeut",
+      "romanization": "d (initial), t (final)",
+      "ipa": "/t/",
+      "letterAudio": "audio/ko/letters/ko-digeut.mp3",
+      "memoryTrick": "Shaped like a door — think 'd' for door and 'd' for digeut. It sounds like a soft 'd' at the start of a syllable, but hardens to 't' at the end, like the 't' in 'hot'.",
       "words": [
-        { "text": "아기", "roman": "a-gi", "meaning": "baby", "emoji": "👶", "audio": "audio/ko/words/ko-a-01.mp3" },
-        { "text": "아빠", "roman": "a-ppa", "meaning": "dad", "emoji": "👨", "audio": "audio/ko/words/ko-a-02.mp3" }
+        { "text": "다리", "roman": "dari", "meaning": "leg / bridge", "emoji": "🦵", "audio": "audio/ko/words/ko-digeut-01.mp3" },
+        { "text": "돈", "roman": "don", "meaning": "money", "emoji": "💰", "audio": "audio/ko/words/ko-digeut-02.mp3" },
+        { "text": "돌", "roman": "dol", "meaning": "stone", "emoji": "🪨", "audio": "audio/ko/words/ko-digeut-03.mp3" },
+        { "text": "달", "roman": "dal", "meaning": "moon", "emoji": "🌙", "audio": "audio/ko/words/ko-digeut-04.mp3" },
+        { "text": "둘", "roman": "dul", "meaning": "two", "emoji": "2️⃣", "audio": "audio/ko/words/ko-digeut-05.mp3" },
+        { "text": "도시", "roman": "dosi", "meaning": "city", "emoji": "🏙️", "audio": "audio/ko/words/ko-digeut-06.mp3" },
+        { "text": "더하기", "roman": "deohagi", "meaning": "addition", "emoji": "➕", "audio": "audio/ko/words/ko-digeut-07.mp3" },
+        { "text": "동물", "roman": "dongmul", "meaning": "animal", "emoji": "🐾", "audio": "audio/ko/words/ko-digeut-08.mp3" },
+        { "text": "다음", "roman": "daeum", "meaning": "next", "emoji": "➡️", "audio": "audio/ko/words/ko-digeut-09.mp3" },
+        { "text": "닫다", "roman": "datda", "meaning": "to close", "emoji": "🚪", "audio": "audio/ko/words/ko-digeut-10.mp3" }
+      ]
+    },
+    {
+      "id": "ko-rieul",
+      "char": "ㄹ",
+      "name": "rieul",
+      "romanization": "r (initial), l (final)",
+      "ipa": "/ɾ/",
+      "letterAudio": "audio/ko/letters/ko-rieul.mp3",
+      "memoryTrick": "Looks like a rattlesnake — 'r' for rattlesnake and 'r' for rieul. It flaps the tongue like the Spanish single 'r' in 'pero', but at the end of a syllable it becomes an 'l' like in 'milk'.",
+      "words": [
+        { "text": "라디오", "roman": "radio", "meaning": "radio", "emoji": "📻", "audio": "audio/ko/words/ko-rieul-01.mp3" },
+        { "text": "러시아", "roman": "Reosia", "meaning": "Russia", "emoji": "🇷🇺", "audio": "audio/ko/words/ko-rieul-02.mp3" },
+        { "text": "로봇", "roman": "robot", "meaning": "robot", "emoji": "🤖", "audio": "audio/ko/words/ko-rieul-03.mp3" },
+        { "text": "레몬", "roman": "remon", "meaning": "lemon", "emoji": "🍋", "audio": "audio/ko/words/ko-rieul-04.mp3" },
+        { "text": "리본", "roman": "ribon", "meaning": "ribbon", "emoji": "🎀", "audio": "audio/ko/words/ko-rieul-05.mp3" },
+        { "text": "루비", "roman": "rubi", "meaning": "ruby", "emoji": "💎", "audio": "audio/ko/words/ko-rieul-06.mp3" },
+        { "text": "라면", "roman": "ramyeon", "meaning": "ramen noodles", "emoji": "🍜", "audio": "audio/ko/words/ko-rieul-07.mp3" },
+        { "text": "사랑", "roman": "sarang", "meaning": "love", "emoji": "❤️", "audio": "audio/ko/words/ko-rieul-08.mp3" },
+        { "text": "머리", "roman": "meori", "meaning": "head / hair", "emoji": "💇", "audio": "audio/ko/words/ko-rieul-09.mp3" },
+        { "text": "노래", "roman": "norae", "meaning": "song", "emoji": "🎵", "audio": "audio/ko/words/ko-rieul-10.mp3" }
       ]
     },
     {
       "id": "ko-mieum",
       "char": "ㅁ",
-      "name": "Mieum (미음)",
+      "name": "mieum",
       "romanization": "m",
       "ipa": "/m/",
       "letterAudio": "audio/ko/letters/ko-mieum.mp3",
-      "memoryTrick": "A closed square, like lips pressed shut before they open — exactly how you start the 'm' in 'mom'.",
+      "memoryTrick": "Shaped like a mouth — 'm' for mouth and 'm' for mieum. It's the exact same 'm' sound you make when humming 'mmm' with your lips closed.",
       "words": [
-        { "text": "물", "roman": "mul", "meaning": "water", "emoji": "💧", "audio": "audio/ko/words/ko-mieum-01.mp3" },
-        { "text": "문", "roman": "mun", "meaning": "door", "emoji": "🚪", "audio": "audio/ko/words/ko-mieum-02.mp3" }
+        { "text": "마음", "roman": "maeum", "meaning": "heart / mind", "emoji": "💖", "audio": "audio/ko/words/ko-mieum-01.mp3" },
+        { "text": "머리", "roman": "meori", "meaning": "head / hair", "emoji": "💇", "audio": "audio/ko/words/ko-mieum-02.mp3" },
+        { "text": "물", "roman": "mul", "meaning": "water", "emoji": "💧", "audio": "audio/ko/words/ko-mieum-03.mp3" },
+        { "text": "모자", "roman": "moja", "meaning": "hat", "emoji": "🧢", "audio": "audio/ko/words/ko-mieum-04.mp3" },
+        { "text": "문", "roman": "mun", "meaning": "door", "emoji": "🚪", "audio": "audio/ko/words/ko-mieum-05.mp3" },
+        { "text": "미소", "roman": "miso", "meaning": "smile", "emoji": "😊", "audio": "audio/ko/words/ko-mieum-06.mp3" },
+        { "text": "메뉴", "roman": "menyu", "meaning": "menu", "emoji": "📋", "audio": "audio/ko/words/ko-mieum-07.mp3" },
+        { "text": "모레", "roman": "more", "meaning": "day after tomorrow", "emoji": "📅", "audio": "audio/ko/words/ko-mieum-08.mp3" },
+        { "text": "매일", "roman": "maeil", "meaning": "every day", "emoji": "🔁", "audio": "audio/ko/words/ko-mieum-09.mp3" },
+        { "text": "만나다", "roman": "mannada", "meaning": "to meet", "emoji": "🤝", "audio": "audio/ko/words/ko-mieum-10.mp3" }
+      ]
+    },
+    {
+      "id": "ko-bieup",
+      "char": "ㅂ",
+      "name": "bieup",
+      "romanization": "b (initial), p (final)",
+      "ipa": "/p/",
+      "letterAudio": "audio/ko/letters/ko-bieup.mp3",
+      "memoryTrick": "Looks like a bucket — 'b' for bucket and 'b' for bieup. At the start of a word it's a soft 'b' like in 'baby'; at the end it becomes an unreleased 'p'.",
+      "words": [
+        { "text": "바다", "roman": "bada", "meaning": "sea", "emoji": "🌊", "audio": "audio/ko/words/ko-bieup-01.mp3" },
+        { "text": "밥", "roman": "bap", "meaning": "rice / meal", "emoji": "🍚", "audio": "audio/ko/words/ko-bieup-02.mp3" },
+        { "text": "비", "roman": "bi", "meaning": "rain", "emoji": "🌧️", "audio": "audio/ko/words/ko-bieup-03.mp3" },
+        { "text": "불", "roman": "bul", "meaning": "fire", "emoji": "🔥", "audio": "audio/ko/words/ko-bieup-04.mp3" },
+        { "text": "배", "roman": "bae", "meaning": "pear / boat", "emoji": "🍐", "audio": "audio/ko/words/ko-bieup-05.mp3" },
+        { "text": "보석", "roman": "boseok", "meaning": "jewel", "emoji": "💎", "audio": "audio/ko/words/ko-bieup-06.mp3" },
+        { "text": "버스", "roman": "beoseu", "meaning": "bus", "emoji": "🚌", "audio": "audio/ko/words/ko-bieup-07.mp3" },
+        { "text": "방", "roman": "bang", "meaning": "room", "emoji": "🚪", "audio": "audio/ko/words/ko-bieup-08.mp3" },
+        { "text": "별", "roman": "byeol", "meaning": "star", "emoji": "⭐", "audio": "audio/ko/words/ko-bieup-09.mp3" },
+        { "text": "봄", "roman": "bom", "meaning": "spring", "emoji": "🌸", "audio": "audio/ko/words/ko-bieup-10.mp3" }
+      ]
+    },
+    {
+      "id": "ko-siot",
+      "char": "ㅅ",
+      "name": "siot",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/ko/letters/ko-siot.mp3",
+      "memoryTrick": "Looks like a summit or mountain peak — 's' for summit. It makes a crisp 's' like in 'sun', but when followed by an 'i' vowel it softens to a 'sh' sound.",
+      "words": [
+        { "text": "사과", "roman": "sagwa", "meaning": "apple", "emoji": "🍎", "audio": "audio/ko/words/ko-siot-01.mp3" },
+        { "text": "사람", "roman": "saram", "meaning": "person", "emoji": "🧑", "audio": "audio/ko/words/ko-siot-02.mp3" },
+        { "text": "소리", "roman": "sori", "meaning": "sound", "emoji": "🔊", "audio": "audio/ko/words/ko-siot-03.mp3" },
+        { "text": "시간", "roman": "sigan", "meaning": "time", "emoji": "⏰", "audio": "audio/ko/words/ko-siot-04.mp3" },
+        { "text": "선물", "roman": "seonmul", "meaning": "gift", "emoji": "🎁", "audio": "audio/ko/words/ko-siot-05.mp3" },
+        { "text": "세상", "roman": "sesang", "meaning": "world", "emoji": "🌍", "audio": "audio/ko/words/ko-siot-06.mp3" },
+        { "text": "수박", "roman": "subak", "meaning": "watermelon", "emoji": "🍉", "audio": "audio/ko/words/ko-siot-07.mp3" },
+        { "text": "산", "roman": "san", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/ko/words/ko-siot-08.mp3" },
+        { "text": "숲", "roman": "sup", "meaning": "forest", "emoji": "🌲", "audio": "audio/ko/words/ko-siot-09.mp3" },
+        { "text": "손", "roman": "son", "meaning": "hand", "emoji": "🤚", "audio": "audio/ko/words/ko-siot-10.mp3" },
+        { "text": "시계", "roman": "sigye", "meaning": "clock / watch", "emoji": "⌚", "audio": "audio/ko/words/ko-siot-11.mp3" }
+      ]
+    },
+    {
+      "id": "ko-ieung",
+      "char": "ㅇ",
+      "name": "ieung",
+      "romanization": "ng (final), silent (initial)",
+      "ipa": "/ŋ/ (final)",
+      "letterAudio": "audio/ko/letters/ko-ieung.mp3",
+      "memoryTrick": "A perfect circle — like a zero, or an open mouth. At the start of a syllable it's silent (zero sound), but at the end it hums 'ng' like in 'sing'.",
+      "words": [
+        { "text": "아이", "roman": "ai", "meaning": "child", "emoji": "👶", "audio": "audio/ko/words/ko-ieung-01.mp3" },
+        { "text": "아침", "roman": "achim", "meaning": "morning", "emoji": "🌅", "audio": "audio/ko/words/ko-ieung-02.mp3" },
+        { "text": "엄마", "roman": "eomma", "meaning": "mom", "emoji": "👩", "audio": "audio/ko/words/ko-ieung-03.mp3" },
+        { "text": "음악", "roman": "eumak", "meaning": "music", "emoji": "🎶", "audio": "audio/ko/words/ko-ieung-04.mp3" },
+        { "text": "우유", "roman": "uyu", "meaning": "milk", "emoji": "🥛", "audio": "audio/ko/words/ko-ieung-05.mp3" },
+        { "text": "오리", "roman": "ori", "meaning": "duck", "emoji": "🦆", "audio": "audio/ko/words/ko-ieung-06.mp3" },
+        { "text": "인사", "roman": "insa", "meaning": "greeting", "emoji": "👋", "audio": "audio/ko/words/ko-ieung-07.mp3" },
+        { "text": "안녕", "roman": "annyeong", "meaning": "hello / goodbye", "emoji": "✋", "audio": "audio/ko/words/ko-ieung-08.mp3" },
+        { "text": "운동", "roman": "undong", "meaning": "exercise", "emoji": "🏃", "audio": "audio/ko/words/ko-ieung-09.mp3" },
+        { "text": "영화", "roman": "yeonghwa", "meaning": "movie", "emoji": "🎬", "audio": "audio/ko/words/ko-ieung-10.mp3" },
+        { "text": "사랑", "roman": "sarang", "meaning": "love", "emoji": "❤️", "audio": "audio/ko/words/ko-ieung-11.mp3" },
+        { "text": "공항", "roman": "gonghang", "meaning": "airport", "emoji": "✈️", "audio": "audio/ko/words/ko-ieung-12.mp3" }
+      ]
+    },
+    {
+      "id": "ko-jieut",
+      "char": "ㅈ",
+      "name": "jieut",
+      "romanization": "j",
+      "ipa": "/tɕ/",
+      "letterAudio": "audio/ko/letters/ko-jieut.mp3",
+      "memoryTrick": "Looks like a jeep with a flat top — 'j' for jeep and 'j' for jieut. It's somewhere between an English 'j' and 'ch', like the 'j' in 'jeans' but with the tongue higher.",
+      "words": [
+        { "text": "자동차", "roman": "jadongcha", "meaning": "car", "emoji": "🚗", "audio": "audio/ko/words/ko-jieut-01.mp3" },
+        { "text": "집", "roman": "jip", "meaning": "house", "emoji": "🏠", "audio": "audio/ko/words/ko-jieut-02.mp3" },
+        { "text": "재미", "roman": "jaemi", "meaning": "fun", "emoji": "😄", "audio": "audio/ko/words/ko-jieut-03.mp3" },
+        { "text": "저녁", "roman": "jeonyeok", "meaning": "evening", "emoji": "🌆", "audio": "audio/ko/words/ko-jieut-04.mp3" },
+        { "text": "주스", "roman": "juseu", "meaning": "juice", "emoji": "🧃", "audio": "audio/ko/words/ko-jieut-05.mp3" },
+        { "text": "종이", "roman": "jongi", "meaning": "paper", "emoji": "📄", "audio": "audio/ko/words/ko-jieut-06.mp3" },
+        { "text": "장갑", "roman": "janggap", "meaning": "gloves", "emoji": "🧤", "audio": "audio/ko/words/ko-jieut-07.mp3" },
+        { "text": "전화", "roman": "jeonhwa", "meaning": "phone", "emoji": "📞", "audio": "audio/ko/words/ko-jieut-08.mp3" },
+        { "text": "지도", "roman": "jido", "meaning": "map", "emoji": "🗺️", "audio": "audio/ko/words/ko-jieut-09.mp3" },
+        { "text": "주말", "roman": "jumal", "meaning": "weekend", "emoji": "🎉", "audio": "audio/ko/words/ko-jieut-10.mp3" }
+      ]
+    },
+    {
+      "id": "ko-chieut",
+      "char": "ㅊ",
+      "name": "chieut",
+      "romanization": "ch",
+      "ipa": "/tɕʰ/",
+      "letterAudio": "audio/ko/letters/ko-chieut.mp3",
+      "memoryTrick": "Looks like jieut with a chimney on top — 'ch' for chimney and 'ch' for chieut. It's an aspirated 'ch' like in 'church', pushed out with a strong puff of air.",
+      "words": [
+        { "text": "차", "roman": "cha", "meaning": "car / tea", "emoji": "🍵", "audio": "audio/ko/words/ko-chieut-01.mp3" },
+        { "text": "친구", "roman": "chingu", "meaning": "friend", "emoji": "👫", "audio": "audio/ko/words/ko-chieut-02.mp3" },
+        { "text": "책", "roman": "chaek", "meaning": "book", "emoji": "📖", "audio": "audio/ko/words/ko-chieut-03.mp3" },
+        { "text": "춤", "roman": "chum", "meaning": "dance", "emoji": "💃", "audio": "audio/ko/words/ko-chieut-04.mp3" },
+        { "text": "처음", "roman": "cheoeum", "meaning": "first / beginning", "emoji": "1️⃣", "audio": "audio/ko/words/ko-chieut-05.mp3" },
+        { "text": "축구", "roman": "chukgu", "meaning": "soccer", "emoji": "⚽", "audio": "audio/ko/words/ko-chieut-06.mp3" },
+        { "text": "초콜릿", "roman": "chokollit", "meaning": "chocolate", "emoji": "🍫", "audio": "audio/ko/words/ko-chieut-07.mp3" },
+        { "text": "치즈", "roman": "chijeu", "meaning": "cheese", "emoji": "🧀", "audio": "audio/ko/words/ko-chieut-08.mp3" },
+        { "text": "찾다", "roman": "chatda", "meaning": "to find / look for", "emoji": "🔍", "audio": "audio/ko/words/ko-chieut-09.mp3" },
+        { "text": "창문", "roman": "changmun", "meaning": "window", "emoji": "🪟", "audio": "audio/ko/words/ko-chieut-10.mp3" }
+      ]
+    },
+    {
+      "id": "ko-kieuk",
+      "char": "ㅋ",
+      "name": "kieuk",
+      "romanization": "k",
+      "ipa": "/kʰ/",
+      "letterAudio": "audio/ko/letters/ko-kieuk.mp3",
+      "memoryTrick": "Looks like a key — 'k' for key and 'k' for kieuk. It's an aspirated, breathy 'k' like the 'k' in 'kite', pushed out harder than giyeok.",
+      "words": [
+        { "text": "코", "roman": "ko", "meaning": "nose", "emoji": "👃", "audio": "audio/ko/words/ko-kieuk-01.mp3" },
+        { "text": "카메라", "roman": "kamera", "meaning": "camera", "emoji": "📷", "audio": "audio/ko/words/ko-kieuk-02.mp3" },
+        { "text": "칼", "roman": "kal", "meaning": "knife", "emoji": "🔪", "audio": "audio/ko/words/ko-kieuk-03.mp3" },
+        { "text": "컴퓨터", "roman": "keompyuteo", "meaning": "computer", "emoji": "💻", "audio": "audio/ko/words/ko-kieuk-04.mp3" },
+        { "text": "커피", "roman": "keopi", "meaning": "coffee", "emoji": "☕", "audio": "audio/ko/words/ko-kieuk-05.mp3" },
+        { "text": "케이크", "roman": "keikeu", "meaning": "cake", "emoji": "🎂", "audio": "audio/ko/words/ko-kieuk-06.mp3" },
+        { "text": "큰", "roman": "keun", "meaning": "big", "emoji": "🐘", "audio": "audio/ko/words/ko-kieuk-07.mp3" },
+        { "text": "키", "roman": "ki", "meaning": "height / key", "emoji": "📏", "audio": "audio/ko/words/ko-kieuk-08.mp3" },
+        { "text": "크리스마스", "roman": "Keuriseumaseu", "meaning": "Christmas", "emoji": "🎄", "audio": "audio/ko/words/ko-kieuk-09.mp3" },
+        { "text": "카드", "roman": "kadeu", "meaning": "card", "emoji": "💳", "audio": "audio/ko/words/ko-kieuk-10.mp3" }
+      ]
+    },
+    {
+      "id": "ko-tieut",
+      "char": "ㅌ",
+      "name": "tieut",
+      "romanization": "t",
+      "ipa": "/tʰ/",
+      "letterAudio": "audio/ko/letters/ko-tieut.mp3",
+      "memoryTrick": "Looks like two teeth — 't' for teeth and 't' for tieut. It's a breathy, aspirated 't' like the 't' in 'top', stronger than digeut with a puff of air.",
+      "words": [
+        { "text": "토끼", "roman": "tokki", "meaning": "rabbit", "emoji": "🐰", "audio": "audio/ko/words/ko-tieut-01.mp3" },
+        { "text": "탁자", "roman": "takja", "meaning": "table", "emoji": "🪑", "audio": "audio/ko/words/ko-tieut-02.mp3" },
+        { "text": "타조", "roman": "tajo", "meaning": "ostrich", "emoji": "🐦", "audio": "audio/ko/words/ko-tieut-03.mp3" },
+        { "text": "텔레비전", "roman": "tellebijeon", "meaning": "television", "emoji": "📺", "audio": "audio/ko/words/ko-tieut-04.mp3" },
+        { "text": "팀", "roman": "tim", "meaning": "team", "emoji": "👥", "audio": "audio/ko/words/ko-tieut-05.mp3" },
+        { "text": "태양", "roman": "taeyang", "meaning": "sun", "emoji": "☀️", "audio": "audio/ko/words/ko-tieut-06.mp3" },
+        { "text": "특별한", "roman": "teukbyeolhan", "meaning": "special", "emoji": "✨", "audio": "audio/ko/words/ko-tieut-07.mp3" },
+        { "text": "티셔츠", "roman": "tisyeocheu", "meaning": "t-shirt", "emoji": "👕", "audio": "audio/ko/words/ko-tieut-08.mp3" },
+        { "text": "타다", "roman": "tada", "meaning": "to ride / burn", "emoji": "🏍️", "audio": "audio/ko/words/ko-tieut-09.mp3" },
+        { "text": "토마토", "roman": "tomato", "meaning": "tomato", "emoji": "🍅", "audio": "audio/ko/words/ko-tieut-10.mp3" }
+      ]
+    },
+    {
+      "id": "ko-pieup",
+      "char": "ㅍ",
+      "name": "pieup",
+      "romanization": "p",
+      "ipa": "/pʰ/",
+      "letterAudio": "audio/ko/letters/ko-pieup.mp3",
+      "memoryTrick": "Looks like a pillar or part of a pipe — 'p' for pipe and 'p' for pieup. It's an aspirated 'p' like the 'p' in 'pop', with a strong puff of air, stronger than bieup.",
+      "words": [
+        { "text": "피아노", "roman": "piano", "meaning": "piano", "emoji": "🎹", "audio": "audio/ko/words/ko-pieup-01.mp3" },
+        { "text": "파티", "roman": "pati", "meaning": "party", "emoji": "🎊", "audio": "audio/ko/words/ko-pieup-02.mp3" },
+        { "text": "팔", "roman": "pal", "meaning": "arm", "emoji": "💪", "audio": "audio/ko/words/ko-pieup-03.mp3" },
+        { "text": "포도", "roman": "podo", "meaning": "grape", "emoji": "🍇", "audio": "audio/ko/words/ko-pieup-04.mp3" },
+        { "text": "파란색", "roman": "paransaek", "meaning": "blue color", "emoji": "🔵", "audio": "audio/ko/words/ko-pieup-05.mp3" },
+        { "text": "편지", "roman": "pyeonji", "meaning": "letter", "emoji": "✉️", "audio": "audio/ko/words/ko-pieup-06.mp3" },
+        { "text": "표", "roman": "pyo", "meaning": "ticket", "emoji": "🎫", "audio": "audio/ko/words/ko-pieup-07.mp3" },
+        { "text": "피자", "roman": "pija", "meaning": "pizza", "emoji": "🍕", "audio": "audio/ko/words/ko-pieup-08.mp3" },
+        { "text": "프랑스", "roman": "Peurangseu", "meaning": "France", "emoji": "🇫🇷", "audio": "audio/ko/words/ko-pieup-09.mp3" },
+        { "text": "팔다", "roman": "palda", "meaning": "to sell", "emoji": "🏷️", "audio": "audio/ko/words/ko-pieup-10.mp3" }
+      ]
+    },
+    {
+      "id": "ko-hieut",
+      "char": "ㅎ",
+      "name": "hieut",
+      "romanization": "h",
+      "ipa": "/h/",
+      "letterAudio": "audio/ko/letters/ko-hieut.mp3",
+      "memoryTrick": "Looks like a person wearing a hat — 'h' for hat and 'h' for hieut. It makes the same breathy 'h' sound as in English 'hat', like a gentle sigh.",
+      "words": [
+        { "text": "학교", "roman": "hakgyo", "meaning": "school", "emoji": "🏫", "audio": "audio/ko/words/ko-hieut-01.mp3" },
+        { "text": "하나", "roman": "hana", "meaning": "one", "emoji": "1️⃣", "audio": "audio/ko/words/ko-hieut-02.mp3" },
+        { "text": "하늘", "roman": "haneul", "meaning": "sky", "emoji": "☁️", "audio": "audio/ko/words/ko-hieut-03.mp3" },
+        { "text": "해", "roman": "hae", "meaning": "sun", "emoji": "☀️", "audio": "audio/ko/words/ko-hieut-04.mp3" },
+        { "text": "호수", "roman": "hosu", "meaning": "lake", "emoji": "🏞️", "audio": "audio/ko/words/ko-hieut-05.mp3" },
+        { "text": "학생", "roman": "haksaeng", "meaning": "student", "emoji": "🎓", "audio": "audio/ko/words/ko-hieut-06.mp3" },
+        { "text": "한국", "roman": "Hanguk", "meaning": "Korea", "emoji": "🇰🇷", "audio": "audio/ko/words/ko-hieut-07.mp3" },
+        { "text": "화장실", "roman": "hwajangsil", "meaning": "bathroom", "emoji": "🚽", "audio": "audio/ko/words/ko-hieut-08.mp3" },
+        { "text": "휴가", "roman": "hyuga", "meaning": "vacation", "emoji": "🏖️", "audio": "audio/ko/words/ko-hieut-09.mp3" },
+        { "text": "행복", "roman": "haengbok", "meaning": "happiness", "emoji": "😊", "audio": "audio/ko/words/ko-hieut-10.mp3" }
+      ]
+    },
+    {
+      "id": "ko-ssanggiyeok",
+      "char": "ㄲ",
+      "name": "ssanggiyeok",
+      "romanization": "kk",
+      "ipa": "/k͈/",
+      "letterAudio": "audio/ko/letters/ko-ssanggiyeok.mp3",
+      "memoryTrick": "Double giyeok — 'ssang' means twin. Tense your throat like you're about to say 'k' but hold it tight, then release. It's a harder, tenser 'kk' than single giyeok, like the 'k' in 'sky' but sharper.",
+      "words": [
+        { "text": "꽃", "roman": "kkot", "meaning": "flower", "emoji": "🌸", "audio": "audio/ko/words/ko-ssanggiyeok-01.mp3" },
+        { "text": "꿀", "roman": "kkul", "meaning": "honey", "emoji": "🍯", "audio": "audio/ko/words/ko-ssanggiyeok-02.mp3" },
+        { "text": "꼬리", "roman": "kkori", "meaning": "tail", "emoji": "🐕", "audio": "audio/ko/words/ko-ssanggiyeok-03.mp3" },
+        { "text": "까치", "roman": "kkachi", "meaning": "magpie", "emoji": "🐦", "audio": "audio/ko/words/ko-ssanggiyeok-04.mp3" },
+        { "text": "끝", "roman": "kkeut", "meaning": "end", "emoji": "🏁", "audio": "audio/ko/words/ko-ssanggiyeok-05.mp3" },
+        { "text": "껌", "roman": "kkeom", "meaning": "gum", "emoji": "🫧", "audio": "audio/ko/words/ko-ssanggiyeok-06.mp3" },
+        { "text": "꿈", "roman": "kkum", "meaning": "dream", "emoji": "💭", "audio": "audio/ko/words/ko-ssanggiyeok-07.mp3" },
+        { "text": "깨끗하다", "roman": "kkaekkeuthada", "meaning": "clean", "emoji": "🧹", "audio": "audio/ko/words/ko-ssanggiyeok-08.mp3" }
+      ]
+    },
+    {
+      "id": "ko-ssangdigeut",
+      "char": "ㄸ",
+      "name": "ssangdigeut",
+      "romanization": "tt",
+      "ipa": "/t͈/",
+      "letterAudio": "audio/ko/letters/ko-ssangdigeut.mp3",
+      "memoryTrick": "Double digeut — the twin door. Tense your tongue against the roof of your mouth and release with no puff of air. It's a tight, tensed 'tt' like the 't' in 'stop' but held longer.",
+      "words": [
+        { "text": "떡", "roman": "tteok", "meaning": "rice cake", "emoji": "🍡", "audio": "audio/ko/words/ko-ssangdigeut-01.mp3" },
+        { "text": "딸기", "roman": "ttalgi", "meaning": "strawberry", "emoji": "🍓", "audio": "audio/ko/words/ko-ssangdigeut-02.mp3" },
+        { "text": "땀", "roman": "ttam", "meaning": "sweat", "emoji": "💦", "audio": "audio/ko/words/ko-ssangdigeut-03.mp3" },
+        { "text": "또", "roman": "tto", "meaning": "again", "emoji": "🔁", "audio": "audio/ko/words/ko-ssangdigeut-04.mp3" },
+        { "text": "때", "roman": "ttae", "meaning": "time / moment", "emoji": "⏱️", "audio": "audio/ko/words/ko-ssangdigeut-05.mp3" },
+        { "text": "땅", "roman": "ttang", "meaning": "ground / earth", "emoji": "🌍", "audio": "audio/ko/words/ko-ssangdigeut-06.mp3" },
+        { "text": "뜨겁다", "roman": "tteugeopda", "meaning": "hot", "emoji": "🥵", "audio": "audio/ko/words/ko-ssangdigeut-07.mp3" },
+        { "text": "띄다", "roman": "ttuida", "meaning": "to be visible / stand out", "emoji": "👀", "audio": "audio/ko/words/ko-ssangdigeut-08.mp3" }
+      ]
+    },
+    {
+      "id": "ko-ssangbieup",
+      "char": "ㅃ",
+      "name": "ssangbieup",
+      "romanization": "pp",
+      "ipa": "/p͈/",
+      "letterAudio": "audio/ko/letters/ko-ssangbieup.mp3",
+      "memoryTrick": "Double bieup — press your lips together tightly and pop them apart with no air. It's a tense 'pp' like saying 'p' in 'spot' but held tight, stronger than single bieup.",
+      "words": [
+        { "text": "빵", "roman": "ppang", "meaning": "bread", "emoji": "🍞", "audio": "audio/ko/words/ko-ssangbieup-01.mp3" },
+        { "text": "빨래", "roman": "ppallae", "meaning": "laundry", "emoji": "🧺", "audio": "audio/ko/words/ko-ssangbieup-02.mp3" },
+        { "text": "뼈", "roman": "ppyeo", "meaning": "bone", "emoji": "🦴", "audio": "audio/ko/words/ko-ssangbieup-03.mp3" },
+        { "text": "빨간색", "roman": "ppalgansaek", "meaning": "red color", "emoji": "🔴", "audio": "audio/ko/words/ko-ssangbieup-04.mp3" },
+        { "text": "뿌리", "roman": "ppuri", "meaning": "root", "emoji": "🌱", "audio": "audio/ko/words/ko-ssangbieup-05.mp3" },
+        { "text": "빠르다", "roman": "ppareuda", "meaning": "fast", "emoji": "⚡", "audio": "audio/ko/words/ko-ssangbieup-06.mp3" },
+        { "text": "빼다", "roman": "ppaeda", "meaning": "to remove / subtract", "emoji": "➖", "audio": "audio/ko/words/ko-ssangbieup-07.mp3" },
+        { "text": "삐다", "roman": "ppida", "meaning": "to sprain", "emoji": "🩹", "audio": "audio/ko/words/ko-ssangbieup-08.mp3" }
+      ]
+    },
+    {
+      "id": "ko-ssangsiot",
+      "char": "ㅆ",
+      "name": "ssangsiot",
+      "romanization": "ss",
+      "ipa": "/s͈/",
+      "letterAudio": "audio/ko/letters/ko-ssangsiot.mp3",
+      "memoryTrick": "Double siot — the twin summit. Hiss like a snake but with a tenser, sharper sound. It's a strong, tight 'ss' like the 's' in 'see' but pushed through clenched teeth.",
+      "words": [
+        { "text": "쌀", "roman": "ssal", "meaning": "rice (uncooked)", "emoji": "🌾", "audio": "audio/ko/words/ko-ssangsiot-01.mp3" },
+        { "text": "쓰다", "roman": "sseuda", "meaning": "to write / bitter", "emoji": "✍️", "audio": "audio/ko/words/ko-ssangsiot-02.mp3" },
+        { "text": "씨앗", "roman": "ssiat", "meaning": "seed", "emoji": "🌰", "audio": "audio/ko/words/ko-ssangsiot-03.mp3" },
+        { "text": "싸다", "roman": "ssada", "meaning": "cheap / to wrap", "emoji": "🏷️", "audio": "audio/ko/words/ko-ssangsiot-04.mp3" },
+        { "text": "쌍둥이", "roman": "ssangdungi", "meaning": "twins", "emoji": "👯", "audio": "audio/ko/words/ko-ssangsiot-05.mp3" },
+        { "text": "쓰레기", "roman": "sseuregi", "meaning": "trash / garbage", "emoji": "🗑️", "audio": "audio/ko/words/ko-ssangsiot-06.mp3" },
+        { "text": "씻다", "roman": "ssitda", "meaning": "to wash", "emoji": "🧼", "audio": "audio/ko/words/ko-ssangsiot-07.mp3" },
+        { "text": "싫다", "roman": "siltah", "meaning": "to dislike", "emoji": "👎", "audio": "audio/ko/words/ko-ssangsiot-08.mp3" }
+      ]
+    },
+    {
+      "id": "ko-ssangjieut",
+      "char": "ㅉ",
+      "name": "ssangjieut",
+      "romanization": "jj",
+      "ipa": "/tɕ͈/",
+      "letterAudio": "audio/ko/letters/ko-ssangjieut.mp3",
+      "memoryTrick": "Double jieut — the twin jeep. It's a tense, pressed 'jj' sound, like forcing out a 'j' with your tongue pressed hard against the roof of your mouth, sharper than single jieut.",
+      "words": [
+        { "text": "짜장면", "roman": "jjajangmyeon", "meaning": "black bean noodles", "emoji": "🍝", "audio": "audio/ko/words/ko-ssangjieut-01.mp3" },
+        { "text": "짧다", "roman": "jjalda", "meaning": "short", "emoji": "📏", "audio": "audio/ko/words/ko-ssangjieut-02.mp3" },
+        { "text": "짝", "roman": "jjak", "meaning": "pair", "emoji": "👫", "audio": "audio/ko/words/ko-ssangjieut-03.mp3" },
+        { "text": "쪽", "roman": "jjok", "meaning": "page / direction", "emoji": "📄", "audio": "audio/ko/words/ko-ssangjieut-04.mp3" },
+        { "text": "찌개", "roman": "jjigae", "meaning": "stew", "emoji": "🍲", "audio": "audio/ko/words/ko-ssangjieut-05.mp3" },
+        { "text": "짜다", "roman": "jjada", "meaning": "salty", "emoji": "🧂", "audio": "audio/ko/words/ko-ssangjieut-06.mp3" },
+        { "text": "찢다", "roman": "jjitda", "meaning": "to tear / rip", "emoji": "📃", "audio": "audio/ko/words/ko-ssangjieut-07.mp3" },
+        { "text": "쩔다", "roman": "jjeolda", "meaning": "amazing (slang) / pickled", "emoji": "🤩", "audio": "audio/ko/words/ko-ssangjieut-08.mp3" }
+      ]
+    },
+    {
+      "id": "ko-a",
+      "char": "ㅏ",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/ko/letters/ko-a.mp3",
+      "memoryTrick": "A vertical line with a short arm pointing right — think 'ah' as in 'father'. It's a bright, open vowel like the 'a' in 'spa'.",
+      "words": [
+        { "text": "아기", "roman": "agi", "meaning": "baby", "emoji": "👶", "audio": "audio/ko/words/ko-a-01.mp3" },
+        { "text": "아버지", "roman": "abeoji", "meaning": "father", "emoji": "👨", "audio": "audio/ko/words/ko-a-02.mp3" },
+        { "text": "아이스크림", "roman": "aiseukeurim", "meaning": "ice cream", "emoji": "🍦", "audio": "audio/ko/words/ko-a-03.mp3" },
+        { "text": "아침", "roman": "achim", "meaning": "morning", "emoji": "🌅", "audio": "audio/ko/words/ko-a-04.mp3" },
+        { "text": "아름답다", "roman": "areumdapda", "meaning": "beautiful", "emoji": "💐", "audio": "audio/ko/words/ko-a-05.mp3" },
+        { "text": "사과", "roman": "sagwa", "meaning": "apple", "emoji": "🍎", "audio": "audio/ko/words/ko-a-06.mp3" },
+        { "text": "바다", "roman": "bada", "meaning": "sea", "emoji": "🌊", "audio": "audio/ko/words/ko-a-07.mp3" },
+        { "text": "가방", "roman": "gabang", "meaning": "bag", "emoji": "🎒", "audio": "audio/ko/words/ko-a-08.mp3" }
+      ]
+    },
+    {
+      "id": "ko-ya",
+      "char": "ㅑ",
+      "name": "ya",
+      "romanization": "ya",
+      "ipa": "/ja/",
+      "letterAudio": "audio/ko/letters/ko-ya.mp3",
+      "memoryTrick": "Two short arms — double the arms, double the sound. Add a 'y' glide to 'a': it's 'ya' like the 'ya' in 'yacht'.",
+      "words": [
+        { "text": "야구", "roman": "yagu", "meaning": "baseball", "emoji": "⚾", "audio": "audio/ko/words/ko-ya-01.mp3" },
+        { "text": "야채", "roman": "yachae", "meaning": "vegetable", "emoji": "🥬", "audio": "audio/ko/words/ko-ya-02.mp3" },
+        { "text": "약속", "roman": "yaksok", "meaning": "promise", "emoji": "🤙", "audio": "audio/ko/words/ko-ya-03.mp3" },
+        { "text": "약", "roman": "yak", "meaning": "medicine", "emoji": "💊", "audio": "audio/ko/words/ko-ya-04.mp3" },
+        { "text": "야옹", "roman": "yaong", "meaning": "meow", "emoji": "😺", "audio": "audio/ko/words/ko-ya-05.mp3" },
+        { "text": "양말", "roman": "yangmal", "meaning": "socks", "emoji": "🧦", "audio": "audio/ko/words/ko-ya-06.mp3" },
+        { "text": "고양이", "roman": "goyangi", "meaning": "cat", "emoji": "🐱", "audio": "audio/ko/words/ko-ya-07.mp3" }
+      ]
+    },
+    {
+      "id": "ko-eo",
+      "char": "ㅓ",
+      "name": "eo",
+      "romanization": "eo",
+      "ipa": "/ʌ/",
+      "letterAudio": "audio/ko/letters/ko-eo.mp3",
+      "memoryTrick": "A vertical line with a short arm pointing left. Think 'uh' — like the 'u' in 'cup' or 'sun'. It's romanized as 'eo' but sounds more like a relaxed 'uh'.",
+      "words": [
+        { "text": "어머니", "roman": "eomeoni", "meaning": "mother", "emoji": "👩", "audio": "audio/ko/words/ko-eo-01.mp3" },
+        { "text": "얼굴", "roman": "eolgul", "meaning": "face", "emoji": "😊", "audio": "audio/ko/words/ko-eo-02.mp3" },
+        { "text": "언어", "roman": "eoneo", "meaning": "language", "emoji": "🗣️", "audio": "audio/ko/words/ko-eo-03.mp3" },
+        { "text": "엄지", "roman": "eomji", "meaning": "thumb", "emoji": "👍", "audio": "audio/ko/words/ko-eo-04.mp3" },
+        { "text": "어제", "roman": "eoje", "meaning": "yesterday", "emoji": "📅", "audio": "audio/ko/words/ko-eo-05.mp3" },
+        { "text": "거울", "roman": "geoul", "meaning": "mirror", "emoji": "🪞", "audio": "audio/ko/words/ko-eo-06.mp3" },
+        { "text": "버스", "roman": "beoseu", "meaning": "bus", "emoji": "🚌", "audio": "audio/ko/words/ko-eo-07.mp3" },
+        { "text": "선물", "roman": "seonmul", "meaning": "gift", "emoji": "🎁", "audio": "audio/ko/words/ko-eo-08.mp3" }
+      ]
+    },
+    {
+      "id": "ko-yeo",
+      "char": "ㅕ",
+      "name": "yeo",
+      "romanization": "yeo",
+      "ipa": "/jʌ/",
+      "letterAudio": "audio/ko/letters/ko-yeo.mp3",
+      "memoryTrick": "Two left-pointing arms — like 'eo' with a 'y' in front. Sounds like 'yuh', as if you're saying 'young' without the 'ng'.",
+      "words": [
+        { "text": "여자", "roman": "yeoja", "meaning": "woman", "emoji": "👩", "audio": "audio/ko/words/ko-yeo-01.mp3" },
+        { "text": "여행", "roman": "yeohaeng", "meaning": "travel", "emoji": "✈️", "audio": "audio/ko/words/ko-yeo-02.mp3" },
+        { "text": "여름", "roman": "yeoreum", "meaning": "summer", "emoji": "☀️", "audio": "audio/ko/words/ko-yeo-03.mp3" },
+        { "text": "여기", "roman": "yeogi", "meaning": "here", "emoji": "📍", "audio": "audio/ko/words/ko-yeo-04.mp3" },
+        { "text": "연필", "roman": "yeonpil", "meaning": "pencil", "emoji": "✏️", "audio": "audio/ko/words/ko-yeo-05.mp3" },
+        { "text": "열쇠", "roman": "yeolsoe", "meaning": "key", "emoji": "🔑", "audio": "audio/ko/words/ko-yeo-06.mp3" },
+        { "text": "겨울", "roman": "gyeoul", "meaning": "winter", "emoji": "❄️", "audio": "audio/ko/words/ko-yeo-07.mp3" }
+      ]
+    },
+    {
+      "id": "ko-o",
+      "char": "ㅗ",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/o/",
+      "letterAudio": "audio/ko/letters/ko-o.mp3",
+      "memoryTrick": "A horizontal line with a short arm pointing up. Think 'oh' as in 'go' — a round, mid-back vowel. The arm points up, and your lips round upward too.",
+      "words": [
+        { "text": "오이", "roman": "oi", "meaning": "cucumber", "emoji": "🥒", "audio": "audio/ko/words/ko-o-01.mp3" },
+        { "text": "오늘", "roman": "oneul", "meaning": "today", "emoji": "📅", "audio": "audio/ko/words/ko-o-02.mp3" },
+        { "text": "오렌지", "roman": "orenji", "meaning": "orange", "emoji": "🍊", "audio": "audio/ko/words/ko-o-03.mp3" },
+        { "text": "오리", "roman": "ori", "meaning": "duck", "emoji": "🦆", "audio": "audio/ko/words/ko-o-04.mp3" },
+        { "text": "오후", "roman": "ohu", "meaning": "afternoon", "emoji": "🌤️", "audio": "audio/ko/words/ko-o-05.mp3" },
+        { "text": "고양이", "roman": "goyangi", "meaning": "cat", "emoji": "🐱", "audio": "audio/ko/words/ko-o-06.mp3" },
+        { "text": "보석", "roman": "boseok", "meaning": "jewel", "emoji": "💎", "audio": "audio/ko/words/ko-o-07.mp3" },
+        { "text": "노래", "roman": "norae", "meaning": "song", "emoji": "🎵", "audio": "audio/ko/words/ko-o-08.mp3" }
+      ]
+    },
+    {
+      "id": "ko-yo",
+      "char": "ㅛ",
+      "name": "yo",
+      "romanization": "yo",
+      "ipa": "/jo/",
+      "letterAudio": "audio/ko/letters/ko-yo.mp3",
+      "memoryTrick": "Two upward-pointing arms — like 'o' with a 'y' slide. Sounds like 'yo' as in 'yo-yo' or the greeting 'yo!'.",
+      "words": [
+        { "text": "요리", "roman": "yori", "meaning": "cooking", "emoji": "🍳", "audio": "audio/ko/words/ko-yo-01.mp3" },
+        { "text": "요가", "roman": "yoga", "meaning": "yoga", "emoji": "🧘", "audio": "audio/ko/words/ko-yo-02.mp3" },
+        { "text": "용", "roman": "yong", "meaning": "dragon", "emoji": "🐉", "audio": "audio/ko/words/ko-yo-03.mp3" },
+        { "text": "요정", "roman": "yojeong", "meaning": "fairy", "emoji": "🧚", "audio": "audio/ko/words/ko-yo-04.mp3" },
+        { "text": "교실", "roman": "gyosil", "meaning": "classroom", "emoji": "🏫", "audio": "audio/ko/words/ko-yo-05.mp3" },
+        { "text": "표", "roman": "pyo", "meaning": "ticket", "emoji": "🎫", "audio": "audio/ko/words/ko-yo-06.mp3" },
+        { "text": "욕실", "roman": "yoksil", "meaning": "bathroom", "emoji": "🛁", "audio": "audio/ko/words/ko-yo-07.mp3" }
+      ]
+    },
+    {
+      "id": "ko-u",
+      "char": "ㅜ",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/ko/letters/ko-u.mp3",
+      "memoryTrick": "A horizontal line with a short arm pointing down. Think 'oo' as in 'moon' — round your lips. The arm points down, like your jaw dropping slightly for this deep 'oo'.",
+      "words": [
+        { "text": "우산", "roman": "usan", "meaning": "umbrella", "emoji": "☂️", "audio": "audio/ko/words/ko-u-01.mp3" },
+        { "text": "우리", "roman": "uri", "meaning": "we / us", "emoji": "👥", "audio": "audio/ko/words/ko-u-02.mp3" },
+        { "text": "우주", "roman": "uju", "meaning": "space / universe", "emoji": "🚀", "audio": "audio/ko/words/ko-u-03.mp3" },
+        { "text": "우유", "roman": "uyu", "meaning": "milk", "emoji": "🥛", "audio": "audio/ko/words/ko-u-04.mp3" },
+        { "text": "운동", "roman": "undong", "meaning": "exercise", "emoji": "🏃", "audio": "audio/ko/words/ko-u-05.mp3" },
+        { "text": "구름", "roman": "gureum", "meaning": "cloud", "emoji": "☁️", "audio": "audio/ko/words/ko-u-06.mp3" },
+        { "text": "문", "roman": "mun", "meaning": "door", "emoji": "🚪", "audio": "audio/ko/words/ko-u-07.mp3" }
+      ]
+    },
+    {
+      "id": "ko-yu",
+      "char": "ㅠ",
+      "name": "yu",
+      "romanization": "yu",
+      "ipa": "/ju/",
+      "letterAudio": "audio/ko/letters/ko-yu.mp3",
+      "memoryTrick": "Two downward-pointing arms — like 'u' with a 'y' in front. Sounds like 'you' in English, as if you're pointing at someone: 'you!'.",
+      "words": [
+        { "text": "유리", "roman": "yuri", "meaning": "glass", "emoji": "🪟", "audio": "audio/ko/words/ko-yu-01.mp3" },
+        { "text": "유럽", "roman": "Yureop", "meaning": "Europe", "emoji": "🇪🇺", "audio": "audio/ko/words/ko-yu-02.mp3" },
+        { "text": "유치원", "roman": "yuchiwon", "meaning": "kindergarten", "emoji": "🧒", "audio": "audio/ko/words/ko-yu-03.mp3" },
+        { "text": "우유", "roman": "uyu", "meaning": "milk", "emoji": "🥛", "audio": "audio/ko/words/ko-yu-04.mp3" },
+        { "text": "유명하다", "roman": "yumyeonghada", "meaning": "famous", "emoji": "⭐", "audio": "audio/ko/words/ko-yu-05.mp3" },
+        { "text": "휴가", "roman": "hyuga", "meaning": "vacation", "emoji": "🏖️", "audio": "audio/ko/words/ko-yu-06.mp3" }
+      ]
+    },
+    {
+      "id": "ko-eu",
+      "char": "ㅡ",
+      "name": "eu",
+      "romanization": "eu",
+      "ipa": "/ɯ/",
+      "letterAudio": "audio/ko/letters/ko-eu.mp3",
+      "memoryTrick": "A single horizontal line — no arms. Keep your mouth almost closed, lips unrounded, and make a sound like 'euuuh'. There's no exact English equivalent; it's like the 'u' in Japanese 'sushi'.",
+      "words": [
+        { "text": "음악", "roman": "eumak", "meaning": "music", "emoji": "🎶", "audio": "audio/ko/words/ko-eu-01.mp3" },
+        { "text": "은행", "roman": "eunhaeng", "meaning": "bank", "emoji": "🏦", "audio": "audio/ko/words/ko-eu-02.mp3" },
+        { "text": "그림", "roman": "geurim", "meaning": "picture", "emoji": "🖼️", "audio": "audio/ko/words/ko-eu-03.mp3" },
+        { "text": "음식", "roman": "eumsik", "meaning": "food", "emoji": "🍽️", "audio": "audio/ko/words/ko-eu-04.mp3" },
+        { "text": "크다", "roman": "keuda", "meaning": "to be big", "emoji": "🐘", "audio": "audio/ko/words/ko-eu-05.mp3" },
+        { "text": "드라마", "roman": "deurama", "meaning": "drama", "emoji": "🎭", "audio": "audio/ko/words/ko-eu-06.mp3" },
+        { "text": "마음", "roman": "maeum", "meaning": "heart / mind", "emoji": "💖", "audio": "audio/ko/words/ko-eu-07.mp3" },
+        { "text": "쓰다", "roman": "sseuda", "meaning": "to write", "emoji": "✍️", "audio": "audio/ko/words/ko-eu-08.mp3" }
+      ]
+    },
+    {
+      "id": "ko-i",
+      "char": "ㅣ",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/ko/letters/ko-i.mp3",
+      "memoryTrick": "A single vertical line — like the letter 'I' in English. It makes the 'ee' sound as in 'tree' or 'see'. Simple and tall, just like the sound.",
+      "words": [
+        { "text": "이름", "roman": "ireum", "meaning": "name", "emoji": "📛", "audio": "audio/ko/words/ko-i-01.mp3" },
+        { "text": "이빨", "roman": "ippal", "meaning": "tooth", "emoji": "🦷", "audio": "audio/ko/words/ko-i-02.mp3" },
+        { "text": "이야기", "roman": "iyagi", "meaning": "story", "emoji": "📖", "audio": "audio/ko/words/ko-i-03.mp3" },
+        { "text": "일", "roman": "il", "meaning": "day / work", "emoji": "📆", "audio": "audio/ko/words/ko-i-04.mp3" },
+        { "text": "이모", "roman": "imo", "meaning": "aunt (mother's side)", "emoji": "👩", "audio": "audio/ko/words/ko-i-05.mp3" },
+        { "text": "인터넷", "roman": "inteones", "meaning": "internet", "emoji": "🌐", "audio": "audio/ko/words/ko-i-06.mp3" },
+        { "text": "기차", "roman": "gicha", "meaning": "train", "emoji": "🚂", "audio": "audio/ko/words/ko-i-07.mp3" },
+        { "text": "비", "roman": "bi", "meaning": "rain", "emoji": "🌧️", "audio": "audio/ko/words/ko-i-08.mp3" }
+      ]
+    },
+    {
+      "id": "ko-ae",
+      "char": "ㅐ",
+      "name": "ae",
+      "romanization": "ae",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/ko/letters/ko-ae.mp3",
+      "memoryTrick": "Combines ㅏ (a) and ㅣ (i) — say 'a' and slide toward 'e'. It sounds like the 'e' in 'bed' or 'pet', a bit more open than ㅔ.",
+      "words": [
+        { "text": "애기", "roman": "aegi", "meaning": "baby (affectionate)", "emoji": "👶", "audio": "audio/ko/words/ko-ae-01.mp3" },
+        { "text": "애완동물", "roman": "aewandongmul", "meaning": "pet", "emoji": "🐾", "audio": "audio/ko/words/ko-ae-02.mp3" },
+        { "text": "개", "roman": "gae", "meaning": "dog", "emoji": "🐕", "audio": "audio/ko/words/ko-ae-03.mp3" },
+        { "text": "해", "roman": "hae", "meaning": "sun", "emoji": "☀️", "audio": "audio/ko/words/ko-ae-04.mp3" },
+        { "text": "새", "roman": "sae", "meaning": "bird / new", "emoji": "🐦", "audio": "audio/ko/words/ko-ae-05.mp3" },
+        { "text": "배", "roman": "bae", "meaning": "pear / boat / stomach", "emoji": "🍐", "audio": "audio/ko/words/ko-ae-06.mp3" },
+        { "text": "태양", "roman": "taeyang", "meaning": "sun", "emoji": "☀️", "audio": "audio/ko/words/ko-ae-07.mp3" }
+      ]
+    },
+    {
+      "id": "ko-yae",
+      "char": "ㅒ",
+      "name": "yae",
+      "romanization": "yae",
+      "ipa": "/jɛ/",
+      "letterAudio": "audio/ko/letters/ko-yae.mp3",
+      "memoryTrick": "Looks like ㅐ with an extra stroke — add a 'y' glide to 'ae'. It's 'yae' like 'yeah' but with a more open vowel. Rare but distinctive.",
+      "words": [
+        { "text": "걔", "roman": "gyae", "meaning": "that person (casual)", "emoji": "👉", "audio": "audio/ko/words/ko-yae-01.mp3" },
+        { "text": "쟤", "roman": "jyae", "meaning": "that person over there", "emoji": "👤", "audio": "audio/ko/words/ko-yae-02.mp3" },
+        { "text": "얘기", "roman": "yaegi", "meaning": "story / talk (short for 이야기)", "emoji": "💬", "audio": "audio/ko/words/ko-yae-03.mp3" }
+      ]
+    },
+    {
+      "id": "ko-e",
+      "char": "ㅔ",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/e/",
+      "letterAudio": "audio/ko/letters/ko-e.mp3",
+      "memoryTrick": "Combines ㅓ (eo) and ㅣ (i) — like 'eo' sliding into 'ee'. It sounds like the 'e' in 'bed' or 'set', very similar to ㅐ in modern Korean.",
+      "words": [
+        { "text": "에어컨", "roman": "eeokeon", "meaning": "air conditioner", "emoji": "❄️", "audio": "audio/ko/words/ko-e-01.mp3" },
+        { "text": "세상", "roman": "sesang", "meaning": "world", "emoji": "🌍", "audio": "audio/ko/words/ko-e-02.mp3" },
+        { "text": "네", "roman": "ne", "meaning": "yes", "emoji": "👍", "audio": "audio/ko/words/ko-e-03.mp3" },
+        { "text": "게임", "roman": "geim", "meaning": "game", "emoji": "🎮", "audio": "audio/ko/words/ko-e-04.mp3" },
+        { "text": "제주도", "roman": "Jejudo", "meaning": "Jeju Island", "emoji": "🏝️", "audio": "audio/ko/words/ko-e-05.mp3" },
+        { "text": "테이블", "roman": "teibeul", "meaning": "table", "emoji": "🪑", "audio": "audio/ko/words/ko-e-06.mp3" },
+        { "text": "베개", "roman": "begae", "meaning": "pillow", "emoji": "🛏️", "audio": "audio/ko/words/ko-e-07.mp3" }
+      ]
+    },
+    {
+      "id": "ko-ye",
+      "char": "ㅖ",
+      "name": "ye",
+      "romanization": "ye",
+      "ipa": "/je/",
+      "letterAudio": "audio/ko/letters/ko-ye.mp3",
+      "memoryTrick": "Looks like ㅔ with an extra stroke. Add a 'y' to 'e' — it's 'ye' like 'yes' without the 's'. Your tongue glides from the 'y' position into the 'e'.",
+      "words": [
+        { "text": "예쁘다", "roman": "yeppeuda", "meaning": "pretty", "emoji": "💖", "audio": "audio/ko/words/ko-ye-01.mp3" },
+        { "text": "예술", "roman": "yesul", "meaning": "art", "emoji": "🎨", "audio": "audio/ko/words/ko-ye-02.mp3" },
+        { "text": "계란", "roman": "gyeran", "meaning": "egg", "emoji": "🥚", "audio": "audio/ko/words/ko-ye-03.mp3" },
+        { "text": "예약", "roman": "yeyak", "meaning": "reservation", "emoji": "📋", "audio": "audio/ko/words/ko-ye-04.mp3" },
+        { "text": "세계", "roman": "segye", "meaning": "world", "emoji": "🌏", "audio": "audio/ko/words/ko-ye-05.mp3" },
+        { "text": "시계", "roman": "sigye", "meaning": "clock", "emoji": "⌚", "audio": "audio/ko/words/ko-ye-06.mp3" }
+      ]
+    },
+    {
+      "id": "ko-wa",
+      "char": "ㅘ",
+      "name": "wa",
+      "romanization": "wa",
+      "ipa": "/wa/",
+      "letterAudio": "audio/ko/letters/ko-wa.mp3",
+      "memoryTrick": "Combines ㅗ (o) and ㅏ (a) — start with rounded lips for 'o' then open to 'a'. Sounds like 'wa' as in 'water' or 'waffle'.",
+      "words": [
+        { "text": "와인", "roman": "wain", "meaning": "wine", "emoji": "🍷", "audio": "audio/ko/words/ko-wa-01.mp3" },
+        { "text": "과자", "roman": "gwaja", "meaning": "snack / cookie", "emoji": "🍪", "audio": "audio/ko/words/ko-wa-02.mp3" },
+        { "text": "과일", "roman": "gwail", "meaning": "fruit", "emoji": "🍎", "audio": "audio/ko/words/ko-wa-03.mp3" },
+        { "text": "사과", "roman": "sagwa", "meaning": "apple", "emoji": "🍎", "audio": "audio/ko/words/ko-wa-04.mp3" },
+        { "text": "화가", "roman": "hwaga", "meaning": "painter", "emoji": "🎨", "audio": "audio/ko/words/ko-wa-05.mp3" },
+        { "text": "왕", "roman": "wang", "meaning": "king", "emoji": "👑", "audio": "audio/ko/words/ko-wa-06.mp3" },
+        { "text": "전화", "roman": "jeonhwa", "meaning": "phone", "emoji": "📞", "audio": "audio/ko/words/ko-wa-07.mp3" }
+      ]
+    },
+    {
+      "id": "ko-wae",
+      "char": "ㅙ",
+      "name": "wae",
+      "romanization": "wae",
+      "ipa": "/wɛ/",
+      "letterAudio": "audio/ko/letters/ko-wae.mp3",
+      "memoryTrick": "Combines ㅗ (o) and ㅐ (ae) — round lips for 'o' then slide to 'ae'. Sounds like 'wae' as in the English word 'wet' but with a more open vowel.",
+      "words": [
+        { "text": "왜", "roman": "wae", "meaning": "why", "emoji": "❓", "audio": "audio/ko/words/ko-wae-01.mp3" },
+        { "text": "돼지", "roman": "dwaeji", "meaning": "pig", "emoji": "🐷", "audio": "audio/ko/words/ko-wae-02.mp3" },
+        { "text": "괜찮다", "roman": "gwaenchanta", "meaning": "to be okay / fine", "emoji": "👌", "audio": "audio/ko/words/ko-wae-03.mp3" },
+        { "text": "쾌활하다", "roman": "kwaehwalhada", "meaning": "cheerful", "emoji": "😄", "audio": "audio/ko/words/ko-wae-04.mp3" }
+      ]
+    },
+    {
+      "id": "ko-oe",
+      "char": "ㅚ",
+      "name": "oe",
+      "romanization": "oe",
+      "ipa": "/ø/",
+      "letterAudio": "audio/ko/letters/ko-oe.mp3",
+      "memoryTrick": "Combines ㅗ (o) and ㅣ (i). Round your lips for 'o' and try to say 'e' — it comes out like the German 'ö' or the 'eu' in French 'peu'. Many Koreans now pronounce it like 'we'.",
+      "words": [
+        { "text": "외국", "roman": "oeguk", "meaning": "foreign country", "emoji": "🌏", "audio": "audio/ko/words/ko-oe-01.mp3" },
+        { "text": "외계인", "roman": "oegyein", "meaning": "alien", "emoji": "👽", "audio": "audio/ko/words/ko-oe-02.mp3" },
+        { "text": "외롭다", "roman": "oeropda", "meaning": "lonely", "emoji": "😔", "audio": "audio/ko/words/ko-oe-03.mp3" },
+        { "text": "뇌", "roman": "noe", "meaning": "brain", "emoji": "🧠", "audio": "audio/ko/words/ko-oe-04.mp3" },
+        { "text": "죄", "roman": "joe", "meaning": "sin / crime", "emoji": "⚖️", "audio": "audio/ko/words/ko-oe-05.mp3" },
+        { "text": "외출", "roman": "oechul", "meaning": "going out", "emoji": "🚶", "audio": "audio/ko/words/ko-oe-06.mp3" }
+      ]
+    },
+    {
+      "id": "ko-wo",
+      "char": "ㅝ",
+      "name": "wo",
+      "romanization": "wo",
+      "ipa": "/wʌ/",
+      "letterAudio": "audio/ko/letters/ko-wo.mp3",
+      "memoryTrick": "Combines ㅜ (u) and ㅓ (eo) — start with lips rounded for 'oo' then open to 'uh'. It's like saying 'won' in English, or the 'wo' in 'wonder'.",
+      "words": [
+        { "text": "원", "roman": "won", "meaning": "won (Korean currency)", "emoji": "💵", "audio": "audio/ko/words/ko-wo-01.mp3" },
+        { "text": "원숭이", "roman": "wonsungi", "meaning": "monkey", "emoji": "🐒", "audio": "audio/ko/words/ko-wo-02.mp3" },
+        { "text": "월요일", "roman": "woryoil", "meaning": "Monday", "emoji": "📅", "audio": "audio/ko/words/ko-wo-03.mp3" },
+        { "text": "권", "roman": "gwon", "meaning": "volume / book", "emoji": "📚", "audio": "audio/ko/words/ko-wo-04.mp3" },
+        { "text": "원하다", "roman": "wonhada", "meaning": "to want", "emoji": "🙏", "audio": "audio/ko/words/ko-wo-05.mp3" },
+        { "text": "워밍업", "roman": "womingeop", "meaning": "warm-up", "emoji": "🏋️", "audio": "audio/ko/words/ko-wo-06.mp3" },
+        { "text": "정원", "roman": "jeongwon", "meaning": "garden", "emoji": "🌻", "audio": "audio/ko/words/ko-wo-07.mp3" }
+      ]
+    },
+    {
+      "id": "ko-we",
+      "char": "ㅞ",
+      "name": "we",
+      "romanization": "we",
+      "ipa": "/we/",
+      "letterAudio": "audio/ko/letters/ko-we.mp3",
+      "memoryTrick": "Combines ㅜ (u) and ㅔ (e) — round lips for 'oo' then slide to 'e'. It's like the English 'we' or the 'we' in 'wet'. Used mainly in loanwords.",
+      "words": [
+        { "text": "웨이터", "roman": "weiteo", "meaning": "waiter", "emoji": "🤵", "audio": "audio/ko/words/ko-we-01.mp3" },
+        { "text": "웹사이트", "roman": "wepsaitteu", "meaning": "website", "emoji": "🖥️", "audio": "audio/ko/words/ko-we-02.mp3" },
+        { "text": "궤", "roman": "gwe", "meaning": "box / chest", "emoji": "📦", "audio": "audio/ko/words/ko-we-03.mp3" }
+      ]
+    },
+    {
+      "id": "ko-wi",
+      "char": "ㅟ",
+      "name": "wi",
+      "romanization": "wi",
+      "ipa": "/wi/",
+      "letterAudio": "audio/ko/letters/ko-wi.mp3",
+      "memoryTrick": "Combines ㅜ (u) and ㅣ (i) — round lips for 'oo' then slide to 'ee'. It's like 'we' in English, or the French 'oui'. Many Koreans now simply say 'i' for this vowel.",
+      "words": [
+        { "text": "위", "roman": "wi", "meaning": "stomach / top / above", "emoji": "⬆️", "audio": "audio/ko/words/ko-wi-01.mp3" },
+        { "text": "귀", "roman": "gwi", "meaning": "ear", "emoji": "👂", "audio": "audio/ko/words/ko-wi-02.mp3" },
+        { "text": "뒤", "roman": "dwi", "meaning": "behind / back", "emoji": "🔙", "audio": "audio/ko/words/ko-wi-03.mp3" },
+        { "text": "쉬다", "roman": "swida", "meaning": "to rest", "emoji": "😴", "audio": "audio/ko/words/ko-wi-04.mp3" },
+        { "text": "취미", "roman": "chwimi", "meaning": "hobby", "emoji": "🎯", "audio": "audio/ko/words/ko-wi-05.mp3" },
+        { "text": "가위", "roman": "gawi", "meaning": "scissors", "emoji": "✂️", "audio": "audio/ko/words/ko-wi-06.mp3" }
+      ]
+    },
+    {
+      "id": "ko-ui",
+      "char": "ㅢ",
+      "name": "ui",
+      "romanization": "ui",
+      "ipa": "/ɯi/",
+      "letterAudio": "audio/ko/letters/ko-ui.mp3",
+      "memoryTrick": "Combines ㅡ (eu) and ㅣ (i) — start with the flat 'eu' sound and slide into 'ee'. It's unique to Korean and sounds like 'eu-ee' gliding together quickly. At the start of a word it sounds like 'ui'; as a possessive marker it sounds like 'e'.",
+      "words": [
+        { "text": "의사", "roman": "uisa", "meaning": "doctor", "emoji": "🩺", "audio": "audio/ko/words/ko-ui-01.mp3" },
+        { "text": "의자", "roman": "uija", "meaning": "chair", "emoji": "🪑", "audio": "audio/ko/words/ko-ui-02.mp3" },
+        { "text": "희망", "roman": "huimang", "meaning": "hope", "emoji": "🌈", "audio": "audio/ko/words/ko-ui-03.mp3" },
+        { "text": "의미", "roman": "uimi", "meaning": "meaning", "emoji": "💡", "audio": "audio/ko/words/ko-ui-04.mp3" },
+        { "text": "의견", "roman": "uigyeon", "meaning": "opinion", "emoji": "💬", "audio": "audio/ko/words/ko-ui-05.mp3" },
+        { "text": "회의", "roman": "hoeui", "meaning": "meeting", "emoji": "📋", "audio": "audio/ko/words/ko-ui-06.mp3" }
       ]
     }
   ]

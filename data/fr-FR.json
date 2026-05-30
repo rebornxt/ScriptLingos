@@ -5,54 +5,813 @@
   "letters": [
     {
       "id": "fr-a",
-      "char": "A",
-      "name": "A",
+      "char": "a",
+      "name": "a",
       "romanization": "a",
       "ipa": "/a/",
       "letterAudio": "audio/fr/letters/fr-a.mp3",
-      "memoryTrick": "A bright, open 'ah' made at the front of the mouth — crisper than the English 'a'.",
+      "memoryTrick": "Like the 'a' in English 'father' or 'cat' — a short, open sound. Think of saying 'ah' at the doctor.",
       "words": [
-        { "text": "arbre", "roman": "AR-bruh", "meaning": "tree", "emoji": "🌳", "audio": "audio/fr/words/fr-a-01.mp3" },
-        { "text": "avion", "roman": "a-VYON", "meaning": "plane", "emoji": "✈️", "audio": "audio/fr/words/fr-a-02.mp3" }
+        { "text": "ami", "roman": "ami", "meaning": "friend", "emoji": "🧑", "audio": "audio/fr/words/fr-a-01.mp3" },
+        { "text": "arbre", "roman": "arbre", "meaning": "tree", "emoji": "🌳", "audio": "audio/fr/words/fr-a-02.mp3" },
+        { "text": "avion", "roman": "avion", "meaning": "airplane", "emoji": "✈️", "audio": "audio/fr/words/fr-a-03.mp3" },
+        { "text": "amour", "roman": "amour", "meaning": "love", "emoji": "❤️", "audio": "audio/fr/words/fr-a-04.mp3" },
+        { "text": "animal", "roman": "animal", "meaning": "animal", "emoji": "🐾", "audio": "audio/fr/words/fr-a-05.mp3" },
+        { "text": "argent", "roman": "argent", "meaning": "money / silver", "emoji": "💰", "audio": "audio/fr/words/fr-a-06.mp3" },
+        { "text": "année", "roman": "année", "meaning": "year", "emoji": "📅", "audio": "audio/fr/words/fr-a-07.mp3" },
+        { "text": "aller", "roman": "aller", "meaning": "to go", "emoji": "🚶", "audio": "audio/fr/words/fr-a-08.mp3" },
+        { "text": "art", "roman": "art", "meaning": "art", "emoji": "🎨", "audio": "audio/fr/words/fr-a-09.mp3" },
+        { "text": "assiette", "roman": "assiette", "meaning": "plate", "emoji": "🍽️", "audio": "audio/fr/words/fr-a-10.mp3" }
       ]
     },
     {
-      "id": "fr-e-aigu",
-      "char": "É",
-      "name": "E accent aigu",
-      "romanization": "é",
-      "ipa": "/e/",
-      "letterAudio": "audio/fr/letters/fr-e-aigu.mp3",
-      "memoryTrick": "The accent rising to the right tells you to close the mouth into a bright 'ay', as in 'café'.",
+      "id": "fr-b",
+      "char": "b",
+      "name": "bé",
+      "romanization": "b",
+      "ipa": "/b/",
+      "letterAudio": "audio/fr/letters/fr-b.mp3",
+      "memoryTrick": "Same as English 'b' — press your lips together and release. Like the 'b' in 'baby' or 'balloon'.",
       "words": [
-        { "text": "étoile", "roman": "ay-TWAL", "meaning": "star", "emoji": "⭐", "audio": "audio/fr/words/fr-e-aigu-01.mp3" },
-        { "text": "école", "roman": "ay-KOL", "meaning": "school", "emoji": "🏫", "audio": "audio/fr/words/fr-e-aigu-02.mp3" }
+        { "text": "bateau", "roman": "bateau", "meaning": "boat", "emoji": "⛵", "audio": "audio/fr/words/fr-b-01.mp3" },
+        { "text": "bébé", "roman": "bébé", "meaning": "baby", "emoji": "👶", "audio": "audio/fr/words/fr-b-02.mp3" },
+        { "text": "boire", "roman": "boire", "meaning": "to drink", "emoji": "🥤", "audio": "audio/fr/words/fr-b-03.mp3" },
+        { "text": "bonjour", "roman": "bonjour", "meaning": "hello / good day", "emoji": "👋", "audio": "audio/fr/words/fr-b-04.mp3" },
+        { "text": "bouche", "roman": "bouche", "meaning": "mouth", "emoji": "👄", "audio": "audio/fr/words/fr-b-05.mp3" },
+        { "text": "bras", "roman": "bras", "meaning": "arm", "emoji": "💪", "audio": "audio/fr/words/fr-b-06.mp3" },
+        { "text": "blanc", "roman": "blanc", "meaning": "white", "emoji": "⬜", "audio": "audio/fr/words/fr-b-07.mp3" },
+        { "text": "bleu", "roman": "bleu", "meaning": "blue", "emoji": "🔵", "audio": "audio/fr/words/fr-b-08.mp3" },
+        { "text": "beurre", "roman": "beurre", "meaning": "butter", "emoji": "🧈", "audio": "audio/fr/words/fr-b-09.mp3" },
+        { "text": "bibliothèque", "roman": "bibliothèque", "meaning": "library", "emoji": "📚", "audio": "audio/fr/words/fr-b-10.mp3" },
+        { "text": "bonbon", "roman": "bonbon", "meaning": "candy", "emoji": "🍬", "audio": "audio/fr/words/fr-b-11.mp3" }
       ]
     },
     {
       "id": "fr-c",
-      "char": "C",
-      "name": "Cé",
+      "char": "c",
+      "name": "cé",
       "romanization": "c",
-      "ipa": "/k/, /s/",
+      "ipa": "/k/ or /s/",
       "letterAudio": "audio/fr/letters/fr-c.mp3",
-      "memoryTrick": "Hard 'k' before a, o, u; soft 's' before e and i. A little tail (ç) forces the 's' anywhere.",
+      "memoryTrick": "Two faces: hard like 'k' in 'cat' before a/o/u, soft like 's' in 'cent' before e/i/y. The cé rule is like the English 'c' in 'city' vs 'cat'.",
       "words": [
-        { "text": "chat", "roman": "sha", "meaning": "cat", "emoji": "🐈", "audio": "audio/fr/words/fr-c-01.mp3" },
-        { "text": "carotte", "roman": "ka-ROT", "meaning": "carrot", "emoji": "🥕", "audio": "audio/fr/words/fr-c-02.mp3" }
+        { "text": "café", "roman": "café", "meaning": "coffee / café", "emoji": "☕", "audio": "audio/fr/words/fr-c-01.mp3" },
+        { "text": "cadeau", "roman": "cadeau", "meaning": "gift", "emoji": "🎁", "audio": "audio/fr/words/fr-c-02.mp3" },
+        { "text": "camion", "roman": "camion", "meaning": "truck", "emoji": "🚛", "audio": "audio/fr/words/fr-c-03.mp3" },
+        { "text": "carte", "roman": "carte", "meaning": "card / map", "emoji": "🗺️", "audio": "audio/fr/words/fr-c-04.mp3" },
+        { "text": "champ", "roman": "champ", "meaning": "field", "emoji": "🌾", "audio": "audio/fr/words/fr-c-05.mp3" },
+        { "text": "ciel", "roman": "ciel", "meaning": "sky", "emoji": "☁️", "audio": "audio/fr/words/fr-c-06.mp3" },
+        { "text": "cinq", "roman": "cinq", "meaning": "five", "emoji": "5️⃣", "audio": "audio/fr/words/fr-c-07.mp3" },
+        { "text": "couleur", "roman": "couleur", "meaning": "color", "emoji": "🎨", "audio": "audio/fr/words/fr-c-08.mp3" },
+        { "text": "courir", "roman": "courir", "meaning": "to run", "emoji": "🏃", "audio": "audio/fr/words/fr-c-09.mp3" },
+        { "text": "cuisine", "roman": "cuisine", "meaning": "kitchen / cooking", "emoji": "🍳", "audio": "audio/fr/words/fr-c-10.mp3" },
+        { "text": "ceinture", "roman": "ceinture", "meaning": "belt", "emoji": "🎀", "audio": "audio/fr/words/fr-c-11.mp3" }
+      ]
+    },
+    {
+      "id": "fr-d",
+      "char": "d",
+      "name": "dé",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/fr/letters/fr-d.mp3",
+      "memoryTrick": "Same as English 'd' — tongue taps behind your upper teeth. Think of the 'd' in 'door' or 'dance'.",
+      "words": [
+        { "text": "danser", "roman": "danser", "meaning": "to dance", "emoji": "💃", "audio": "audio/fr/words/fr-d-01.mp3" },
+        { "text": "dent", "roman": "dent", "meaning": "tooth", "emoji": "🦷", "audio": "audio/fr/words/fr-d-02.mp3" },
+        { "text": "deux", "roman": "deux", "meaning": "two", "emoji": "2️⃣", "audio": "audio/fr/words/fr-d-03.mp3" },
+        { "text": "dimanche", "roman": "dimanche", "meaning": "Sunday", "emoji": "📅", "audio": "audio/fr/words/fr-d-04.mp3" },
+        { "text": "doigt", "roman": "doigt", "meaning": "finger", "emoji": "👆", "audio": "audio/fr/words/fr-d-05.mp3" },
+        { "text": "donner", "roman": "donner", "meaning": "to give", "emoji": "🎁", "audio": "audio/fr/words/fr-d-06.mp3" },
+        { "text": "dormir", "roman": "dormir", "meaning": "to sleep", "emoji": "😴", "audio": "audio/fr/words/fr-d-07.mp3" },
+        { "text": "doux", "roman": "doux", "meaning": "soft / sweet", "emoji": "🍯", "audio": "audio/fr/words/fr-d-08.mp3" },
+        { "text": "droit", "roman": "droit", "meaning": "right / straight", "emoji": "➡️", "audio": "audio/fr/words/fr-d-09.mp3" },
+        { "text": "dur", "roman": "dur", "meaning": "hard", "emoji": "🪨", "audio": "audio/fr/words/fr-d-10.mp3" }
+      ]
+    },
+    {
+      "id": "fr-e",
+      "char": "e",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/ə/ or /ɛ/",
+      "letterAudio": "audio/fr/letters/fr-e.mp3",
+      "memoryTrick": "The French 'e' has several faces: a neutral schwa like the 'u' in English 'upon', or open like 'e' in 'bed'. At the end of a word it is usually silent!",
+      "words": [
+        { "text": "enfant", "roman": "enfant", "meaning": "child", "emoji": "🧒", "audio": "audio/fr/words/fr-e-01.mp3" },
+        { "text": "elle", "roman": "elle", "meaning": "she", "emoji": "👩", "audio": "audio/fr/words/fr-e-02.mp3" },
+        { "text": "escalier", "roman": "escalier", "meaning": "staircase", "emoji": "🪜", "audio": "audio/fr/words/fr-e-03.mp3" },
+        { "text": "esprit", "roman": "esprit", "meaning": "mind / spirit", "emoji": "🧠", "audio": "audio/fr/words/fr-e-04.mp3" },
+        { "text": "exemple", "roman": "exemple", "meaning": "example", "emoji": "📝", "audio": "audio/fr/words/fr-e-05.mp3" },
+        { "text": "erreur", "roman": "erreur", "meaning": "error", "emoji": "❌", "audio": "audio/fr/words/fr-e-06.mp3" },
+        { "text": "exercice", "roman": "exercice", "meaning": "exercise", "emoji": "🏋️", "audio": "audio/fr/words/fr-e-07.mp3" },
+        { "text": "entrer", "roman": "entrer", "meaning": "to enter", "emoji": "🚪", "audio": "audio/fr/words/fr-e-08.mp3" },
+        { "text": "ensemble", "roman": "ensemble", "meaning": "together", "emoji": "🤝", "audio": "audio/fr/words/fr-e-09.mp3" },
+        { "text": "envie", "roman": "envie", "meaning": "desire / wish", "emoji": "✨", "audio": "audio/fr/words/fr-e-10.mp3" }
+      ]
+    },
+    {
+      "id": "fr-f",
+      "char": "f",
+      "name": "effe",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/fr/letters/fr-f.mp3",
+      "memoryTrick": "Same as English 'f' — top teeth on lower lip and blow air. Like the 'f' in 'flower' or 'friend'.",
+      "words": [
+        { "text": "famille", "roman": "famille", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/fr/words/fr-f-01.mp3" },
+        { "text": "femme", "roman": "femme", "meaning": "woman / wife", "emoji": "👩", "audio": "audio/fr/words/fr-f-02.mp3" },
+        { "text": "fenêtre", "roman": "fenêtre", "meaning": "window", "emoji": "🪟", "audio": "audio/fr/words/fr-f-03.mp3" },
+        { "text": "ferme", "roman": "ferme", "meaning": "farm", "emoji": "🚜", "audio": "audio/fr/words/fr-f-04.mp3" },
+        { "text": "feu", "roman": "feu", "meaning": "fire", "emoji": "🔥", "audio": "audio/fr/words/fr-f-05.mp3" },
+        { "text": "feuille", "roman": "feuille", "meaning": "leaf / sheet", "emoji": "🍃", "audio": "audio/fr/words/fr-f-06.mp3" },
+        { "text": "fille", "roman": "fille", "meaning": "girl / daughter", "emoji": "👧", "audio": "audio/fr/words/fr-f-07.mp3" },
+        { "text": "fleur", "roman": "fleur", "meaning": "flower", "emoji": "🌸", "audio": "audio/fr/words/fr-f-08.mp3" },
+        { "text": "forêt", "roman": "forêt", "meaning": "forest", "emoji": "🌲", "audio": "audio/fr/words/fr-f-09.mp3" },
+        { "text": "froid", "roman": "froid", "meaning": "cold", "emoji": "🥶", "audio": "audio/fr/words/fr-f-10.mp3" },
+        { "text": "fruit", "roman": "fruit", "meaning": "fruit", "emoji": "🍎", "audio": "audio/fr/words/fr-f-11.mp3" }
+      ]
+    },
+    {
+      "id": "fr-g",
+      "char": "g",
+      "name": "gé",
+      "romanization": "g",
+      "ipa": "/ɡ/ or /ʒ/",
+      "letterAudio": "audio/fr/letters/fr-g.mp3",
+      "memoryTrick": "Two faces, like 'c': hard 'g' as in 'go' before a/o/u, soft 'zh' as in 'mirage' before e/i/y. Just like English 'g' in 'giraffe' vs 'goat'.",
+      "words": [
+        { "text": "garçon", "roman": "garçon", "meaning": "boy / waiter", "emoji": "👦", "audio": "audio/fr/words/fr-g-01.mp3" },
+        { "text": "gâteau", "roman": "gâteau", "meaning": "cake", "emoji": "🎂", "audio": "audio/fr/words/fr-g-02.mp3" },
+        { "text": "gauche", "roman": "gauche", "meaning": "left", "emoji": "⬅️", "audio": "audio/fr/words/fr-g-03.mp3" },
+        { "text": "genou", "roman": "genou", "meaning": "knee", "emoji": "🦵", "audio": "audio/fr/words/fr-g-04.mp3" },
+        { "text": "girafe", "roman": "girafe", "meaning": "giraffe", "emoji": "🦒", "audio": "audio/fr/words/fr-g-05.mp3" },
+        { "text": "glace", "roman": "glace", "meaning": "ice / ice cream", "emoji": "🍦", "audio": "audio/fr/words/fr-g-06.mp3" },
+        { "text": "gorge", "roman": "gorge", "meaning": "throat", "audio": "audio/fr/words/fr-g-07.mp3" },
+        { "text": "grand", "roman": "grand", "meaning": "big / tall", "emoji": "🏔️", "audio": "audio/fr/words/fr-g-08.mp3" },
+        { "text": "gris", "roman": "gris", "meaning": "gray", "emoji": "🩶", "audio": "audio/fr/words/fr-g-09.mp3" },
+        { "text": "guerre", "roman": "guerre", "meaning": "war", "audio": "audio/fr/words/fr-g-10.mp3" }
+      ]
+    },
+    {
+      "id": "fr-h",
+      "char": "h",
+      "name": "ache",
+      "romanization": "h",
+      "ipa": "/∅/ (silent)",
+      "letterAudio": "audio/fr/letters/fr-h.mp3",
+      "memoryTrick": "The French 'h' is silent — always! It's a ghost letter. But it still matters: a 'mute h' allows liaison, an 'aspirated h' blocks it.",
+      "words": [
+        { "text": "habiter", "roman": "habiter", "meaning": "to live (in)", "emoji": "🏠", "audio": "audio/fr/words/fr-h-01.mp3" },
+        { "text": "heure", "roman": "heure", "meaning": "hour / time", "emoji": "🕐", "audio": "audio/fr/words/fr-h-02.mp3" },
+        { "text": "heureux", "roman": "heureux", "meaning": "happy", "emoji": "😊", "audio": "audio/fr/words/fr-h-03.mp3" },
+        { "text": "hier", "roman": "hier", "meaning": "yesterday", "emoji": "📆", "audio": "audio/fr/words/fr-h-04.mp3" },
+        { "text": "histoire", "roman": "histoire", "meaning": "story / history", "emoji": "📖", "audio": "audio/fr/words/fr-h-05.mp3" },
+        { "text": "hiver", "roman": "hiver", "meaning": "winter", "emoji": "❄️", "audio": "audio/fr/words/fr-h-06.mp3" },
+        { "text": "homme", "roman": "homme", "meaning": "man", "emoji": "👨", "audio": "audio/fr/words/fr-h-07.mp3" },
+        { "text": "hôpital", "roman": "hôpital", "meaning": "hospital", "emoji": "🏥", "audio": "audio/fr/words/fr-h-08.mp3" },
+        { "text": "hôtel", "roman": "hôtel", "meaning": "hotel", "emoji": "🏨", "audio": "audio/fr/words/fr-h-09.mp3" },
+        { "text": "huile", "roman": "huile", "meaning": "oil", "emoji": "🫒", "audio": "audio/fr/words/fr-h-10.mp3" },
+        { "text": "huit", "roman": "huit", "meaning": "eight", "emoji": "8️⃣", "audio": "audio/fr/words/fr-h-11.mp3" }
+      ]
+    },
+    {
+      "id": "fr-i",
+      "char": "i",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/fr/letters/fr-i.mp3",
+      "memoryTrick": "Like the 'ee' in English 'see' or 'meet' — a clean, tense vowel said with the tongue high and forward. Think 'eee' with a smile!",
+      "words": [
+        { "text": "ici", "roman": "ici", "meaning": "here", "emoji": "📍", "audio": "audio/fr/words/fr-i-01.mp3" },
+        { "text": "idée", "roman": "idée", "meaning": "idea", "emoji": "💡", "audio": "audio/fr/words/fr-i-02.mp3" },
+        { "text": "image", "roman": "image", "meaning": "image / picture", "emoji": "🖼️", "audio": "audio/fr/words/fr-i-03.mp3" },
+        { "text": "important", "roman": "important", "meaning": "important", "emoji": "❗", "audio": "audio/fr/words/fr-i-04.mp3" },
+        { "text": "incendie", "roman": "incendie", "meaning": "fire / blaze", "emoji": "🔥", "audio": "audio/fr/words/fr-i-05.mp3" },
+        { "text": "insecte", "roman": "insecte", "meaning": "insect", "emoji": "🐛", "audio": "audio/fr/words/fr-i-06.mp3" },
+        { "text": "instrument", "roman": "instrument", "meaning": "instrument", "emoji": "🎸", "audio": "audio/fr/words/fr-i-07.mp3" },
+        { "text": "inviter", "roman": "inviter", "meaning": "to invite", "emoji": "💌", "audio": "audio/fr/words/fr-i-08.mp3" },
+        { "text": "italien", "roman": "italien", "meaning": "Italian", "emoji": "🇮🇹", "audio": "audio/fr/words/fr-i-09.mp3" },
+        { "text": "ivre", "roman": "ivre", "meaning": "drunk", "emoji": "🍷", "audio": "audio/fr/words/fr-i-10.mp3" }
+      ]
+    },
+    {
+      "id": "fr-j",
+      "char": "j",
+      "name": "ji",
+      "romanization": "j",
+      "ipa": "/ʒ/",
+      "letterAudio": "audio/fr/letters/fr-j.mp3",
+      "memoryTrick": "Like the 's' in English 'pleasure' or 'measure' — a soft 'zh' sound. Think of Zsa Zsa Gabor's first initial!",
+      "words": [
+        { "text": "jamais", "roman": "jamais", "meaning": "never", "emoji": "🚫", "audio": "audio/fr/words/fr-j-01.mp3" },
+        { "text": "jambe", "roman": "jambe", "meaning": "leg", "emoji": "🦵", "audio": "audio/fr/words/fr-j-02.mp3" },
+        { "text": "janvier", "roman": "janvier", "meaning": "January", "emoji": "🗓️", "audio": "audio/fr/words/fr-j-03.mp3" },
+        { "text": "jardin", "roman": "jardin", "meaning": "garden", "emoji": "🌻", "audio": "audio/fr/words/fr-j-04.mp3" },
+        { "text": "jaune", "roman": "jaune", "meaning": "yellow", "emoji": "🟡", "audio": "audio/fr/words/fr-j-05.mp3" },
+        { "text": "jeu", "roman": "jeu", "meaning": "game", "emoji": "🎮", "audio": "audio/fr/words/fr-j-06.mp3" },
+        { "text": "jeune", "roman": "jeune", "meaning": "young", "emoji": "🧑", "audio": "audio/fr/words/fr-j-07.mp3" },
+        { "text": "joie", "roman": "joie", "meaning": "joy", "emoji": "😄", "audio": "audio/fr/words/fr-j-08.mp3" },
+        { "text": "jouer", "roman": "jouer", "meaning": "to play", "emoji": "⚽", "audio": "audio/fr/words/fr-j-09.mp3" },
+        { "text": "jour", "roman": "jour", "meaning": "day", "emoji": "☀️", "audio": "audio/fr/words/fr-j-10.mp3" },
+        { "text": "jus", "roman": "jus", "meaning": "juice", "emoji": "🧃", "audio": "audio/fr/words/fr-j-11.mp3" }
+      ]
+    },
+    {
+      "id": "fr-k",
+      "char": "k",
+      "name": "ka",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/fr/letters/fr-k.mp3",
+      "memoryTrick": "Same as English 'k' — a crisp, unvoiced click from the back of the throat. Rare in native French words; mostly appears in borrowings.",
+      "words": [
+        { "text": "kayak", "roman": "kayak", "meaning": "kayak", "emoji": "🛶", "audio": "audio/fr/words/fr-k-01.mp3" },
+        { "text": "kilo", "roman": "kilo", "meaning": "kilogram", "emoji": "⚖️", "audio": "audio/fr/words/fr-k-02.mp3" },
+        { "text": "kiwi", "roman": "kiwi", "meaning": "kiwi", "emoji": "🥝", "audio": "audio/fr/words/fr-k-03.mp3" },
+        { "text": "koala", "roman": "koala", "meaning": "koala", "emoji": "🐨", "audio": "audio/fr/words/fr-k-04.mp3" },
+        { "text": "karaté", "roman": "karaté", "meaning": "karate", "emoji": "🥋", "audio": "audio/fr/words/fr-k-05.mp3" },
+        { "text": "kiosque", "roman": "kiosque", "meaning": "kiosk", "emoji": "🏪", "audio": "audio/fr/words/fr-k-06.mp3" },
+        { "text": "képi", "roman": "képi", "meaning": "military cap", "emoji": "🎖️", "audio": "audio/fr/words/fr-k-07.mp3" },
+        { "text": "kimono", "roman": "kimono", "meaning": "kimono", "emoji": "👘", "audio": "audio/fr/words/fr-k-08.mp3" }
+      ]
+    },
+    {
+      "id": "fr-l",
+      "char": "l",
+      "name": "elle",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/fr/letters/fr-l.mp3",
+      "memoryTrick": "Similar to English 'l' but lighter — tip of the tongue touches behind the upper teeth, not curled back. Think of a delicate 'la la la'.",
+      "words": [
+        { "text": "lac", "roman": "lac", "meaning": "lake", "emoji": "🏞️", "audio": "audio/fr/words/fr-l-01.mp3" },
+        { "text": "lait", "roman": "lait", "meaning": "milk", "emoji": "🥛", "audio": "audio/fr/words/fr-l-02.mp3" },
+        { "text": "lampe", "roman": "lampe", "meaning": "lamp", "emoji": "💡", "audio": "audio/fr/words/fr-l-03.mp3" },
+        { "text": "lapin", "roman": "lapin", "meaning": "rabbit", "emoji": "🐰", "audio": "audio/fr/words/fr-l-04.mp3" },
+        { "text": "leçon", "roman": "leçon", "meaning": "lesson", "emoji": "📚", "audio": "audio/fr/words/fr-l-05.mp3" },
+        { "text": "lettre", "roman": "lettre", "meaning": "letter", "emoji": "✉️", "audio": "audio/fr/words/fr-l-06.mp3" },
+        { "text": "libre", "roman": "libre", "meaning": "free", "emoji": "🕊️", "audio": "audio/fr/words/fr-l-07.mp3" },
+        { "text": "lire", "roman": "lire", "meaning": "to read", "emoji": "📖", "audio": "audio/fr/words/fr-l-08.mp3" },
+        { "text": "livre", "roman": "livre", "meaning": "book", "emoji": "📕", "audio": "audio/fr/words/fr-l-09.mp3" },
+        { "text": "loup", "roman": "loup", "meaning": "wolf", "emoji": "🐺", "audio": "audio/fr/words/fr-l-10.mp3" },
+        { "text": "lumière", "roman": "lumière", "meaning": "light", "emoji": "💡", "audio": "audio/fr/words/fr-l-11.mp3" },
+        { "text": "lundi", "roman": "lundi", "meaning": "Monday", "emoji": "📅", "audio": "audio/fr/words/fr-l-12.mp3" }
       ]
     },
     {
       "id": "fr-m",
-      "char": "M",
-      "name": "Èmme",
+      "char": "m",
+      "name": "emme",
       "romanization": "m",
       "ipa": "/m/",
       "letterAudio": "audio/fr/letters/fr-m.mp3",
-      "memoryTrick": "Straightforward 'm' — but after a vowel it often nasalises the vowel instead (as in 'maison').",
+      "memoryTrick": "Same as English 'm' — lips together, hum through your nose. Like the 'm' in 'mama' or 'moon'.",
       "words": [
-        { "text": "maison", "roman": "may-ZON", "meaning": "house", "emoji": "🏠", "audio": "audio/fr/words/fr-m-01.mp3" },
-        { "text": "main", "roman": "man", "meaning": "hand", "emoji": "✋", "audio": "audio/fr/words/fr-m-02.mp3" }
+        { "text": "main", "roman": "main", "meaning": "hand", "emoji": "🤚", "audio": "audio/fr/words/fr-m-01.mp3" },
+        { "text": "maison", "roman": "maison", "meaning": "house", "emoji": "🏠", "audio": "audio/fr/words/fr-m-02.mp3" },
+        { "text": "manger", "roman": "manger", "meaning": "to eat", "emoji": "🍽️", "audio": "audio/fr/words/fr-m-03.mp3" },
+        { "text": "manteau", "roman": "manteau", "meaning": "coat", "emoji": "🧥", "audio": "audio/fr/words/fr-m-04.mp3" },
+        { "text": "marcher", "roman": "marcher", "meaning": "to walk", "emoji": "🚶", "audio": "audio/fr/words/fr-m-05.mp3" },
+        { "text": "matin", "roman": "matin", "meaning": "morning", "emoji": "🌅", "audio": "audio/fr/words/fr-m-06.mp3" },
+        { "text": "mer", "roman": "mer", "meaning": "sea", "emoji": "🌊", "audio": "audio/fr/words/fr-m-07.mp3" },
+        { "text": "mère", "roman": "mère", "meaning": "mother", "emoji": "👩", "audio": "audio/fr/words/fr-m-08.mp3" },
+        { "text": "midi", "roman": "midi", "meaning": "noon", "emoji": "🕛", "audio": "audio/fr/words/fr-m-09.mp3" },
+        { "text": "monde", "roman": "monde", "meaning": "world", "emoji": "🌍", "audio": "audio/fr/words/fr-m-10.mp3" },
+        { "text": "montagne", "roman": "montagne", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/fr/words/fr-m-11.mp3" },
+        { "text": "musique", "roman": "musique", "meaning": "music", "emoji": "🎵", "audio": "audio/fr/words/fr-m-12.mp3" }
+      ]
+    },
+    {
+      "id": "fr-n",
+      "char": "n",
+      "name": "enne",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/fr/letters/fr-n.mp3",
+      "memoryTrick": "Same as English 'n' — tongue tip behind your upper teeth, air through the nose. Like the 'n' in 'noon' or 'nice'.",
+      "words": [
+        { "text": "nager", "roman": "nager", "meaning": "to swim", "emoji": "🏊", "audio": "audio/fr/words/fr-n-01.mp3" },
+        { "text": "nature", "roman": "nature", "meaning": "nature", "emoji": "🌿", "audio": "audio/fr/words/fr-n-02.mp3" },
+        { "text": "neige", "roman": "neige", "meaning": "snow", "emoji": "❄️", "audio": "audio/fr/words/fr-n-03.mp3" },
+        { "text": "neuf", "roman": "neuf", "meaning": "nine / new", "emoji": "9️⃣", "audio": "audio/fr/words/fr-n-04.mp3" },
+        { "text": "nez", "roman": "nez", "meaning": "nose", "emoji": "👃", "audio": "audio/fr/words/fr-n-05.mp3" },
+        { "text": "noir", "roman": "noir", "meaning": "black", "emoji": "⬛", "audio": "audio/fr/words/fr-n-06.mp3" },
+        { "text": "nom", "roman": "nom", "meaning": "name", "emoji": "📛", "audio": "audio/fr/words/fr-n-07.mp3" },
+        { "text": "nord", "roman": "nord", "meaning": "north", "emoji": "🧭", "audio": "audio/fr/words/fr-n-08.mp3" },
+        { "text": "nuit", "roman": "nuit", "meaning": "night", "emoji": "🌙", "audio": "audio/fr/words/fr-n-09.mp3" },
+        { "text": "nuage", "roman": "nuage", "meaning": "cloud", "emoji": "☁️", "audio": "audio/fr/words/fr-n-10.mp3" },
+        { "text": "numéro", "roman": "numéro", "meaning": "number", "emoji": "🔢", "audio": "audio/fr/words/fr-n-11.mp3" }
+      ]
+    },
+    {
+      "id": "fr-o",
+      "char": "o",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/o/ or /ɔ/",
+      "letterAudio": "audio/fr/letters/fr-o.mp3",
+      "memoryTrick": "Either closed like 'oh!' (lips rounded tight) or open like 'aw' in English 'bought'. The closed 'o' sounds like the English letter name 'O'.",
+      "words": [
+        { "text": "objet", "roman": "objet", "meaning": "object", "emoji": "📦", "audio": "audio/fr/words/fr-o-01.mp3" },
+        { "text": "océan", "roman": "océan", "meaning": "ocean", "emoji": "🌊", "audio": "audio/fr/words/fr-o-02.mp3" },
+        { "text": "oiseau", "roman": "oiseau", "meaning": "bird", "emoji": "🐦", "audio": "audio/fr/words/fr-o-03.mp3" },
+        { "text": "ombre", "roman": "ombre", "meaning": "shadow", "emoji": "👤", "audio": "audio/fr/words/fr-o-04.mp3" },
+        { "text": "oncle", "roman": "oncle", "meaning": "uncle", "emoji": "👨", "audio": "audio/fr/words/fr-o-05.mp3" },
+        { "text": "orange", "roman": "orange", "meaning": "orange", "emoji": "🍊", "audio": "audio/fr/words/fr-o-06.mp3" },
+        { "text": "oreille", "roman": "oreille", "meaning": "ear", "emoji": "👂", "audio": "audio/fr/words/fr-o-07.mp3" },
+        { "text": "orage", "roman": "orage", "meaning": "storm", "emoji": "⛈️", "audio": "audio/fr/words/fr-o-08.mp3" },
+        { "text": "ordinateur", "roman": "ordinateur", "meaning": "computer", "emoji": "💻", "audio": "audio/fr/words/fr-o-09.mp3" },
+        { "text": "ouvrir", "roman": "ouvrir", "meaning": "to open", "emoji": "🔓", "audio": "audio/fr/words/fr-o-10.mp3" }
+      ]
+    },
+    {
+      "id": "fr-p",
+      "char": "p",
+      "name": "pé",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/fr/letters/fr-p.mp3",
+      "memoryTrick": "Same as English 'p' — a crisp pop of the lips. However, in French it has no puff of air after it; it's a drier, less explosive 'p' than in English.",
+      "words": [
+        { "text": "pain", "roman": "pain", "meaning": "bread", "emoji": "🥖", "audio": "audio/fr/words/fr-p-01.mp3" },
+        { "text": "paix", "roman": "paix", "meaning": "peace", "emoji": "☮️", "audio": "audio/fr/words/fr-p-02.mp3" },
+        { "text": "papa", "roman": "papa", "meaning": "dad", "emoji": "👨", "audio": "audio/fr/words/fr-p-03.mp3" },
+        { "text": "papier", "roman": "papier", "meaning": "paper", "emoji": "📄", "audio": "audio/fr/words/fr-p-04.mp3" },
+        { "text": "parler", "roman": "parler", "meaning": "to speak", "emoji": "🗣️", "audio": "audio/fr/words/fr-p-05.mp3" },
+        { "text": "partir", "roman": "partir", "meaning": "to leave", "emoji": "🚪", "audio": "audio/fr/words/fr-p-06.mp3" },
+        { "text": "payer", "roman": "payer", "meaning": "to pay", "emoji": "💳", "audio": "audio/fr/words/fr-p-07.mp3" },
+        { "text": "pays", "roman": "pays", "meaning": "country", "emoji": "🇫🇷", "audio": "audio/fr/words/fr-p-08.mp3" },
+        { "text": "père", "roman": "père", "meaning": "father", "emoji": "👨", "audio": "audio/fr/words/fr-p-09.mp3" },
+        { "text": "pied", "roman": "pied", "meaning": "foot", "emoji": "🦶", "audio": "audio/fr/words/fr-p-10.mp3" },
+        { "text": "pluie", "roman": "pluie", "meaning": "rain", "emoji": "🌧️", "audio": "audio/fr/words/fr-p-11.mp3" },
+        { "text": "pomme", "roman": "pomme", "meaning": "apple", "emoji": "🍎", "audio": "audio/fr/words/fr-p-12.mp3" },
+        { "text": "porte", "roman": "porte", "meaning": "door", "emoji": "🚪", "audio": "audio/fr/words/fr-p-13.mp3" }
+      ]
+    },
+    {
+      "id": "fr-q",
+      "char": "q",
+      "name": "qu",
+      "romanization": "q",
+      "ipa": "/k/",
+      "letterAudio": "audio/fr/letters/fr-q.mp3",
+      "memoryTrick": "In French, 'q' is almost always followed by 'u' and sounds like 'k'. Think of 'qu' as a team — like the 'c' in English 'cat'.",
+      "words": [
+        { "text": "quai", "roman": "quai", "meaning": "platform / quay", "emoji": "🚉", "audio": "audio/fr/words/fr-q-01.mp3" },
+        { "text": "quand", "roman": "quand", "meaning": "when", "emoji": "❓", "audio": "audio/fr/words/fr-q-02.mp3" },
+        { "text": "quatre", "roman": "quatre", "meaning": "four", "emoji": "4️⃣", "audio": "audio/fr/words/fr-q-03.mp3" },
+        { "text": "quel", "roman": "quel", "meaning": "which / what", "emoji": "❓", "audio": "audio/fr/words/fr-q-04.mp3" },
+        { "text": "question", "roman": "question", "meaning": "question", "emoji": "❓", "audio": "audio/fr/words/fr-q-05.mp3" },
+        { "text": "queue", "roman": "queue", "meaning": "tail / queue", "emoji": "🐕", "audio": "audio/fr/words/fr-q-06.mp3" },
+        { "text": "qui", "roman": "qui", "meaning": "who", "emoji": "🧑", "audio": "audio/fr/words/fr-q-07.mp3" },
+        { "text": "quinze", "roman": "quinze", "meaning": "fifteen", "emoji": "🔢", "audio": "audio/fr/words/fr-q-08.mp3" },
+        { "text": "quitter", "roman": "quitter", "meaning": "to leave", "emoji": "👋", "audio": "audio/fr/words/fr-q-09.mp3" },
+        { "text": "quoi", "roman": "quoi", "meaning": "what", "emoji": "❓", "audio": "audio/fr/words/fr-q-10.mp3" }
+      ]
+    },
+    {
+      "id": "fr-r",
+      "char": "r",
+      "name": "erre",
+      "romanization": "r",
+      "ipa": "/ʁ/",
+      "letterAudio": "audio/fr/letters/fr-r.mp3",
+      "memoryTrick": "The famous French guttural R — produced at the back of the throat, almost like gently gargling. Not rolled on the tongue like Spanish or Italian!",
+      "words": [
+        { "text": "radio", "roman": "radio", "meaning": "radio", "emoji": "📻", "audio": "audio/fr/words/fr-r-01.mp3" },
+        { "text": "raisin", "roman": "raisin", "meaning": "grape", "emoji": "🍇", "audio": "audio/fr/words/fr-r-02.mp3" },
+        { "text": "regarder", "roman": "regarder", "meaning": "to watch / look", "emoji": "👀", "audio": "audio/fr/words/fr-r-03.mp3" },
+        { "text": "reine", "roman": "reine", "meaning": "queen", "emoji": "👑", "audio": "audio/fr/words/fr-r-04.mp3" },
+        { "text": "renard", "roman": "renard", "meaning": "fox", "emoji": "🦊", "audio": "audio/fr/words/fr-r-05.mp3" },
+        { "text": "restaurant", "roman": "restaurant", "meaning": "restaurant", "emoji": "🍽️", "audio": "audio/fr/words/fr-r-06.mp3" },
+        { "text": "riche", "roman": "riche", "meaning": "rich", "emoji": "💎", "audio": "audio/fr/words/fr-r-07.mp3" },
+        { "text": "rire", "roman": "rire", "meaning": "to laugh", "emoji": "😂", "audio": "audio/fr/words/fr-r-08.mp3" },
+        { "text": "rivière", "roman": "rivière", "meaning": "river", "emoji": "🌊", "audio": "audio/fr/words/fr-r-09.mp3" },
+        { "text": "roi", "roman": "roi", "meaning": "king", "emoji": "👑", "audio": "audio/fr/words/fr-r-10.mp3" },
+        { "text": "rose", "roman": "rose", "meaning": "pink / rose", "emoji": "🌹", "audio": "audio/fr/words/fr-r-11.mp3" },
+        { "text": "rouge", "roman": "rouge", "meaning": "red", "emoji": "🔴", "audio": "audio/fr/words/fr-r-12.mp3" },
+        { "text": "rue", "roman": "rue", "meaning": "street", "emoji": "🛣️", "audio": "audio/fr/words/fr-r-13.mp3" }
+      ]
+    },
+    {
+      "id": "fr-s",
+      "char": "s",
+      "name": "esse",
+      "romanization": "s",
+      "ipa": "/s/ or /z/",
+      "letterAudio": "audio/fr/letters/fr-s.mp3",
+      "memoryTrick": "Like 's' in English 'sun' when at the start or doubled. Between vowels it becomes 'z' like in 'rose'. Think of it as a snake that sometimes buzzes like a bee!",
+      "words": [
+        { "text": "sac", "roman": "sac", "meaning": "bag", "emoji": "👜", "audio": "audio/fr/words/fr-s-01.mp3" },
+        { "text": "salade", "roman": "salade", "meaning": "salad", "emoji": "🥗", "audio": "audio/fr/words/fr-s-02.mp3" },
+        { "text": "samedi", "roman": "samedi", "meaning": "Saturday", "emoji": "📅", "audio": "audio/fr/words/fr-s-03.mp3" },
+        { "text": "savoir", "roman": "savoir", "meaning": "to know", "emoji": "🧠", "audio": "audio/fr/words/fr-s-04.mp3" },
+        { "text": "sel", "roman": "sel", "meaning": "salt", "emoji": "🧂", "audio": "audio/fr/words/fr-s-05.mp3" },
+        { "text": "semaine", "roman": "semaine", "meaning": "week", "emoji": "📅", "audio": "audio/fr/words/fr-s-06.mp3" },
+        { "text": "sept", "roman": "sept", "meaning": "seven", "emoji": "7️⃣", "audio": "audio/fr/words/fr-s-07.mp3" },
+        { "text": "sœur", "roman": "sœur", "meaning": "sister", "emoji": "👩", "audio": "audio/fr/words/fr-s-08.mp3" },
+        { "text": "soleil", "roman": "soleil", "meaning": "sun", "emoji": "☀️", "audio": "audio/fr/words/fr-s-09.mp3" },
+        { "text": "sortir", "roman": "sortir", "meaning": "to go out", "emoji": "🚪", "audio": "audio/fr/words/fr-s-10.mp3" },
+        { "text": "sourire", "roman": "sourire", "meaning": "smile", "emoji": "😊", "audio": "audio/fr/words/fr-s-11.mp3" },
+        { "text": "stylo", "roman": "stylo", "meaning": "pen", "emoji": "🖊️", "audio": "audio/fr/words/fr-s-12.mp3" }
+      ]
+    },
+    {
+      "id": "fr-t",
+      "char": "t",
+      "name": "té",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/fr/letters/fr-t.mp3",
+      "memoryTrick": "Like English 't' but without the puff of air — a clean tap behind the upper teeth. Think of saying 'tea' but keeping it crisp and dry.",
+      "words": [
+        { "text": "table", "roman": "table", "meaning": "table", "emoji": "🪑", "audio": "audio/fr/words/fr-t-01.mp3" },
+        { "text": "tante", "roman": "tante", "meaning": "aunt", "emoji": "👩", "audio": "audio/fr/words/fr-t-02.mp3" },
+        { "text": "téléphone", "roman": "téléphone", "meaning": "telephone", "emoji": "📞", "audio": "audio/fr/words/fr-t-03.mp3" },
+        { "text": "temps", "roman": "temps", "meaning": "time / weather", "emoji": "⏰", "audio": "audio/fr/words/fr-t-04.mp3" },
+        { "text": "terre", "roman": "terre", "meaning": "earth / ground", "emoji": "🌍", "audio": "audio/fr/words/fr-t-05.mp3" },
+        { "text": "tête", "roman": "tête", "meaning": "head", "emoji": "🗣️", "audio": "audio/fr/words/fr-t-06.mp3" },
+        { "text": "thé", "roman": "thé", "meaning": "tea", "emoji": "🍵", "audio": "audio/fr/words/fr-t-07.mp3" },
+        { "text": "tomber", "roman": "tomber", "meaning": "to fall", "emoji": "🍂", "audio": "audio/fr/words/fr-t-08.mp3" },
+        { "text": "tour", "roman": "tour", "meaning": "tower / turn", "emoji": "🗼", "audio": "audio/fr/words/fr-t-09.mp3" },
+        { "text": "train", "roman": "train", "meaning": "train", "emoji": "🚂", "audio": "audio/fr/words/fr-t-10.mp3" },
+        { "text": "trois", "roman": "trois", "meaning": "three", "emoji": "3️⃣", "audio": "audio/fr/words/fr-t-11.mp3" },
+        { "text": "trouver", "roman": "trouver", "meaning": "to find", "emoji": "🔍", "audio": "audio/fr/words/fr-t-12.mp3" }
+      ]
+    },
+    {
+      "id": "fr-u",
+      "char": "u",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/y/",
+      "letterAudio": "audio/fr/letters/fr-u.mp3",
+      "memoryTrick": "The tricky French 'u' — round your lips as if to say 'oo' but say 'ee' instead. It's a sound English doesn't have! Practice: purse lips tightly and try 'eee'.",
+      "words": [
+        { "text": "usine", "roman": "usine", "meaning": "factory", "emoji": "🏭", "audio": "audio/fr/words/fr-u-01.mp3" },
+        { "text": "utile", "roman": "utile", "meaning": "useful", "emoji": "🔧", "audio": "audio/fr/words/fr-u-02.mp3" },
+        { "text": "univers", "roman": "univers", "meaning": "universe", "emoji": "🌌", "audio": "audio/fr/words/fr-u-03.mp3" },
+        { "text": "urgence", "roman": "urgence", "meaning": "emergency", "emoji": "🚨", "audio": "audio/fr/words/fr-u-04.mp3" },
+        { "text": "utiliser", "roman": "utiliser", "meaning": "to use", "emoji": "🛠️", "audio": "audio/fr/words/fr-u-05.mp3" },
+        { "text": "un", "roman": "un", "meaning": "one (m.)", "emoji": "1️⃣", "audio": "audio/fr/words/fr-u-06.mp3" },
+        { "text": "une", "roman": "une", "meaning": "one (f.) / a (f.)", "emoji": "1️⃣", "audio": "audio/fr/words/fr-u-07.mp3" }
+      ]
+    },
+    {
+      "id": "fr-v",
+      "char": "v",
+      "name": "vé",
+      "romanization": "v",
+      "ipa": "/v/",
+      "letterAudio": "audio/fr/letters/fr-v.mp3",
+      "memoryTrick": "Same as English 'v' — top teeth on lower lip, voice buzzing. Like the 'v' in 'voice' or 'victory'.",
+      "words": [
+        { "text": "vacances", "roman": "vacances", "meaning": "vacation", "emoji": "🏖️", "audio": "audio/fr/words/fr-v-01.mp3" },
+        { "text": "vache", "roman": "vache", "meaning": "cow", "emoji": "🐄", "audio": "audio/fr/words/fr-v-02.mp3" },
+        { "text": "valise", "roman": "valise", "meaning": "suitcase", "emoji": "🧳", "audio": "audio/fr/words/fr-v-03.mp3" },
+        { "text": "vélo", "roman": "vélo", "meaning": "bicycle", "emoji": "🚲", "audio": "audio/fr/words/fr-v-04.mp3" },
+        { "text": "venir", "roman": "venir", "meaning": "to come", "emoji": "🚶", "audio": "audio/fr/words/fr-v-05.mp3" },
+        { "text": "vent", "roman": "vent", "meaning": "wind", "emoji": "💨", "audio": "audio/fr/words/fr-v-06.mp3" },
+        { "text": "verre", "roman": "verre", "meaning": "glass", "emoji": "🥛", "audio": "audio/fr/words/fr-v-07.mp3" },
+        { "text": "vert", "roman": "vert", "meaning": "green", "emoji": "🟢", "audio": "audio/fr/words/fr-v-08.mp3" },
+        { "text": "viande", "roman": "viande", "meaning": "meat", "emoji": "🥩", "audio": "audio/fr/words/fr-v-09.mp3" },
+        { "text": "vie", "roman": "vie", "meaning": "life", "emoji": "🧬", "audio": "audio/fr/words/fr-v-10.mp3" },
+        { "text": "vieux", "roman": "vieux", "meaning": "old", "emoji": "👴", "audio": "audio/fr/words/fr-v-11.mp3" },
+        { "text": "ville", "roman": "ville", "meaning": "city", "emoji": "🏙️", "audio": "audio/fr/words/fr-v-12.mp3" },
+        { "text": "vin", "roman": "vin", "meaning": "wine", "emoji": "🍷", "audio": "audio/fr/words/fr-v-13.mp3" },
+        { "text": "voiture", "roman": "voiture", "meaning": "car", "emoji": "🚗", "audio": "audio/fr/words/fr-v-14.mp3" },
+        { "text": "voir", "roman": "voir", "meaning": "to see", "emoji": "👁️", "audio": "audio/fr/words/fr-v-15.mp3" }
+      ]
+    },
+    {
+      "id": "fr-w",
+      "char": "w",
+      "name": "double vé",
+      "romanization": "w",
+      "ipa": "/w/ or /v/",
+      "letterAudio": "audio/fr/letters/fr-w.mp3",
+      "memoryTrick": "Rare in French — mostly in borrowed words. Pronounced like English 'w' or sometimes like French 'v'. The letter is called 'double vé' — literally 'double v'!",
+      "words": [
+        { "text": "wagon", "roman": "wagon", "meaning": "train car", "emoji": "🚃", "audio": "audio/fr/words/fr-w-01.mp3" },
+        { "text": "week-end", "roman": "week-end", "meaning": "weekend", "emoji": "🏖️", "audio": "audio/fr/words/fr-w-02.mp3" },
+        { "text": "wifi", "roman": "wifi", "meaning": "Wi-Fi", "emoji": "📶", "audio": "audio/fr/words/fr-w-03.mp3" },
+        { "text": "whisky", "roman": "whisky", "meaning": "whisky", "emoji": "🥃", "audio": "audio/fr/words/fr-w-04.mp3" },
+        { "text": "wok", "roman": "wok", "meaning": "wok", "emoji": "🍳", "audio": "audio/fr/words/fr-w-05.mp3" }
+      ]
+    },
+    {
+      "id": "fr-x",
+      "char": "x",
+      "name": "ixe",
+      "romanization": "x",
+      "ipa": "/ks/ or /ɡz/",
+      "letterAudio": "audio/fr/letters/fr-x.mp3",
+      "memoryTrick": "Usually sounds like 'ks' (as in English 'box'), but between vowels it can be 'gz' (as in 'exact'). At the end of words like 'deux' it's silent!",
+      "words": [
+        { "text": "xylophone", "roman": "xylophone", "meaning": "xylophone", "emoji": "🎹", "audio": "audio/fr/words/fr-x-01.mp3" },
+        { "text": "xénon", "roman": "xénon", "meaning": "xenon", "emoji": "💡", "audio": "audio/fr/words/fr-x-02.mp3" },
+        { "text": "xérès", "roman": "xérès", "meaning": "sherry", "emoji": "🍷", "audio": "audio/fr/words/fr-x-03.mp3" }
+      ]
+    },
+    {
+      "id": "fr-y",
+      "char": "y",
+      "name": "i grec",
+      "romanization": "y",
+      "ipa": "/i/ or /j/",
+      "letterAudio": "audio/fr/letters/fr-y.mp3",
+      "memoryTrick": "Called 'Greek i' — acts like a regular 'i' (ee sound) when alone, or like a 'y' glide (as in English 'yes') between vowels. Think 'i grec = Greek i'.",
+      "words": [
+        { "text": "yaourt", "roman": "yaourt", "meaning": "yogurt", "emoji": "🍦", "audio": "audio/fr/words/fr-y-01.mp3" },
+        { "text": "yeux", "roman": "yeux", "meaning": "eyes", "emoji": "👀", "audio": "audio/fr/words/fr-y-02.mp3" },
+        { "text": "yoga", "roman": "yoga", "meaning": "yoga", "emoji": "🧘", "audio": "audio/fr/words/fr-y-03.mp3" },
+        { "text": "yacht", "roman": "yacht", "meaning": "yacht", "emoji": "🛥️", "audio": "audio/fr/words/fr-y-04.mp3" },
+        { "text": "yéti", "roman": "yéti", "meaning": "yeti", "emoji": "🏔️", "audio": "audio/fr/words/fr-y-05.mp3" }
+      ]
+    },
+    {
+      "id": "fr-z",
+      "char": "z",
+      "name": "zède",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/fr/letters/fr-z.mp3",
+      "memoryTrick": "Like the 'z' in English 'zebra' or 'buzz' — a voiced buzz with the tongue near the roof of the mouth. Don't say 'zee', say 'zed'!",
+      "words": [
+        { "text": "zèbre", "roman": "zèbre", "meaning": "zebra", "emoji": "🦓", "audio": "audio/fr/words/fr-z-01.mp3" },
+        { "text": "zéro", "roman": "zéro", "meaning": "zero", "emoji": "0️⃣", "audio": "audio/fr/words/fr-z-02.mp3" },
+        { "text": "zone", "roman": "zone", "meaning": "zone / area", "emoji": "📍", "audio": "audio/fr/words/fr-z-03.mp3" },
+        { "text": "zoo", "roman": "zoo", "meaning": "zoo", "emoji": "🦁", "audio": "audio/fr/words/fr-z-04.mp3" },
+        { "text": "zut", "roman": "zut", "meaning": "darn / shoot", "emoji": "😤", "audio": "audio/fr/words/fr-z-05.mp3" },
+        { "text": "zigzag", "roman": "zigzag", "meaning": "zigzag", "emoji": "⚡", "audio": "audio/fr/words/fr-z-06.mp3" },
+        { "text": "zeste", "roman": "zeste", "meaning": "zest (citrus peel)", "emoji": "🍋", "audio": "audio/fr/words/fr-z-07.mp3" }
+      ]
+    },
+    {
+      "id": "fr-a-grave",
+      "char": "à",
+      "name": "a accent grave",
+      "romanization": "à",
+      "ipa": "/a/",
+      "letterAudio": "audio/fr/letters/fr-a-grave.mp3",
+      "memoryTrick": "Sounds just like regular 'a' — the accent grave only distinguishes meaning (à = 'to/at' vs a = 'has'). It's a spelling mark, not a sound change!",
+      "words": [
+        { "text": "à", "roman": "à", "meaning": "to / at", "emoji": "➡️", "audio": "audio/fr/words/fr-a-grave-01.mp3" },
+        { "text": "là", "roman": "là", "meaning": "there", "emoji": "📍", "audio": "audio/fr/words/fr-a-grave-02.mp3" },
+        { "text": "déjà", "roman": "déjà", "meaning": "already", "emoji": "✅", "audio": "audio/fr/words/fr-a-grave-03.mp3" },
+        { "text": "voilà", "roman": "voilà", "meaning": "there is / here you go", "emoji": "👋", "audio": "audio/fr/words/fr-a-grave-04.mp3" },
+        { "text": "au-delà", "roman": "au-delà", "meaning": "beyond", "emoji": "🌌", "audio": "audio/fr/words/fr-a-grave-05.mp3" }
+      ]
+    },
+    {
+      "id": "fr-a-circumflex",
+      "char": "â",
+      "name": "a accent circonflexe",
+      "romanization": "â",
+      "ipa": "/ɑ/",
+      "letterAudio": "audio/fr/letters/fr-a-circumflex.mp3",
+      "memoryTrick": "A slightly deeper, more open 'ah' sound — like the 'a' in English 'father'. The circumflex often marks where an old 's' used to be (hôpital → hospital).",
+      "words": [
+        { "text": "âne", "roman": "âne", "meaning": "donkey", "emoji": "🫏", "audio": "audio/fr/words/fr-a-circumflex-01.mp3" },
+        { "text": "âme", "roman": "âme", "meaning": "soul", "emoji": "✨", "audio": "audio/fr/words/fr-a-circumflex-02.mp3" },
+        { "text": "âge", "roman": "âge", "meaning": "age", "emoji": "🎂", "audio": "audio/fr/words/fr-a-circumflex-03.mp3" },
+        { "text": "château", "roman": "château", "meaning": "castle", "emoji": "🏰", "audio": "audio/fr/words/fr-a-circumflex-04.mp3" },
+        { "text": "pâtes", "roman": "pâtes", "meaning": "pasta", "emoji": "🍝", "audio": "audio/fr/words/fr-a-circumflex-05.mp3" },
+        { "text": "gâteau", "roman": "gâteau", "meaning": "cake", "emoji": "🎂", "audio": "audio/fr/words/fr-a-circumflex-06.mp3" },
+        { "text": "bâtiment", "roman": "bâtiment", "meaning": "building", "emoji": "🏢", "audio": "audio/fr/words/fr-a-circumflex-07.mp3" },
+        { "text": "tâche", "roman": "tâche", "meaning": "task", "emoji": "📋", "audio": "audio/fr/words/fr-a-circumflex-08.mp3" }
+      ]
+    },
+    {
+      "id": "fr-a-trema",
+      "char": "ä",
+      "name": "a tréma",
+      "romanization": "ä",
+      "ipa": "/a/",
+      "letterAudio": "audio/fr/letters/fr-a-trema.mp3",
+      "memoryTrick": "Extremely rare in French — the tréma tells you to pronounce this 'a' separately from the vowel before it. Sounds just like regular 'a'.",
+      "words": [
+        { "text": "länder", "roman": "länder", "meaning": "German federal states", "emoji": "🇩🇪", "audio": "audio/fr/words/fr-a-trema-01.mp3" }
+      ]
+    },
+    {
+      "id": "fr-e-acute",
+      "char": "é",
+      "name": "e accent aigu",
+      "romanization": "é",
+      "ipa": "/e/",
+      "letterAudio": "audio/fr/letters/fr-e-acute.mp3",
+      "memoryTrick": "The sharp, bright 'ay' sound — like the first part of the English letter 'A' but without the glide. Think 'eh' but with a smile, tense and forward.",
+      "words": [
+        { "text": "école", "roman": "école", "meaning": "school", "emoji": "🏫", "audio": "audio/fr/words/fr-e-acute-01.mp3" },
+        { "text": "été", "roman": "été", "meaning": "summer", "emoji": "☀️", "audio": "audio/fr/words/fr-e-acute-02.mp3" },
+        { "text": "élève", "roman": "élève", "meaning": "student", "emoji": "🎒", "audio": "audio/fr/words/fr-e-acute-03.mp3" },
+        { "text": "étoile", "roman": "étoile", "meaning": "star", "emoji": "⭐", "audio": "audio/fr/words/fr-e-acute-04.mp3" },
+        { "text": "écouter", "roman": "écouter", "meaning": "to listen", "emoji": "👂", "audio": "audio/fr/words/fr-e-acute-05.mp3" },
+        { "text": "écrire", "roman": "écrire", "meaning": "to write", "emoji": "✍️", "audio": "audio/fr/words/fr-e-acute-06.mp3" },
+        { "text": "église", "roman": "église", "meaning": "church", "emoji": "⛪", "audio": "audio/fr/words/fr-e-acute-07.mp3" },
+        { "text": "éléphant", "roman": "éléphant", "meaning": "elephant", "emoji": "🐘", "audio": "audio/fr/words/fr-e-acute-08.mp3" },
+        { "text": "épaule", "roman": "épaule", "meaning": "shoulder", "emoji": "💪", "audio": "audio/fr/words/fr-e-acute-09.mp3" },
+        { "text": "équipe", "roman": "équipe", "meaning": "team", "emoji": "👥", "audio": "audio/fr/words/fr-e-acute-10.mp3" },
+        { "text": "état", "roman": "état", "meaning": "state", "emoji": "🏛️", "audio": "audio/fr/words/fr-e-acute-11.mp3" },
+        { "text": "étranger", "roman": "étranger", "meaning": "foreign / abroad", "emoji": "🌍", "audio": "audio/fr/words/fr-e-acute-12.mp3" },
+        { "text": "étudiant", "roman": "étudiant", "meaning": "student", "emoji": "📚", "audio": "audio/fr/words/fr-e-acute-13.mp3" }
+      ]
+    },
+    {
+      "id": "fr-e-grave",
+      "char": "è",
+      "name": "e accent grave",
+      "romanization": "è",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/fr/letters/fr-e-grave.mp3",
+      "memoryTrick": "An open 'eh' sound — like the 'e' in English 'bed' or 'let'. More relaxed and open than é. Think of saying 'meh' with your mouth slightly more open.",
+      "words": [
+        { "text": "père", "roman": "père", "meaning": "father", "emoji": "👨", "audio": "audio/fr/words/fr-e-grave-01.mp3" },
+        { "text": "mère", "roman": "mère", "meaning": "mother", "emoji": "👩", "audio": "audio/fr/words/fr-e-grave-02.mp3" },
+        { "text": "frère", "roman": "frère", "meaning": "brother", "emoji": "👨", "audio": "audio/fr/words/fr-e-grave-03.mp3" },
+        { "text": "très", "roman": "très", "meaning": "very", "emoji": "💯", "audio": "audio/fr/words/fr-e-grave-04.mp3" },
+        { "text": "lèvre", "roman": "lèvre", "meaning": "lip", "emoji": "👄", "audio": "audio/fr/words/fr-e-grave-05.mp3" },
+        { "text": "après", "roman": "après", "meaning": "after", "emoji": "⏭️", "audio": "audio/fr/words/fr-e-grave-06.mp3" },
+        { "text": "progrès", "roman": "progrès", "meaning": "progress", "emoji": "📈", "audio": "audio/fr/words/fr-e-grave-07.mp3" },
+        { "text": "succès", "roman": "succès", "meaning": "success", "emoji": "🏆", "audio": "audio/fr/words/fr-e-grave-08.mp3" }
+      ]
+    },
+    {
+      "id": "fr-e-circumflex",
+      "char": "ê",
+      "name": "e accent circonflexe",
+      "romanization": "ê",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/fr/letters/fr-e-circumflex.mp3",
+      "memoryTrick": "Sounds like è (open 'eh' as in 'bed'). The circumflex often marks a vanished 's' — tête was once 'teste', forêt was 'forest'.",
+      "words": [
+        { "text": "être", "roman": "être", "meaning": "to be", "emoji": "✨", "audio": "audio/fr/words/fr-e-circumflex-01.mp3" },
+        { "text": "fête", "roman": "fête", "meaning": "party / celebration", "emoji": "🎉", "audio": "audio/fr/words/fr-e-circumflex-02.mp3" },
+        { "text": "tête", "roman": "tête", "meaning": "head", "emoji": "🗣️", "audio": "audio/fr/words/fr-e-circumflex-03.mp3" },
+        { "text": "même", "roman": "même", "meaning": "same / even", "emoji": "🟰", "audio": "audio/fr/words/fr-e-circumflex-04.mp3" },
+        { "text": "forêt", "roman": "forêt", "meaning": "forest", "emoji": "🌲", "audio": "audio/fr/words/fr-e-circumflex-05.mp3" },
+        { "text": "fenêtre", "roman": "fenêtre", "meaning": "window", "emoji": "🪟", "audio": "audio/fr/words/fr-e-circumflex-06.mp3" },
+        { "text": "rêve", "roman": "rêve", "meaning": "dream", "emoji": "💭", "audio": "audio/fr/words/fr-e-circumflex-07.mp3" },
+        { "text": "prêt", "roman": "prêt", "meaning": "ready", "emoji": "✅", "audio": "audio/fr/words/fr-e-circumflex-08.mp3" },
+        { "text": "vêtement", "roman": "vêtement", "meaning": "clothing", "emoji": "👕", "audio": "audio/fr/words/fr-e-circumflex-09.mp3" },
+        { "text": "tempête", "roman": "tempête", "meaning": "storm", "emoji": "🌪️", "audio": "audio/fr/words/fr-e-circumflex-10.mp3" }
+      ]
+    },
+    {
+      "id": "fr-e-trema",
+      "char": "ë",
+      "name": "e tréma",
+      "romanization": "ë",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/fr/letters/fr-e-trema.mp3",
+      "memoryTrick": "The tréma means 'pronounce me separately!' It breaks up a vowel pair — in Noël, you say 'No-el', not 'nohl'. Sounds like è.",
+      "words": [
+        { "text": "Noël", "roman": "Noël", "meaning": "Christmas", "emoji": "🎄", "audio": "audio/fr/words/fr-e-trema-01.mp3" },
+        { "text": "canoë", "roman": "canoë", "meaning": "canoe", "emoji": "🛶", "audio": "audio/fr/words/fr-e-trema-02.mp3" },
+        { "text": "aiguë", "roman": "aiguë", "meaning": "acute / sharp (f.)", "emoji": "🔺", "audio": "audio/fr/words/fr-e-trema-03.mp3" }
+      ]
+    },
+    {
+      "id": "fr-i-circumflex",
+      "char": "î",
+      "name": "i accent circonflexe",
+      "romanization": "î",
+      "ipa": "/i/",
+      "letterAudio": "audio/fr/letters/fr-i-circumflex.mp3",
+      "memoryTrick": "Sounds just like regular 'i' (ee as in 'see') — the circumflex on î does not change the sound, it only marks a lost 's' from older spelling.",
+      "words": [
+        { "text": "île", "roman": "île", "meaning": "island", "emoji": "🏝️", "audio": "audio/fr/words/fr-i-circumflex-01.mp3" },
+        { "text": "dîner", "roman": "dîner", "meaning": "dinner / to dine", "emoji": "🍽️", "audio": "audio/fr/words/fr-i-circumflex-02.mp3" },
+        { "text": "connaître", "roman": "connaître", "meaning": "to know (a person)", "emoji": "🤝", "audio": "audio/fr/words/fr-i-circumflex-03.mp3" },
+        { "text": "naître", "roman": "naître", "meaning": "to be born", "emoji": "👶", "audio": "audio/fr/words/fr-i-circumflex-04.mp3" },
+        { "text": "maître", "roman": "maître", "meaning": "master / teacher", "emoji": "👨‍🏫", "audio": "audio/fr/words/fr-i-circumflex-05.mp3" },
+        { "text": "boîte", "roman": "boîte", "meaning": "box", "emoji": "📦", "audio": "audio/fr/words/fr-i-circumflex-06.mp3" }
+      ]
+    },
+    {
+      "id": "fr-i-trema",
+      "char": "ï",
+      "name": "i tréma",
+      "romanization": "ï",
+      "ipa": "/i/",
+      "letterAudio": "audio/fr/letters/fr-i-trema.mp3",
+      "memoryTrick": "The tréma on ï says 'I'm my own syllable!' In 'maïs' it's 'ma-ees', not 'may'. Helps keep vowels from blending together.",
+      "words": [
+        { "text": "maïs", "roman": "maïs", "meaning": "corn", "emoji": "🌽", "audio": "audio/fr/words/fr-i-trema-01.mp3" },
+        { "text": "naïve", "roman": "naïve", "meaning": "naive (f.)", "emoji": "😇", "audio": "audio/fr/words/fr-i-trema-02.mp3" },
+        { "text": "haïr", "roman": "haïr", "meaning": "to hate", "emoji": "😠", "audio": "audio/fr/words/fr-i-trema-03.mp3" },
+        { "text": "égoïste", "roman": "égoïste", "meaning": "selfish", "emoji": "😒", "audio": "audio/fr/words/fr-i-trema-04.mp3" }
+      ]
+    },
+    {
+      "id": "fr-o-circumflex",
+      "char": "ô",
+      "name": "o accent circonflexe",
+      "romanization": "ô",
+      "ipa": "/o/",
+      "letterAudio": "audio/fr/letters/fr-o-circumflex.mp3",
+      "memoryTrick": "A closed, rounded 'oh' sound — tighter than plain 'o'. Think of the English 'oh!' but with lips more pursed and tense.",
+      "words": [
+        { "text": "hôpital", "roman": "hôpital", "meaning": "hospital", "emoji": "🏥", "audio": "audio/fr/words/fr-o-circumflex-01.mp3" },
+        { "text": "hôtel", "roman": "hôtel", "meaning": "hotel", "emoji": "🏨", "audio": "audio/fr/words/fr-o-circumflex-02.mp3" },
+        { "text": "côté", "roman": "côté", "meaning": "side", "emoji": "↔️", "audio": "audio/fr/words/fr-o-circumflex-03.mp3" },
+        { "text": "tôt", "roman": "tôt", "meaning": "early", "emoji": "🌅", "audio": "audio/fr/words/fr-o-circumflex-04.mp3" },
+        { "text": "rôle", "roman": "rôle", "meaning": "role", "emoji": "🎭", "audio": "audio/fr/words/fr-o-circumflex-05.mp3" },
+        { "text": "diplôme", "roman": "diplôme", "meaning": "diploma / degree", "emoji": "🎓", "audio": "audio/fr/words/fr-o-circumflex-06.mp3" },
+        { "text": "drôle", "roman": "drôle", "meaning": "funny", "emoji": "😂", "audio": "audio/fr/words/fr-o-circumflex-07.mp3" },
+        { "text": "fantôme", "roman": "fantôme", "meaning": "ghost", "emoji": "👻", "audio": "audio/fr/words/fr-o-circumflex-08.mp3" }
+      ]
+    },
+    {
+      "id": "fr-u-grave",
+      "char": "ù",
+      "name": "u accent grave",
+      "romanization": "ù",
+      "ipa": "/y/",
+      "letterAudio": "audio/fr/letters/fr-u-grave.mp3",
+      "memoryTrick": "Used in only one French word: 'où' (where). The accent distinguishes it from 'ou' (or). Sounds just like regular French 'u'.",
+      "words": [
+        { "text": "où", "roman": "où", "meaning": "where", "emoji": "📍", "audio": "audio/fr/words/fr-u-grave-01.mp3" }
+      ]
+    },
+    {
+      "id": "fr-u-circumflex",
+      "char": "û",
+      "name": "u accent circonflexe",
+      "romanization": "û",
+      "ipa": "/y/",
+      "letterAudio": "audio/fr/letters/fr-u-circumflex.mp3",
+      "memoryTrick": "Sounds the same as regular French 'u'. The circumflex marks a lost 's' — 'coûter' once had an 's' just like English 'cost'.",
+      "words": [
+        { "text": "sûr", "roman": "sûr", "meaning": "sure / certain", "emoji": "✅", "audio": "audio/fr/words/fr-u-circumflex-01.mp3" },
+        { "text": "mûr", "roman": "mûr", "meaning": "ripe", "emoji": "🍑", "audio": "audio/fr/words/fr-u-circumflex-02.mp3" },
+        { "text": "dû", "roman": "dû", "meaning": "due / owed", "emoji": "💸", "audio": "audio/fr/words/fr-u-circumflex-03.mp3" },
+        { "text": "brûler", "roman": "brûler", "meaning": "to burn", "emoji": "🔥", "audio": "audio/fr/words/fr-u-circumflex-04.mp3" },
+        { "text": "flûte", "roman": "flûte", "meaning": "flute", "emoji": "🪈", "audio": "audio/fr/words/fr-u-circumflex-05.mp3" },
+        { "text": "goût", "roman": "goût", "meaning": "taste", "emoji": "👅", "audio": "audio/fr/words/fr-u-circumflex-06.mp3" },
+        { "text": "août", "roman": "août", "meaning": "August", "emoji": "🗓️", "audio": "audio/fr/words/fr-u-circumflex-07.mp3" }
+      ]
+    },
+    {
+      "id": "fr-u-trema",
+      "char": "ü",
+      "name": "u tréma",
+      "romanization": "ü",
+      "ipa": "/y/",
+      "letterAudio": "audio/fr/letters/fr-u-trema.mp3",
+      "memoryTrick": "Very rare in French. The tréma keeps 'u' pronounced separately from a preceding vowel. In modern spelling, often replaced with 'üe'.",
+      "words": [
+        { "text": "aigüe", "roman": "aigüe", "meaning": "acute / sharp (f.)", "emoji": "🔺", "audio": "audio/fr/words/fr-u-trema-01.mp3" },
+        { "text": "ambigüe", "roman": "ambigüe", "meaning": "ambiguous (f.)", "emoji": "❓", "audio": "audio/fr/words/fr-u-trema-02.mp3" }
+      ]
+    },
+    {
+      "id": "fr-y-trema",
+      "char": "ÿ",
+      "name": "y tréma",
+      "romanization": "ÿ",
+      "ipa": "/i/",
+      "letterAudio": "audio/fr/letters/fr-y-trema.mp3",
+      "memoryTrick": "Extremely rare — appears only in a handful of proper names and archaic spellings. Sounds like regular 'i'. You may never encounter it outside a dictionary!",
+      "words": [
+        { "text": "L'Haÿ-les-Roses", "roman": "L'Haÿ-les-Roses", "meaning": "L'Haÿ-les-Roses (town near Paris)", "emoji": "🏘️", "audio": "audio/fr/words/fr-y-trema-01.mp3" }
+      ]
+    },
+    {
+      "id": "fr-oe-ligature",
+      "char": "œ",
+      "name": "e dans l'o",
+      "romanization": "œ (oe)",
+      "ipa": "/œ/ or /ø/",
+      "letterAudio": "audio/fr/letters/fr-oe-ligature.mp3",
+      "memoryTrick": "A true French specialty — 'œ' is a single fused letter. In 'œuf' it sounds like 'uh' (rounded), in 'œufs' like a tight 'eu'. It's 'e' melted into 'o'!",
+      "words": [
+        { "text": "œuf", "roman": "œuf", "meaning": "egg", "emoji": "🥚", "audio": "audio/fr/words/fr-oe-ligature-01.mp3" },
+        { "text": "œil", "roman": "œil", "meaning": "eye", "emoji": "👁️", "audio": "audio/fr/words/fr-oe-ligature-02.mp3" },
+        { "text": "œuvre", "roman": "œuvre", "meaning": "work (of art)", "emoji": "🖼️", "audio": "audio/fr/words/fr-oe-ligature-03.mp3" },
+        { "text": "sœur", "roman": "sœur", "meaning": "sister", "emoji": "👩", "audio": "audio/fr/words/fr-oe-ligature-04.mp3" },
+        { "text": "cœur", "roman": "cœur", "meaning": "heart", "emoji": "❤️", "audio": "audio/fr/words/fr-oe-ligature-05.mp3" },
+        { "text": "bœuf", "roman": "bœuf", "meaning": "beef / ox", "emoji": "🐂", "audio": "audio/fr/words/fr-oe-ligature-06.mp3" },
+        { "text": "nœud", "roman": "nœud", "meaning": "knot", "emoji": "🪢", "audio": "audio/fr/words/fr-oe-ligature-07.mp3" },
+        { "text": "vœu", "roman": "vœu", "meaning": "wish / vow", "emoji": "🙏", "audio": "audio/fr/words/fr-oe-ligature-08.mp3" },
+        { "text": "mœurs", "roman": "mœurs", "meaning": "customs / morals", "emoji": "📜", "audio": "audio/fr/words/fr-oe-ligature-09.mp3" }
+      ]
+    },
+    {
+      "id": "fr-ae-ligature",
+      "char": "æ",
+      "name": "e dans l'a",
+      "romanization": "æ (ae)",
+      "ipa": "/e/",
+      "letterAudio": "audio/fr/letters/fr-ae-ligature.mp3",
+      "memoryTrick": "A rare Latin-import ligature in French — 'a' and 'e' fused together. Sounds like 'é' (ay). Mostly seen in Latin expressions like 'ex æquo'.",
+      "words": [
+        { "text": "ex æquo", "roman": "ex æquo", "meaning": "tied / equal ranking", "emoji": "🤝", "audio": "audio/fr/words/fr-ae-ligature-01.mp3" },
+        { "text": "curriculum vitæ", "roman": "curriculum vitæ", "meaning": "curriculum vitae / résumé", "emoji": "📄", "audio": "audio/fr/words/fr-ae-ligature-02.mp3" },
+        { "text": "et cætera", "roman": "et cætera", "meaning": "et cetera / and so on", "emoji": "➕", "audio": "audio/fr/words/fr-ae-ligature-03.mp3" }
       ]
     }
   ]

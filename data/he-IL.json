@@ -7,26 +7,42 @@
       "id": "he-alef",
       "char": "א",
       "name": "Alef",
-      "romanization": "ʾ (silent)",
+      "romanization": "'",
       "ipa": "/ʔ/",
       "letterAudio": "audio/he/letters/he-alef.mp3",
-      "memoryTrick": "A silent placeholder — it has no sound of its own and just carries the vowel, like a quiet anchor.",
+      "memoryTrick": "Silent sentinel at the start of the alef-bet — like the quiet breath before you speak. It carries vowels without making its own sound, much like the silent 'h' in 'honest'.",
       "words": [
-        { "text": "אבא", "roman": "ába", "meaning": "dad", "emoji": "👨", "audio": "audio/he/words/he-alef-01.mp3" },
-        { "text": "אריה", "roman": "arié", "meaning": "lion", "emoji": "🦁", "audio": "audio/he/words/he-alef-02.mp3" }
+        { "text": "אַבָּא", "roman": "ába", "meaning": "father", "emoji": "👨", "audio": "audio/he/words/he-alef-01.mp3" },
+        { "text": "אוֹר", "roman": "or", "meaning": "light", "emoji": "💡", "audio": "audio/he/words/he-alef-02.mp3" },
+        { "text": "אֶבֶן", "roman": "éven", "meaning": "stone", "emoji": "🪨", "audio": "audio/he/words/he-alef-03.mp3" },
+        { "text": "אֹכֶל", "roman": "ókhel", "meaning": "food", "emoji": "🍽️", "audio": "audio/he/words/he-alef-04.mp3" },
+        { "text": "אֶרֶץ", "roman": "érets", "meaning": "land, country", "emoji": "🌍", "audio": "audio/he/words/he-alef-05.mp3" },
+        { "text": "אָדוֹם", "roman": "adóm", "meaning": "red", "emoji": "🔴", "audio": "audio/he/words/he-alef-06.mp3" },
+        { "text": "אֹזֶן", "roman": "ózen", "meaning": "ear", "emoji": "👂", "audio": "audio/he/words/he-alef-07.mp3" },
+        { "text": "אֵשׁ", "roman": "esh", "meaning": "fire", "emoji": "🔥", "audio": "audio/he/words/he-alef-08.mp3" },
+        { "text": "אֲנִי", "roman": "aní", "meaning": "I, me", "emoji": "🧍", "audio": "audio/he/words/he-alef-09.mp3" },
+        { "text": "אֲוִיר", "roman": "avír", "meaning": "air", "emoji": "💨", "audio": "audio/he/words/he-alef-10.mp3" }
       ]
     },
     {
       "id": "he-bet",
       "char": "ב",
       "name": "Bet",
-      "romanization": "b / v",
-      "ipa": "/b/, /v/",
+      "romanization": "b (bet), v (vet)",
+      "ipa": "/b/ ~ /v/",
       "letterAudio": "audio/he/letters/he-bet.mp3",
-      "memoryTrick": "With a dot inside it's 'b' (bet); without the dot it softens to 'v' (vet). Same house, two doors.",
+      "memoryTrick": "Shaped like a little house with a door open at the bottom-left — and 'báyit' means house! Bet gives a /b/ sound with a dot (dagesh) and softens to /v/ without it.",
       "words": [
-        { "text": "בית", "roman": "báyit", "meaning": "house", "emoji": "🏠", "audio": "audio/he/words/he-bet-01.mp3" },
-        { "text": "ביצה", "roman": "beitsá", "meaning": "egg", "emoji": "🥚", "audio": "audio/he/words/he-bet-02.mp3" }
+        { "text": "בַּיִת", "roman": "báyit", "meaning": "house", "emoji": "🏠", "audio": "audio/he/words/he-bet-01.mp3" },
+        { "text": "בֵּן", "roman": "ben", "meaning": "son", "emoji": "👦", "audio": "audio/he/words/he-bet-02.mp3" },
+        { "text": "בֹּקֶר", "roman": "bóker", "meaning": "morning", "emoji": "🌅", "audio": "audio/he/words/he-bet-03.mp3" },
+        { "text": "בָּנָנָה", "roman": "banána", "meaning": "banana", "emoji": "🍌", "audio": "audio/he/words/he-bet-04.mp3" },
+        { "text": "בָּצָל", "roman": "batsál", "meaning": "onion", "emoji": "🧅", "audio": "audio/he/words/he-bet-05.mp3" },
+        { "text": "בֵּיצָה", "roman": "beytsá", "meaning": "egg", "emoji": "🥚", "audio": "audio/he/words/he-bet-06.mp3" },
+        { "text": "בֶּגֶד", "roman": "béged", "meaning": "garment, clothing", "emoji": "👕", "audio": "audio/he/words/he-bet-07.mp3" },
+        { "text": "בְּרָכָה", "roman": "brakhá", "meaning": "blessing", "emoji": "🙏", "audio": "audio/he/words/he-bet-08.mp3" },
+        { "text": "בָּרָק", "roman": "barák", "meaning": "lightning", "emoji": "⚡", "audio": "audio/he/words/he-bet-09.mp3" },
+        { "text": "בְּאֵר", "roman": "be'ér", "meaning": "well (water)", "emoji": "🕳️", "audio": "audio/he/words/he-bet-10.mp3" }
       ]
     },
     {
@@ -36,10 +52,193 @@
       "romanization": "g",
       "ipa": "/ɡ/",
       "letterAudio": "audio/he/letters/he-gimel.mp3",
-      "memoryTrick": "Always a hard 'g' as in 'go' — never the soft 'j' sound.",
+      "memoryTrick": "Looks like a person striding forward with a bent leg — think /g/ for 'go'! Gimel gallops like the 'gamál' (camel) it helps spell.",
       "words": [
-        { "text": "גמל", "roman": "gamál", "meaning": "camel", "emoji": "🐪", "audio": "audio/he/words/he-gimel-01.mp3" },
-        { "text": "גלידה", "roman": "glída", "meaning": "ice cream", "emoji": "🍨", "audio": "audio/he/words/he-gimel-02.mp3" }
+        { "text": "גַּן", "roman": "gan", "meaning": "garden", "emoji": "🌳", "audio": "audio/he/words/he-gimel-01.mp3" },
+        { "text": "גָּדוֹל", "roman": "gadól", "meaning": "big, large", "emoji": "🐘", "audio": "audio/he/words/he-gimel-02.mp3" },
+        { "text": "גָּמָל", "roman": "gamál", "meaning": "camel", "emoji": "🐪", "audio": "audio/he/words/he-gimel-03.mp3" },
+        { "text": "גֶּשֶׁם", "roman": "géshem", "meaning": "rain", "emoji": "🌧️", "audio": "audio/he/words/he-gimel-04.mp3" },
+        { "text": "גְּבִינָה", "roman": "gviná", "meaning": "cheese", "emoji": "🧀", "audio": "audio/he/words/he-gimel-05.mp3" },
+        { "text": "גַּל", "roman": "gal", "meaning": "wave", "emoji": "🌊", "audio": "audio/he/words/he-gimel-06.mp3" },
+        { "text": "גֶּשֶׁר", "roman": "gésher", "meaning": "bridge", "emoji": "🌉", "audio": "audio/he/words/he-gimel-07.mp3" },
+        { "text": "גֶּרֶב", "roman": "gérev", "meaning": "sock", "emoji": "🧦", "audio": "audio/he/words/he-gimel-08.mp3" },
+        { "text": "גַּלְגַּל", "roman": "galgál", "meaning": "wheel", "emoji": "🛞", "audio": "audio/he/words/he-gimel-09.mp3" },
+        { "text": "גָּבִיעַ", "roman": "gavía", "meaning": "cup, goblet", "emoji": "🏆", "audio": "audio/he/words/he-gimel-10.mp3" }
+      ]
+    },
+    {
+      "id": "he-dalet",
+      "char": "ד",
+      "name": "Dalet",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/he/letters/he-dalet.mp3",
+      "memoryTrick": "A simple right-angle shape, like the corner of a doorframe — and 'délet' means door! Solid /d/ sound, just like the English D in 'dog'.",
+      "words": [
+        { "text": "דֶּלֶת", "roman": "délet", "meaning": "door", "emoji": "🚪", "audio": "audio/he/words/he-dalet-01.mp3" },
+        { "text": "דָּג", "roman": "dag", "meaning": "fish", "emoji": "🐟", "audio": "audio/he/words/he-dalet-02.mp3" },
+        { "text": "דְּבַשׁ", "roman": "dvásh", "meaning": "honey", "emoji": "🍯", "audio": "audio/he/words/he-dalet-03.mp3" },
+        { "text": "דֶּרֶךְ", "roman": "dérekh", "meaning": "road, way", "emoji": "🛣️", "audio": "audio/he/words/he-dalet-04.mp3" },
+        { "text": "דָּם", "roman": "dam", "meaning": "blood", "emoji": "🩸", "audio": "audio/he/words/he-dalet-05.mp3" },
+        { "text": "דֹּב", "roman": "dov", "meaning": "bear", "emoji": "🐻", "audio": "audio/he/words/he-dalet-06.mp3" },
+        { "text": "דֶּקֶל", "roman": "dékel", "meaning": "palm tree", "emoji": "🌴", "audio": "audio/he/words/he-dalet-07.mp3" },
+        { "text": "דַּף", "roman": "daf", "meaning": "page", "emoji": "📄", "audio": "audio/he/words/he-dalet-08.mp3" },
+        { "text": "דֶּשֶׁא", "roman": "déshe", "meaning": "grass, lawn", "emoji": "🌱", "audio": "audio/he/words/he-dalet-09.mp3" },
+        { "text": "דְּמָעָה", "roman": "dim'á", "meaning": "tear (crying)", "emoji": "😢", "audio": "audio/he/words/he-dalet-10.mp3" }
+      ]
+    },
+    {
+      "id": "he-he",
+      "char": "ה",
+      "name": "He",
+      "romanization": "h",
+      "ipa": "/h/",
+      "letterAudio": "audio/he/letters/he-he.mp3",
+      "memoryTrick": "Resembles a doorway with a small gap on the left — just enough to let out a breathy /h/. It's the 'he' in 'hello' but softer, like a gentle exhale.",
+      "words": [
+        { "text": "הַר", "roman": "har", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/he/words/he-he-01.mp3" },
+        { "text": "הֶד", "roman": "hed", "meaning": "echo", "emoji": "📢", "audio": "audio/he/words/he-he-02.mp3" },
+        { "text": "הוֹרֶה", "roman": "horé", "meaning": "parent", "emoji": "👪", "audio": "audio/he/words/he-he-03.mp3" },
+        { "text": "הָבְנָה", "roman": "havaná", "meaning": "understanding", "emoji": "💡", "audio": "audio/he/words/he-he-04.mp3" },
+        { "text": "הַבְטָחָה", "roman": "havtakhá", "meaning": "promise", "emoji": "🤝", "audio": "audio/he/words/he-he-05.mp3" },
+        { "text": "הָדָר", "roman": "hadár", "meaning": "citrus; splendour", "emoji": "🍊", "audio": "audio/he/words/he-he-06.mp3" },
+        { "text": "הֶגֶה", "roman": "hége", "meaning": "steering wheel", "emoji": "🎡", "audio": "audio/he/words/he-he-07.mp3" },
+        { "text": "הַתְחָלָה", "roman": "hatkhalá", "meaning": "beginning, start", "emoji": "▶️", "audio": "audio/he/words/he-he-08.mp3" }
+      ]
+    },
+    {
+      "id": "he-vav",
+      "char": "ו",
+      "name": "Vav",
+      "romanization": "v (consonant), o/u (vowel)",
+      "ipa": "/v/",
+      "letterAudio": "audio/he/letters/he-vav.mp3",
+      "memoryTrick": "A simple vertical line like a hook or a nail — and 'vav' itself means hook. As a consonant it's /v/ like 'vine'; as a vowel it makes /o/ or /u/ sounds. Think 'V for vertical.'",
+      "words": [
+        { "text": "וֶרֶד", "roman": "véred", "meaning": "rose", "emoji": "🌹", "audio": "audio/he/words/he-vav-01.mp3" },
+        { "text": "וִילוֹן", "roman": "vilón", "meaning": "curtain", "emoji": "🪟", "audio": "audio/he/words/he-vav-02.mp3" },
+        { "text": "וָרֹד", "roman": "varód", "meaning": "pink", "emoji": "🩷", "audio": "audio/he/words/he-vav-03.mp3" },
+        { "text": "וַעֲדָה", "roman": "va'adá", "meaning": "committee", "emoji": "👥", "audio": "audio/he/words/he-vav-04.mp3" },
+        { "text": "וָו", "roman": "vav", "meaning": "hook", "emoji": "🪝", "audio": "audio/he/words/he-vav-05.mp3" }
+      ]
+    },
+    {
+      "id": "he-zayin",
+      "char": "ז",
+      "name": "Zayin",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/he/letters/he-zayin.mp3",
+      "memoryTrick": "Looks like a sword with a serif on top — and 'zayin' means weapon! Makes a buzzing /z/ just like the 'z' in 'zebra'. Zip it through your teeth.",
+      "words": [
+        { "text": "זָהָב", "roman": "zaháv", "meaning": "gold", "emoji": "🥇", "audio": "audio/he/words/he-zayin-01.mp3" },
+        { "text": "זֶרַע", "roman": "zéra", "meaning": "seed", "emoji": "🌱", "audio": "audio/he/words/he-zayin-02.mp3" },
+        { "text": "זְמַן", "roman": "zman", "meaning": "time", "emoji": "⏰", "audio": "audio/he/words/he-zayin-03.mp3" },
+        { "text": "זָנָב", "roman": "zanáv", "meaning": "tail", "emoji": "🦊", "audio": "audio/he/words/he-zayin-04.mp3" },
+        { "text": "זַיִת", "roman": "záyit", "meaning": "olive", "emoji": "🫒", "audio": "audio/he/words/he-zayin-05.mp3" },
+        { "text": "זְכוּכִית", "roman": "zkhukhít", "meaning": "glass (material)", "emoji": "🪟", "audio": "audio/he/words/he-zayin-06.mp3" },
+        { "text": "זָקָן", "roman": "zakán", "meaning": "beard", "emoji": "🧔", "audio": "audio/he/words/he-zayin-07.mp3" },
+        { "text": "זִכָּרוֹן", "roman": "zikarón", "meaning": "memory", "emoji": "🧠", "audio": "audio/he/words/he-zayin-08.mp3" }
+      ]
+    },
+    {
+      "id": "he-chet",
+      "char": "ח",
+      "name": "Chet",
+      "romanization": "ch or kh",
+      "ipa": "/χ/",
+      "letterAudio": "audio/he/letters/he-chet.mp3",
+      "memoryTrick": "Two vertical strokes joined at the top like a gateway. Makes a throaty /χ/ — like the 'ch' in Scottish 'loch' or German 'Bach'. Not the soft 'ch' of 'chair'!",
+      "words": [
+        { "text": "חָלָב", "roman": "khaláv", "meaning": "milk", "emoji": "🥛", "audio": "audio/he/words/he-chet-01.mp3" },
+        { "text": "חָתוּל", "roman": "khatúl", "meaning": "cat", "emoji": "🐱", "audio": "audio/he/words/he-chet-02.mp3" },
+        { "text": "חַלּוֹן", "roman": "khalón", "meaning": "window", "emoji": "🪟", "audio": "audio/he/words/he-chet-03.mp3" },
+        { "text": "חֹם", "roman": "khom", "meaning": "heat", "emoji": "🌡️", "audio": "audio/he/words/he-chet-04.mp3" },
+        { "text": "חֲלוֹם", "roman": "khalóm", "meaning": "dream", "emoji": "💭", "audio": "audio/he/words/he-chet-05.mp3" },
+        { "text": "חֶרֶב", "roman": "khérev", "meaning": "sword", "emoji": "🗡️", "audio": "audio/he/words/he-chet-06.mp3" },
+        { "text": "חָבֵר", "roman": "khavér", "meaning": "friend", "emoji": "🧑‍🤝‍🧑", "audio": "audio/he/words/he-chet-07.mp3" },
+        { "text": "חוּט", "roman": "khut", "meaning": "string, thread", "emoji": "🧵", "audio": "audio/he/words/he-chet-08.mp3" },
+        { "text": "חֹדֶשׁ", "roman": "khódesh", "meaning": "month", "emoji": "📅", "audio": "audio/he/words/he-chet-09.mp3" },
+        { "text": "חַיִּים", "roman": "khayím", "meaning": "life", "emoji": "❤️", "audio": "audio/he/words/he-chet-10.mp3" }
+      ]
+    },
+    {
+      "id": "he-tet",
+      "char": "ט",
+      "name": "Tet",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/he/letters/he-tet.mp3",
+      "memoryTrick": "Curled up like a tiny snail shell. Makes a plain /t/ sound — same as Tav — but with history behind it. Think: 'Tet is the tasty T in a tiny teacup.'",
+      "words": [
+        { "text": "טוֹב", "roman": "tov", "meaning": "good", "emoji": "👍", "audio": "audio/he/words/he-tet-01.mp3" },
+        { "text": "טַבַּעַת", "roman": "tabá'at", "meaning": "ring", "emoji": "💍", "audio": "audio/he/words/he-tet-02.mp3" },
+        { "text": "טָלֶה", "roman": "talé", "meaning": "lamb", "emoji": "🐑", "audio": "audio/he/words/he-tet-03.mp3" },
+        { "text": "טֶבַע", "roman": "téva", "meaning": "nature", "emoji": "🌿", "audio": "audio/he/words/he-tet-04.mp3" },
+        { "text": "טַיָּס", "roman": "tayás", "meaning": "pilot", "emoji": "✈️", "audio": "audio/he/words/he-tet-05.mp3" },
+        { "text": "טָעִים", "roman": "ta'ím", "meaning": "tasty, delicious", "emoji": "😋", "audio": "audio/he/words/he-tet-06.mp3" },
+        { "text": "טִפָּה", "roman": "tipá", "meaning": "drop (of liquid)", "emoji": "💧", "audio": "audio/he/words/he-tet-07.mp3" },
+        { "text": "טוּר", "roman": "tur", "meaning": "row, column", "emoji": "📊", "audio": "audio/he/words/he-tet-08.mp3" }
+      ]
+    },
+    {
+      "id": "he-yod",
+      "char": "י",
+      "name": "Yod",
+      "romanization": "y (consonant), i (vowel)",
+      "ipa": "/j/",
+      "letterAudio": "audio/he/letters/he-yod.mp3",
+      "memoryTrick": "The smallest letter — a tiny flick of the pen. As a consonant it's /j/ like 'y' in 'yes'; as a vowel it makes /i/ like 'ee' in 'see'. Think: 'Yod is a little y-arm reaching up.'",
+      "words": [
+        { "text": "יָד", "roman": "yad", "meaning": "hand", "emoji": "✋", "audio": "audio/he/words/he-yod-01.mp3" },
+        { "text": "יֶלֶד", "roman": "yéled", "meaning": "child, boy", "emoji": "👶", "audio": "audio/he/words/he-yod-02.mp3" },
+        { "text": "יָם", "roman": "yam", "meaning": "sea", "emoji": "🌊", "audio": "audio/he/words/he-yod-03.mp3" },
+        { "text": "יוֹם", "roman": "yom", "meaning": "day", "emoji": "☀️", "audio": "audio/he/words/he-yod-04.mp3" },
+        { "text": "יַיִן", "roman": "yáyin", "meaning": "wine", "emoji": "🍷", "audio": "audio/he/words/he-yod-05.mp3" },
+        { "text": "יָרֹק", "roman": "yarók", "meaning": "green", "emoji": "🟢", "audio": "audio/he/words/he-yod-06.mp3" },
+        { "text": "יָשָׁן", "roman": "yashán", "meaning": "old", "emoji": "👴", "audio": "audio/he/words/he-yod-07.mp3" },
+        { "text": "יַלְדָּה", "roman": "yaldá", "meaning": "girl", "emoji": "👧", "audio": "audio/he/words/he-yod-08.mp3" },
+        { "text": "יָרֵחַ", "roman": "yaréakh", "meaning": "moon", "emoji": "🌙", "audio": "audio/he/words/he-yod-09.mp3" },
+        { "text": "יוֹנָה", "roman": "yoná", "meaning": "dove, pigeon", "emoji": "🕊️", "audio": "audio/he/words/he-yod-10.mp3" }
+      ]
+    },
+    {
+      "id": "he-kaf",
+      "char": "כ",
+      "name": "Kaf",
+      "romanization": "k (kaf), kh (khaf)",
+      "ipa": "/k/ ~ /χ/",
+      "forms": { "isolated": "כ", "final": "ך" },
+      "letterAudio": "audio/he/letters/he-kaf.mp3",
+      "memoryTrick": "Looks like a cupped hand — and 'kaf' means palm! Hard /k/ with a dot, throaty /kh/ without. At the end of a word it stretches into the long final form ך like a palm reaching down.",
+      "words": [
+        { "text": "כֶּלֶב", "roman": "kélev", "meaning": "dog", "emoji": "🐕", "audio": "audio/he/words/he-kaf-01.mp3" },
+        { "text": "כּוֹכָב", "roman": "kokháv", "meaning": "star", "emoji": "⭐", "audio": "audio/he/words/he-kaf-02.mp3" },
+        { "text": "כַּדּוּר", "roman": "kadúr", "meaning": "ball", "emoji": "⚽", "audio": "audio/he/words/he-kaf-03.mp3" },
+        { "text": "כֶּסֶף", "roman": "késef", "meaning": "money, silver", "emoji": "💰", "audio": "audio/he/words/he-kaf-04.mp3" },
+        { "text": "כָּתֹם", "roman": "katóm", "meaning": "orange (colour)", "emoji": "🟠", "audio": "audio/he/words/he-kaf-05.mp3" },
+        { "text": "כַּף", "roman": "kaf", "meaning": "spoon; palm", "emoji": "🥄", "audio": "audio/he/words/he-kaf-06.mp3" },
+        { "text": "כִּסֵּא", "roman": "kisé", "meaning": "chair", "emoji": "🪑", "audio": "audio/he/words/he-kaf-07.mp3" },
+        { "text": "כְּתֹבֶת", "roman": "któvet", "meaning": "address", "emoji": "📍", "audio": "audio/he/words/he-kaf-08.mp3" }
+      ]
+    },
+    {
+      "id": "he-lamed",
+      "char": "ל",
+      "name": "Lamed",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/he/letters/he-lamed.mp3",
+      "memoryTrick": "The tallest letter — it towers above the line like a shepherd's staff. 'Lamed' means 'learn' or 'teach'. A clear /l/ like in 'lion', but lift your tongue a little higher.",
+      "words": [
+        { "text": "לֵב", "roman": "lev", "meaning": "heart", "emoji": "❤️", "audio": "audio/he/words/he-lamed-01.mp3" },
+        { "text": "לֶחֶם", "roman": "lékhem", "meaning": "bread", "emoji": "🍞", "audio": "audio/he/words/he-lamed-02.mp3" },
+        { "text": "לַיְלָה", "roman": "láyla", "meaning": "night", "emoji": "🌃", "audio": "audio/he/words/he-lamed-03.mp3" },
+        { "text": "לוּחַ", "roman": "lúakh", "meaning": "board, calendar", "emoji": "📋", "audio": "audio/he/words/he-lamed-04.mp3" },
+        { "text": "לָשׁוֹן", "roman": "lashón", "meaning": "tongue; language", "emoji": "👅", "audio": "audio/he/words/he-lamed-05.mp3" },
+        { "text": "לִימוֹן", "roman": "limón", "meaning": "lemon", "emoji": "🍋", "audio": "audio/he/words/he-lamed-06.mp3" },
+        { "text": "לָבָן", "roman": "laván", "meaning": "white", "emoji": "⬜", "audio": "audio/he/words/he-lamed-07.mp3" },
+        { "text": "לֵיצָן", "roman": "leytsán", "meaning": "clown", "emoji": "🤡", "audio": "audio/he/words/he-lamed-08.mp3" }
       ]
     },
     {
@@ -50,10 +249,194 @@
       "ipa": "/m/",
       "forms": { "isolated": "מ", "final": "ם" },
       "letterAudio": "audio/he/letters/he-mem.mp3",
-      "memoryTrick": "Five Hebrew letters get a special 'final' shape at the end of a word — Mem opens as מ but closes up tight as ם.",
+      "memoryTrick": "Open shape at the bottom-left, like parted lips saying 'mmm'. At the end of a word it closes into a neat square final form ם — like sealing a box. Just a plain /m/ as in 'mother'.",
       "words": [
-        { "text": "מים", "roman": "máyim", "meaning": "water", "emoji": "💧", "audio": "audio/he/words/he-mem-01.mp3" },
-        { "text": "מלך", "roman": "mélekh", "meaning": "king", "emoji": "🤴", "audio": "audio/he/words/he-mem-02.mp3" }
+        { "text": "מַיִם", "roman": "máyim", "meaning": "water", "emoji": "💧", "audio": "audio/he/words/he-mem-01.mp3" },
+        { "text": "מֶלֶךְ", "roman": "mélekh", "meaning": "king", "emoji": "👑", "audio": "audio/he/words/he-mem-02.mp3" },
+        { "text": "מִטְבָּח", "roman": "mitbákh", "meaning": "kitchen", "emoji": "🍳", "audio": "audio/he/words/he-mem-03.mp3" },
+        { "text": "מוֹרֶה", "roman": "moré", "meaning": "teacher", "emoji": "👩‍🏫", "audio": "audio/he/words/he-mem-04.mp3" },
+        { "text": "מִכְתָּב", "roman": "mikhtáv", "meaning": "letter (mail)", "emoji": "✉️", "audio": "audio/he/words/he-mem-05.mp3" },
+        { "text": "מַפְתֵּחַ", "roman": "maftéakh", "meaning": "key", "emoji": "🔑", "audio": "audio/he/words/he-mem-06.mp3" },
+        { "text": "מִשְׁפָּחָה", "roman": "mishpakhá", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/he/words/he-mem-07.mp3" },
+        { "text": "מָטוֹס", "roman": "matós", "meaning": "airplane", "emoji": "✈️", "audio": "audio/he/words/he-mem-08.mp3" },
+        { "text": "מִטָּה", "roman": "mitá", "meaning": "bed", "emoji": "🛏️", "audio": "audio/he/words/he-mem-09.mp3" },
+        { "text": "מֶלַח", "roman": "mélakh", "meaning": "salt", "emoji": "🧂", "audio": "audio/he/words/he-mem-10.mp3" }
+      ]
+    },
+    {
+      "id": "he-nun",
+      "char": "נ",
+      "name": "Nun",
+      "romanization": "n",
+      "ipa": "/n/",
+      "forms": { "isolated": "נ", "final": "ן" },
+      "letterAudio": "audio/he/letters/he-nun.mp3",
+      "memoryTrick": "A tidy little bent line. At the end of a word it drops straight down into a long final form ן — like a nail driven into the page. Simple /n/ as in 'noon'.",
+      "words": [
+        { "text": "נֵר", "roman": "ner", "meaning": "candle", "emoji": "🕯️", "audio": "audio/he/words/he-nun-01.mp3" },
+        { "text": "נָהָר", "roman": "nahár", "meaning": "river", "emoji": "🏞️", "audio": "audio/he/words/he-nun-02.mp3" },
+        { "text": "נֶפֶשׁ", "roman": "néfesh", "meaning": "soul", "emoji": "✨", "audio": "audio/he/words/he-nun-03.mp3" },
+        { "text": "נַעַל", "roman": "ná'al", "meaning": "shoe", "emoji": "👟", "audio": "audio/he/words/he-nun-04.mp3" },
+        { "text": "נָחָשׁ", "roman": "nakhásh", "meaning": "snake", "emoji": "🐍", "audio": "audio/he/words/he-nun-05.mp3" },
+        { "text": "נֵס", "roman": "nes", "meaning": "miracle", "emoji": "✨", "audio": "audio/he/words/he-nun-06.mp3" },
+        { "text": "נְשִׁימָה", "roman": "neshimá", "meaning": "breath", "emoji": "🌬️", "audio": "audio/he/words/he-nun-07.mp3" },
+        { "text": "נְמָלָה", "roman": "nemalá", "meaning": "ant", "emoji": "🐜", "audio": "audio/he/words/he-nun-08.mp3" }
+      ]
+    },
+    {
+      "id": "he-samekh",
+      "char": "ס",
+      "name": "Samekh",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/he/letters/he-samekh.mp3",
+      "memoryTrick": "A perfect circle — like a closed loop or a round plate. 'Samekh' means 'support'. Makes a crisp /s/ hiss just like the 's' in 'sun'. Think: 'Samekh is a circle that says ssss.'",
+      "words": [
+        { "text": "סֵפֶר", "roman": "séfer", "meaning": "book", "emoji": "📖", "audio": "audio/he/words/he-samekh-01.mp3" },
+        { "text": "סַל", "roman": "sal", "meaning": "basket", "emoji": "🧺", "audio": "audio/he/words/he-samekh-02.mp3" },
+        { "text": "סוּס", "roman": "sus", "meaning": "horse", "emoji": "🐴", "audio": "audio/he/words/he-samekh-03.mp3" },
+        { "text": "סֻכָּר", "roman": "sukár", "meaning": "sugar", "emoji": "🍬", "audio": "audio/he/words/he-samekh-04.mp3" },
+        { "text": "סַכִּין", "roman": "sakín", "meaning": "knife", "emoji": "🔪", "audio": "audio/he/words/he-samekh-05.mp3" },
+        { "text": "סֶלַע", "roman": "séla", "meaning": "rock, cliff", "emoji": "🪨", "audio": "audio/he/words/he-samekh-06.mp3" },
+        { "text": "סַבָּא", "roman": "sába", "meaning": "grandfather", "emoji": "👴", "audio": "audio/he/words/he-samekh-07.mp3" },
+        { "text": "סְפִינָה", "roman": "sfiná", "meaning": "ship, boat", "emoji": "🚢", "audio": "audio/he/words/he-samekh-08.mp3" }
+      ]
+    },
+    {
+      "id": "he-ayin",
+      "char": "ע",
+      "name": "Ayin",
+      "romanization": "'",
+      "ipa": "/ʕ/",
+      "letterAudio": "audio/he/letters/he-ayin.mp3",
+      "memoryTrick": "'Ayin' means 'eye' — and its shape hints at one. In modern Hebrew it's mostly silent, but traditionally it's a deep, voiced throat sound. For learners, treat it like alef: it hosts vowels quietly.",
+      "words": [
+        { "text": "עַיִן", "roman": "áyin", "meaning": "eye", "emoji": "👁️", "audio": "audio/he/words/he-ayin-01.mp3" },
+        { "text": "עוֹלָם", "roman": "olám", "meaning": "world", "emoji": "🌎", "audio": "audio/he/words/he-ayin-02.mp3" },
+        { "text": "עֵץ", "roman": "ets", "meaning": "tree", "emoji": "🌲", "audio": "audio/he/words/he-ayin-03.mp3" },
+        { "text": "עוּגָה", "roman": "ugá", "meaning": "cake", "emoji": "🎂", "audio": "audio/he/words/he-ayin-04.mp3" },
+        { "text": "עֶרֶב", "roman": "érev", "meaning": "evening", "emoji": "🌆", "audio": "audio/he/words/he-ayin-05.mp3" },
+        { "text": "עָנָן", "roman": "anán", "meaning": "cloud", "emoji": "☁️", "audio": "audio/he/words/he-ayin-06.mp3" },
+        { "text": "עַכְבָּר", "roman": "akhbár", "meaning": "mouse", "emoji": "🐭", "audio": "audio/he/words/he-ayin-07.mp3" },
+        { "text": "עָלֶה", "roman": "alé", "meaning": "leaf", "emoji": "🍃", "audio": "audio/he/words/he-ayin-08.mp3" }
+      ]
+    },
+    {
+      "id": "he-pe",
+      "char": "פ",
+      "name": "Pe",
+      "romanization": "p (pe), f (fe)",
+      "ipa": "/p/ ~ /f/",
+      "forms": { "isolated": "פ", "final": "ף" },
+      "letterAudio": "audio/he/letters/he-pe.mp3",
+      "memoryTrick": "'Pe' means 'mouth,' and the letter's curl suggests lips about to speak. With a dot it's /p/ as in 'pen'; without it softens to /f/ as in 'fen'. At word-end it unrolls into the long final form ף.",
+      "words": [
+        { "text": "פֶּה", "roman": "pe", "meaning": "mouth", "emoji": "👄", "audio": "audio/he/words/he-pe-01.mp3" },
+        { "text": "פֶּרַח", "roman": "pérakh", "meaning": "flower", "emoji": "🌸", "audio": "audio/he/words/he-pe-02.mp3" },
+        { "text": "פְּרִי", "roman": "pri", "meaning": "fruit", "emoji": "🍎", "audio": "audio/he/words/he-pe-03.mp3" },
+        { "text": "פָּנִים", "roman": "paním", "meaning": "face", "emoji": "😊", "audio": "audio/he/words/he-pe-04.mp3" },
+        { "text": "פַּעֲמוֹן", "roman": "pa'amón", "meaning": "bell", "emoji": "🔔", "audio": "audio/he/words/he-pe-05.mp3" },
+        { "text": "פִּיל", "roman": "pil", "meaning": "elephant", "emoji": "🐘", "audio": "audio/he/words/he-pe-06.mp3" },
+        { "text": "פַּרְפַּר", "roman": "parpár", "meaning": "butterfly", "emoji": "🦋", "audio": "audio/he/words/he-pe-07.mp3" },
+        { "text": "פִּתְאוֹם", "roman": "pit'óm", "meaning": "suddenly", "emoji": "💨", "audio": "audio/he/words/he-pe-08.mp3" }
+      ]
+    },
+    {
+      "id": "he-tsadi",
+      "char": "צ",
+      "name": "Tsadi",
+      "romanization": "ts",
+      "ipa": "/ts/",
+      "forms": { "isolated": "צ", "final": "ץ" },
+      "letterAudio": "audio/he/letters/he-tsadi.mp3",
+      "memoryTrick": "A zigzag shape like a trident or a bent tree. Makes /ts/ — just like the 'ts' in 'cats' or 'pizza'. At word-end it stretches into the tall final form ץ. Think: 'Tsadi zigzags like a bolt of lightning — ts-ts-ts!'",
+      "words": [
+        { "text": "צָהֹב", "roman": "tsahóv", "meaning": "yellow", "emoji": "🟡", "audio": "audio/he/words/he-tsadi-01.mp3" },
+        { "text": "צִפּוֹר", "roman": "tsipór", "meaning": "bird", "emoji": "🐦", "audio": "audio/he/words/he-tsadi-02.mp3" },
+        { "text": "צֶבַע", "roman": "tséva", "meaning": "colour, paint", "emoji": "🎨", "audio": "audio/he/words/he-tsadi-03.mp3" },
+        { "text": "צָפוֹן", "roman": "tsafón", "meaning": "north", "emoji": "🧭", "audio": "audio/he/words/he-tsadi-04.mp3" },
+        { "text": "צַלַּחַת", "roman": "tsalákhat", "meaning": "plate", "emoji": "🍽️", "audio": "audio/he/words/he-tsadi-05.mp3" },
+        { "text": "צֵל", "roman": "tsel", "meaning": "shadow, shade", "emoji": "👤", "audio": "audio/he/words/he-tsadi-06.mp3" },
+        { "text": "צָב", "roman": "tsav", "meaning": "turtle", "emoji": "🐢", "audio": "audio/he/words/he-tsadi-07.mp3" },
+        { "text": "צְפַרְדֵּעַ", "roman": "tsfardéa", "meaning": "frog", "emoji": "🐸", "audio": "audio/he/words/he-tsadi-08.mp3" }
+      ]
+    },
+    {
+      "id": "he-qof",
+      "char": "ק",
+      "name": "Qof",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/he/letters/he-qof.mp3",
+      "memoryTrick": "Looks like a hook descending below the line. Makes /k/ just like Kaf — but historically it was a deeper, more emphatic sound from the back of the throat. For now, just say /k/ like 'king'.",
+      "words": [
+        { "text": "קוֹל", "roman": "kol", "meaning": "voice, sound", "emoji": "🔊", "audio": "audio/he/words/he-qof-01.mp3" },
+        { "text": "קֶרַח", "roman": "kérakh", "meaning": "ice", "emoji": "🧊", "audio": "audio/he/words/he-qof-02.mp3" },
+        { "text": "קַיִץ", "roman": "káyits", "meaning": "summer", "emoji": "☀️", "audio": "audio/he/words/he-qof-03.mp3" },
+        { "text": "קָטָן", "roman": "katán", "meaning": "small", "emoji": "🐭", "audio": "audio/he/words/he-qof-04.mp3" },
+        { "text": "קָפֶה", "roman": "kafé", "meaning": "coffee", "emoji": "☕", "audio": "audio/he/words/he-qof-05.mp3" },
+        { "text": "קִיר", "roman": "kir", "meaning": "wall", "emoji": "🧱", "audio": "audio/he/words/he-qof-06.mp3" },
+        { "text": "קֶשֶׁת", "roman": "késhet", "meaning": "rainbow; bow", "emoji": "🌈", "audio": "audio/he/words/he-qof-07.mp3" },
+        { "text": "קֻפְסָה", "roman": "kufsá", "meaning": "box", "emoji": "📦", "audio": "audio/he/words/he-qof-08.mp3" }
+      ]
+    },
+    {
+      "id": "he-resh",
+      "char": "ר",
+      "name": "Resh",
+      "romanization": "r",
+      "ipa": "/ʁ/",
+      "letterAudio": "audio/he/letters/he-resh.mp3",
+      "memoryTrick": "A rounded top-right shape like the back of a head — 'rosh' means 'head'! In modern Hebrew it's a voiced uvular /ʁ/, similar to the French 'r' in 'Paris'. Gently roll it at the back of your throat.",
+      "words": [
+        { "text": "רֹאשׁ", "roman": "rosh", "meaning": "head", "emoji": "🗣️", "audio": "audio/he/words/he-resh-01.mp3" },
+        { "text": "רֶגֶל", "roman": "régel", "meaning": "foot, leg", "emoji": "🦶", "audio": "audio/he/words/he-resh-02.mp3" },
+        { "text": "רוּחַ", "roman": "rúakh", "meaning": "wind; spirit", "emoji": "💨", "audio": "audio/he/words/he-resh-03.mp3" },
+        { "text": "רְחוֹב", "roman": "rekhóv", "meaning": "street", "emoji": "🛣️", "audio": "audio/he/words/he-resh-04.mp3" },
+        { "text": "רוֹפֵא", "roman": "rofé", "meaning": "doctor", "emoji": "🩺", "audio": "audio/he/words/he-resh-05.mp3" },
+        { "text": "רִמּוֹן", "roman": "rimón", "meaning": "pomegranate", "emoji": "🫐", "audio": "audio/he/words/he-resh-06.mp3" },
+        { "text": "רָקִיעַ", "roman": "rakía", "meaning": "sky", "emoji": "☁️", "audio": "audio/he/words/he-resh-07.mp3" },
+        { "text": "רַעַם", "roman": "rá'am", "meaning": "thunder", "emoji": "⛈️", "audio": "audio/he/words/he-resh-08.mp3" }
+      ]
+    },
+    {
+      "id": "he-shin",
+      "char": "ש",
+      "name": "Shin / Sin",
+      "romanization": "sh (shin), s (sin)",
+      "ipa": "/ʃ/ ~ /s/",
+      "letterAudio": "audio/he/letters/he-shin.mp3",
+      "memoryTrick": "Three flames reaching upward — like a crown or teeth. With a dot on the right it's 'shin' /ʃ/ ('sh' as in 'shoe'); with the dot on the left it's 'sin' /s/ ('s' as in 'sun'). Think: 'SHin — dot on the right is SH.'",
+      "words": [
+        { "text": "שֶׁמֶשׁ", "roman": "shémesh", "meaning": "sun", "emoji": "☀️", "audio": "audio/he/words/he-shin-01.mp3" },
+        { "text": "שָׁלוֹם", "roman": "shalóm", "meaning": "peace; hello", "emoji": "🕊️", "audio": "audio/he/words/he-shin-02.mp3" },
+        { "text": "שָׁנָה", "roman": "shaná", "meaning": "year", "emoji": "📆", "audio": "audio/he/words/he-shin-03.mp3" },
+        { "text": "שַׁבָּת", "roman": "shabát", "meaning": "Sabbath, Saturday", "emoji": "🕯️", "audio": "audio/he/words/he-shin-04.mp3" },
+        { "text": "שׁוּק", "roman": "shuk", "meaning": "market", "emoji": "🛒", "audio": "audio/he/words/he-shin-05.mp3" },
+        { "text": "שָׁחֹר", "roman": "shakhór", "meaning": "black", "emoji": "⚫", "audio": "audio/he/words/he-shin-06.mp3" },
+        { "text": "שַׁעַר", "roman": "shá'ar", "meaning": "gate", "emoji": "⛩️", "audio": "audio/he/words/he-shin-07.mp3" },
+        { "text": "שִׁיר", "roman": "shir", "meaning": "song", "emoji": "🎵", "audio": "audio/he/words/he-shin-08.mp3" },
+        { "text": "שָׂפָה", "roman": "safá", "meaning": "language; lip", "emoji": "🗣️", "audio": "audio/he/words/he-shin-09.mp3" },
+        { "text": "שִׂמְחָה", "roman": "simkhá", "meaning": "joy, happiness", "emoji": "😊", "audio": "audio/he/words/he-shin-10.mp3" }
+      ]
+    },
+    {
+      "id": "he-tav",
+      "char": "ת",
+      "name": "Tav",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/he/letters/he-tav.mp3",
+      "memoryTrick": "The last letter of the alef-bet — a cross-like shape that marks the end. Straightforward /t/ sound, identical to Tet in modern Hebrew. Think: 'Tav is the final T at the tail-end of the alphabet.'",
+      "words": [
+        { "text": "תַּפּוּחַ", "roman": "tapúakh", "meaning": "apple", "emoji": "🍏", "audio": "audio/he/words/he-tav-01.mp3" },
+        { "text": "תּוֹרָה", "roman": "torá", "meaning": "Torah; teaching", "emoji": "📜", "audio": "audio/he/words/he-tav-02.mp3" },
+        { "text": "תָּמָר", "roman": "tamár", "meaning": "date (fruit)", "emoji": "🌴", "audio": "audio/he/words/he-tav-03.mp3" },
+        { "text": "תְּאֵנָה", "roman": "te'ená", "meaning": "fig", "emoji": "🫐", "audio": "audio/he/words/he-tav-04.mp3" },
+        { "text": "תֹּף", "roman": "tof", "meaning": "drum", "emoji": "🥁", "audio": "audio/he/words/he-tav-05.mp3" },
+        { "text": "תְּפִלָּה", "roman": "tfilá", "meaning": "prayer", "emoji": "🙏", "audio": "audio/he/words/he-tav-06.mp3" },
+        { "text": "תַּלְמִיד", "roman": "talmíd", "meaning": "student", "emoji": "🎓", "audio": "audio/he/words/he-tav-07.mp3" },
+        { "text": "תְּשׁוּבָה", "roman": "tshuvá", "meaning": "answer", "emoji": "💬", "audio": "audio/he/words/he-tav-08.mp3" }
       ]
     }
   ]
