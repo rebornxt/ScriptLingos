@@ -1,0 +1,624 @@
+{
+  "language": "Italian",
+  "code": "it-IT",
+  "direction": "ltr",
+  "letters": [
+    {
+      "id": "it-a",
+      "char": "a",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/it/letters/it-a.mp3",
+      "memoryTrick": "A is the open 'ah' sound, like when the doctor says 'open wide and say ahh'. Italian A is always pure and open — never glides into another sound.",
+      "words": [
+        { "text": "amore", "roman": "amore", "meaning": "love", "emoji": "❤️", "audio": "audio/it/words/it-a-01.mp3" },
+        { "text": "amico", "roman": "amico", "meaning": "friend", "emoji": "👫", "audio": "audio/it/words/it-a-02.mp3" },
+        { "text": "acqua", "roman": "acqua", "meaning": "water", "emoji": "💧", "audio": "audio/it/words/it-a-03.mp3" },
+        { "text": "albero", "roman": "albero", "meaning": "tree", "emoji": "🌳", "audio": "audio/it/words/it-a-04.mp3" },
+        { "text": "animale", "roman": "animale", "meaning": "animal", "emoji": "🐾", "audio": "audio/it/words/it-a-05.mp3" },
+        { "text": "aria", "roman": "aria", "meaning": "air", "emoji": "💨", "audio": "audio/it/words/it-a-06.mp3" },
+        { "text": "arancia", "roman": "arancia", "meaning": "orange", "emoji": "🍊", "audio": "audio/it/words/it-a-07.mp3" },
+        { "text": "azzurro", "roman": "azzurro", "meaning": "light blue", "emoji": "🩵", "audio": "audio/it/words/it-a-08.mp3" },
+        { "text": "anno", "roman": "anno", "meaning": "year", "emoji": "📅", "audio": "audio/it/words/it-a-09.mp3" },
+        { "text": "ape", "roman": "ape", "meaning": "bee", "emoji": "🐝", "audio": "audio/it/words/it-a-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-b",
+      "char": "b",
+      "name": "bi",
+      "romanization": "b",
+      "ipa": "/b/",
+      "letterAudio": "audio/it/letters/it-b.mp3",
+      "memoryTrick": "B sounds just like English B in 'ball'. Press your lips together firmly and release — it's the same sound babies make when babbling 'ba ba'.",
+      "words": [
+        { "text": "bambino", "roman": "bambino", "meaning": "child", "emoji": "👶", "audio": "audio/it/words/it-b-01.mp3" },
+        { "text": "bello", "roman": "bello", "meaning": "beautiful", "emoji": "✨", "audio": "audio/it/words/it-b-02.mp3" },
+        { "text": "bene", "roman": "bene", "meaning": "well", "emoji": "👍", "audio": "audio/it/words/it-b-03.mp3" },
+        { "text": "bere", "roman": "bere", "meaning": "to drink", "emoji": "🥤", "audio": "audio/it/words/it-b-04.mp3" },
+        { "text": "bianco", "roman": "bianco", "meaning": "white", "emoji": "⬜", "audio": "audio/it/words/it-b-05.mp3" },
+        { "text": "borsa", "roman": "borsa", "meaning": "bag", "emoji": "👜", "audio": "audio/it/words/it-b-06.mp3" },
+        { "text": "bravo", "roman": "bravo", "meaning": "good, clever", "emoji": "👏", "audio": "audio/it/words/it-b-07.mp3" },
+        { "text": "bacio", "roman": "bacio", "meaning": "kiss", "emoji": "😘", "audio": "audio/it/words/it-b-08.mp3" },
+        { "text": "bicchiere", "roman": "bicchiere", "meaning": "glass", "emoji": "🥛", "audio": "audio/it/words/it-b-09.mp3" },
+        { "text": "buono", "roman": "buono", "meaning": "good, tasty", "emoji": "😋", "audio": "audio/it/words/it-b-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-c",
+      "char": "c",
+      "name": "ci",
+      "romanization": "c",
+      "ipa": "/k/",
+      "letterAudio": "audio/it/letters/it-c.mp3",
+      "memoryTrick": "C has two faces in Italian: before i or e it's a soft 'ch' like in 'cheese', but before a, o, u it's a hard 'k' like in 'cat'. Think 'ciao' (chow) vs 'casa' (kah-zah).",
+      "words": [
+        { "text": "casa", "roman": "casa", "meaning": "house", "emoji": "🏠", "audio": "audio/it/words/it-c-01.mp3" },
+        { "text": "cane", "roman": "cane", "meaning": "dog", "emoji": "🐕", "audio": "audio/it/words/it-c-02.mp3" },
+        { "text": "cibo", "roman": "cibo", "meaning": "food", "emoji": "🍝", "audio": "audio/it/words/it-c-03.mp3" },
+        { "text": "cielo", "roman": "cielo", "meaning": "sky", "emoji": "☁️", "audio": "audio/it/words/it-c-04.mp3" },
+        { "text": "città", "roman": "città", "meaning": "city", "emoji": "🏙️", "audio": "audio/it/words/it-c-05.mp3" },
+        { "text": "cuore", "roman": "cuore", "meaning": "heart", "emoji": "❤️", "audio": "audio/it/words/it-c-06.mp3" },
+        { "text": "cavallo", "roman": "cavallo", "meaning": "horse", "emoji": "🐴", "audio": "audio/it/words/it-c-07.mp3" },
+        { "text": "colore", "roman": "colore", "meaning": "color", "emoji": "🎨", "audio": "audio/it/words/it-c-08.mp3" },
+        { "text": "cena", "roman": "cena", "meaning": "dinner", "emoji": "🍽️", "audio": "audio/it/words/it-c-09.mp3" },
+        { "text": "chiave", "roman": "chiave", "meaning": "key", "emoji": "🔑", "audio": "audio/it/words/it-c-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-d",
+      "char": "d",
+      "name": "di",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/it/letters/it-d.mp3",
+      "memoryTrick": "D is like English D but with your tongue touching the back of your upper teeth, not the roof of your mouth. It's a crisp, clean 'd' — more dental than the English version.",
+      "words": [
+        { "text": "dente", "roman": "dente", "meaning": "tooth", "emoji": "🦷", "audio": "audio/it/words/it-d-01.mp3" },
+        { "text": "domani", "roman": "domani", "meaning": "tomorrow", "emoji": "📆", "audio": "audio/it/words/it-d-02.mp3" },
+        { "text": "dolce", "roman": "dolce", "meaning": "sweet", "emoji": "🍬", "audio": "audio/it/words/it-d-03.mp3" },
+        { "text": "donna", "roman": "donna", "meaning": "woman", "emoji": "👩", "audio": "audio/it/words/it-d-04.mp3" },
+        { "text": "dito", "roman": "dito", "meaning": "finger", "emoji": "☝️", "audio": "audio/it/words/it-d-05.mp3" },
+        { "text": "dormire", "roman": "dormire", "meaning": "to sleep", "emoji": "😴", "audio": "audio/it/words/it-d-06.mp3" },
+        { "text": "dove", "roman": "dove", "meaning": "where", "emoji": "📍", "audio": "audio/it/words/it-d-07.mp3" },
+        { "text": "divertire", "roman": "divertire", "meaning": "to have fun", "emoji": "🎉", "audio": "audio/it/words/it-d-08.mp3" },
+        { "text": "dottore", "roman": "dottore", "meaning": "doctor", "emoji": "🩺", "audio": "audio/it/words/it-d-09.mp3" },
+        { "text": "dubbio", "roman": "dubbio", "meaning": "doubt", "emoji": "🤔", "audio": "audio/it/words/it-d-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-e",
+      "char": "e",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/e/",
+      "letterAudio": "audio/it/letters/it-e.mp3",
+      "memoryTrick": "E has two Italian sounds: closed /e/ like in 'hey' (without the y-glide) and open /ɛ/ like in 'bet'. The closed version is your default — think of saying 'eh' while smiling slightly.",
+      "words": [
+        { "text": "elefante", "roman": "elefante", "meaning": "elephant", "emoji": "🐘", "audio": "audio/it/words/it-e-01.mp3" },
+        { "text": "estate", "roman": "estate", "meaning": "summer", "emoji": "☀️", "audio": "audio/it/words/it-e-02.mp3" },
+        { "text": "erba", "roman": "erba", "meaning": "grass", "emoji": "🌿", "audio": "audio/it/words/it-e-03.mp3" },
+        { "text": "essere", "roman": "essere", "meaning": "to be", "emoji": "✨", "audio": "audio/it/words/it-e-04.mp3" },
+        { "text": "esempio", "roman": "esempio", "meaning": "example", "emoji": "📝", "audio": "audio/it/words/it-e-05.mp3" },
+        { "text": "energia", "roman": "energia", "meaning": "energy", "emoji": "⚡", "audio": "audio/it/words/it-e-06.mp3" },
+        { "text": "edicola", "roman": "edicola", "meaning": "newsstand", "emoji": "📰", "audio": "audio/it/words/it-e-07.mp3" },
+        { "text": "elmo", "roman": "elmo", "meaning": "helmet", "emoji": "🪖", "audio": "audio/it/words/it-e-08.mp3" },
+        { "text": "entrare", "roman": "entrare", "meaning": "to enter", "emoji": "🚪", "audio": "audio/it/words/it-e-09.mp3" },
+        { "text": "esame", "roman": "esame", "meaning": "exam", "emoji": "📝", "audio": "audio/it/words/it-e-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-f",
+      "char": "f",
+      "name": "effe",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/it/letters/it-f.mp3",
+      "memoryTrick": "F is the same as English F — just push air between your upper teeth and lower lip. Fun fact: the Italian name 'effe' sounds like the letter F followed by 'eh' — eff-eh!",
+      "words": [
+        { "text": "famiglia", "roman": "famiglia", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/it/words/it-f-01.mp3" },
+        { "text": "fiore", "roman": "fiore", "meaning": "flower", "emoji": "🌸", "audio": "audio/it/words/it-f-02.mp3" },
+        { "text": "fame", "roman": "fame", "meaning": "hunger", "emoji": "🤤", "audio": "audio/it/words/it-f-03.mp3" },
+        { "text": "fuoco", "roman": "fuoco", "meaning": "fire", "emoji": "🔥", "audio": "audio/it/words/it-f-04.mp3" },
+        { "text": "festa", "roman": "festa", "meaning": "party", "emoji": "🎊", "audio": "audio/it/words/it-f-05.mp3" },
+        { "text": "fratello", "roman": "fratello", "meaning": "brother", "emoji": "👦", "audio": "audio/it/words/it-f-06.mp3" },
+        { "text": "forte", "roman": "forte", "meaning": "strong", "emoji": "💪", "audio": "audio/it/words/it-f-07.mp3" },
+        { "text": "freddo", "roman": "freddo", "meaning": "cold", "emoji": "🥶", "audio": "audio/it/words/it-f-08.mp3" },
+        { "text": "foglia", "roman": "foglia", "meaning": "leaf", "emoji": "🍃", "audio": "audio/it/words/it-f-09.mp3" },
+        { "text": "fiume", "roman": "fiume", "meaning": "river", "emoji": "🏞️", "audio": "audio/it/words/it-f-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-g",
+      "char": "g",
+      "name": "gi",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "letterAudio": "audio/it/letters/it-g.mp3",
+      "memoryTrick": "Like C, G changes personality: before i or e it's a soft 'j' like in 'jelly' (gelato), but before a, o, u it's a hard 'g' like in 'go' (gatto). Same rule, different letter!",
+      "words": [
+        { "text": "gatto", "roman": "gatto", "meaning": "cat", "emoji": "🐱", "audio": "audio/it/words/it-g-01.mp3" },
+        { "text": "gelato", "roman": "gelato", "meaning": "ice cream", "emoji": "🍦", "audio": "audio/it/words/it-g-02.mp3" },
+        { "text": "gioco", "roman": "gioco", "meaning": "game", "emoji": "🎮", "audio": "audio/it/words/it-g-03.mp3" },
+        { "text": "giorno", "roman": "giorno", "meaning": "day", "emoji": "☀️", "audio": "audio/it/words/it-g-04.mp3" },
+        { "text": "grande", "roman": "grande", "meaning": "big", "emoji": "🐘", "audio": "audio/it/words/it-g-05.mp3" },
+        { "text": "giallo", "roman": "giallo", "meaning": "yellow", "emoji": "🟡", "audio": "audio/it/words/it-g-06.mp3" },
+        { "text": "giardino", "roman": "giardino", "meaning": "garden", "emoji": "🌷", "audio": "audio/it/words/it-g-07.mp3" },
+        { "text": "grazie", "roman": "grazie", "meaning": "thank you", "emoji": "🙏", "audio": "audio/it/words/it-g-08.mp3" },
+        { "text": "gamba", "roman": "gamba", "meaning": "leg", "emoji": "🦵", "audio": "audio/it/words/it-g-09.mp3" },
+        { "text": "giusto", "roman": "giusto", "meaning": "right, correct", "emoji": "✅", "audio": "audio/it/words/it-g-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-h",
+      "char": "h",
+      "name": "acca",
+      "romanization": "h",
+      "ipa": "",
+      "letterAudio": "audio/it/letters/it-h.mp3",
+      "memoryTrick": "H in Italian is the strong, silent type — it's never pronounced! Its job is to keep C and G hard before i and e (like in 'chiesa' and 'spaghetti'). Think of H as a little wall that blocks the softening effect.",
+      "words": [
+        { "text": "hotel", "roman": "hotel", "meaning": "hotel", "emoji": "🏨", "audio": "audio/it/words/it-h-01.mp3" },
+        { "text": "hobby", "roman": "hobby", "meaning": "hobby", "emoji": "🎯", "audio": "audio/it/words/it-h-02.mp3" },
+        { "text": "ha", "roman": "ha", "meaning": "has (he/she)", "emoji": "👤", "audio": "audio/it/words/it-h-03.mp3" },
+        { "text": "hanno", "roman": "hanno", "meaning": "they have", "emoji": "👥", "audio": "audio/it/words/it-h-04.mp3" },
+        { "text": "ho", "roman": "ho", "meaning": "I have", "emoji": "🤚", "audio": "audio/it/words/it-h-05.mp3" }
+      ]
+    },
+    {
+      "id": "it-i",
+      "char": "i",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/it/letters/it-i.mp3",
+      "memoryTrick": "I is the 'ee' sound, like in 'see' or 'tea'. Keep it pure and short — don't let it glide. Imagine a tiny mouse squeaking 'iii!' — that's exactly right.",
+      "words": [
+        { "text": "isola", "roman": "isola", "meaning": "island", "emoji": "🏝️", "audio": "audio/it/words/it-i-01.mp3" },
+        { "text": "inverno", "roman": "inverno", "meaning": "winter", "emoji": "❄️", "audio": "audio/it/words/it-i-02.mp3" },
+        { "text": "italiano", "roman": "italiano", "meaning": "Italian", "emoji": "🇮🇹", "audio": "audio/it/words/it-i-03.mp3" },
+        { "text": "idea", "roman": "idea", "meaning": "idea", "emoji": "💡", "audio": "audio/it/words/it-i-04.mp3" },
+        { "text": "insieme", "roman": "insieme", "meaning": "together", "emoji": "🤝", "audio": "audio/it/words/it-i-05.mp3" },
+        { "text": "importante", "roman": "importante", "meaning": "important", "emoji": "❗", "audio": "audio/it/words/it-i-06.mp3" },
+        { "text": "immagine", "roman": "immagine", "meaning": "image", "emoji": "🖼️", "audio": "audio/it/words/it-i-07.mp3" },
+        { "text": "imparare", "roman": "imparare", "meaning": "to learn", "emoji": "📚", "audio": "audio/it/words/it-i-08.mp3" },
+        { "text": "inizio", "roman": "inizio", "meaning": "beginning", "emoji": "🏁", "audio": "audio/it/words/it-i-09.mp3" },
+        { "text": "invitare", "roman": "invitare", "meaning": "to invite", "emoji": "💌", "audio": "audio/it/words/it-i-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-l",
+      "char": "l",
+      "name": "elle",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/it/letters/it-l.mp3",
+      "memoryTrick": "Italian L is brighter than English L — touch the tip of your tongue right behind your upper teeth, not curled back. It's the clean 'l' you hear in 'la la la' when someone sings.",
+      "words": [
+        { "text": "luna", "roman": "luna", "meaning": "moon", "emoji": "🌙", "audio": "audio/it/words/it-l-01.mp3" },
+        { "text": "libro", "roman": "libro", "meaning": "book", "emoji": "📖", "audio": "audio/it/words/it-l-02.mp3" },
+        { "text": "luce", "roman": "luce", "meaning": "light", "emoji": "💡", "audio": "audio/it/words/it-l-03.mp3" },
+        { "text": "lavoro", "roman": "lavoro", "meaning": "work", "emoji": "💼", "audio": "audio/it/words/it-l-04.mp3" },
+        { "text": "latte", "roman": "latte", "meaning": "milk", "emoji": "🥛", "audio": "audio/it/words/it-l-05.mp3" },
+        { "text": "lingua", "roman": "lingua", "meaning": "language, tongue", "emoji": "👅", "audio": "audio/it/words/it-l-06.mp3" },
+        { "text": "lento", "roman": "lento", "meaning": "slow", "emoji": "🐢", "audio": "audio/it/words/it-l-07.mp3" },
+        { "text": "leggere", "roman": "leggere", "meaning": "to read", "emoji": "📚", "audio": "audio/it/words/it-l-08.mp3" },
+        { "text": "lontano", "roman": "lontano", "meaning": "far", "emoji": "🔭", "audio": "audio/it/words/it-l-09.mp3" },
+        { "text": "libero", "roman": "libero", "meaning": "free", "emoji": "🕊️", "audio": "audio/it/words/it-l-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-m",
+      "char": "m",
+      "name": "emme",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/it/letters/it-m.mp3",
+      "memoryTrick": "M is the yummy sound — like when you bite into something delicious and go 'mmmm'. Press your lips together and hum. It's identical to English M.",
+      "words": [
+        { "text": "mamma", "roman": "mamma", "meaning": "mom", "emoji": "👩", "audio": "audio/it/words/it-m-01.mp3" },
+        { "text": "mare", "roman": "mare", "meaning": "sea", "emoji": "🌊", "audio": "audio/it/words/it-m-02.mp3" },
+        { "text": "mano", "roman": "mano", "meaning": "hand", "emoji": "✋", "audio": "audio/it/words/it-m-03.mp3" },
+        { "text": "mela", "roman": "mela", "meaning": "apple", "emoji": "🍎", "audio": "audio/it/words/it-m-04.mp3" },
+        { "text": "mondo", "roman": "mondo", "meaning": "world", "emoji": "🌍", "audio": "audio/it/words/it-m-05.mp3" },
+        { "text": "musica", "roman": "musica", "meaning": "music", "emoji": "🎵", "audio": "audio/it/words/it-m-06.mp3" },
+        { "text": "montagna", "roman": "montagna", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/it/words/it-m-07.mp3" },
+        { "text": "mangiare", "roman": "mangiare", "meaning": "to eat", "emoji": "🍝", "audio": "audio/it/words/it-m-08.mp3" },
+        { "text": "macchina", "roman": "macchina", "meaning": "car", "emoji": "🚗", "audio": "audio/it/words/it-m-09.mp3" },
+        { "text": "mattina", "roman": "mattina", "meaning": "morning", "emoji": "🌅", "audio": "audio/it/words/it-m-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-n",
+      "char": "n",
+      "name": "enne",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/it/letters/it-n.mp3",
+      "memoryTrick": "N is the same as English N — put your tongue tip behind your upper teeth. In Italian it's always clear and never swallowed. When you see 'gn' together, that's a different sound (like 'ny' in 'canyon').",
+      "words": [
+        { "text": "naso", "roman": "naso", "meaning": "nose", "emoji": "👃", "audio": "audio/it/words/it-n-01.mp3" },
+        { "text": "notte", "roman": "notte", "meaning": "night", "emoji": "🌙", "audio": "audio/it/words/it-n-02.mp3" },
+        { "text": "nome", "roman": "nome", "meaning": "name", "emoji": "📛", "audio": "audio/it/words/it-n-03.mp3" },
+        { "text": "nuovo", "roman": "nuovo", "meaning": "new", "emoji": "🆕", "audio": "audio/it/words/it-n-04.mp3" },
+        { "text": "natura", "roman": "natura", "meaning": "nature", "emoji": "🌿", "audio": "audio/it/words/it-n-05.mp3" },
+        { "text": "neve", "roman": "neve", "meaning": "snow", "emoji": "❄️", "audio": "audio/it/words/it-n-06.mp3" },
+        { "text": "nero", "roman": "nero", "meaning": "black", "emoji": "⬛", "audio": "audio/it/words/it-n-07.mp3" },
+        { "text": "numero", "roman": "numero", "meaning": "number", "emoji": "🔢", "audio": "audio/it/words/it-n-08.mp3" },
+        { "text": "nave", "roman": "nave", "meaning": "ship", "emoji": "🚢", "audio": "audio/it/words/it-n-09.mp3" },
+        { "text": "nuvola", "roman": "nuvola", "meaning": "cloud", "emoji": "☁️", "audio": "audio/it/words/it-n-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-o",
+      "char": "o",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/o/",
+      "letterAudio": "audio/it/letters/it-o.mp3",
+      "memoryTrick": "O has two flavors in Italian: closed /o/ like in 'go' and open /ɔ/ like in 'off'. Round your lips and keep the sound pure — never let it glide into a 'w' at the end like English does.",
+      "words": [
+        { "text": "occhio", "roman": "occhio", "meaning": "eye", "emoji": "👁️", "audio": "audio/it/words/it-o-01.mp3" },
+        { "text": "oggi", "roman": "oggi", "meaning": "today", "emoji": "📅", "audio": "audio/it/words/it-o-02.mp3" },
+        { "text": "oro", "roman": "oro", "meaning": "gold", "emoji": "🪙", "audio": "audio/it/words/it-o-03.mp3" },
+        { "text": "orso", "roman": "orso", "meaning": "bear", "emoji": "🐻", "audio": "audio/it/words/it-o-04.mp3" },
+        { "text": "ombra", "roman": "ombra", "meaning": "shadow", "emoji": "👤", "audio": "audio/it/words/it-o-05.mp3" },
+        { "text": "orecchio", "roman": "orecchio", "meaning": "ear", "emoji": "👂", "audio": "audio/it/words/it-o-06.mp3" },
+        { "text": "ospedale", "roman": "ospedale", "meaning": "hospital", "emoji": "🏥", "audio": "audio/it/words/it-o-07.mp3" },
+        { "text": "onda", "roman": "onda", "meaning": "wave", "emoji": "🌊", "audio": "audio/it/words/it-o-08.mp3" },
+        { "text": "odore", "roman": "odore", "meaning": "smell", "emoji": "👃", "audio": "audio/it/words/it-o-09.mp3" },
+        { "text": "olio", "roman": "olio", "meaning": "oil", "emoji": "🫒", "audio": "audio/it/words/it-o-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-p",
+      "char": "p",
+      "name": "pi",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/it/letters/it-p.mp3",
+      "memoryTrick": "P is like English P but without the puff of air. Hold your hand in front of your mouth — if you feel a burst of air when you say 'pizza', you're adding too much English! Italian P is crisp and unaspirated.",
+      "words": [
+        { "text": "pizza", "roman": "pizza", "meaning": "pizza", "emoji": "🍕", "audio": "audio/it/words/it-p-01.mp3" },
+        { "text": "pane", "roman": "pane", "meaning": "bread", "emoji": "🍞", "audio": "audio/it/words/it-p-02.mp3" },
+        { "text": "pesce", "roman": "pesce", "meaning": "fish", "emoji": "🐟", "audio": "audio/it/words/it-p-03.mp3" },
+        { "text": "porta", "roman": "porta", "meaning": "door", "emoji": "🚪", "audio": "audio/it/words/it-p-04.mp3" },
+        { "text": "parola", "roman": "parola", "meaning": "word", "emoji": "💬", "audio": "audio/it/words/it-p-05.mp3" },
+        { "text": "piccolo", "roman": "piccolo", "meaning": "small", "emoji": "🐭", "audio": "audio/it/words/it-p-06.mp3" },
+        { "text": "pioggia", "roman": "pioggia", "meaning": "rain", "emoji": "🌧️", "audio": "audio/it/words/it-p-07.mp3" },
+        { "text": "piede", "roman": "piede", "meaning": "foot", "emoji": "🦶", "audio": "audio/it/words/it-p-08.mp3" },
+        { "text": "ponte", "roman": "ponte", "meaning": "bridge", "emoji": "🌉", "audio": "audio/it/words/it-p-09.mp3" },
+        { "text": "pulire", "roman": "pulire", "meaning": "to clean", "emoji": "🧹", "audio": "audio/it/words/it-p-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-q",
+      "char": "q",
+      "name": "cu",
+      "romanization": "q",
+      "ipa": "/k/",
+      "letterAudio": "audio/it/letters/it-q.mp3",
+      "memoryTrick": "Q in Italian is never alone — it's always followed by u and another vowel, like in 'questo' (this) or 'quadro' (painting). The qu together sounds like 'kw' in English. Think of Q as having an inseparable best friend, U.",
+      "words": [
+        { "text": "questo", "roman": "questo", "meaning": "this", "emoji": "👉", "audio": "audio/it/words/it-q-01.mp3" },
+        { "text": "quadro", "roman": "quadro", "meaning": "painting", "emoji": "🖼️", "audio": "audio/it/words/it-q-02.mp3" },
+        { "text": "quando", "roman": "quando", "meaning": "when", "emoji": "⏰", "audio": "audio/it/words/it-q-03.mp3" },
+        { "text": "quattro", "roman": "quattro", "meaning": "four", "emoji": "4️⃣", "audio": "audio/it/words/it-q-04.mp3" },
+        { "text": "qui", "roman": "qui", "meaning": "here", "emoji": "📍", "audio": "audio/it/words/it-q-05.mp3" },
+        { "text": "quello", "roman": "quello", "meaning": "that", "emoji": "👈", "audio": "audio/it/words/it-q-06.mp3" },
+        { "text": "qualcosa", "roman": "qualcosa", "meaning": "something", "emoji": "❓", "audio": "audio/it/words/it-q-07.mp3" },
+        { "text": "quanto", "roman": "quanto", "meaning": "how much", "emoji": "🤔", "audio": "audio/it/words/it-q-08.mp3" },
+        { "text": "quaderno", "roman": "quaderno", "meaning": "notebook", "emoji": "📓", "audio": "audio/it/words/it-q-09.mp3" },
+        { "text": "quindici", "roman": "quindici", "meaning": "fifteen", "emoji": "🔢", "audio": "audio/it/words/it-q-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-r",
+      "char": "r",
+      "name": "erre",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/it/letters/it-r.mp3",
+      "memoryTrick": "The Italian R is rolled or tapped — your tongue vibrates against the roof of your mouth, just behind your teeth. If it helps, pretend you're imitating a purring cat or a tiny motorboat: rrrr!",
+      "words": [
+        { "text": "rosa", "roman": "rosa", "meaning": "rose", "emoji": "🌹", "audio": "audio/it/words/it-r-01.mp3" },
+        { "text": "rosso", "roman": "rosso", "meaning": "red", "emoji": "🔴", "audio": "audio/it/words/it-r-02.mp3" },
+        { "text": "riso", "roman": "riso", "meaning": "rice", "emoji": "🍚", "audio": "audio/it/words/it-r-03.mp3" },
+        { "text": "re", "roman": "re", "meaning": "king", "emoji": "👑", "audio": "audio/it/words/it-r-04.mp3" },
+        { "text": "regalo", "roman": "regalo", "meaning": "gift", "emoji": "🎁", "audio": "audio/it/words/it-r-05.mp3" },
+        { "text": "risposta", "roman": "risposta", "meaning": "answer", "emoji": "💬", "audio": "audio/it/words/it-r-06.mp3" },
+        { "text": "rumore", "roman": "rumore", "meaning": "noise", "emoji": "🔊", "audio": "audio/it/words/it-r-07.mp3" },
+        { "text": "ricco", "roman": "ricco", "meaning": "rich", "emoji": "💰", "audio": "audio/it/words/it-r-08.mp3" },
+        { "text": "rana", "roman": "rana", "meaning": "frog", "emoji": "🐸", "audio": "audio/it/words/it-r-09.mp3" },
+        { "text": "ruota", "roman": "ruota", "meaning": "wheel", "emoji": "🛞", "audio": "audio/it/words/it-r-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-s",
+      "char": "s",
+      "name": "esse",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/it/letters/it-s.mp3",
+      "memoryTrick": "S in Italian can be voiced (like a buzz, /z/) between vowels, as in 'casa', or unvoiced (hissy) at the start of words, like in 'sole'. Think of it as a snake that sometimes decides to be a bee!",
+      "words": [
+        { "text": "sole", "roman": "sole", "meaning": "sun", "emoji": "☀️", "audio": "audio/it/words/it-s-01.mp3" },
+        { "text": "stella", "roman": "stella", "meaning": "star", "emoji": "⭐", "audio": "audio/it/words/it-s-02.mp3" },
+        { "text": "sorella", "roman": "sorella", "meaning": "sister", "emoji": "👧", "audio": "audio/it/words/it-s-03.mp3" },
+        { "text": "scuola", "roman": "scuola", "meaning": "school", "emoji": "🏫", "audio": "audio/it/words/it-s-04.mp3" },
+        { "text": "sogno", "roman": "sogno", "meaning": "dream", "emoji": "💭", "audio": "audio/it/words/it-s-05.mp3" },
+        { "text": "strada", "roman": "strada", "meaning": "street", "emoji": "🛣️", "audio": "audio/it/words/it-s-06.mp3" },
+        { "text": "soldi", "roman": "soldi", "meaning": "money", "emoji": "💶", "audio": "audio/it/words/it-s-07.mp3" },
+        { "text": "sete", "roman": "sete", "meaning": "thirst", "emoji": "🥤", "audio": "audio/it/words/it-s-08.mp3" },
+        { "text": "sedia", "roman": "sedia", "meaning": "chair", "emoji": "🪑", "audio": "audio/it/words/it-s-09.mp3" },
+        { "text": "sorriso", "roman": "sorriso", "meaning": "smile", "emoji": "😊", "audio": "audio/it/words/it-s-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-t",
+      "char": "t",
+      "name": "ti",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/it/letters/it-t.mp3",
+      "memoryTrick": "Like P and K, Italian T has no puff of air — it's a clean tap of the tongue right behind your upper teeth. Say 'tavolo' without the English-style breathy explosion.",
+      "words": [
+        { "text": "tavolo", "roman": "tavolo", "meaning": "table", "emoji": "🍽️", "audio": "audio/it/words/it-t-01.mp3" },
+        { "text": "terra", "roman": "terra", "meaning": "earth", "emoji": "🌍", "audio": "audio/it/words/it-t-02.mp3" },
+        { "text": "tempo", "roman": "tempo", "meaning": "time", "emoji": "⏰", "audio": "audio/it/words/it-t-03.mp3" },
+        { "text": "treno", "roman": "treno", "meaning": "train", "emoji": "🚂", "audio": "audio/it/words/it-t-04.mp3" },
+        { "text": "tutto", "roman": "tutto", "meaning": "everything", "emoji": "🌐", "audio": "audio/it/words/it-t-05.mp3" },
+        { "text": "torta", "roman": "torta", "meaning": "cake", "emoji": "🎂", "audio": "audio/it/words/it-t-06.mp3" },
+        { "text": "testa", "roman": "testa", "meaning": "head", "emoji": "🗣️", "audio": "audio/it/words/it-t-07.mp3" },
+        { "text": "triste", "roman": "triste", "meaning": "sad", "emoji": "😢", "audio": "audio/it/words/it-t-08.mp3" },
+        { "text": "tazza", "roman": "tazza", "meaning": "cup", "emoji": "☕", "audio": "audio/it/words/it-t-09.mp3" },
+        { "text": "tetto", "roman": "tetto", "meaning": "roof", "emoji": "🏠", "audio": "audio/it/words/it-t-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-u",
+      "char": "u",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/it/letters/it-u.mp3",
+      "memoryTrick": "U is the 'oo' sound like in 'boot' or 'food' — but shorter and tighter. Purse your lips as if you're about to whistle. The Italian U never sounds like English 'you'.",
+      "words": [
+        { "text": "uovo", "roman": "uovo", "meaning": "egg", "emoji": "🥚", "audio": "audio/it/words/it-u-01.mp3" },
+        { "text": "uva", "roman": "uva", "meaning": "grape", "emoji": "🍇", "audio": "audio/it/words/it-u-02.mp3" },
+        { "text": "uccello", "roman": "uccello", "meaning": "bird", "emoji": "🐦", "audio": "audio/it/words/it-u-03.mp3" },
+        { "text": "uomo", "roman": "uomo", "meaning": "man", "emoji": "👨", "audio": "audio/it/words/it-u-04.mp3" },
+        { "text": "uscire", "roman": "uscire", "meaning": "to go out", "emoji": "🚶", "audio": "audio/it/words/it-u-05.mp3" },
+        { "text": "ultimo", "roman": "ultimo", "meaning": "last", "emoji": "🏁", "audio": "audio/it/words/it-u-06.mp3" },
+        { "text": "unghia", "roman": "unghia", "meaning": "fingernail", "emoji": "💅", "audio": "audio/it/words/it-u-07.mp3" },
+        { "text": "umido", "roman": "umido", "meaning": "humid", "emoji": "💦", "audio": "audio/it/words/it-u-08.mp3" },
+        { "text": "ufficio", "roman": "ufficio", "meaning": "office", "emoji": "🏢", "audio": "audio/it/words/it-u-09.mp3" },
+        { "text": "universo", "roman": "universo", "meaning": "universe", "emoji": "🌌", "audio": "audio/it/words/it-u-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-v",
+      "char": "v",
+      "name": "vi",
+      "romanization": "v",
+      "ipa": "/v/",
+      "letterAudio": "audio/it/letters/it-v.mp3",
+      "memoryTrick": "V is just like English V — top teeth on bottom lip with a voiced buzz. Do NOT pronounce it like B (a common mistake for some learners). 'Vino' (wine) and 'bino' are very different things!",
+      "words": [
+        { "text": "vita", "roman": "vita", "meaning": "life", "emoji": "🌱", "audio": "audio/it/words/it-v-01.mp3" },
+        { "text": "vino", "roman": "vino", "meaning": "wine", "emoji": "🍷", "audio": "audio/it/words/it-v-02.mp3" },
+        { "text": "vero", "roman": "vero", "meaning": "true", "emoji": "✅", "audio": "audio/it/words/it-v-03.mp3" },
+        { "text": "verde", "roman": "verde", "meaning": "green", "emoji": "🟢", "audio": "audio/it/words/it-v-04.mp3" },
+        { "text": "veloce", "roman": "veloce", "meaning": "fast", "emoji": "⚡", "audio": "audio/it/words/it-v-05.mp3" },
+        { "text": "voce", "roman": "voce", "meaning": "voice", "emoji": "🗣️", "audio": "audio/it/words/it-v-06.mp3" },
+        { "text": "vuoto", "roman": "vuoto", "meaning": "empty", "emoji": "🫙", "audio": "audio/it/words/it-v-07.mp3" },
+        { "text": "vecchio", "roman": "vecchio", "meaning": "old", "emoji": "👴", "audio": "audio/it/words/it-v-08.mp3" },
+        { "text": "volare", "roman": "volare", "meaning": "to fly", "emoji": "🕊️", "audio": "audio/it/words/it-v-09.mp3" },
+        { "text": "vicino", "roman": "vicino", "meaning": "near", "emoji": "📍", "audio": "audio/it/words/it-v-10.mp3" }
+      ]
+    },
+    {
+      "id": "it-z",
+      "char": "z",
+      "name": "zeta",
+      "romanization": "z",
+      "ipa": "/ts/",
+      "letterAudio": "audio/it/letters/it-z.mp3",
+      "memoryTrick": "Z in Italian can be a crisp 'ts' like in 'pizza' (think 'tsk tsk') or a voiced 'dz' like in 'zona'. When doubled ('zz'), it's always the crisp version — exactly like the 'zz' in 'pizza'.",
+      "words": [
+        { "text": "zucchero", "roman": "zucchero", "meaning": "sugar", "emoji": "🍬", "audio": "audio/it/words/it-z-01.mp3" },
+        { "text": "zaino", "roman": "zaino", "meaning": "backpack", "emoji": "🎒", "audio": "audio/it/words/it-z-02.mp3" },
+        { "text": "zio", "roman": "zio", "meaning": "uncle", "emoji": "🧔", "audio": "audio/it/words/it-z-03.mp3" },
+        { "text": "zanzara", "roman": "zanzara", "meaning": "mosquito", "emoji": "🦟", "audio": "audio/it/words/it-z-04.mp3" },
+        { "text": "zero", "roman": "zero", "meaning": "zero", "emoji": "0️⃣", "audio": "audio/it/words/it-z-05.mp3" },
+        { "text": "zoo", "roman": "zoo", "meaning": "zoo", "emoji": "🦁", "audio": "audio/it/words/it-z-06.mp3" },
+        { "text": "zucca", "roman": "zucca", "meaning": "pumpkin", "emoji": "🎃", "audio": "audio/it/words/it-z-07.mp3" },
+        { "text": "zuppa", "roman": "zuppa", "meaning": "soup", "emoji": "🍲", "audio": "audio/it/words/it-z-08.mp3" }
+      ]
+    },
+    {
+      "id": "it-j",
+      "char": "j",
+      "name": "i lunga",
+      "romanization": "j",
+      "ipa": "/j/",
+      "letterAudio": "audio/it/letters/it-j.mp3",
+      "memoryTrick": "J is a foreign guest in Italian, often pronounced like a Y sound (as in 'yogurt' from English) or like J in 'jazz'. Its Italian nickname is 'i lunga' — meaning 'long I' — because it looks like an I with a tail.",
+      "words": [
+        { "text": "jazz", "roman": "jazz", "meaning": "jazz", "emoji": "🎷", "audio": "audio/it/words/it-j-01.mp3" },
+        { "text": "jeans", "roman": "jeans", "meaning": "jeans", "emoji": "👖", "audio": "audio/it/words/it-j-02.mp3" },
+        { "text": "judo", "roman": "judo", "meaning": "judo", "emoji": "🥋", "audio": "audio/it/words/it-j-03.mp3" },
+        { "text": "junior", "roman": "junior", "meaning": "junior", "emoji": "🧒", "audio": "audio/it/words/it-j-04.mp3" },
+        { "text": "jolly", "roman": "jolly", "meaning": "joker (card)", "emoji": "🃏", "audio": "audio/it/words/it-j-05.mp3" }
+      ]
+    },
+    {
+      "id": "it-k",
+      "char": "k",
+      "name": "cappa",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/it/letters/it-k.mp3",
+      "memoryTrick": "K is another foreign letter in Italian, always a hard 'k' sound just like in English. It appears mostly in borrowed words. Think of it as Italian C's international cousin — same hard /k/ sound.",
+      "words": [
+        { "text": "karate", "roman": "karate", "meaning": "karate", "emoji": "🥋", "audio": "audio/it/words/it-k-01.mp3" },
+        { "text": "kayak", "roman": "kayak", "meaning": "kayak", "emoji": "🛶", "audio": "audio/it/words/it-k-02.mp3" },
+        { "text": "kiwi", "roman": "kiwi", "meaning": "kiwi", "emoji": "🥝", "audio": "audio/it/words/it-k-03.mp3" },
+        { "text": "kebab", "roman": "kebab", "meaning": "kebab", "emoji": "🥙", "audio": "audio/it/words/it-k-04.mp3" },
+        { "text": "kimono", "roman": "kimono", "meaning": "kimono", "emoji": "👘", "audio": "audio/it/words/it-k-05.mp3" }
+      ]
+    },
+    {
+      "id": "it-w",
+      "char": "w",
+      "name": "doppia vu",
+      "romanization": "w",
+      "ipa": "/w/",
+      "letterAudio": "audio/it/letters/it-w.mp3",
+      "memoryTrick": "W is called 'doppia vu' (double V) in Italian and appears only in loanwords. Pronounce it like English W in 'water' or like V in German borrowings. It's literally two V's stuck together!",
+      "words": [
+        { "text": "water", "roman": "water", "meaning": "toilet (from English)", "emoji": "🚽", "audio": "audio/it/words/it-w-01.mp3" },
+        { "text": "windsurf", "roman": "windsurf", "meaning": "windsurfing", "emoji": "🏄", "audio": "audio/it/words/it-w-02.mp3" },
+        { "text": "wurstel", "roman": "wurstel", "meaning": "frankfurter, wiener", "emoji": "🌭", "audio": "audio/it/words/it-w-03.mp3" },
+        { "text": "wafer", "roman": "wafer", "meaning": "wafer", "emoji": "🍫", "audio": "audio/it/words/it-w-04.mp3" },
+        { "text": "weekend", "roman": "weekend", "meaning": "weekend", "emoji": "🏖️", "audio": "audio/it/words/it-w-05.mp3" }
+      ]
+    },
+    {
+      "id": "it-x",
+      "char": "x",
+      "name": "ics",
+      "romanization": "x",
+      "ipa": "/ks/",
+      "letterAudio": "audio/it/letters/it-x.mp3",
+      "memoryTrick": "X is rare in Italian and sounds like 'ks' as in 'taxi'. Its Italian name 'ics' (eeks) sounds like saying the sound itself. You'll mostly see it in borrowed words like 'xilofono' and 'taxi'.",
+      "words": [
+        { "text": "xilofono", "roman": "xilofono", "meaning": "xylophone", "emoji": "🎹", "audio": "audio/it/words/it-x-01.mp3" },
+        { "text": "xenofobia", "roman": "xenofobia", "meaning": "xenophobia", "emoji": "😟", "audio": "audio/it/words/it-x-02.mp3" },
+        { "text": "taxi", "roman": "taxi", "meaning": "taxi", "emoji": "🚕", "audio": "audio/it/words/it-x-03.mp3" },
+        { "text": "extra", "roman": "extra", "meaning": "extra", "emoji": "➕", "audio": "audio/it/words/it-x-04.mp3" },
+        { "text": "mixer", "roman": "mixer", "meaning": "mixer, blender", "emoji": "🔀", "audio": "audio/it/words/it-x-05.mp3" }
+      ]
+    },
+    {
+      "id": "it-y",
+      "char": "y",
+      "name": "i greca",
+      "romanization": "y",
+      "ipa": "/j/",
+      "letterAudio": "audio/it/letters/it-y.mp3",
+      "memoryTrick": "Y is called 'i greca' (Greek I) or 'ipsilon' in Italian. It usually sounds like the English Y in 'yes' or simply like Italian I ('ee'). Think of it as a fancy I that only shows up in foreign words.",
+      "words": [
+        { "text": "yoga", "roman": "yoga", "meaning": "yoga", "emoji": "🧘", "audio": "audio/it/words/it-y-01.mp3" },
+        { "text": "yogurt", "roman": "yogurt", "meaning": "yogurt", "emoji": "🥛", "audio": "audio/it/words/it-y-02.mp3" },
+        { "text": "yacht", "roman": "yacht", "meaning": "yacht", "emoji": "⛵", "audio": "audio/it/words/it-y-03.mp3" },
+        { "text": "yen", "roman": "yen", "meaning": "yen (currency)", "emoji": "💴", "audio": "audio/it/words/it-y-04.mp3" },
+        { "text": "yeti", "roman": "yeti", "meaning": "yeti", "emoji": "🏔️", "audio": "audio/it/words/it-y-05.mp3" }
+      ]
+    },
+    {
+      "id": "it-a-grave",
+      "char": "à",
+      "name": "a con accento grave",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/it/letters/it-a-grave.mp3",
+      "memoryTrick": "À with a grave accent doesn't change the sound — it just marks where the stress falls, always at the end of a word like in 'città'. Think of the accent as a little arrow pointing down: 'put the emphasis HERE!'",
+      "words": [
+        { "text": "città", "roman": "città", "meaning": "city", "emoji": "🏙️", "audio": "audio/it/words/it-a-grave-01.mp3" },
+        { "text": "libertà", "roman": "libertà", "meaning": "freedom", "emoji": "🕊️", "audio": "audio/it/words/it-a-grave-02.mp3" },
+        { "text": "università", "roman": "università", "meaning": "university", "emoji": "🎓", "audio": "audio/it/words/it-a-grave-03.mp3" },
+        { "text": "età", "roman": "età", "meaning": "age", "emoji": "🎂", "audio": "audio/it/words/it-a-grave-04.mp3" },
+        { "text": "verità", "roman": "verità", "meaning": "truth", "emoji": "💎", "audio": "audio/it/words/it-a-grave-05.mp3" },
+        { "text": "carità", "roman": "carità", "meaning": "charity", "emoji": "🤲", "audio": "audio/it/words/it-a-grave-06.mp3" },
+        { "text": "felicità", "roman": "felicità", "meaning": "happiness", "emoji": "😊", "audio": "audio/it/words/it-a-grave-07.mp3" },
+        { "text": "pubblicità", "roman": "pubblicità", "meaning": "advertising", "emoji": "📢", "audio": "audio/it/words/it-a-grave-08.mp3" }
+      ]
+    },
+    {
+      "id": "it-e-grave",
+      "char": "è",
+      "name": "e con accento grave",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/it/letters/it-e-grave.mp3",
+      "memoryTrick": "È has an open 'eh' sound like in 'bet' or 'dress' — your mouth opens wider. The grave accent (pointing down) is your cue: drop your jaw a little. It's the sound in 'caffè' at the bar.",
+      "words": [
+        { "text": "caffè", "roman": "caffè", "meaning": "coffee", "emoji": "☕", "audio": "audio/it/words/it-e-grave-01.mp3" },
+        { "text": "è", "roman": "è", "meaning": "is (he/she/it)", "emoji": "✅", "audio": "audio/it/words/it-e-grave-02.mp3" },
+        { "text": "cioè", "roman": "cioè", "meaning": "that is, namely", "emoji": "💡", "audio": "audio/it/words/it-e-grave-03.mp3" },
+        { "text": "tè", "roman": "tè", "meaning": "tea", "emoji": "🍵", "audio": "audio/it/words/it-e-grave-04.mp3" },
+        { "text": "Noè", "roman": "Noè", "meaning": "Noah", "emoji": "🚢", "audio": "audio/it/words/it-e-grave-05.mp3" }
+      ]
+    },
+    {
+      "id": "it-e-acute",
+      "char": "é",
+      "name": "e con accento acuto",
+      "romanization": "e",
+      "ipa": "/e/",
+      "letterAudio": "audio/it/letters/it-e-acute.mp3",
+      "memoryTrick": "É has a closed 'ay' sound like in 'hey' (but without the y-glide). The acute accent (pointing up) is your cue: keep your mouth more closed. It appears in words like 'perché' (because/why).",
+      "words": [
+        { "text": "perché", "roman": "perché", "meaning": "why, because", "emoji": "❓", "audio": "audio/it/words/it-e-acute-01.mp3" },
+        { "text": "né", "roman": "né", "meaning": "nor", "emoji": "🚫", "audio": "audio/it/words/it-e-acute-02.mp3" },
+        { "text": "sé", "roman": "sé", "meaning": "self, oneself", "emoji": "🧘", "audio": "audio/it/words/it-e-acute-03.mp3" },
+        { "text": "poiché", "roman": "poiché", "meaning": "since, because", "emoji": "💬", "audio": "audio/it/words/it-e-acute-04.mp3" },
+        { "text": "affinché", "roman": "affinché", "meaning": "so that", "emoji": "🎯", "audio": "audio/it/words/it-e-acute-05.mp3" },
+        { "text": "viceré", "roman": "viceré", "meaning": "viceroy", "emoji": "👑", "audio": "audio/it/words/it-e-acute-06.mp3" }
+      ]
+    },
+    {
+      "id": "it-i-grave",
+      "char": "ì",
+      "name": "i con accento grave",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/it/letters/it-i-grave.mp3",
+      "memoryTrick": "Ì sounds exactly like regular I ('ee') — the accent just marks word-final stress. Think of the days of the week: lunedì, martedì… every weekday except Saturday and Sunday ends in ì!",
+      "words": [
+        { "text": "lunedì", "roman": "lunedì", "meaning": "Monday", "emoji": "📅", "audio": "audio/it/words/it-i-grave-01.mp3" },
+        { "text": "martedì", "roman": "martedì", "meaning": "Tuesday", "emoji": "📅", "audio": "audio/it/words/it-i-grave-02.mp3" },
+        { "text": "mercoledì", "roman": "mercoledì", "meaning": "Wednesday", "emoji": "📅", "audio": "audio/it/words/it-i-grave-03.mp3" },
+        { "text": "giovedì", "roman": "giovedì", "meaning": "Thursday", "emoji": "📅", "audio": "audio/it/words/it-i-grave-04.mp3" },
+        { "text": "venerdì", "roman": "venerdì", "meaning": "Friday", "emoji": "📅", "audio": "audio/it/words/it-i-grave-05.mp3" },
+        { "text": "sì", "roman": "sì", "meaning": "yes", "emoji": "👍", "audio": "audio/it/words/it-i-grave-06.mp3" },
+        { "text": "lì", "roman": "lì", "meaning": "there", "emoji": "📍", "audio": "audio/it/words/it-i-grave-07.mp3" },
+        { "text": "così", "roman": "così", "meaning": "so, like this", "emoji": "🤌", "audio": "audio/it/words/it-i-grave-08.mp3" }
+      ]
+    },
+    {
+      "id": "it-o-grave",
+      "char": "ò",
+      "name": "o con accento grave",
+      "romanization": "o",
+      "ipa": "/ɔ/",
+      "letterAudio": "audio/it/letters/it-o-grave.mp3",
+      "memoryTrick": "Ò is always the open 'aw' sound, like in 'off' or 'saw'. Your mouth opens wider, as if you're surprised. It's the sound of 'però' (but), the word you'll hear at the start of many Italian objections.",
+      "words": [
+        { "text": "però", "roman": "però", "meaning": "but, however", "emoji": "🤷", "audio": "audio/it/words/it-o-grave-01.mp3" },
+        { "text": "falò", "roman": "falò", "meaning": "bonfire", "emoji": "🔥", "audio": "audio/it/words/it-o-grave-02.mp3" },
+        { "text": "andò", "roman": "andò", "meaning": "went (he/she)", "emoji": "🚶", "audio": "audio/it/words/it-o-grave-03.mp3" },
+        { "text": "parlò", "roman": "parlò", "meaning": "spoke (he/she)", "emoji": "🗣️", "audio": "audio/it/words/it-o-grave-04.mp3" },
+        { "text": "cercò", "roman": "cercò", "meaning": "searched (he/she)", "emoji": "🔍", "audio": "audio/it/words/it-o-grave-05.mp3" }
+      ]
+    },
+    {
+      "id": "it-u-grave",
+      "char": "ù",
+      "name": "u con accento grave",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/it/letters/it-u-grave.mp3",
+      "memoryTrick": "Ù sounds just like regular U ('oo') — the accent only marks word-final stress. You know 'più' (more) from musical directions like 'più mosso' (more movement). It's a short word but you'll use it constantly.",
+      "words": [
+        { "text": "più", "roman": "più", "meaning": "more", "emoji": "➕", "audio": "audio/it/words/it-u-grave-01.mp3" },
+        { "text": "giù", "roman": "giù", "meaning": "down", "emoji": "⬇️", "audio": "audio/it/words/it-u-grave-02.mp3" },
+        { "text": "virtù", "roman": "virtù", "meaning": "virtue", "emoji": "✨", "audio": "audio/it/words/it-u-grave-03.mp3" },
+        { "text": "tribù", "roman": "tribù", "meaning": "tribe", "emoji": "🏕️", "audio": "audio/it/words/it-u-grave-04.mp3" },
+        { "text": "gioventù", "roman": "gioventù", "meaning": "youth", "emoji": "🧑", "audio": "audio/it/words/it-u-grave-05.mp3" }
+      ]
+    }
+  ]
+}
