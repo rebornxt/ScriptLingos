@@ -1,0 +1,59 @@
+{
+  "language": "Swahili",
+  "code": "sw-KE",
+  "direction": "ltr",
+  "letters": [
+    {
+      "id": "sw-a",
+      "char": "A",
+      "name": "A",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/sw/letters/sw-a.mp3",
+      "memoryTrick": "A steady 'ah'. Swahili is spelled just as it sounds, so the letters never trick you.",
+      "words": [
+        { "text": "asante", "roman": "a-SAN-te", "meaning": "thank you", "emoji": "🙏", "audio": "audio/sw/words/sw-a-01.mp3" },
+        { "text": "ardhi", "roman": "AR-dhi", "meaning": "land / earth", "emoji": "🌍", "audio": "audio/sw/words/sw-a-02.mp3" }
+      ]
+    },
+    {
+      "id": "sw-k",
+      "char": "K",
+      "name": "Ka",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/sw/letters/sw-k.mp3",
+      "memoryTrick": "A clean 'k' as in 'kite' — and it shows up everywhere in the 'ki-' noun class.",
+      "words": [
+        { "text": "kitabu", "roman": "ki-TA-bu", "meaning": "book", "emoji": "📖", "audio": "audio/sw/words/sw-k-01.mp3" },
+        { "text": "kuku", "roman": "KU-ku", "meaning": "chicken", "emoji": "🐔", "audio": "audio/sw/words/sw-k-02.mp3" }
+      ]
+    },
+    {
+      "id": "sw-m",
+      "char": "M",
+      "name": "Ma",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/sw/letters/sw-m.mp3",
+      "memoryTrick": "Plain 'm' — but it can also begin a word as its own syllable, as in 'mtoto' (child).",
+      "words": [
+        { "text": "maji", "roman": "MA-ji", "meaning": "water", "emoji": "💧", "audio": "audio/sw/words/sw-m-01.mp3" },
+        { "text": "mama", "roman": "MA-ma", "meaning": "mother", "emoji": "👩", "audio": "audio/sw/words/sw-m-02.mp3" }
+      ]
+    },
+    {
+      "id": "sw-n",
+      "char": "N",
+      "name": "Na",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/sw/letters/sw-n.mp3",
+      "memoryTrick": "A simple 'n' — often paired as 'ny' (one sound) or starting words like 'ndizi'.",
+      "words": [
+        { "text": "nyumba", "roman": "NYUM-ba", "meaning": "house", "emoji": "🏠", "audio": "audio/sw/words/sw-n-01.mp3" },
+        { "text": "ndizi", "roman": "n-DI-zi", "meaning": "banana", "emoji": "🍌", "audio": "audio/sw/words/sw-n-02.mp3" }
+      ]
+    }
+  ]
+}

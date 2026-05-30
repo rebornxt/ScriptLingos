@@ -1,0 +1,26 @@
+{
+  "groups": [
+    { "id": "rtl",   "label": "Right-to-Left Scripts", "accent": "group-rtl",   "blurb": "Written and read from right to left." },
+    { "id": "indic", "label": "Indic & Brahmic",        "accent": "group-indic", "blurb": "Syllable-based abugida scripts." },
+    { "id": "cyr",   "label": "Cyrillic",               "accent": "group-cyr",   "blurb": "Used across Eastern Europe & Central Asia." },
+    { "id": "euro",  "label": "European · Latin",        "accent": "group-euro",  "blurb": "The Latin alphabet, with local twists." },
+    { "id": "cjk",   "label": "East Asian",             "accent": "group-cjk",   "blurb": "Featural & syllabic systems." },
+    { "id": "sea",   "label": "Southeast Asian",        "accent": "group-sea",   "blurb": "Rounded Brahmic-descended scripts." },
+    { "id": "afro",  "label": "African & Austronesian", "accent": "group-afro",  "blurb": "Latin script across continents." }
+  ],
+  "languages": [
+    { "code": "ar-SA", "language": "Arabic",              "native": "العربية",         "group": "rtl",   "script": "s-ar",    "glyph": "ب",  "direction": "rtl", "status": "ready", "file": "data/ar-SA.json" },
+    { "code": "he-IL", "language": "Hebrew",              "native": "עברית",           "group": "rtl",   "script": "s-he",    "glyph": "א",  "direction": "rtl", "status": "ready", "file": "data/he-IL.json" },
+    { "code": "hi-IN", "language": "Hindi",               "native": "हिन्दी",           "group": "indic", "script": "s-hi",    "glyph": "अ",  "direction": "ltr", "status": "ready", "file": "data/hi-IN.json" },
+    { "code": "ru-RU", "language": "Russian",             "native": "Русский",         "group": "cyr",   "script": "s-latin", "glyph": "Я",  "direction": "ltr", "status": "ready", "file": "data/ru-RU.json" },
+    { "code": "fr-FR", "language": "French",              "native": "Français",        "group": "euro",  "script": "s-latin", "glyph": "É",  "direction": "ltr", "status": "ready", "file": "data/fr-FR.json" },
+    { "code": "de-DE", "language": "German",              "native": "Deutsch",         "group": "euro",  "script": "s-latin", "glyph": "ß",  "direction": "ltr", "status": "ready", "file": "data/de-DE.json" },
+    { "code": "it-IT", "language": "Italian",             "native": "Italiano",        "group": "euro",  "script": "s-latin", "glyph": "A",  "direction": "ltr", "status": "ready", "file": "data/it-IT.json" },
+    { "code": "pt-BR", "language": "Brazilian Portuguese","native": "Português",       "group": "euro",  "script": "s-latin", "glyph": "ã",  "direction": "ltr", "status": "ready", "file": "data/pt-BR.json" },
+    { "code": "ko-KR", "language": "Korean",              "native": "한국어",           "group": "cjk",   "script": "s-ko",    "glyph": "가", "direction": "ltr", "status": "ready", "file": "data/ko-KR.json" },
+    { "code": "my-MM", "language": "Burmese",             "native": "မြန်မာ",          "group": "sea",   "script": "s-my",    "glyph": "က", "direction": "ltr", "status": "ready", "file": "data/my-MM.json" },
+    { "code": "km-KH", "language": "Khmer",               "native": "ខ្មែរ",            "group": "sea",   "script": "s-km",    "glyph": "ក", "direction": "ltr", "status": "ready", "file": "data/km-KH.json" },
+    { "code": "id-ID", "language": "Bahasa Indonesia",    "native": "Bahasa Indonesia","group": "afro",  "script": "s-latin", "glyph": "A",  "direction": "ltr", "status": "ready", "file": "data/id-ID.json" },
+    { "code": "sw-KE", "language": "Swahili",             "native": "Kiswahili",       "group": "afro",  "script": "s-latin", "glyph": "A",  "direction": "ltr", "status": "ready", "file": "data/sw-KE.json" }
+  ]
+}

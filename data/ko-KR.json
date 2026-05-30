@@ -1,0 +1,59 @@
+{
+  "language": "Korean",
+  "code": "ko-KR",
+  "direction": "ltr",
+  "letters": [
+    {
+      "id": "ko-giyeok",
+      "char": "ㄱ",
+      "name": "Giyeok (기역)",
+      "romanization": "g / k",
+      "ipa": "/k/",
+      "letterAudio": "audio/ko/letters/ko-giyeok.mp3",
+      "memoryTrick": "Shaped like a bent gun or an angled corner — picture the barrel pointing for the 'g' in 'go'.",
+      "words": [
+        { "text": "가방", "roman": "ga-bang", "meaning": "bag", "emoji": "🎒", "audio": "audio/ko/words/ko-giyeok-01.mp3" },
+        { "text": "고양이", "roman": "go-yang-i", "meaning": "cat", "emoji": "🐈", "audio": "audio/ko/words/ko-giyeok-02.mp3" }
+      ]
+    },
+    {
+      "id": "ko-nieun",
+      "char": "ㄴ",
+      "name": "Nieun (니은)",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/ko/letters/ko-nieun.mp3",
+      "memoryTrick": "An L-shape, like a tongue tapping behind the front teeth — exactly where 'n' is made.",
+      "words": [
+        { "text": "나무", "roman": "na-mu", "meaning": "tree", "emoji": "🌳", "audio": "audio/ko/words/ko-nieun-01.mp3" },
+        { "text": "눈", "roman": "nun", "meaning": "eye / snow", "emoji": "👁️", "audio": "audio/ko/words/ko-nieun-02.mp3" }
+      ]
+    },
+    {
+      "id": "ko-a",
+      "char": "ㅏ",
+      "name": "A (아)",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/ko/letters/ko-a.mp3",
+      "memoryTrick": "A vertical line with a short branch pointing right — the branch 'opens' your mouth to 'ah'.",
+      "words": [
+        { "text": "아기", "roman": "a-gi", "meaning": "baby", "emoji": "👶", "audio": "audio/ko/words/ko-a-01.mp3" },
+        { "text": "아빠", "roman": "a-ppa", "meaning": "dad", "emoji": "👨", "audio": "audio/ko/words/ko-a-02.mp3" }
+      ]
+    },
+    {
+      "id": "ko-mieum",
+      "char": "ㅁ",
+      "name": "Mieum (미음)",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/ko/letters/ko-mieum.mp3",
+      "memoryTrick": "A closed square, like lips pressed shut before they open — exactly how you start the 'm' in 'mom'.",
+      "words": [
+        { "text": "물", "roman": "mul", "meaning": "water", "emoji": "💧", "audio": "audio/ko/words/ko-mieum-01.mp3" },
+        { "text": "문", "roman": "mun", "meaning": "door", "emoji": "🚪", "audio": "audio/ko/words/ko-mieum-02.mp3" }
+      ]
+    }
+  ]
+}

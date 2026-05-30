@@ -1,0 +1,59 @@
+{
+  "language": "German",
+  "code": "de-DE",
+  "direction": "ltr",
+  "letters": [
+    {
+      "id": "de-a",
+      "char": "A",
+      "name": "A",
+      "romanization": "a",
+      "ipa": "/a/, /aː/",
+      "letterAudio": "audio/de/letters/de-a.mp3",
+      "memoryTrick": "A pure 'ah' — short in 'Affe', long in 'Vater', but never the English 'ay'.",
+      "words": [
+        { "text": "Apfel", "roman": "AP-fel", "meaning": "apple", "emoji": "🍎", "audio": "audio/de/words/de-a-01.mp3" },
+        { "text": "Affe", "roman": "AF-fe", "meaning": "monkey", "emoji": "🐒", "audio": "audio/de/words/de-a-02.mp3" }
+      ]
+    },
+    {
+      "id": "de-eszett",
+      "char": "ß",
+      "name": "Eszett (scharfes S)",
+      "romanization": "ss",
+      "ipa": "/s/",
+      "letterAudio": "audio/de/letters/de-eszett.mp3",
+      "memoryTrick": "Not a 'B' and not a Greek beta — it's a sharp, unvoiced 'ss', and it only ever appears in lower case.",
+      "words": [
+        { "text": "Straße", "roman": "SHTRAH-se", "meaning": "street", "emoji": "🛣️", "audio": "audio/de/words/de-eszett-01.mp3" },
+        { "text": "Fußball", "roman": "FOOS-bal", "meaning": "football", "emoji": "⚽", "audio": "audio/de/words/de-eszett-02.mp3" }
+      ]
+    },
+    {
+      "id": "de-u-umlaut",
+      "char": "Ü",
+      "name": "U-Umlaut",
+      "romanization": "ü",
+      "ipa": "/yː/",
+      "letterAudio": "audio/de/letters/de-u-umlaut.mp3",
+      "memoryTrick": "Say 'ee', then round your lips as if to whistle without moving your tongue. The two dots mean 'pucker up'.",
+      "words": [
+        { "text": "Tür", "roman": "tuer", "meaning": "door", "emoji": "🚪", "audio": "audio/de/words/de-u-umlaut-01.mp3" },
+        { "text": "Bücher", "roman": "BUE-cher", "meaning": "books", "emoji": "📚", "audio": "audio/de/words/de-u-umlaut-02.mp3" }
+      ]
+    },
+    {
+      "id": "de-w",
+      "char": "W",
+      "name": "We",
+      "romanization": "w",
+      "ipa": "/v/",
+      "letterAudio": "audio/de/letters/de-w.mp3",
+      "memoryTrick": "German 'W' sounds like an English 'V' — 'Wasser' is said 'VAS-ser'.",
+      "words": [
+        { "text": "Wasser", "roman": "VAS-ser", "meaning": "water", "emoji": "💧", "audio": "audio/de/words/de-w-01.mp3" },
+        { "text": "Wald", "roman": "valt", "meaning": "forest", "emoji": "🌲", "audio": "audio/de/words/de-w-02.mp3" }
+      ]
+    }
+  ]
+}

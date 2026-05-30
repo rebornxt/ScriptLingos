@@ -1,0 +1,59 @@
+{
+  "language": "Bahasa Indonesia",
+  "code": "id-ID",
+  "direction": "ltr",
+  "letters": [
+    {
+      "id": "id-a",
+      "char": "A",
+      "name": "A",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/id/letters/id-a.mp3",
+      "memoryTrick": "Same Latin letter as English, but always a clean 'ah' — every letter sounds exactly as written.",
+      "words": [
+        { "text": "air", "roman": "A-ir", "meaning": "water", "emoji": "💧", "audio": "audio/id/words/id-a-01.mp3" },
+        { "text": "apel", "roman": "A-pel", "meaning": "apple", "emoji": "🍎", "audio": "audio/id/words/id-a-02.mp3" }
+      ]
+    },
+    {
+      "id": "id-b",
+      "char": "B",
+      "name": "Be",
+      "romanization": "b",
+      "ipa": "/b/",
+      "letterAudio": "audio/id/letters/id-b.mp3",
+      "memoryTrick": "A simple 'b' as in 'book' — no surprises.",
+      "words": [
+        { "text": "buku", "roman": "BU-ku", "meaning": "book", "emoji": "📖", "audio": "audio/id/words/id-b-01.mp3" },
+        { "text": "bunga", "roman": "BUNG-a", "meaning": "flower", "emoji": "🌸", "audio": "audio/id/words/id-b-02.mp3" }
+      ]
+    },
+    {
+      "id": "id-c",
+      "char": "C",
+      "name": "Ce",
+      "romanization": "c",
+      "ipa": "/tʃ/",
+      "letterAudio": "audio/id/letters/id-c.mp3",
+      "memoryTrick": "The trap letter: Indonesian 'C' is always 'ch' as in 'church' — 'cinta' is said 'CHIN-ta'.",
+      "words": [
+        { "text": "cinta", "roman": "CHIN-ta", "meaning": "love", "emoji": "❤️", "audio": "audio/id/words/id-c-01.mp3" },
+        { "text": "cabai", "roman": "cha-BAI", "meaning": "chili", "emoji": "🌶️", "audio": "audio/id/words/id-c-02.mp3" }
+      ]
+    },
+    {
+      "id": "id-m",
+      "char": "M",
+      "name": "Em",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/id/letters/id-m.mp3",
+      "memoryTrick": "Plain 'm' as in 'moon'.",
+      "words": [
+        { "text": "makan", "roman": "MA-kan", "meaning": "to eat", "emoji": "🍽️", "audio": "audio/id/words/id-m-01.mp3" },
+        { "text": "mata", "roman": "MA-ta", "meaning": "eye", "emoji": "👁️", "audio": "audio/id/words/id-m-02.mp3" }
+      ]
+    }
+  ]
+}

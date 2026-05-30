@@ -1,0 +1,59 @@
+{
+  "language": "Burmese",
+  "code": "my-MM",
+  "direction": "ltr",
+  "letters": [
+    {
+      "id": "my-ka",
+      "char": "က",
+      "name": "Ka gyi",
+      "romanization": "ka",
+      "ipa": "/k/",
+      "letterAudio": "audio/my/letters/my-ka.mp3",
+      "memoryTrick": "The first consonant — a little chair shape. An unaspirated 'k', with no puff of breath.",
+      "words": [
+        { "text": "ကား", "roman": "kā", "meaning": "car", "emoji": "🚗", "audio": "audio/my/words/my-ka-01.mp3" },
+        { "text": "ကြက်", "roman": "kyet", "meaning": "chicken", "emoji": "🐔", "audio": "audio/my/words/my-ka-02.mp3" }
+      ]
+    },
+    {
+      "id": "my-hka",
+      "char": "ခ",
+      "name": "Kha gwe",
+      "romanization": "kha",
+      "ipa": "/kʰ/",
+      "letterAudio": "audio/my/letters/my-hka.mp3",
+      "memoryTrick": "Like က but with a puff of air — an aspirated 'k', as if fogging a mirror.",
+      "words": [
+        { "text": "ခွေး", "roman": "khwé", "meaning": "dog", "emoji": "🐕", "audio": "audio/my/words/my-hka-01.mp3" },
+        { "text": "ခေါက်ဆွဲ", "roman": "khauk-swè", "meaning": "noodles", "emoji": "🍜", "audio": "audio/my/words/my-hka-02.mp3" }
+      ]
+    },
+    {
+      "id": "my-na",
+      "char": "န",
+      "name": "Na nge",
+      "romanization": "na",
+      "ipa": "/n/",
+      "letterAudio": "audio/my/letters/my-na.mp3",
+      "memoryTrick": "A loop with a tail — the tongue taps behind the teeth for 'n'.",
+      "words": [
+        { "text": "နား", "roman": "nā", "meaning": "ear", "emoji": "👂", "audio": "audio/my/words/my-na-01.mp3" },
+        { "text": "နွား", "roman": "nwā", "meaning": "cow", "emoji": "🐄", "audio": "audio/my/words/my-na-02.mp3" }
+      ]
+    },
+    {
+      "id": "my-ma",
+      "char": "မ",
+      "name": "Ma",
+      "romanization": "ma",
+      "ipa": "/m/",
+      "letterAudio": "audio/my/letters/my-ma.mp3",
+      "memoryTrick": "Two stacked circles — round your lips and hum the 'm'.",
+      "words": [
+        { "text": "မီး", "roman": "mì", "meaning": "fire", "emoji": "🔥", "audio": "audio/my/words/my-ma-01.mp3" },
+        { "text": "မုန့်", "roman": "moun", "meaning": "snack / cake", "emoji": "🍰", "audio": "audio/my/words/my-ma-02.mp3" }
+      ]
+    }
+  ]
+}

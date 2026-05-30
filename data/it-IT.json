@@ -1,0 +1,59 @@
+{
+  "language": "Italian",
+  "code": "it-IT",
+  "direction": "ltr",
+  "letters": [
+    {
+      "id": "it-a",
+      "char": "A",
+      "name": "A",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/it/letters/it-a.mp3",
+      "memoryTrick": "Always an open, clear 'ah' — never the soft 'uh' of English. Open wide like at the dentist.",
+      "words": [
+        { "text": "albero", "roman": "AL-be-ro", "meaning": "tree", "emoji": "🌳", "audio": "audio/it/words/it-a-01.mp3" },
+        { "text": "ape", "roman": "AH-pe", "meaning": "bee", "emoji": "🐝", "audio": "audio/it/words/it-a-02.mp3" }
+      ]
+    },
+    {
+      "id": "it-c",
+      "char": "C",
+      "name": "Ci",
+      "romanization": "c",
+      "ipa": "/k/, /tʃ/",
+      "letterAudio": "audio/it/letters/it-c.mp3",
+      "memoryTrick": "Hard 'k' before a, o, u (casa); soft 'ch' before e and i (cibo). The vowel decides.",
+      "words": [
+        { "text": "casa", "roman": "KA-za", "meaning": "house", "emoji": "🏠", "audio": "audio/it/words/it-c-01.mp3" },
+        { "text": "cane", "roman": "KA-ne", "meaning": "dog", "emoji": "🐕", "audio": "audio/it/words/it-c-02.mp3" }
+      ]
+    },
+    {
+      "id": "it-g",
+      "char": "G",
+      "name": "Gi",
+      "romanization": "g",
+      "ipa": "/ɡ/, /dʒ/",
+      "letterAudio": "audio/it/letters/it-g.mp3",
+      "memoryTrick": "Like C's twin: hard 'g' before a, o, u (gatto); soft 'j' before e and i (gelato).",
+      "words": [
+        { "text": "gatto", "roman": "GAT-to", "meaning": "cat", "emoji": "🐈", "audio": "audio/it/words/it-g-01.mp3" },
+        { "text": "gelato", "roman": "je-LA-to", "meaning": "ice cream", "emoji": "🍨", "audio": "audio/it/words/it-g-02.mp3" }
+      ]
+    },
+    {
+      "id": "it-p",
+      "char": "P",
+      "name": "Pi",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/it/letters/it-p.mp3",
+      "memoryTrick": "A crisp, dry 'p' with no puff of air after it — softer than the English 'p' in 'pen'.",
+      "words": [
+        { "text": "pane", "roman": "PA-ne", "meaning": "bread", "emoji": "🍞", "audio": "audio/it/words/it-p-01.mp3" },
+        { "text": "palla", "roman": "PAL-la", "meaning": "ball", "emoji": "⚽", "audio": "audio/it/words/it-p-02.mp3" }
+      ]
+    }
+  ]
+}

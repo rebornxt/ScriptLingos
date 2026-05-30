@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>ScriptLingos — Learn the World's Alphabets</title>
+  <meta name="description" content="Learn the alphabets of 14 languages — characters, sounds, and memory tricks." />
+
+  <!-- Prevent theme flash: set theme before paint -->
+  <script>
+    (function () {
+      try {
+        var t = localStorage.getItem('sl.theme');
+        if (!t) t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {}
+    })();
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Noto+Sans:wght@400;500;700&family=Noto+Sans+Arabic:wght@400;500;700&family=Noto+Sans+Hebrew:wght@400;500;700&family=Noto+Sans+Devanagari:wght@400;500;700&family=Noto+Sans+Myanmar:wght@400;500;700&family=Noto+Sans+Khmer:wght@400;500;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="css/app.css" />
+  <link rel="stylesheet" href="css/screens.css" />
+</head>
+<body>
+  <div id="app-root">
+    <header class="topbar" id="topbar">
+      <button class="topbar__back" id="backBtn" aria-label="Go back" hidden>
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M15 18l-6-6 6-6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <a class="topbar__brand" href="#/" aria-label="ScriptLingos home">
+        <span class="topbar__mark" aria-hidden="true">Aあ</span>
+        <span class="topbar__name">ScriptLingos</span>
+      </a>
+      <button class="topbar__theme" id="themeBtn" aria-label="Toggle dark mode">
+        <svg class="ico-sun" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="12" cy="12" r="4.5" fill="none" stroke="currentColor" stroke-width="2"/><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="12" y1="2" x2="12" y2="4.5"/><line x1="12" y1="19.5" x2="12" y2="22"/><line x1="2" y1="12" x2="4.5" y2="12"/><line x1="19.5" y1="12" x2="22" y2="12"/><line x1="4.9" y1="4.9" x2="6.7" y2="6.7"/><line x1="17.3" y1="17.3" x2="19.1" y2="19.1"/><line x1="4.9" y1="19.1" x2="6.7" y2="17.3"/><line x1="17.3" y1="6.7" x2="19.1" y2="4.9"/></g></svg>
+        <svg class="ico-moon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4 7 7 0 1 0 20 14.5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+      </button>
+    </header>
+
+    <main id="app" class="screen-host" aria-live="polite"></main>
+
+    <nav class="tabbar" id="tabbar">
+      <a class="tab" data-tab="home" href="#/">
+        <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M4 10.5 12 4l8 6.5V20a1 1 0 0 1-1 1h-4v-6h-6v6H5a1 1 0 0 1-1-1z" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/></svg>
+        <span>Learn</span>
+      </a>
+      <a class="tab" data-tab="compare" href="#/compare">
+        <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><rect x="3.5" y="4.5" width="17" height="15" rx="2" fill="none" stroke="currentColor" stroke-width="1.9"/><line x1="3.5" y1="9.5" x2="20.5" y2="9.5" stroke="currentColor" stroke-width="1.9"/><line x1="12" y1="9.5" x2="12" y2="19.5" stroke="currentColor" stroke-width="1.9"/></svg>
+        <span>Compare</span>
+      </a>
+      <a class="tab" data-tab="quiz" href="#/quiz">
+        <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M9.2 9a2.8 2.8 0 1 1 3.9 2.6c-.8.4-1.1 1-1.1 1.9v.4" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><circle cx="12" cy="17.6" r="1.2" fill="currentColor"/><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.9"/></svg>
+        <span>Quiz</span>
+      </a>
+    </nav>
+  </div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
+
+<style id="__om-edit-overrides">
+#app .words >button:nth-child(1) .s-ar { font-family: sans-serif !important }
+#app .words >button:nth-child(1) .s-ar { font-family: "Times New Roman" !important }
+#app .words >button:nth-child(1) .s-ar { font-family: "Noto Sans Arabic" !important }
+</style>

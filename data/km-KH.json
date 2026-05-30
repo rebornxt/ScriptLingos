@@ -1,0 +1,59 @@
+{
+  "language": "Khmer",
+  "code": "km-KH",
+  "direction": "ltr",
+  "letters": [
+    {
+      "id": "km-ka",
+      "char": "ក",
+      "name": "Kɑ",
+      "romanization": "kɑ",
+      "ipa": "/k/",
+      "letterAudio": "audio/km/letters/km-ka.mp3",
+      "memoryTrick": "The first consonant, in the 'a-series'. An unaspirated 'k' carrying an 'ɑ' vowel.",
+      "words": [
+        { "text": "កាហ្វេ", "roman": "kaa-fei", "meaning": "coffee", "emoji": "☕", "audio": "audio/km/words/km-ka-01.mp3" },
+        { "text": "កង់", "roman": "kɑng", "meaning": "bicycle", "emoji": "🚲", "audio": "audio/km/words/km-ka-02.mp3" }
+      ]
+    },
+    {
+      "id": "km-kha",
+      "char": "ខ",
+      "name": "Khɑ",
+      "romanization": "khɑ",
+      "ipa": "/kʰ/",
+      "letterAudio": "audio/km/letters/km-kha.mp3",
+      "memoryTrick": "Like ក but with a breath of air after it — an aspirated 'kh'.",
+      "words": [
+        { "text": "ខ្លា", "roman": "khlaa", "meaning": "tiger", "emoji": "🐯", "audio": "audio/km/words/km-kha-01.mp3" },
+        { "text": "ខ្មៅដៃ", "roman": "khmav-day", "meaning": "pencil", "emoji": "✏️", "audio": "audio/km/words/km-kha-02.mp3" }
+      ]
+    },
+    {
+      "id": "km-mo",
+      "char": "ម",
+      "name": "Mɔ",
+      "romanization": "mɔ",
+      "ipa": "/m/",
+      "letterAudio": "audio/km/letters/km-mo.mp3",
+      "memoryTrick": "An 'o-series' consonant — hum 'm' but with the darker 'ɔ' vowel built in.",
+      "words": [
+        { "text": "មាន់", "roman": "moan", "meaning": "chicken", "emoji": "🐔", "audio": "audio/km/words/km-mo-01.mp3" },
+        { "text": "ម្ទេស", "roman": "mteh", "meaning": "chili", "emoji": "🌶️", "audio": "audio/km/words/km-mo-02.mp3" }
+      ]
+    },
+    {
+      "id": "km-no",
+      "char": "ន",
+      "name": "Nɔ",
+      "romanization": "nɔ",
+      "ipa": "/n/",
+      "letterAudio": "audio/km/letters/km-no.mp3",
+      "memoryTrick": "A curvy shape with an inner loop — the tongue taps for 'n'.",
+      "words": [
+        { "text": "នាឡិកា", "roman": "nealika", "meaning": "clock", "emoji": "🕐", "audio": "audio/km/words/km-no-01.mp3" },
+        { "text": "នំ", "roman": "num", "meaning": "cake", "emoji": "🍰", "audio": "audio/km/words/km-no-02.mp3" }
+      ]
+    }
+  ]
+}

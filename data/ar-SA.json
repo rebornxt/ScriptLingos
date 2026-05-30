@@ -1,0 +1,568 @@
+{
+  "language": "Arabic",
+  "code": "ar-SA",
+  "direction": "rtl",
+  "letters": [
+    {
+      "id": "ar-alif",
+      "char": "ا",
+      "name": "Alif",
+      "romanization": "ā / ʾ",
+      "ipa": "/aː/ / /ʔ/",
+      "forms": { "isolated": "ا", "initial": "ا", "medial": "ـا", "final": "ـا" },
+      "letterAudio": "audio/ar/letters/ar-alif.mp3",
+      "memoryTrick": "A tall vertical stroke like the number 1 — alif is the very first letter. Think 'A' for 'Alif' standing tall and alone.",
+      "words": [
+        { "text": "أَسَد", "roman": "ʾasad", "meaning": "lion", "emoji": "🦁", "audio": "audio/ar/words/ar-alif-01.mp3" },
+        { "text": "أُمّ", "roman": "ʾumm", "meaning": "mother", "emoji": "👩", "audio": "audio/ar/words/ar-alif-02.mp3" },
+        { "text": "أَب", "roman": "ʾab", "meaning": "father", "emoji": "👨", "audio": "audio/ar/words/ar-alif-03.mp3" },
+        { "text": "أُذُن", "roman": "ʾudhun", "meaning": "ear", "emoji": "👂", "audio": "audio/ar/words/ar-alif-04.mp3" },
+        { "text": "أَخ", "roman": "ʾakh", "meaning": "brother", "audio": "audio/ar/words/ar-alif-05.mp3" },
+        { "text": "أَرْض", "roman": "ʾarḍ", "meaning": "earth", "emoji": "🌍", "audio": "audio/ar/words/ar-alif-06.mp3" },
+        { "text": "أَنْف", "roman": "ʾanf", "meaning": "nose", "emoji": "👃", "audio": "audio/ar/words/ar-alif-07.mp3" },
+        { "text": "أَرْنَب", "roman": "ʾarnab", "meaning": "rabbit", "emoji": "🐰", "audio": "audio/ar/words/ar-alif-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-ba",
+      "char": "ب",
+      "name": "Bāʾ",
+      "romanization": "b",
+      "ipa": "/b/",
+      "forms": { "isolated": "ب", "initial": "بـ", "medial": "ـبـ", "final": "ـب" },
+      "letterAudio": "audio/ar/letters/ar-ba.mp3",
+      "memoryTrick": "A curved boat shape with one dot below — 'B' for 'Below' and 'Boat'. The single dot rides underneath like cargo in a boat.",
+      "words": [
+        { "text": "بَاب", "roman": "bāb", "meaning": "door", "emoji": "🚪", "audio": "audio/ar/words/ar-ba-01.mp3" },
+        { "text": "بَيْت", "roman": "bayt", "meaning": "house", "emoji": "🏠", "audio": "audio/ar/words/ar-ba-02.mp3" },
+        { "text": "بَحْر", "roman": "baḥr", "meaning": "sea", "emoji": "🌊", "audio": "audio/ar/words/ar-ba-03.mp3" },
+        { "text": "بَطَّة", "roman": "baṭṭa", "meaning": "duck", "emoji": "🦆", "audio": "audio/ar/words/ar-ba-04.mp3" },
+        { "text": "بِنْت", "roman": "bint", "meaning": "girl", "emoji": "👧", "audio": "audio/ar/words/ar-ba-05.mp3" },
+        { "text": "بَقَرَة", "roman": "baqara", "meaning": "cow", "emoji": "🐄", "audio": "audio/ar/words/ar-ba-06.mp3" },
+        { "text": "بَصَل", "roman": "baṣal", "meaning": "onion", "emoji": "🧅", "audio": "audio/ar/words/ar-ba-07.mp3" },
+        { "text": "بُرْتُقَال", "roman": "burtuqāl", "meaning": "orange", "emoji": "🍊", "audio": "audio/ar/words/ar-ba-08.mp3" },
+        { "text": "بَرْد", "roman": "bard", "meaning": "cold", "emoji": "🥶", "audio": "audio/ar/words/ar-ba-09.mp3" },
+        { "text": "بِطِّيخ", "roman": "biṭṭīkh", "meaning": "watermelon", "emoji": "🍉", "audio": "audio/ar/words/ar-ba-10.mp3" }
+      ]
+    },
+    {
+      "id": "ar-ta",
+      "char": "ت",
+      "name": "Tāʾ",
+      "romanization": "t",
+      "ipa": "/t/",
+      "forms": { "isolated": "ت", "initial": "تـ", "medial": "ـتـ", "final": "ـت" },
+      "letterAudio": "audio/ar/letters/ar-ta.mp3",
+      "memoryTrick": "Looks like Bāʾ but with two dots above — 'T' for 'Two dots on Top'. The two dots sit like a pair of eyes looking at you.",
+      "words": [
+        { "text": "تُفَّاح", "roman": "tuffāḥ", "meaning": "apple", "emoji": "🍎", "audio": "audio/ar/words/ar-ta-01.mp3" },
+        { "text": "تَمْر", "roman": "tamr", "meaning": "dates (fruit)", "audio": "audio/ar/words/ar-ta-02.mp3" },
+        { "text": "تَاج", "roman": "tāj", "meaning": "crown", "emoji": "👑", "audio": "audio/ar/words/ar-ta-03.mp3" },
+        { "text": "تِين", "roman": "tīn", "meaning": "fig", "audio": "audio/ar/words/ar-ta-04.mp3" },
+        { "text": "تَلْج", "roman": "talj", "meaning": "snow", "emoji": "❄️", "audio": "audio/ar/words/ar-ta-05.mp3" },
+        { "text": "تِمْسَاح", "roman": "timsāḥ", "meaning": "crocodile", "emoji": "🐊", "audio": "audio/ar/words/ar-ta-06.mp3" },
+        { "text": "تُرَاب", "roman": "turāb", "meaning": "soil", "audio": "audio/ar/words/ar-ta-07.mp3" },
+        { "text": "تِسْعَة", "roman": "tisʿa", "meaning": "nine", "audio": "audio/ar/words/ar-ta-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-tha",
+      "char": "ث",
+      "name": "Thāʾ",
+      "romanization": "th",
+      "ipa": "/θ/",
+      "forms": { "isolated": "ث", "initial": "ثـ", "medial": "ـثـ", "final": "ـث" },
+      "letterAudio": "audio/ar/letters/ar-tha.mp3",
+      "memoryTrick": "Three dots above like a little crown — 'TH' for 'THree dots'. The sound is like 'th' in English 'think', made with the tongue between the teeth.",
+      "words": [
+        { "text": "ثَوْب", "roman": "thawb", "meaning": "garment", "emoji": "👘", "audio": "audio/ar/words/ar-tha-01.mp3" },
+        { "text": "ثَلْج", "roman": "thalj", "meaning": "ice", "emoji": "🧊", "audio": "audio/ar/words/ar-tha-02.mp3" },
+        { "text": "ثَوْر", "roman": "thawr", "meaning": "bull", "emoji": "🐂", "audio": "audio/ar/words/ar-tha-03.mp3" },
+        { "text": "ثُوم", "roman": "thūm", "meaning": "garlic", "emoji": "🧄", "audio": "audio/ar/words/ar-tha-04.mp3" },
+        { "text": "ثَعْلَب", "roman": "thaʿlab", "meaning": "fox", "emoji": "🦊", "audio": "audio/ar/words/ar-tha-05.mp3" },
+        { "text": "ثَلَاثَة", "roman": "thalātha", "meaning": "three", "audio": "audio/ar/words/ar-tha-06.mp3" },
+        { "text": "ثَمَر", "roman": "thamar", "meaning": "fruit", "audio": "audio/ar/words/ar-tha-07.mp3" },
+        { "text": "ثَقِيل", "roman": "thaqīl", "meaning": "heavy", "audio": "audio/ar/words/ar-tha-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-jim",
+      "char": "ج",
+      "name": "Jīm",
+      "romanization": "j",
+      "ipa": "/d͡ʒ/",
+      "forms": { "isolated": "ج", "initial": "جـ", "medial": "ـجـ", "final": "ـج" },
+      "letterAudio": "audio/ar/letters/ar-jim.mp3",
+      "memoryTrick": "A curved stroke with a dot tucked inside — imagine a 'J' hiding in a little cave. The dot is tucked safely in the middle of the curve.",
+      "words": [
+        { "text": "جَمَل", "roman": "jamal", "meaning": "camel", "emoji": "🐪", "audio": "audio/ar/words/ar-jim-01.mp3" },
+        { "text": "جَبَل", "roman": "jabal", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/ar/words/ar-jim-02.mp3" },
+        { "text": "جَزِيرَة", "roman": "jazīra", "meaning": "island", "emoji": "🏝️", "audio": "audio/ar/words/ar-jim-03.mp3" },
+        { "text": "جِسْر", "roman": "jisr", "meaning": "bridge", "emoji": "🌉", "audio": "audio/ar/words/ar-jim-04.mp3" },
+        { "text": "جَنَّة", "roman": "janna", "meaning": "garden", "emoji": "🌴", "audio": "audio/ar/words/ar-jim-05.mp3" },
+        { "text": "جُبْن", "roman": "jubn", "meaning": "cheese", "emoji": "🧀", "audio": "audio/ar/words/ar-jim-06.mp3" },
+        { "text": "جَمِيل", "roman": "jamīl", "meaning": "beautiful", "audio": "audio/ar/words/ar-jim-07.mp3" },
+        { "text": "جَزَر", "roman": "jazar", "meaning": "carrot", "emoji": "🥕", "audio": "audio/ar/words/ar-jim-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-haa",
+      "char": "ح",
+      "name": "Ḥāʾ",
+      "romanization": "ḥ",
+      "ipa": "/ħ/",
+      "forms": { "isolated": "ح", "initial": "حـ", "medial": "ـحـ", "final": "ـح" },
+      "letterAudio": "audio/ar/letters/ar-haa.mp3",
+      "memoryTrick": "No dots — a smooth curve. This is a deep, breathy 'H' from the chest. Think of the sound you make when sighing heavily after a long run.",
+      "words": [
+        { "text": "حِصَان", "roman": "ḥiṣān", "meaning": "horse", "emoji": "🐴", "audio": "audio/ar/words/ar-haa-01.mp3" },
+        { "text": "حَجَر", "roman": "ḥajar", "meaning": "stone", "emoji": "🪨", "audio": "audio/ar/words/ar-haa-02.mp3" },
+        { "text": "حَلِيب", "roman": "ḥalīb", "meaning": "milk", "emoji": "🥛", "audio": "audio/ar/words/ar-haa-03.mp3" },
+        { "text": "حَدِيد", "roman": "ḥadīd", "meaning": "iron", "audio": "audio/ar/words/ar-haa-04.mp3" },
+        { "text": "حَمَام", "roman": "ḥamām", "meaning": "pigeon", "emoji": "🕊️", "audio": "audio/ar/words/ar-haa-05.mp3" },
+        { "text": "حُبّ", "roman": "ḥubb", "meaning": "love", "emoji": "❤️", "audio": "audio/ar/words/ar-haa-06.mp3" },
+        { "text": "حَارّ", "roman": "ḥārr", "meaning": "hot", "emoji": "🔥", "audio": "audio/ar/words/ar-haa-07.mp3" },
+        { "text": "حَقِيبَة", "roman": "ḥaqība", "meaning": "bag", "emoji": "🎒", "audio": "audio/ar/words/ar-haa-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-kha",
+      "char": "خ",
+      "name": "Khāʾ",
+      "romanization": "kh",
+      "ipa": "/x/",
+      "forms": { "isolated": "خ", "initial": "خـ", "medial": "ـخـ", "final": "ـخ" },
+      "letterAudio": "audio/ar/letters/ar-kha.mp3",
+      "memoryTrick": "A dot above the curve — like a speck of dust you need to clear from your throat. This is the 'KH' sound, as in Scottish 'loch' or German 'Bach'.",
+      "words": [
+        { "text": "خُبْز", "roman": "khubz", "meaning": "bread", "emoji": "🍞", "audio": "audio/ar/words/ar-kha-01.mp3" },
+        { "text": "خَرُوف", "roman": "kharūf", "meaning": "sheep", "emoji": "🐑", "audio": "audio/ar/words/ar-kha-02.mp3" },
+        { "text": "خَشَب", "roman": "khashab", "meaning": "wood", "emoji": "🪵", "audio": "audio/ar/words/ar-kha-03.mp3" },
+        { "text": "خَاتَم", "roman": "khātam", "meaning": "ring", "emoji": "💍", "audio": "audio/ar/words/ar-kha-04.mp3" },
+        { "text": "خِيَار", "roman": "khiyār", "meaning": "cucumber", "emoji": "🥒", "audio": "audio/ar/words/ar-kha-05.mp3" },
+        { "text": "خَرِيطَة", "roman": "kharīṭa", "meaning": "map", "emoji": "🗺️", "audio": "audio/ar/words/ar-kha-06.mp3" },
+        { "text": "خَمْسَة", "roman": "khamsa", "meaning": "five", "audio": "audio/ar/words/ar-kha-07.mp3" },
+        { "text": "خُضَار", "roman": "khuḍār", "meaning": "vegetables", "emoji": "🥬", "audio": "audio/ar/words/ar-kha-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-dal",
+      "char": "د",
+      "name": "Dāl",
+      "romanization": "d",
+      "ipa": "/d/",
+      "forms": { "isolated": "د", "initial": "د", "medial": "ـد", "final": "ـد" },
+      "letterAudio": "audio/ar/letters/ar-dal.mp3",
+      "memoryTrick": "A simple angled stroke like a bent corner — looks a bit like the Greek delta Δ. This letter only connects to the right, never to the left.",
+      "words": [
+        { "text": "دُبّ", "roman": "dubb", "meaning": "bear", "emoji": "🐻", "audio": "audio/ar/words/ar-dal-01.mp3" },
+        { "text": "دَجَاج", "roman": "dajāj", "meaning": "chicken", "emoji": "🐔", "audio": "audio/ar/words/ar-dal-02.mp3" },
+        { "text": "دَوَاء", "roman": "dawāʾ", "meaning": "medicine", "emoji": "💊", "audio": "audio/ar/words/ar-dal-03.mp3" },
+        { "text": "دَمْع", "roman": "damʿ", "meaning": "tear", "emoji": "💧", "audio": "audio/ar/words/ar-dal-04.mp3" },
+        { "text": "دِيك", "roman": "dīk", "meaning": "rooster", "emoji": "🐓", "audio": "audio/ar/words/ar-dal-05.mp3" },
+        { "text": "دُود", "roman": "dūd", "meaning": "worm", "emoji": "🪱", "audio": "audio/ar/words/ar-dal-06.mp3" },
+        { "text": "دَفْتَر", "roman": "daftar", "meaning": "notebook", "emoji": "📓", "audio": "audio/ar/words/ar-dal-07.mp3" },
+        { "text": "دَوْلَة", "roman": "dawla", "meaning": "country", "audio": "audio/ar/words/ar-dal-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-dhal",
+      "char": "ذ",
+      "name": "Dhāl",
+      "romanization": "dh",
+      "ipa": "/ð/",
+      "forms": { "isolated": "ذ", "initial": "ذ", "medial": "ـذ", "final": "ـذ" },
+      "letterAudio": "audio/ar/letters/ar-dhal.mp3",
+      "memoryTrick": "Exactly like Dāl but with a dot above — 'DH' as in English 'THis'. Think 'the dot makes it voiced', just like 'th' in 'this' versus 'think'.",
+      "words": [
+        { "text": "ذَهَب", "roman": "dhahab", "meaning": "gold", "emoji": "🥇", "audio": "audio/ar/words/ar-dhal-01.mp3" },
+        { "text": "ذِئْب", "roman": "dhiʾb", "meaning": "wolf", "emoji": "🐺", "audio": "audio/ar/words/ar-dhal-02.mp3" },
+        { "text": "ذَكِيّ", "roman": "dhakiyy", "meaning": "smart", "audio": "audio/ar/words/ar-dhal-03.mp3" },
+        { "text": "ذَيْل", "roman": "dhayl", "meaning": "tail", "audio": "audio/ar/words/ar-dhal-04.mp3" },
+        { "text": "ذِرَاع", "roman": "dhirāʿ", "meaning": "arm", "emoji": "💪", "audio": "audio/ar/words/ar-dhal-05.mp3" },
+        { "text": "ذُبَابَة", "roman": "dhubāba", "meaning": "fly", "emoji": "🪰", "audio": "audio/ar/words/ar-dhal-06.mp3" },
+        { "text": "ذُرَة", "roman": "dhura", "meaning": "corn", "emoji": "🌽", "audio": "audio/ar/words/ar-dhal-07.mp3" },
+        { "text": "ذَاكِرَة", "roman": "dhākira", "meaning": "memory", "audio": "audio/ar/words/ar-dhal-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-ra",
+      "char": "ر",
+      "name": "Rāʾ",
+      "romanization": "r",
+      "ipa": "/r/",
+      "forms": { "isolated": "ر", "initial": "ر", "medial": "ـر", "final": "ـر" },
+      "letterAudio": "audio/ar/letters/ar-ra.mp3",
+      "memoryTrick": "A gentle downward curve like a rolling wave — 'R' for 'Rolling wave'. Like Dāl, it only connects to the right.",
+      "words": [
+        { "text": "رَجُل", "roman": "rajul", "meaning": "man", "emoji": "👨", "audio": "audio/ar/words/ar-ra-01.mp3" },
+        { "text": "رَأْس", "roman": "raʾs", "meaning": "head", "audio": "audio/ar/words/ar-ra-02.mp3" },
+        { "text": "رَمْل", "roman": "raml", "meaning": "sand", "emoji": "🏜️", "audio": "audio/ar/words/ar-ra-03.mp3" },
+        { "text": "رِيح", "roman": "rīḥ", "meaning": "wind", "emoji": "💨", "audio": "audio/ar/words/ar-ra-04.mp3" },
+        { "text": "رِجْل", "roman": "rijl", "meaning": "leg", "emoji": "🦵", "audio": "audio/ar/words/ar-ra-05.mp3" },
+        { "text": "رُمَّان", "roman": "rummān", "meaning": "pomegranate", "audio": "audio/ar/words/ar-ra-06.mp3" },
+        { "text": "رَصَاص", "roman": "raṣāṣ", "meaning": "pencil", "emoji": "✏️", "audio": "audio/ar/words/ar-ra-07.mp3" },
+        { "text": "رَبِيع", "roman": "rabīʿ", "meaning": "spring", "emoji": "🌸", "audio": "audio/ar/words/ar-ra-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-zay",
+      "char": "ز",
+      "name": "Zāy",
+      "romanization": "z",
+      "ipa": "/z/",
+      "forms": { "isolated": "ز", "initial": "ز", "medial": "ـز", "final": "ـز" },
+      "letterAudio": "audio/ar/letters/ar-zay.mp3",
+      "memoryTrick": "Rāʾ with a dot above — the dot lifts the sound up to a buzzing 'Z'. Think 'Z' for the 'Z'ing of a bee flying high above the wave.",
+      "words": [
+        { "text": "زَهْرَة", "roman": "zahra", "meaning": "flower", "emoji": "🌸", "audio": "audio/ar/words/ar-zay-01.mp3" },
+        { "text": "زَيْت", "roman": "zayt", "meaning": "oil", "emoji": "🫒", "audio": "audio/ar/words/ar-zay-02.mp3" },
+        { "text": "زَرَافَة", "roman": "zarāfa", "meaning": "giraffe", "emoji": "🦒", "audio": "audio/ar/words/ar-zay-03.mp3" },
+        { "text": "زُجَاج", "roman": "zujāj", "meaning": "glass", "audio": "audio/ar/words/ar-zay-04.mp3" },
+        { "text": "زِرّ", "roman": "zirr", "meaning": "button", "audio": "audio/ar/words/ar-zay-05.mp3" },
+        { "text": "زَوْج", "roman": "zawj", "meaning": "husband", "audio": "audio/ar/words/ar-zay-06.mp3" },
+        { "text": "زَيْتُون", "roman": "zaytūn", "meaning": "olive", "emoji": "🫒", "audio": "audio/ar/words/ar-zay-07.mp3" },
+        { "text": "زَمَان", "roman": "zamān", "meaning": "time", "audio": "audio/ar/words/ar-zay-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-sin",
+      "char": "س",
+      "name": "Sīn",
+      "romanization": "s",
+      "ipa": "/s/",
+      "forms": { "isolated": "س", "initial": "سـ", "medial": "ـسـ", "final": "ـس" },
+      "letterAudio": "audio/ar/letters/ar-sin.mp3",
+      "memoryTrick": "Three small teeth in a row — 'S' for 'Saw teeth' (three little teeth like the edge of a saw blade). A smooth hissing 'S' sound.",
+      "words": [
+        { "text": "سَمَك", "roman": "samak", "meaning": "fish", "emoji": "🐟", "audio": "audio/ar/words/ar-sin-01.mp3" },
+        { "text": "سَمَاء", "roman": "samāʾ", "meaning": "sky", "emoji": "☁️", "audio": "audio/ar/words/ar-sin-02.mp3" },
+        { "text": "سَاعَة", "roman": "sāʿa", "meaning": "clock", "emoji": "⌚", "audio": "audio/ar/words/ar-sin-03.mp3" },
+        { "text": "سُكَّر", "roman": "sukkar", "meaning": "sugar", "audio": "audio/ar/words/ar-sin-04.mp3" },
+        { "text": "سَيَّارَة", "roman": "sayyāra", "meaning": "car", "emoji": "🚗", "audio": "audio/ar/words/ar-sin-05.mp3" },
+        { "text": "سِلَّم", "roman": "sillam", "meaning": "ladder", "emoji": "🪜", "audio": "audio/ar/words/ar-sin-06.mp3" },
+        { "text": "سَعِيد", "roman": "saʿīd", "meaning": "happy", "emoji": "😊", "audio": "audio/ar/words/ar-sin-07.mp3" },
+        { "text": "سَرِير", "roman": "sarīr", "meaning": "bed", "emoji": "🛏️", "audio": "audio/ar/words/ar-sin-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-shin",
+      "char": "ش",
+      "name": "Shīn",
+      "romanization": "sh",
+      "ipa": "/ʃ/",
+      "forms": { "isolated": "ش", "initial": "شـ", "medial": "ـشـ", "final": "ـش" },
+      "letterAudio": "audio/ar/letters/ar-shin.mp3",
+      "memoryTrick": "Sīn with three dots above like a crown — 'SH' for the 'SHarp teeth with a crown'. Like 'sh' in English 'sheep', with three dots as the royal crown.",
+      "words": [
+        { "text": "شَمْس", "roman": "shams", "meaning": "sun", "emoji": "☀️", "audio": "audio/ar/words/ar-shin-01.mp3" },
+        { "text": "شَجَر", "roman": "shajar", "meaning": "tree", "emoji": "🌳", "audio": "audio/ar/words/ar-shin-02.mp3" },
+        { "text": "شَاي", "roman": "shāy", "meaning": "tea", "emoji": "🍵", "audio": "audio/ar/words/ar-shin-03.mp3" },
+        { "text": "شَارِع", "roman": "shāriʿ", "meaning": "street", "audio": "audio/ar/words/ar-shin-04.mp3" },
+        { "text": "شَمْعَة", "roman": "shamʿa", "meaning": "candle", "emoji": "🕯️", "audio": "audio/ar/words/ar-shin-05.mp3" },
+        { "text": "شِتَاء", "roman": "shitāʾ", "meaning": "winter", "emoji": "❄️", "audio": "audio/ar/words/ar-shin-06.mp3" },
+        { "text": "شَفَة", "roman": "shafa", "meaning": "lip", "emoji": "👄", "audio": "audio/ar/words/ar-shin-07.mp3" },
+        { "text": "شَرَاب", "roman": "sharāb", "meaning": "drink", "emoji": "🥤", "audio": "audio/ar/words/ar-shin-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-sad",
+      "char": "ص",
+      "name": "Ṣād",
+      "romanization": "ṣ",
+      "ipa": "/sˤ/",
+      "forms": { "isolated": "ص", "initial": "صـ", "medial": "ـصـ", "final": "ـص" },
+      "letterAudio": "audio/ar/letters/ar-sad.mp3",
+      "memoryTrick": "A heavy, emphatic 'S' — press your tongue down flat against the roof of your mouth as if you're squashing something. Think 'Strong S', heavier and darker than regular Sīn.",
+      "words": [
+        { "text": "صَقْر", "roman": "ṣaqr", "meaning": "falcon", "emoji": "🦅", "audio": "audio/ar/words/ar-sad-01.mp3" },
+        { "text": "صَيْف", "roman": "ṣayf", "meaning": "summer", "emoji": "☀️", "audio": "audio/ar/words/ar-sad-02.mp3" },
+        { "text": "صُورَة", "roman": "ṣūra", "meaning": "picture", "emoji": "🖼️", "audio": "audio/ar/words/ar-sad-03.mp3" },
+        { "text": "صُبْح", "roman": "ṣubḥ", "meaning": "morning", "emoji": "🌅", "audio": "audio/ar/words/ar-sad-04.mp3" },
+        { "text": "صَحْرَاء", "roman": "ṣaḥrāʾ", "meaning": "desert", "emoji": "🏜️", "audio": "audio/ar/words/ar-sad-05.mp3" },
+        { "text": "صَدِيق", "roman": "ṣadīq", "meaning": "friend", "audio": "audio/ar/words/ar-sad-06.mp3" },
+        { "text": "صَغِير", "roman": "ṣaghīr", "meaning": "small", "audio": "audio/ar/words/ar-sad-07.mp3" },
+        { "text": "صُنْدُوق", "roman": "ṣundūq", "meaning": "box", "emoji": "📦", "audio": "audio/ar/words/ar-sad-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-dad",
+      "char": "ض",
+      "name": "Ḍād",
+      "romanization": "ḍ",
+      "ipa": "/dˤ/",
+      "forms": { "isolated": "ض", "initial": "ضـ", "medial": "ـضـ", "final": "ـض" },
+      "letterAudio": "audio/ar/letters/ar-dad.mp3",
+      "memoryTrick": "A heavy, emphatic 'D' — unique to Arabic, which is sometimes called 'the language of Ḍād'. Press your tongue flat and wide, like saying 'D' with your whole tongue.",
+      "words": [
+        { "text": "ضِفْدَع", "roman": "ḍifdaʿ", "meaning": "frog", "emoji": "🐸", "audio": "audio/ar/words/ar-dad-01.mp3" },
+        { "text": "ضَوْء", "roman": "ḍawʾ", "meaning": "light", "emoji": "💡", "audio": "audio/ar/words/ar-dad-02.mp3" },
+        { "text": "ضَحِك", "roman": "ḍaḥik", "meaning": "laughter", "emoji": "😂", "audio": "audio/ar/words/ar-dad-03.mp3" },
+        { "text": "ضَبَاب", "roman": "ḍabāb", "meaning": "fog", "emoji": "🌫️", "audio": "audio/ar/words/ar-dad-04.mp3" },
+        { "text": "ضِرْس", "roman": "ḍirs", "meaning": "molar tooth", "emoji": "🦷", "audio": "audio/ar/words/ar-dad-05.mp3" },
+        { "text": "ضَيْف", "roman": "ḍayf", "meaning": "guest", "audio": "audio/ar/words/ar-dad-06.mp3" },
+        { "text": "ضَعِيف", "roman": "ḍaʿīf", "meaning": "weak", "audio": "audio/ar/words/ar-dad-07.mp3" },
+        { "text": "ضَبّ", "roman": "ḍabb", "meaning": "lizard", "emoji": "🦎", "audio": "audio/ar/words/ar-dad-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-taa",
+      "char": "ط",
+      "name": "Ṭāʾ",
+      "romanization": "ṭ",
+      "ipa": "/tˤ/",
+      "forms": { "isolated": "ط", "initial": "طـ", "medial": "ـطـ", "final": "ـط" },
+      "letterAudio": "audio/ar/letters/ar-taa.mp3",
+      "memoryTrick": "A heavy, emphatic 'T' — like Tāʾ but with your tongue pressed flat and firm, not a light tap. Think of a thick, deep 'T' sound, like a drum beat.",
+      "words": [
+        { "text": "طَائِر", "roman": "ṭāʾir", "meaning": "bird", "emoji": "🐦", "audio": "audio/ar/words/ar-taa-01.mp3" },
+        { "text": "طَبِيب", "roman": "ṭabīb", "meaning": "doctor", "emoji": "🩺", "audio": "audio/ar/words/ar-taa-02.mp3" },
+        { "text": "طَعَام", "roman": "ṭaʿām", "meaning": "food", "emoji": "🍽️", "audio": "audio/ar/words/ar-taa-03.mp3" },
+        { "text": "طَرِيق", "roman": "ṭarīq", "meaning": "road", "emoji": "🛣️", "audio": "audio/ar/words/ar-taa-04.mp3" },
+        { "text": "طَاوِلَة", "roman": "ṭāwila", "meaning": "table", "audio": "audio/ar/words/ar-taa-05.mp3" },
+        { "text": "طَبَق", "roman": "ṭabaq", "meaning": "plate", "emoji": "🍽️", "audio": "audio/ar/words/ar-taa-06.mp3" },
+        { "text": "طَالِب", "roman": "ṭālib", "meaning": "student", "emoji": "📚", "audio": "audio/ar/words/ar-taa-07.mp3" },
+        { "text": "طَوِيل", "roman": "ṭawīl", "meaning": "tall", "audio": "audio/ar/words/ar-taa-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-zaa",
+      "char": "ظ",
+      "name": "Ẓāʾ",
+      "romanization": "ẓ",
+      "ipa": "/ðˤ/",
+      "forms": { "isolated": "ظ", "initial": "ظـ", "medial": "ـظـ", "final": "ـظ" },
+      "letterAudio": "audio/ar/letters/ar-zaa.mp3",
+      "memoryTrick": "The emphatic version of Dhāl — like making the 'th' in 'this' with your tongue pressed flat and wide. A buzzing, heavy 'DH' sound.",
+      "words": [
+        { "text": "ظِلّ", "roman": "ẓill", "meaning": "shadow", "audio": "audio/ar/words/ar-zaa-01.mp3" },
+        { "text": "ظُفْر", "roman": "ẓufr", "meaning": "nail", "emoji": "💅", "audio": "audio/ar/words/ar-zaa-02.mp3" },
+        { "text": "ظَهْر", "roman": "ẓahr", "meaning": "back", "audio": "audio/ar/words/ar-zaa-03.mp3" },
+        { "text": "ظَبْي", "roman": "ẓaby", "meaning": "gazelle", "emoji": "🦌", "audio": "audio/ar/words/ar-zaa-04.mp3" },
+        { "text": "ظَلَام", "roman": "ẓalām", "meaning": "darkness", "emoji": "🌑", "audio": "audio/ar/words/ar-zaa-05.mp3" },
+        { "text": "ظَرِيف", "roman": "ẓarīf", "meaning": "clever", "audio": "audio/ar/words/ar-zaa-06.mp3" },
+        { "text": "ظَمَأ", "roman": "ẓamaʾ", "meaning": "thirst", "audio": "audio/ar/words/ar-zaa-07.mp3" }
+      ]
+    },
+    {
+      "id": "ar-ayn",
+      "char": "ع",
+      "name": "ʿAyn",
+      "romanization": "ʿ",
+      "ipa": "/ʕ/",
+      "forms": { "isolated": "ع", "initial": "عـ", "medial": "ـعـ", "final": "ـع" },
+      "letterAudio": "audio/ar/letters/ar-ayn.mp3",
+      "memoryTrick": "The most distinctive Arabic sound — a tight squeeze from deep in the throat, like gently constricting your throat. Imagine swallowing a small grape and catching it halfway.",
+      "words": [
+        { "text": "عِنَب", "roman": "ʿinab", "meaning": "grapes", "emoji": "🍇", "audio": "audio/ar/words/ar-ayn-01.mp3" },
+        { "text": "عَيْن", "roman": "ʿayn", "meaning": "eye", "emoji": "👁️", "audio": "audio/ar/words/ar-ayn-02.mp3" },
+        { "text": "عُشّ", "roman": "ʿushsh", "meaning": "nest", "emoji": "🪺", "audio": "audio/ar/words/ar-ayn-03.mp3" },
+        { "text": "عَصِير", "roman": "ʿaṣīr", "meaning": "juice", "emoji": "🧃", "audio": "audio/ar/words/ar-ayn-04.mp3" },
+        { "text": "عَلَم", "roman": "ʿalam", "meaning": "flag", "emoji": "🚩", "audio": "audio/ar/words/ar-ayn-05.mp3" },
+        { "text": "عَسَل", "roman": "ʿasal", "meaning": "honey", "emoji": "🍯", "audio": "audio/ar/words/ar-ayn-06.mp3" },
+        { "text": "عُصْفُور", "roman": "ʿuṣfūr", "meaning": "sparrow", "emoji": "🐦", "audio": "audio/ar/words/ar-ayn-07.mp3" },
+        { "text": "عَرَبِيّ", "roman": "ʿarabiyy", "meaning": "Arabic", "audio": "audio/ar/words/ar-ayn-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-ghayn",
+      "char": "غ",
+      "name": "Ghayn",
+      "romanization": "gh",
+      "ipa": "/ɣ/",
+      "forms": { "isolated": "غ", "initial": "غـ", "medial": "ـغـ", "final": "ـغ" },
+      "letterAudio": "audio/ar/letters/ar-ghayn.mp3",
+      "memoryTrick": "ʿAyn with a dot above — 'GH' for 'Gargle'. The dot turns the throat squeeze into a gargling sound, like the French 'R' in 'Paris'. Think of gargling water with a dot on top.",
+      "words": [
+        { "text": "غَيْم", "roman": "ghaym", "meaning": "cloud", "emoji": "☁️", "audio": "audio/ar/words/ar-ghayn-01.mp3" },
+        { "text": "غَزَال", "roman": "ghazāl", "meaning": "gazelle", "emoji": "🦌", "audio": "audio/ar/words/ar-ghayn-02.mp3" },
+        { "text": "غُرْفَة", "roman": "ghurfa", "meaning": "room", "audio": "audio/ar/words/ar-ghayn-03.mp3" },
+        { "text": "غَنِيّ", "roman": "ghaniyy", "meaning": "rich", "emoji": "💰", "audio": "audio/ar/words/ar-ghayn-04.mp3" },
+        { "text": "غَابَة", "roman": "ghāba", "meaning": "forest", "emoji": "🌲", "audio": "audio/ar/words/ar-ghayn-05.mp3" },
+        { "text": "غِذَاء", "roman": "ghidhāʾ", "meaning": "nutrition", "audio": "audio/ar/words/ar-ghayn-06.mp3" },
+        { "text": "غَرِيب", "roman": "gharīb", "meaning": "strange", "audio": "audio/ar/words/ar-ghayn-07.mp3" },
+        { "text": "غَسَّالَة", "roman": "ghassāla", "meaning": "washing machine", "audio": "audio/ar/words/ar-ghayn-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-fa",
+      "char": "ف",
+      "name": "Fāʾ",
+      "romanization": "f",
+      "ipa": "/f/",
+      "forms": { "isolated": "ف", "initial": "فـ", "medial": "ـفـ", "final": "ـف" },
+      "letterAudio": "audio/ar/letters/ar-fa.mp3",
+      "memoryTrick": "A small ring with one dot above — 'F' for 'Finger ring'. The circular shape with a single dot floating above it looks like a ring on a finger.",
+      "words": [
+        { "text": "فِيل", "roman": "fīl", "meaning": "elephant", "emoji": "🐘", "audio": "audio/ar/words/ar-fa-01.mp3" },
+        { "text": "فَرَاشَة", "roman": "farāsha", "meaning": "butterfly", "emoji": "🦋", "audio": "audio/ar/words/ar-fa-02.mp3" },
+        { "text": "فَأْر", "roman": "faʾr", "meaning": "mouse", "emoji": "🐭", "audio": "audio/ar/words/ar-fa-03.mp3" },
+        { "text": "فِنْجَان", "roman": "finjān", "meaning": "cup", "emoji": "☕", "audio": "audio/ar/words/ar-fa-04.mp3" },
+        { "text": "فَم", "roman": "fam", "meaning": "mouth", "emoji": "👄", "audio": "audio/ar/words/ar-fa-05.mp3" },
+        { "text": "فَاكِهَة", "roman": "fākiha", "meaning": "fruit", "emoji": "🍎", "audio": "audio/ar/words/ar-fa-06.mp3" },
+        { "text": "فَصْل", "roman": "faṣl", "meaning": "season", "audio": "audio/ar/words/ar-fa-07.mp3" },
+        { "text": "فَرَح", "roman": "faraḥ", "meaning": "joy", "audio": "audio/ar/words/ar-fa-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-qaf",
+      "char": "ق",
+      "name": "Qāf",
+      "romanization": "q",
+      "ipa": "/q/",
+      "forms": { "isolated": "ق", "initial": "قـ", "medial": "ـقـ", "final": "ـق" },
+      "letterAudio": "audio/ar/letters/ar-qaf.mp3",
+      "memoryTrick": "Fāʾ with two dots above — 'Q' for 'Qatar'. A deep 'K' sound made far back in the throat. The two dots mark it as the deeper, heavier cousin of Kāf.",
+      "words": [
+        { "text": "قَلَم", "roman": "qalam", "meaning": "pen", "emoji": "🖊️", "audio": "audio/ar/words/ar-qaf-01.mp3" },
+        { "text": "قَمَر", "roman": "qamar", "meaning": "moon", "emoji": "🌙", "audio": "audio/ar/words/ar-qaf-02.mp3" },
+        { "text": "قِطّ", "roman": "qiṭṭ", "meaning": "cat", "emoji": "🐱", "audio": "audio/ar/words/ar-qaf-03.mp3" },
+        { "text": "قَلْب", "roman": "qalb", "meaning": "heart", "emoji": "❤️", "audio": "audio/ar/words/ar-qaf-04.mp3" },
+        { "text": "قَدَم", "roman": "qadam", "meaning": "foot", "emoji": "🦶", "audio": "audio/ar/words/ar-qaf-05.mp3" },
+        { "text": "قِصَّة", "roman": "qiṣṣa", "meaning": "story", "emoji": "📖", "audio": "audio/ar/words/ar-qaf-06.mp3" },
+        { "text": "قَصِير", "roman": "qaṣīr", "meaning": "short", "audio": "audio/ar/words/ar-qaf-07.mp3" },
+        { "text": "قَدِيم", "roman": "qadīm", "meaning": "ancient", "audio": "audio/ar/words/ar-qaf-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-kaf",
+      "char": "ك",
+      "name": "Kāf",
+      "romanization": "k",
+      "ipa": "/k/",
+      "forms": { "isolated": "ك", "initial": "كـ", "medial": "ـكـ", "final": "ـك" },
+      "letterAudio": "audio/ar/letters/ar-kaf.mp3",
+      "memoryTrick": "A curved shape like a small hook — 'K' for the crisp 'K' sound. Unlike Qāf, this 'K' is made with the middle of the tongue touching the palate.",
+      "words": [
+        { "text": "كِتَاب", "roman": "kitāb", "meaning": "book", "emoji": "📖", "audio": "audio/ar/words/ar-kaf-01.mp3" },
+        { "text": "كَلْب", "roman": "kalb", "meaning": "dog", "emoji": "🐕", "audio": "audio/ar/words/ar-kaf-02.mp3" },
+        { "text": "كُرْسِيّ", "roman": "kursiyy", "meaning": "chair", "emoji": "🪑", "audio": "audio/ar/words/ar-kaf-03.mp3" },
+        { "text": "كَعْك", "roman": "kaʿk", "meaning": "cake", "emoji": "🎂", "audio": "audio/ar/words/ar-kaf-04.mp3" },
+        { "text": "كَبِير", "roman": "kabīr", "meaning": "big", "audio": "audio/ar/words/ar-kaf-05.mp3" },
+        { "text": "كُوب", "roman": "kūb", "meaning": "mug", "emoji": "☕", "audio": "audio/ar/words/ar-kaf-06.mp3" },
+        { "text": "كُرَة", "roman": "kura", "meaning": "ball", "emoji": "⚽", "audio": "audio/ar/words/ar-kaf-07.mp3" },
+        { "text": "كَهْرَبَاء", "roman": "kahrabāʾ", "meaning": "electricity", "emoji": "⚡", "audio": "audio/ar/words/ar-kaf-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-lam",
+      "char": "ل",
+      "name": "Lām",
+      "romanization": "l",
+      "ipa": "/l/",
+      "forms": { "isolated": "ل", "initial": "لـ", "medial": "ـلـ", "final": "ـل" },
+      "letterAudio": "audio/ar/letters/ar-lam.mp3",
+      "memoryTrick": "A tall, elegant vertical stroke with a gentle curve at the bottom — 'L' for 'Long lovely Lām'. One of the most recognizable letters, it stands tall like Alif but bends gracefully.",
+      "words": [
+        { "text": "لَيْمُون", "roman": "laymūn", "meaning": "lemon", "emoji": "🍋", "audio": "audio/ar/words/ar-lam-01.mp3" },
+        { "text": "لَبَن", "roman": "laban", "meaning": "yogurt", "emoji": "🥛", "audio": "audio/ar/words/ar-lam-02.mp3" },
+        { "text": "لَيْل", "roman": "layl", "meaning": "night", "emoji": "🌙", "audio": "audio/ar/words/ar-lam-03.mp3" },
+        { "text": "لِسَان", "roman": "lisān", "meaning": "tongue", "emoji": "👅", "audio": "audio/ar/words/ar-lam-04.mp3" },
+        { "text": "لُعْبَة", "roman": "luʿba", "meaning": "toy", "emoji": "🎮", "audio": "audio/ar/words/ar-lam-05.mp3" },
+        { "text": "لَوْن", "roman": "lawn", "meaning": "color", "emoji": "🎨", "audio": "audio/ar/words/ar-lam-06.mp3" },
+        { "text": "لَحْم", "roman": "laḥm", "meaning": "meat", "emoji": "🥩", "audio": "audio/ar/words/ar-lam-07.mp3" },
+        { "text": "لَذِيذ", "roman": "ladhīdh", "meaning": "delicious", "emoji": "😋", "audio": "audio/ar/words/ar-lam-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-mim",
+      "char": "م",
+      "name": "Mīm",
+      "romanization": "m",
+      "ipa": "/m/",
+      "forms": { "isolated": "م", "initial": "مـ", "medial": "ـمـ", "final": "ـم" },
+      "letterAudio": "audio/ar/letters/ar-mim.mp3",
+      "memoryTrick": "A small circle with a tail trailing down — 'M' for 'Marshmallow'. The round shape with the tail looks like a little lollipop or a round 'M' rolling away.",
+      "words": [
+        { "text": "مَاء", "roman": "māʾ", "meaning": "water", "emoji": "💧", "audio": "audio/ar/words/ar-mim-01.mp3" },
+        { "text": "مَدْرَسَة", "roman": "madrasa", "meaning": "school", "emoji": "🏫", "audio": "audio/ar/words/ar-mim-02.mp3" },
+        { "text": "مِفْتَاح", "roman": "miftāḥ", "meaning": "key", "emoji": "🔑", "audio": "audio/ar/words/ar-mim-03.mp3" },
+        { "text": "مَطَر", "roman": "maṭar", "meaning": "rain", "emoji": "🌧️", "audio": "audio/ar/words/ar-mim-04.mp3" },
+        { "text": "مَوْز", "roman": "mawz", "meaning": "banana", "emoji": "🍌", "audio": "audio/ar/words/ar-mim-05.mp3" },
+        { "text": "مَلِك", "roman": "malik", "meaning": "king", "emoji": "👑", "audio": "audio/ar/words/ar-mim-06.mp3" },
+        { "text": "مَدِينَة", "roman": "madīna", "meaning": "city", "emoji": "🏙️", "audio": "audio/ar/words/ar-mim-07.mp3" },
+        { "text": "مَلْعَب", "roman": "malʿab", "meaning": "playground", "audio": "audio/ar/words/ar-mim-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-nun",
+      "char": "ن",
+      "name": "Nūn",
+      "romanization": "n",
+      "ipa": "/n/",
+      "forms": { "isolated": "ن", "initial": "نـ", "medial": "ـنـ", "final": "ـن" },
+      "letterAudio": "audio/ar/letters/ar-nun.mp3",
+      "memoryTrick": "A cup shape with one dot above — 'N' for 'Nest with an egg'. The curved cup holds a single dot above it like a tiny egg sitting in a nest.",
+      "words": [
+        { "text": "نَجْم", "roman": "najm", "meaning": "star", "emoji": "⭐", "audio": "audio/ar/words/ar-nun-01.mp3" },
+        { "text": "نَار", "roman": "nār", "meaning": "fire", "emoji": "🔥", "audio": "audio/ar/words/ar-nun-02.mp3" },
+        { "text": "نَمْل", "roman": "naml", "meaning": "ant", "emoji": "🐜", "audio": "audio/ar/words/ar-nun-03.mp3" },
+        { "text": "نَهْر", "roman": "nahr", "meaning": "river", "emoji": "🏞️", "audio": "audio/ar/words/ar-nun-04.mp3" },
+        { "text": "نَخْل", "roman": "nakhl", "meaning": "palm tree", "emoji": "🌴", "audio": "audio/ar/words/ar-nun-05.mp3" },
+        { "text": "نُور", "roman": "nūr", "meaning": "light", "emoji": "✨", "audio": "audio/ar/words/ar-nun-06.mp3" },
+        { "text": "نَافِذَة", "roman": "nāfidha", "meaning": "window", "emoji": "🪟", "audio": "audio/ar/words/ar-nun-07.mp3" },
+        { "text": "نَحْل", "roman": "naḥl", "meaning": "bee", "emoji": "🐝", "audio": "audio/ar/words/ar-nun-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-ha",
+      "char": "ه",
+      "name": "Hāʾ",
+      "romanization": "h",
+      "ipa": "/h/",
+      "forms": { "isolated": "ه", "initial": "هـ", "medial": "ـهـ", "final": "ـه" },
+      "letterAudio": "audio/ar/letters/ar-ha.mp3",
+      "memoryTrick": "A round loop like a circle — 'H' for a 'gentle H', like a soft breath or sigh. Unlike the deep chesty Ḥāʾ, this Hāʾ is light and airy, like breathing on a mirror.",
+      "words": [
+        { "text": "هَرَم", "roman": "haram", "meaning": "pyramid", "audio": "audio/ar/words/ar-ha-01.mp3" },
+        { "text": "هَوَاء", "roman": "hawāʾ", "meaning": "air", "emoji": "💨", "audio": "audio/ar/words/ar-ha-02.mp3" },
+        { "text": "هَدِيَّة", "roman": "hadiyya", "meaning": "gift", "emoji": "🎁", "audio": "audio/ar/words/ar-ha-03.mp3" },
+        { "text": "هِلَال", "roman": "hilāl", "meaning": "crescent", "emoji": "🌙", "audio": "audio/ar/words/ar-ha-04.mp3" },
+        { "text": "هُدْهُد", "roman": "hudhud", "meaning": "hoopoe", "emoji": "🐦", "audio": "audio/ar/words/ar-ha-05.mp3" },
+        { "text": "هَرّ", "roman": "harr", "meaning": "cat", "emoji": "🐱", "audio": "audio/ar/words/ar-ha-06.mp3" },
+        { "text": "هَاتِف", "roman": "hātif", "meaning": "telephone", "emoji": "📞", "audio": "audio/ar/words/ar-ha-07.mp3" },
+        { "text": "هَادِئ", "roman": "hādiʾ", "meaning": "quiet", "emoji": "🤫", "audio": "audio/ar/words/ar-ha-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-waw",
+      "char": "و",
+      "name": "Wāw",
+      "romanization": "w / ū",
+      "ipa": "/w/ / /uː/",
+      "forms": { "isolated": "و", "initial": "و", "medial": "ـو", "final": "ـو" },
+      "letterAudio": "audio/ar/letters/ar-waw.mp3",
+      "memoryTrick": "A loop with a tail — 'W' for 'Waw', looks like a loop-de-loop. Can be a consonant 'W' or a long vowel 'Ū' (like 'oo' in 'moon'). Only connects to the right.",
+      "words": [
+        { "text": "وَلَد", "roman": "walad", "meaning": "boy", "emoji": "👦", "audio": "audio/ar/words/ar-waw-01.mp3" },
+        { "text": "وَرَق", "roman": "waraq", "meaning": "paper", "emoji": "📄", "audio": "audio/ar/words/ar-waw-02.mp3" },
+        { "text": "وَرْد", "roman": "ward", "meaning": "rose", "emoji": "🌹", "audio": "audio/ar/words/ar-waw-03.mp3" },
+        { "text": "وَزَّة", "roman": "wazza", "meaning": "goose", "audio": "audio/ar/words/ar-waw-04.mp3" },
+        { "text": "وَطَن", "roman": "waṭan", "meaning": "homeland", "audio": "audio/ar/words/ar-waw-05.mp3" },
+        { "text": "وَقْت", "roman": "waqt", "meaning": "time", "emoji": "⏰", "audio": "audio/ar/words/ar-waw-06.mp3" },
+        { "text": "وَجْه", "roman": "wajh", "meaning": "face", "audio": "audio/ar/words/ar-waw-07.mp3" },
+        { "text": "وِسَادَة", "roman": "wisāda", "meaning": "pillow", "audio": "audio/ar/words/ar-waw-08.mp3" }
+      ]
+    },
+    {
+      "id": "ar-ya",
+      "char": "ي",
+      "name": "Yāʾ",
+      "romanization": "y / ī",
+      "ipa": "/j/ / /iː/",
+      "forms": { "isolated": "ي", "initial": "يـ", "medial": "ـيـ", "final": "ـي" },
+      "letterAudio": "audio/ar/letters/ar-ya.mp3",
+      "memoryTrick": "A curved shape with two dots below — 'Y' for 'Yes' with two dots underneath. Can be a consonant 'Y' or a long vowel 'Ī' (like 'ee' in 'see'). The two dots hang below like a pair of earrings.",
+      "words": [
+        { "text": "يَد", "roman": "yad", "meaning": "hand", "emoji": "✋", "audio": "audio/ar/words/ar-ya-01.mp3" },
+        { "text": "يَوْم", "roman": "yawm", "meaning": "day", "emoji": "📅", "audio": "audio/ar/words/ar-ya-02.mp3" },
+        { "text": "يَمِين", "roman": "yamīn", "meaning": "right", "audio": "audio/ar/words/ar-ya-03.mp3" },
+        { "text": "يَاسْمِين", "roman": "yāsmīn", "meaning": "jasmine", "emoji": "🌸", "audio": "audio/ar/words/ar-ya-04.mp3" },
+        { "text": "يَسَار", "roman": "yasār", "meaning": "left", "audio": "audio/ar/words/ar-ya-05.mp3" },
+        { "text": "يَابِس", "roman": "yābis", "meaning": "dry", "audio": "audio/ar/words/ar-ya-06.mp3" },
+        { "text": "يَاقُوت", "roman": "yāqūt", "meaning": "ruby", "emoji": "💎", "audio": "audio/ar/words/ar-ya-07.mp3" },
+        { "text": "يَمَن", "roman": "yaman", "meaning": "Yemen", "audio": "audio/ar/words/ar-ya-08.mp3" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "language": "Brazilian Portuguese",
+  "code": "pt-BR",
+  "direction": "ltr",
+  "letters": [
+    {
+      "id": "pt-a",
+      "char": "A",
+      "name": "Á",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/pt/letters/pt-a.mp3",
+      "memoryTrick": "An open 'ah'. Watch for its nasal cousin ã, which hums through the nose.",
+      "words": [
+        { "text": "água", "roman": "Á-gua", "meaning": "water", "emoji": "💧", "audio": "audio/pt/words/pt-a-01.mp3" },
+        { "text": "abacaxi", "roman": "a-ba-ka-SHEE", "meaning": "pineapple", "emoji": "🍍", "audio": "audio/pt/words/pt-a-02.mp3" }
+      ]
+    },
+    {
+      "id": "pt-a-til",
+      "char": "Ã",
+      "name": "A com til",
+      "romanization": "ã",
+      "ipa": "/ɐ̃/",
+      "letterAudio": "audio/pt/letters/pt-a-til.mp3",
+      "memoryTrick": "The wavy tilde means 'send it through your nose' — a nasal 'ã', like the end of 'pão'.",
+      "words": [
+        { "text": "pão", "roman": "powng", "meaning": "bread", "emoji": "🍞", "audio": "audio/pt/words/pt-a-til-01.mp3" },
+        { "text": "maçã", "roman": "ma-SANG", "meaning": "apple", "emoji": "🍎", "audio": "audio/pt/words/pt-a-til-02.mp3" }
+      ]
+    },
+    {
+      "id": "pt-c",
+      "char": "C",
+      "name": "Cê",
+      "romanization": "c",
+      "ipa": "/k/, /s/",
+      "letterAudio": "audio/pt/letters/pt-c.mp3",
+      "memoryTrick": "Hard 'k' before a, o, u; soft 's' before e, i. With a cedilla (ç) it's always 's'.",
+      "words": [
+        { "text": "casa", "roman": "KA-za", "meaning": "house", "emoji": "🏠", "audio": "audio/pt/words/pt-c-01.mp3" },
+        { "text": "cachorro", "roman": "ka-SHO-ho", "meaning": "dog", "emoji": "🐕", "audio": "audio/pt/words/pt-c-02.mp3" }
+      ]
+    },
+    {
+      "id": "pt-p",
+      "char": "P",
+      "name": "Pê",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/pt/letters/pt-p.mp3",
+      "memoryTrick": "A clean 'p' with no puff of air after it — lighter than the English 'p'.",
+      "words": [
+        { "text": "praia", "roman": "PRAI-a", "meaning": "beach", "emoji": "🏖️", "audio": "audio/pt/words/pt-p-01.mp3" },
+        { "text": "pé", "roman": "peh", "meaning": "foot", "emoji": "🦶", "audio": "audio/pt/words/pt-p-02.mp3" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "language": "French",
+  "code": "fr-FR",
+  "direction": "ltr",
+  "letters": [
+    {
+      "id": "fr-a",
+      "char": "A",
+      "name": "A",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/fr/letters/fr-a.mp3",
+      "memoryTrick": "A bright, open 'ah' made at the front of the mouth — crisper than the English 'a'.",
+      "words": [
+        { "text": "arbre", "roman": "AR-bruh", "meaning": "tree", "emoji": "🌳", "audio": "audio/fr/words/fr-a-01.mp3" },
+        { "text": "avion", "roman": "a-VYON", "meaning": "plane", "emoji": "✈️", "audio": "audio/fr/words/fr-a-02.mp3" }
+      ]
+    },
+    {
+      "id": "fr-e-aigu",
+      "char": "É",
+      "name": "E accent aigu",
+      "romanization": "é",
+      "ipa": "/e/",
+      "letterAudio": "audio/fr/letters/fr-e-aigu.mp3",
+      "memoryTrick": "The accent rising to the right tells you to close the mouth into a bright 'ay', as in 'café'.",
+      "words": [
+        { "text": "étoile", "roman": "ay-TWAL", "meaning": "star", "emoji": "⭐", "audio": "audio/fr/words/fr-e-aigu-01.mp3" },
+        { "text": "école", "roman": "ay-KOL", "meaning": "school", "emoji": "🏫", "audio": "audio/fr/words/fr-e-aigu-02.mp3" }
+      ]
+    },
+    {
+      "id": "fr-c",
+      "char": "C",
+      "name": "Cé",
+      "romanization": "c",
+      "ipa": "/k/, /s/",
+      "letterAudio": "audio/fr/letters/fr-c.mp3",
+      "memoryTrick": "Hard 'k' before a, o, u; soft 's' before e and i. A little tail (ç) forces the 's' anywhere.",
+      "words": [
+        { "text": "chat", "roman": "sha", "meaning": "cat", "emoji": "🐈", "audio": "audio/fr/words/fr-c-01.mp3" },
+        { "text": "carotte", "roman": "ka-ROT", "meaning": "carrot", "emoji": "🥕", "audio": "audio/fr/words/fr-c-02.mp3" }
+      ]
+    },
+    {
+      "id": "fr-m",
+      "char": "M",
+      "name": "Èmme",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/fr/letters/fr-m.mp3",
+      "memoryTrick": "Straightforward 'm' — but after a vowel it often nasalises the vowel instead (as in 'maison').",
+      "words": [
+        { "text": "maison", "roman": "may-ZON", "meaning": "house", "emoji": "🏠", "audio": "audio/fr/words/fr-m-01.mp3" },
+        { "text": "main", "roman": "man", "meaning": "hand", "emoji": "✋", "audio": "audio/fr/words/fr-m-02.mp3" }
+      ]
+    }
+  ]
+}

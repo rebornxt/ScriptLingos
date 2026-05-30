@@ -1,0 +1,59 @@
+{
+  "language": "Russian",
+  "code": "ru-RU",
+  "direction": "ltr",
+  "letters": [
+    {
+      "id": "ru-a",
+      "char": "А",
+      "name": "A (а)",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/ru/letters/ru-a.mp3",
+      "memoryTrick": "Looks exactly like the Latin 'A' and sounds like one too — a clear 'ah'.",
+      "words": [
+        { "text": "арбуз", "roman": "arbúz", "meaning": "watermelon", "emoji": "🍉", "audio": "audio/ru/words/ru-a-01.mp3" },
+        { "text": "автобус", "roman": "avtóbus", "meaning": "bus", "emoji": "🚌", "audio": "audio/ru/words/ru-a-02.mp3" }
+      ]
+    },
+    {
+      "id": "ru-be",
+      "char": "Б",
+      "name": "Be (б)",
+      "romanization": "b",
+      "ipa": "/b/",
+      "letterAudio": "audio/ru/letters/ru-be.mp3",
+      "memoryTrick": "A false friend — it isn't 'six', it's the 'b' in 'book'. Picture a flag on a pole.",
+      "words": [
+        { "text": "банан", "roman": "banán", "meaning": "banana", "emoji": "🍌", "audio": "audio/ru/words/ru-be-01.mp3" },
+        { "text": "бабочка", "roman": "bábochka", "meaning": "butterfly", "emoji": "🦋", "audio": "audio/ru/words/ru-be-02.mp3" }
+      ]
+    },
+    {
+      "id": "ru-ve",
+      "char": "В",
+      "name": "Ve (в)",
+      "romanization": "v",
+      "ipa": "/v/",
+      "letterAudio": "audio/ru/letters/ru-ve.mp3",
+      "memoryTrick": "Looks like a Latin 'B' but says 'v' as in 'van' — don't be fooled.",
+      "words": [
+        { "text": "вода", "roman": "vodá", "meaning": "water", "emoji": "💧", "audio": "audio/ru/words/ru-ve-01.mp3" },
+        { "text": "волк", "roman": "volk", "meaning": "wolf", "emoji": "🐺", "audio": "audio/ru/words/ru-ve-02.mp3" }
+      ]
+    },
+    {
+      "id": "ru-ge",
+      "char": "Г",
+      "name": "Ge (г)",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "letterAudio": "audio/ru/letters/ru-ge.mp3",
+      "memoryTrick": "An upside-down 'L' — a hard 'g' as in 'go'.",
+      "words": [
+        { "text": "гриб", "roman": "grib", "meaning": "mushroom", "emoji": "🍄", "audio": "audio/ru/words/ru-ge-01.mp3" },
+        { "text": "гитара", "roman": "gitára", "meaning": "guitar", "emoji": "🎸", "audio": "audio/ru/words/ru-ge-02.mp3" }
+      ]
+    }
+  ]
+}

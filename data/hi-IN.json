@@ -1,0 +1,59 @@
+{
+  "language": "Hindi",
+  "code": "hi-IN",
+  "direction": "ltr",
+  "letters": [
+    {
+      "id": "hi-a",
+      "char": "अ",
+      "name": "A",
+      "romanization": "a",
+      "ipa": "/ə/",
+      "letterAudio": "audio/hi/letters/hi-a.mp3",
+      "memoryTrick": "The very first vowel — a short, neutral 'uh', the default sound built into every consonant.",
+      "words": [
+        { "text": "अनानास", "roman": "anānās", "meaning": "pineapple", "emoji": "🍍", "audio": "audio/hi/words/hi-a-01.mp3" },
+        { "text": "अंगूर", "roman": "angūr", "meaning": "grapes", "emoji": "🍇", "audio": "audio/hi/words/hi-a-02.mp3" }
+      ]
+    },
+    {
+      "id": "hi-aa",
+      "char": "आ",
+      "name": "Aa",
+      "romanization": "ā",
+      "ipa": "/aː/",
+      "letterAudio": "audio/hi/letters/hi-aa.mp3",
+      "memoryTrick": "Like अ but held longer — a long, open 'aah'. The extra vertical stroke means 'stretch it out'.",
+      "words": [
+        { "text": "आम", "roman": "ām", "meaning": "mango", "emoji": "🥭", "audio": "audio/hi/words/hi-aa-01.mp3" },
+        { "text": "आलू", "roman": "ālū", "meaning": "potato", "emoji": "🥔", "audio": "audio/hi/words/hi-aa-02.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ka",
+      "char": "क",
+      "name": "Ka",
+      "romanization": "ka",
+      "ipa": "/kə/",
+      "letterAudio": "audio/hi/letters/hi-ka.mp3",
+      "memoryTrick": "The first consonant — a clean 'k' with the built-in 'a' vowel, so it reads 'ka'.",
+      "words": [
+        { "text": "कमल", "roman": "kamal", "meaning": "lotus", "emoji": "🪷", "audio": "audio/hi/words/hi-ka-01.mp3" },
+        { "text": "कबूतर", "roman": "kabūtar", "meaning": "pigeon", "emoji": "🕊️", "audio": "audio/hi/words/hi-ka-02.mp3" }
+      ]
+    },
+    {
+      "id": "hi-ma",
+      "char": "म",
+      "name": "Ma",
+      "romanization": "ma",
+      "ipa": "/mə/",
+      "letterAudio": "audio/hi/letters/hi-ma.mp3",
+      "memoryTrick": "A rounded belly with a tail — hum the 'm' in 'mother' with its built-in 'a'.",
+      "words": [
+        { "text": "मछली", "roman": "machhlī", "meaning": "fish", "emoji": "🐟", "audio": "audio/hi/words/hi-ma-01.mp3" },
+        { "text": "मोर", "roman": "mor", "meaning": "peacock", "emoji": "🦚", "audio": "audio/hi/words/hi-ma-02.mp3" }
+      ]
+    }
+  ]
+}

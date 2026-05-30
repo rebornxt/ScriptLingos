@@ -1,0 +1,47 @@
+{
+  "note": "Sample linguistic data for the prototype. `sounds` are representative phoneme tokens used to compute shared/unique sounds and a similarity % against the selected base language.",
+  "defaultBase": "en",
+  "languages": [
+    { "code": "en",    "name": "English",              "glyph": "A",  "script": "s-latin", "familyId": "latin",  "family": "Latin",            "direction": "ltr", "letters": 26,
+      "sounds": ["p","b","t","d","k","g","f","v","s","z","ʃ","tʃ","θ","ð","h","m","n","ŋ","l","r","w","j","a","e","i","o","u","ə"] },
+
+    { "code": "it-IT", "name": "Italian",              "glyph": "A",  "script": "s-latin", "familyId": "latin",  "family": "Latin",            "direction": "ltr", "letters": 21,
+      "sounds": ["p","b","t","d","k","g","f","v","s","z","ts","dz","tʃ","dʒ","ʃ","m","n","ɲ","l","ʎ","r","w","j","a","e","ɛ","i","o","ɔ","u"] },
+
+    { "code": "fr-FR", "name": "French",               "glyph": "É",  "script": "s-latin", "familyId": "latin",  "family": "Latin",            "direction": "ltr", "letters": 26,
+      "sounds": ["p","b","t","d","k","g","f","v","s","z","ʃ","ʒ","m","n","ɲ","l","ʁ","w","j","a","e","ɛ","i","o","ɔ","u","y","ø","œ","ə","nasalV"] },
+
+    { "code": "de-DE", "name": "German",               "glyph": "ß",  "script": "s-latin", "familyId": "latin",  "family": "Latin",            "direction": "ltr", "letters": 30,
+      "sounds": ["p","b","t","d","k","g","f","v","s","z","ʃ","tʃ","ts","x","ç","h","m","n","ŋ","l","r","j","a","e","ɛ","i","o","u","y","ø","ə"] },
+
+    { "code": "pt-BR", "name": "Brazilian Portuguese", "glyph": "ã",  "script": "s-latin", "familyId": "latin",  "family": "Latin",            "direction": "ltr", "letters": 26,
+      "sounds": ["p","b","t","d","k","g","f","v","s","z","ʃ","ʒ","tʃ","dʒ","m","n","ɲ","l","ʎ","r","ʁ","w","j","a","e","ɛ","i","o","ɔ","u","nasalV"] },
+
+    { "code": "id-ID", "name": "Bahasa Indonesia",     "glyph": "A",  "script": "s-latin", "familyId": "latin",  "family": "Latin",            "direction": "ltr", "letters": 26,
+      "sounds": ["p","b","t","d","k","g","f","s","z","h","tʃ","dʒ","m","n","ɲ","ŋ","l","r","w","j","ʔ","a","e","i","o","u","ə"] },
+
+    { "code": "sw-KE", "name": "Swahili",              "glyph": "A",  "script": "s-latin", "familyId": "latin",  "family": "Latin",            "direction": "ltr", "letters": 24,
+      "sounds": ["p","b","t","d","k","g","f","v","s","z","ʃ","θ","ð","x","ɣ","h","tʃ","dʒ","m","n","ɲ","ŋ","l","r","w","j","a","e","i","o","u"] },
+
+    { "code": "ru-RU", "name": "Russian",              "glyph": "Я",  "script": "s-latin", "familyId": "cyr",    "family": "Cyrillic",          "direction": "ltr", "letters": 33,
+      "sounds": ["p","b","t","d","k","g","f","v","s","z","ʃ","ʒ","tʃ","ts","x","m","n","l","r","j","palatalized","a","e","i","o","u","ɨ"] },
+
+    { "code": "hi-IN", "name": "Hindi",                "glyph": "अ",  "script": "s-hi",    "familyId": "indic",  "family": "Devanagari (abugida)","direction": "ltr", "letters": 46,
+      "sounds": ["p","b","t","d","k","g","tʃ","dʒ","s","ʃ","h","m","n","ŋ","ɳ","l","r","ɽ","w","j","retroflex","aspirated","a","i","u","e","o","nasalV"] },
+
+    { "code": "ar-SA", "name": "Arabic",               "glyph": "ب",  "script": "s-ar",    "familyId": "semitic","family": "Abjad (Semitic)",   "direction": "rtl", "letters": 28,
+      "sounds": ["b","t","d","k","g","f","s","z","ʃ","x","ɣ","ħ","ʕ","q","ʔ","h","θ","ð","m","n","l","r","w","j","emphatic","a","i","u"] },
+
+    { "code": "he-IL", "name": "Hebrew",               "glyph": "א",  "script": "s-he",    "familyId": "semitic","family": "Abjad (Semitic)",   "direction": "rtl", "letters": 22,
+      "sounds": ["b","p","t","d","k","g","v","f","s","z","ʃ","x","ħ","ʕ","ʔ","h","ts","m","n","l","r","ʁ","j","w","a","e","i","o","u"] },
+
+    { "code": "ko-KR", "name": "Korean",               "glyph": "가", "script": "s-ko",    "familyId": "hangul", "family": "Hangul (featural)", "direction": "ltr", "letters": 24,
+      "sounds": ["p","t","k","tʃ","s","h","m","n","ŋ","l","r","w","j","aspirated","ʔ","tense","a","ʌ","o","u","ɯ","i","e"] },
+
+    { "code": "my-MM", "name": "Burmese",              "glyph": "က", "script": "s-my",    "familyId": "brahmic","family": "Brahmic abugida",   "direction": "ltr", "letters": 33,
+      "sounds": ["p","b","t","d","k","g","θ","ð","s","z","ʃ","h","tʃ","dʒ","m","n","ɲ","ŋ","l","r","w","j","tone","aspirated","a","i","u","e","o","ə"] },
+
+    { "code": "km-KH", "name": "Khmer",                "glyph": "ក", "script": "s-km",    "familyId": "brahmic","family": "Brahmic abugida",   "direction": "ltr", "letters": 33,
+      "sounds": ["p","b","t","d","k","g","tʃ","s","h","m","n","ɲ","ŋ","l","r","w","j","ʔ","aspirated","a","ɑ","e","ɛ","i","o","ɔ","u","ɨ","ə"] }
+  ]
+}

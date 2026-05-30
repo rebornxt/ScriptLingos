@@ -1,0 +1,60 @@
+{
+  "language": "Hebrew",
+  "code": "he-IL",
+  "direction": "rtl",
+  "letters": [
+    {
+      "id": "he-alef",
+      "char": "א",
+      "name": "Alef",
+      "romanization": "ʾ (silent)",
+      "ipa": "/ʔ/",
+      "letterAudio": "audio/he/letters/he-alef.mp3",
+      "memoryTrick": "A silent placeholder — it has no sound of its own and just carries the vowel, like a quiet anchor.",
+      "words": [
+        { "text": "אבא", "roman": "ába", "meaning": "dad", "emoji": "👨", "audio": "audio/he/words/he-alef-01.mp3" },
+        { "text": "אריה", "roman": "arié", "meaning": "lion", "emoji": "🦁", "audio": "audio/he/words/he-alef-02.mp3" }
+      ]
+    },
+    {
+      "id": "he-bet",
+      "char": "ב",
+      "name": "Bet",
+      "romanization": "b / v",
+      "ipa": "/b/, /v/",
+      "letterAudio": "audio/he/letters/he-bet.mp3",
+      "memoryTrick": "With a dot inside it's 'b' (bet); without the dot it softens to 'v' (vet). Same house, two doors.",
+      "words": [
+        { "text": "בית", "roman": "báyit", "meaning": "house", "emoji": "🏠", "audio": "audio/he/words/he-bet-01.mp3" },
+        { "text": "ביצה", "roman": "beitsá", "meaning": "egg", "emoji": "🥚", "audio": "audio/he/words/he-bet-02.mp3" }
+      ]
+    },
+    {
+      "id": "he-gimel",
+      "char": "ג",
+      "name": "Gimel",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "letterAudio": "audio/he/letters/he-gimel.mp3",
+      "memoryTrick": "Always a hard 'g' as in 'go' — never the soft 'j' sound.",
+      "words": [
+        { "text": "גמל", "roman": "gamál", "meaning": "camel", "emoji": "🐪", "audio": "audio/he/words/he-gimel-01.mp3" },
+        { "text": "גלידה", "roman": "glída", "meaning": "ice cream", "emoji": "🍨", "audio": "audio/he/words/he-gimel-02.mp3" }
+      ]
+    },
+    {
+      "id": "he-mem",
+      "char": "מ",
+      "name": "Mem",
+      "romanization": "m",
+      "ipa": "/m/",
+      "forms": { "isolated": "מ", "final": "ם" },
+      "letterAudio": "audio/he/letters/he-mem.mp3",
+      "memoryTrick": "Five Hebrew letters get a special 'final' shape at the end of a word — Mem opens as מ but closes up tight as ם.",
+      "words": [
+        { "text": "מים", "roman": "máyim", "meaning": "water", "emoji": "💧", "audio": "audio/he/words/he-mem-01.mp3" },
+        { "text": "מלך", "roman": "mélekh", "meaning": "king", "emoji": "🤴", "audio": "audio/he/words/he-mem-02.mp3" }
+      ]
+    }
+  ]
+}
