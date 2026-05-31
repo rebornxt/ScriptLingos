@@ -1,8 +1,14 @@
 // letter.js — letter detail: hero, forms, IPA, hear letter, memory trick, words
 import { loadLanguage } from '../data.js';
 import { h, esc, bindSpeak, PLAY_SVG, SMALL_PLAY } from '../ui.js';
+import { renderTypeface } from '../fonts.js';
+import { store } from '../store.js';
 
 const FORM_ORDER = ['isolated', 'initial', 'medial', 'final'];
+const REVEAL_KEY = 'sl.reveal'; // false = name/romanization/IPA hidden (default)
+
+const EYE = '<svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><path d="M2.5 12S6 5.5 12 5.5 21.5 12 21.5 12 18 18.5 12 18.5 2.5 12 2.5 12z" fill="none" stroke="currentColor" stroke-width="1.9"/><circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="1.9"/></svg>';
+const EYE_OFF = '<svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><path d="M2.5 12S6 5.5 12 5.5c1.6 0 3 .35 4.2.9M21.5 12S18 18.5 12 18.5c-1.6 0-3-.35-4.2-.9" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><path d="M9.5 9.6a3 3 0 0 0 4.2 4.3" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><line x1="4" y1="4" x2="20" y2="20" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></svg>';
 
 export async function render({ code, letterId }) {
   const data = await loadLanguage(code);
@@ -16,10 +22,17 @@ export async function render({ code, letterId }) {
 
   const screen = h('<div class="screen detail"></div>');
 
+  let revealed = store.get(REVEAL_KEY, false) === true;
+
   // hero
   const hero = h(`
-    <div class="hero">
+    <div class="hero ${revealed ? '' : 'is-concealed'}">
+      <button class="hero__reveal" id="revealBtn" type="button" aria-pressed="${revealed}" title="Show or hide the answer">
+        <span class="hero__reveal-ico">${revealed ? EYE : EYE_OFF}</span>
+        <span class="hero__reveal-txt">${revealed ? 'Hide' : 'Show'}</span>
+      </button>
       <div class="hero__char ${meta.script}">${esc(letter.char)}</div>
+      <p class="hero__hint">Name &amp; sound hidden — tap <b>Show</b></p>
       <div class="hero__name">${esc(letter.name)}</div>
       <div class="hero__meta">
         <span class="meta-chip"><span>Romanization</span><b>${esc(letter.romanization)}</b></span>
@@ -38,6 +51,17 @@ export async function render({ code, letterId }) {
     text: letter.char,
     lang: data.code
   }));
+
+  // show / hide name + romanization + IPA (hidden by default; preference persists)
+  const revealBtn = hero.querySelector('#revealBtn');
+  revealBtn.addEventListener('click', () => {
+    revealed = !revealed;
+    store.set(REVEAL_KEY, revealed);
+    hero.classList.toggle('is-concealed', !revealed);
+    revealBtn.setAttribute('aria-pressed', String(revealed));
+    revealBtn.querySelector('.hero__reveal-ico').innerHTML = revealed ? EYE : EYE_OFF;
+    revealBtn.querySelector('.hero__reveal-txt').textContent = revealed ? 'Hide' : 'Show';
+  });
 
   // forms (optional)
   if (letter.forms) {
@@ -77,12 +101,7 @@ export async function render({ code, letterId }) {
   if (letter.words && letter.words.length) {
     const card = h(`
       <div class="card">
-        <div class="card__head-row">
-          <p class="card__label">Example words</p>
-          <button class="speak" id="hearFirstWord" style="min-height:42px;padding:9px 16px 9px 12px;font-size:14px">
-            <span class="speak__ico" style="width:26px;height:26px">${PLAY_SVG}</span> Hear word
-          </button>
-        </div>
+        <p class="card__label">Example words</p>
         <div class="words"></div>
       </div>
     `);
@@ -103,10 +122,11 @@ export async function render({ code, letterId }) {
       list.appendChild(row);
     });
     screen.appendChild(card);
-    // "Hear word" plays the first example
-    const first = letter.words[0];
-    bindSpeak(card.querySelector('#hearFirstWord'), () => ({ mp3: first.audio, text: first.text, lang: data.code }));
   }
+
+  // typeface picker (only for scripts with learner-friendly alternatives)
+  const typeface = renderTypeface(meta.script, letter.char);
+  if (typeface) screen.appendChild(typeface);
 
   // prev / next
   const prev = data.letters[idx - 1];
@@ -121,6 +141,36 @@ export async function render({ code, letterId }) {
       ${next ? esc(next.name) : 'End'} →
     </a>`));
   screen.appendChild(nav);
+
+  screen.appendChild(h('<p class="detail-tip">Swipe, or use the ← → arrow keys, to move between letters.</p>'));
+
+  // ---- navigate between letters: ← / → arrow keys + touch swipe ----
+  const go = (delta) => {
+    const target = data.letters[idx + delta];
+    if (target) location.hash = '#/lang/' + encodeURIComponent(code) + '/letter/' + encodeURIComponent(target.id);
+  };
+
+  function onKey(e) {
+    if (!screen.isConnected) { document.removeEventListener('keydown', onKey); return; }
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+    const t = e.target;
+    if (t && t.closest && t.closest('input, textarea, select')) return;
+    if (e.key === 'ArrowRight') { e.preventDefault(); go(1); }
+    else if (e.key === 'ArrowLeft') { e.preventDefault(); go(-1); }
+  }
+  document.addEventListener('keydown', onKey);
+
+  let sx = 0, sy = 0, st = 0;
+  screen.addEventListener('touchstart', (e) => {
+    const t = e.changedTouches[0]; sx = t.clientX; sy = t.clientY; st = Date.now();
+  }, { passive: true });
+  screen.addEventListener('touchend', (e) => {
+    const t = e.changedTouches[0];
+    const dx = t.clientX - sx, dy = t.clientY - sy;
+    if (Date.now() - st < 600 && Math.abs(dx) > 55 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+      go(dx < 0 ? 1 : -1); // swipe left → next, swipe right → previous
+    }
+  }, { passive: true });
 
   return screen;
 }

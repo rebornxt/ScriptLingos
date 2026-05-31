@@ -1,6 +1,7 @@
 // grid.js — letter grid for one language (RTL-aware)
 import { loadLanguage } from '../data.js';
 import { h, esc } from '../ui.js';
+import { renderTypeface } from '../fonts.js';
 
 export async function render({ code }) {
   const data = await loadLanguage(code);
@@ -19,6 +20,10 @@ export async function render({ code }) {
       <p class="page-sub">${data.letters.length} letters to explore. Tap any tile for its sound, forms and a memory trick.</p>
     </header>
   `));
+
+  // typeface picker — only for complex scripts that offer alternatives
+  const typeface = renderTypeface(meta.script, data.letters[0] ? data.letters[0].char : meta.glyph);
+  if (typeface) screen.appendChild(typeface);
 
   const grid = h(`<div class="letters" ${rtl ? 'dir="rtl"' : ''}></div>`);
   for (const letter of data.letters) {

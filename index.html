@@ -17,9 +17,25 @@
     })();
   </script>
 
+  <!-- Apply saved per-script typefaces before paint (no font flash) -->
+  <script>
+    (function () {
+      var scripts = ['s-latin','s-ar','s-he','s-hi','s-my','s-km','s-ko'];
+      var root = document.documentElement;
+      scripts.forEach(function (s) {
+        try {
+          var v = localStorage.getItem('sl.font.' + s);
+          if (v) root.style.setProperty('--font-' + s, JSON.parse(v));
+        } catch (e) {}
+      });
+    })();
+  </script>
+
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Noto+Sans:wght@400;500;700&family=Noto+Sans+Arabic:wght@400;500;700&family=Noto+Sans+Hebrew:wght@400;500;700&family=Noto+Sans+Devanagari:wght@400;500;700&family=Noto+Sans+Myanmar:wght@400;500;700&family=Noto+Sans+Khmer:wght@400;500;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet" />
+  <!-- Learner-friendly / traditional alternatives for complex scripts -->
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Gowun+Batang:wght@400;700&family=Hanuman:wght@400;700&family=Noto+Naskh+Arabic:wght@400;500;700&family=Noto+Serif+Devanagari:wght@400;500;700&family=Noto+Serif+KR:wght@400;500;700&family=Noto+Serif+Khmer:wght@400;500;700&family=Noto+Serif+Myanmar:wght@400;500;700&family=Padauk:wght@400;700&family=Tiro+Devanagari+Hindi&display=swap" rel="stylesheet" />
 
   <link rel="stylesheet" href="css/app.css" />
   <link rel="stylesheet" href="css/screens.css" />
@@ -62,8 +78,3 @@
 </body>
 </html>
 
-<style id="__om-edit-overrides">
-#app .words >button:nth-child(1) .s-ar { font-family: sans-serif !important }
-#app .words >button:nth-child(1) .s-ar { font-family: "Times New Roman" !important }
-#app .words >button:nth-child(1) .s-ar { font-family: "Noto Sans Arabic" !important }
-</style>

@@ -76,14 +76,14 @@
 [data-theme="dark"] .group-sea   { --accent:#5cc2d8; --accent-ink:#7fd6e9; --accent-soft:#152226; }
 [data-theme="dark"] .group-afro  { --accent:#93c264; --accent-ink:#abd67f; --accent-soft:#1b2215; }
 
-/* ---- script fonts ---- */
-.s-latin { font-family:'Noto Sans', sans-serif; }
-.s-ar    { font-family:'Noto Sans Arabic', sans-serif; }
-.s-he    { font-family:'Noto Sans Hebrew', sans-serif; }
-.s-hi    { font-family:'Noto Sans Devanagari', sans-serif; }
-.s-my    { font-family:'Noto Sans Myanmar', sans-serif; }
-.s-km    { font-family:'Noto Sans Khmer', sans-serif; }
-.s-ko    { font-family:'Noto Sans KR', sans-serif; }
+/* ---- script fonts (each overridable via --font-<script>; default = learner-friendly) ---- */
+.s-latin { font-family: var(--font-s-latin, 'Noto Sans'), sans-serif; }
+.s-ar    { font-family: var(--font-s-ar, 'Noto Naskh Arabic'), serif; }
+.s-he    { font-family: var(--font-s-he, 'Noto Sans Hebrew'), sans-serif; }
+.s-hi    { font-family: var(--font-s-hi, 'Tiro Devanagari Hindi'), serif; }
+.s-my    { font-family: var(--font-s-my, 'Padauk'), sans-serif; }
+.s-km    { font-family: var(--font-s-km, 'Hanuman'), serif; }
+.s-ko    { font-family: var(--font-s-ko, 'Noto Sans KR'), sans-serif; }
 
 /* ============================================================ base */
 * { box-sizing: border-box; }

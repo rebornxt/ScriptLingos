@@ -1,6 +1,7 @@
 // main.js — hash router, theme toggle, per-script accent, transitions
 import { getGroupAccent } from './data.js';
 import { setAccent } from './ui.js';
+import { applyAll as applyFonts } from './fonts.js';
 import { stopCurrent } from './audio.js';
 import * as home from './views/home.js';
 import * as grid from './views/grid.js';
@@ -77,6 +78,12 @@ function setActiveTab(route) {
 }
 
 backBtn.addEventListener('click', () => {
+  const r = parse();
+  // From a letter, "back" always returns to all letters of that language.
+  if (r.name === 'letter' && r.code) {
+    location.hash = '#/lang/' + encodeURIComponent(r.code);
+    return;
+  }
   if (history.length > 1) history.back();
   else location.hash = '#/';
 });
@@ -89,4 +96,5 @@ themeBtn.addEventListener('click', () => {
 });
 
 window.addEventListener('hashchange', navigate);
+applyFonts();
 navigate();
