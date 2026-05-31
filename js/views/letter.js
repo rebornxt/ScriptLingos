@@ -6,6 +6,7 @@ import { store } from '../store.js';
 
 const FORM_ORDER = ['isolated', 'initial', 'medial', 'final'];
 const REVEAL_KEY = 'sl.reveal'; // false = name/romanization/IPA hidden (default)
+let enterDir = 0; // set by prev/next nav so the next render can animate in
 
 const EYE = '<svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><path d="M2.5 12S6 5.5 12 5.5 21.5 12 21.5 12 18 18.5 12 18.5 2.5 12 2.5 12z" fill="none" stroke="currentColor" stroke-width="1.9"/><circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="1.9"/></svg>';
 const EYE_OFF = '<svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><path d="M2.5 12S6 5.5 12 5.5c1.6 0 3 .35 4.2.9M21.5 12S18 18.5 12 18.5c-1.6 0-3-.35-4.2-.9" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><path d="M9.5 9.6a3 3 0 0 0 4.2 4.3" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/><line x1="4" y1="4" x2="20" y2="20" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></svg>';
@@ -21,6 +22,14 @@ export async function render({ code, letterId }) {
   }
 
   const screen = h('<div class="screen detail"></div>');
+  if (enterDir !== 0) {
+    screen.classList.add(enterDir > 0 ? 'slide-from-right' : 'slide-from-left');
+    enterDir = 0;
+  }
+
+  // typeface picker — at the very top so learners can fix the shape before reading
+  const typeface = renderTypeface(meta.script, letter.char);
+  if (typeface) screen.appendChild(typeface);
 
   let revealed = store.get(REVEAL_KEY, false) === true;
 
@@ -124,10 +133,6 @@ export async function render({ code, letterId }) {
     screen.appendChild(card);
   }
 
-  // typeface picker (only for scripts with learner-friendly alternatives)
-  const typeface = renderTypeface(meta.script, letter.char);
-  if (typeface) screen.appendChild(typeface);
-
   // prev / next
   const prev = data.letters[idx - 1];
   const next = data.letters[idx + 1];
@@ -147,7 +152,10 @@ export async function render({ code, letterId }) {
   // ---- navigate between letters: ← / → arrow keys + touch swipe ----
   const go = (delta) => {
     const target = data.letters[idx + delta];
-    if (target) location.hash = '#/lang/' + encodeURIComponent(code) + '/letter/' + encodeURIComponent(target.id);
+    if (target) {
+      enterDir = delta; // remember direction so the new screen slides in
+      location.hash = '#/lang/' + encodeURIComponent(code) + '/letter/' + encodeURIComponent(target.id);
+    }
   };
 
   function onKey(e) {

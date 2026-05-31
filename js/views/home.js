@@ -1,6 +1,7 @@
 // home.js — language picker, grouped by script family
 import { loadRegistry } from '../data.js';
 import { h, esc } from '../ui.js';
+import { getOptions, getCurrentId, setFont } from '../fonts.js';
 
 const CHECK = '<svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="var(--accent)"/><path d="M6 10.2l2.6 2.6L14 7.4" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 
@@ -10,23 +11,51 @@ export async function render() {
 
   const readyCount = reg.languages.filter(l => l.status === 'ready').length;
 
+  const checks = [
+    { script: 's-hi', label: 'Hindi',   glyph: 'अ' },
+    { script: 's-my', label: 'Burmese', glyph: 'က' },
+    { script: 's-km', label: 'Khmer',   glyph: 'ក' },
+    { script: 's-ko', label: 'Korean',  glyph: '한' },
+    { script: 's-ar', label: 'Arabic',  glyph: 'ب' }
+  ];
   screen.appendChild(h(`
     <header class="home-head">
       <p class="eyebrow">13 alphabets · one app</p>
       <h1 class="page-title">Learn to read<br>a new script.</h1>
       <p class="page-sub">Tap a language to explore its letters — the sounds, the shapes, and a memory trick for each. ${readyCount} ready to try now.</p>
-      <div class="font-check" title="Confirms complex scripts render with no missing-glyph boxes">
-        <span class="font-check__label">Font check</span>
-        <div class="font-check__glyphs">
-          <span class="fc-glyph"><b class="s-hi">अ</b><span>Hindi</span></span>
-          <span class="fc-glyph"><b class="s-my">က</b><span>Burmese</span></span>
-          <span class="fc-glyph"><b class="s-km">ក</b><span>Khmer</span></span>
-          <span class="fc-glyph"><b class="s-ko">한</b><span>Korean</span></span>
-          <span class="fc-glyph"><b class="s-ar">ب</b><span>Arabic</span></span>
-        </div>
+      <div class="font-check">
+        <span class="font-check__label">Tap to switch typeface</span>
+        <div class="font-check__glyphs"></div>
       </div>
     </header>
   `));
+
+  const glyphRow = screen.querySelector('.font-check__glyphs');
+  checks.forEach(c => {
+    const opts = getOptions(c.script);
+    const cur = () => opts.find(o => o.id === getCurrentId(c.script)) || opts[0];
+    const btn = h(`
+      <button class="fc-glyph" type="button" title="Tap to change the ${esc(c.label)} typeface">
+        <b class="${c.script}">${esc(c.glyph)}</b>
+        <span class="fc-glyph__meta">
+          <span class="fc-glyph__lang">${esc(c.label)}</span>
+          <span class="fc-glyph__style">${esc(cur().label)}</span>
+        </span>
+      </button>
+    `);
+    const styleEl = btn.querySelector('.fc-glyph__style');
+    const glyphEl = btn.querySelector('b');
+    btn.addEventListener('click', () => {
+      const i = opts.findIndex(o => o.id === getCurrentId(c.script));
+      const next = opts[(i + 1) % opts.length];
+      setFont(c.script, next.id); // applies live everywhere via CSS var
+      styleEl.textContent = next.label;
+      glyphEl.classList.remove('fc-pulse');
+      void glyphEl.offsetWidth; // restart the pulse
+      glyphEl.classList.add('fc-pulse');
+    });
+    glyphRow.appendChild(btn);
+  });
 
   for (const group of reg.groups) {
     const langs = reg.languages.filter(l => l.group === group.id);
