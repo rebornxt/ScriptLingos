@@ -21,6 +21,11 @@ export async function render({ code, letterId }) {
     return e;
   }
 
+  // Navigation sequence: for Japanese, stay within the same kana set
+  // (so に → ぬ, not に → ヌ). Other languages walk the whole list.
+  const seq = letter.kana ? data.letters.filter(l => l.kana === letter.kana) : data.letters;
+  const sidx = seq.findIndex(l => l.id === letterId);
+
   const screen = h('<div class="screen detail"></div>');
   if (enterDir !== 0) {
     screen.classList.add(enterDir > 0 ? 'slide-from-right' : 'slide-from-left');
@@ -58,6 +63,7 @@ export async function render({ code, letterId }) {
   bindSpeak(hero.querySelector('#hearLetter'), () => ({
     mp3: letter.letterAudio,
     text: letter.char,
+    say: letter.say,
     lang: data.code
   }));
 
@@ -121,6 +127,7 @@ export async function render({ code, letterId }) {
           <span class="word__emoji" aria-hidden="true">${esc(w.emoji || '🔤')}</span>
           <span class="word__body">
             <span class="word__text ${meta.script}">${esc(w.text)}</span>
+            ${w.kanji ? `<span class="word__kanji ${meta.script}" title="Kanji">${esc(w.kanji)}</span>` : ''}
             <span class="word__roman">${esc(w.roman || '')}</span>
             <span class="word__meaning">${esc(w.meaning || '')}</span>
           </span>
@@ -134,8 +141,8 @@ export async function render({ code, letterId }) {
   }
 
   // prev / next
-  const prev = data.letters[idx - 1];
-  const next = data.letters[idx + 1];
+  const prev = seq[sidx - 1];
+  const next = seq[sidx + 1];
   const nav = h('<div class="detail-nav"></div>');
   nav.appendChild(h(`
     <a class="btn btn--ghost" ${prev ? `href="#/lang/${encodeURIComponent(code)}/letter/${encodeURIComponent(prev.id)}"` : 'aria-disabled="true" disabled'}>
@@ -151,7 +158,7 @@ export async function render({ code, letterId }) {
 
   // ---- navigate between letters: ← / → arrow keys + touch swipe ----
   const go = (delta) => {
-    const target = data.letters[idx + delta];
+    const target = seq[sidx + delta];
     if (target) {
       enterDir = delta; // remember direction so the new screen slides in
       location.hash = '#/lang/' + encodeURIComponent(code) + '/letter/' + encodeURIComponent(target.id);

@@ -110,7 +110,7 @@ export async function render() {
           <span class="quiz-pick__glyph ${lang.script}">${esc(lang.glyph)}</span>
           <span class="quiz-pick__body">
             <span class="quiz-pick__native ${lang.script}">${esc(lang.native)}</span>
-            <span class="quiz-pick__name">${esc(lang.language)}${lang.draft ? ' <span class="draft-dot">Draft</span>' : ''}</span>
+            <span class="quiz-pick__name">${esc(lang.language)}</span>
           </span>
           <span class="quiz-pick__meta">
             ${best != null ? `<span class="quiz-pick__best">Best ${best}%</span>` : ''}
@@ -171,7 +171,7 @@ export async function render() {
             <p class="quiz-prompt__hint">${formLabel(q.target)}</p>
           </div>`;
       } else {
-        const ask = mode === 'glyph' ? 'Which sound does this letter make?' : 'Which IPA matches this letter?';
+        const ask = mode === 'glyph' ? 'Listen to each option — which sound matches this letter?' : 'Which IPA matches this letter?';
         promptHtml = `
           <div class="quiz-prompt">
             <p>${ask}</p>
@@ -181,16 +181,20 @@ export async function render() {
       }
 
       // ----- options differ per mode -----
-      const optHtml = q.options.map(o => {
+      const optHtml = q.options.map((o, oi) => {
         if (mode === 'sound') {
           return `<button class="qopt ${data.script}" data-uid="${esc(o.uid)}" aria-label="${esc(o.name)}">${esc(o.char)}</button>`;
         }
         if (mode === 'glyph') {
-          // a tappable "listen" button (hear freely) + the romanization; the
-          // button body is the answer — listening and choosing are separate.
-          return `<button class="qopt qopt--sound" data-uid="${esc(o.uid)}">
+          // Listen-only options: no romanization is shown, so the learner must
+          // match the glyph to a sound by ear. The speaker plays the candidate;
+          // the card body commits it as the answer.
+          return `<button class="qopt qopt--sound" data-uid="${esc(o.uid)}" aria-label="Sound option ${oi + 1}">
             <span class="qopt__play" role="button" tabindex="0" aria-label="Hear this sound" data-play="${esc(o.uid)}">${PLAY_SVG}</span>
-            <span class="qopt__rom">${esc(o.romanization)}</span>
+            <span class="qopt__listen">
+              <span class="qopt__listen-n">Sound ${oi + 1}</span>
+              <span class="qopt__listen-hint">tap to choose</span>
+            </span>
           </button>`;
         }
         return `<button class="qopt qopt--text qopt--ipa" data-uid="${esc(o.uid)}">${esc(o.ipa)}</button>`;
@@ -211,7 +215,7 @@ export async function render() {
         const replay = screen.querySelector('#replay');
         const playTarget = async () => {
           replay.classList.add('is-playing');
-          try { await play({ mp3: q.target.letterAudio, text: q.target.sound, lang: data.code }); } catch (e) {}
+          try { await play({ mp3: q.target.letterAudio, text: q.target.sound, say: q.target.say, lang: data.code }); } catch (e) {}
           setTimeout(() => replay.classList.remove('is-playing'), 850);
         };
         replay.addEventListener('click', playTarget);
@@ -228,7 +232,7 @@ export async function render() {
             const o = q.options.find(x => x.uid === p.dataset.play);
             if (!o) return;
             p.classList.add('is-playing');
-            try { play({ mp3: o.letterAudio, text: o.sound, lang: data.code }); } catch (err) {}
+            try { play({ mp3: o.letterAudio, text: o.sound, say: o.say, lang: data.code }); } catch (err) {}
             setTimeout(() => p.classList.remove('is-playing'), 850);
           };
           p.addEventListener('click', hear);
@@ -250,7 +254,7 @@ export async function render() {
           });
           // reinforce by playing the letter's sound after a glyph/ipa answer
           if (mode !== 'sound') {
-            try { play({ mp3: q.target.letterAudio, text: q.target.sound, lang: data.code }); } catch (e) {}
+            try { play({ mp3: q.target.letterAudio, text: q.target.sound, say: q.target.say, lang: data.code }); } catch (e) {}
           }
           const formTxt = q.target.formName ? ' · ' + q.target.formName : '';
           if (correct) {

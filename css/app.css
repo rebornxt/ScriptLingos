@@ -93,6 +93,9 @@
 .s-bn    { font-family: var(--font-s-bn, 'Noto Sans Bengali'), serif; }
 .s-ta    { font-family: var(--font-s-ta, 'Noto Sans Tamil'), sans-serif; }
 .s-ka    { font-family: var(--font-s-ka, 'Noto Sans Georgian'), sans-serif; }
+.s-zh    { font-family: var(--font-s-zh, 'Noto Sans SC'), sans-serif; }
+.s-yue   { font-family: var(--font-s-yue, 'Noto Sans HK'), sans-serif; }
+.s-ja    { font-family: var(--font-s-ja, 'Noto Sans JP'), sans-serif; }
 
 /* ============================================================ base */
 * { box-sizing: border-box; }

@@ -63,6 +63,18 @@ export const FONTS = {
   's-ka': [
     { id: 'sans',  label: 'Modern',  note: 'Clean · clearest', stack: "'Noto Sans Georgian', sans-serif" },
     { id: 'serif', label: 'Serif',   note: 'Traditional',      stack: "'Noto Serif Georgian', serif" }
+  ],
+  's-zh': [
+    { id: 'sans',  label: 'Modern',  note: 'Clean · clearest', stack: "'Noto Sans SC', sans-serif" },
+    { id: 'serif', label: 'Song',    note: 'Traditional print', stack: "'Noto Serif SC', serif" }
+  ],
+  's-yue': [
+    { id: 'sans',  label: 'Modern',  note: 'Clean · clearest', stack: "'Noto Sans HK', sans-serif" },
+    { id: 'serif', label: 'Song',    note: 'Traditional print', stack: "'Noto Serif HK', serif" }
+  ],
+  's-ja': [
+    { id: 'sans',  label: 'Modern',   note: 'Clean · clearest', stack: "'Noto Sans JP', sans-serif" },
+    { id: 'serif', label: 'Mincho',   note: 'Traditional brush', stack: "'Noto Serif JP', serif" }
   ]
 };
 

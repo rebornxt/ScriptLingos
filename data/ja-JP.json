@@ -1,0 +1,4621 @@
+{
+  "language": "Japanese",
+  "code": "ja-JP",
+  "direction": "ltr",
+  "layout": "jp",
+  "intro": "Japanese uses two kana syllabaries side by side: hiragana (ひらがな) for native words and grammar, and katakana (カタカナ) for foreign loanwords. Words are usually written together with kanji — the Chinese characters shown beside the example words.",
+  "jp": {
+    "tabs": [
+      {
+        "id": "hiragana",
+        "label": "Hiragana",
+        "native": "ひらがな",
+        "cats": [
+          "gojuon",
+          "dakuten",
+          "yoon",
+          "sokuon"
+        ]
+      },
+      {
+        "id": "katakana",
+        "label": "Katakana",
+        "native": "カタカナ",
+        "cats": [
+          "gojuon",
+          "dakuten",
+          "yoon",
+          "special",
+          "sokuon"
+        ]
+      }
+    ],
+    "cats": {
+      "gojuon": {
+        "label": "Gojūon",
+        "blurb": "The 46 basic sounds — start here."
+      },
+      "dakuten": {
+        "label": "Dakuten & Handakuten",
+        "blurb": "Add ゛ to voice a sound, or ゜ to turn the h-row into p."
+      },
+      "yoon": {
+        "label": "Yōon — contracted",
+        "blurb": "A kana plus a small ゃ / ゅ / ょ, blended into one beat."
+      },
+      "special": {
+        "label": "Special combinations",
+        "blurb": "Modern katakana blends for borrowed foreign sounds."
+      },
+      "sokuon": {
+        "label": "Sokuon — the small tsu",
+        "blurb": "A small っ / ッ that doubles the next consonant."
+      }
+    }
+  },
+  "letters": [
+    {
+      "id": "ja-h-a",
+      "char": "あ",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "Open 'ah' as in 'father'.",
+      "words": [
+        {
+          "text": "あい",
+          "kanji": "愛",
+          "roman": "ai",
+          "meaning": "love",
+          "emoji": "❤️"
+        },
+        {
+          "text": "あさ",
+          "kanji": "朝",
+          "roman": "asa",
+          "meaning": "morning",
+          "emoji": "🌅"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-a",
+      "char": "ア",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "Open 'ah' as in 'father'.",
+      "words": [
+        {
+          "text": "アイス",
+          "roman": "aisu",
+          "meaning": "ice cream",
+          "emoji": "🍦"
+        },
+        {
+          "text": "アメリカ",
+          "roman": "amerika",
+          "meaning": "America",
+          "emoji": "🇺🇸"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-i",
+      "char": "い",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'ee' as in 'see'.",
+      "words": [
+        {
+          "text": "いぬ",
+          "kanji": "犬",
+          "roman": "inu",
+          "meaning": "dog",
+          "emoji": "🐕"
+        },
+        {
+          "text": "いし",
+          "kanji": "石",
+          "roman": "ishi",
+          "meaning": "stone",
+          "emoji": "🪨"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-i",
+      "char": "イ",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'ee' as in 'see'.",
+      "words": [
+        {
+          "text": "インク",
+          "roman": "inku",
+          "meaning": "ink",
+          "emoji": "🖋️"
+        },
+        {
+          "text": "イタリア",
+          "roman": "itaria",
+          "meaning": "Italy",
+          "emoji": "🇮🇹"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-u",
+      "char": "う",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/ɯ/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "An 'oo' as in 'food' but with relaxed, unrounded lips.",
+      "words": [
+        {
+          "text": "うみ",
+          "kanji": "海",
+          "roman": "umi",
+          "meaning": "sea",
+          "emoji": "🌊"
+        },
+        {
+          "text": "うし",
+          "kanji": "牛",
+          "roman": "ushi",
+          "meaning": "cow",
+          "emoji": "🐄"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-u",
+      "char": "ウ",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/ɯ/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "An 'oo' as in 'food' but with relaxed, unrounded lips.",
+      "words": [
+        {
+          "text": "ウール",
+          "roman": "uuru",
+          "meaning": "wool",
+          "emoji": "🧶"
+        },
+        {
+          "text": "ウイルス",
+          "roman": "uirusu",
+          "meaning": "virus",
+          "emoji": "🦠"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-e",
+      "char": "え",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/e/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'eh' as in 'bed'.",
+      "words": [
+        {
+          "text": "えき",
+          "kanji": "駅",
+          "roman": "eki",
+          "meaning": "station",
+          "emoji": "🚉"
+        },
+        {
+          "text": "え",
+          "kanji": "絵",
+          "roman": "e",
+          "meaning": "picture",
+          "emoji": "🖼️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-e",
+      "char": "エ",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/e/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'eh' as in 'bed'.",
+      "words": [
+        {
+          "text": "エアコン",
+          "roman": "eakon",
+          "meaning": "air conditioner",
+          "emoji": "❄️"
+        },
+        {
+          "text": "エレベーター",
+          "roman": "erebeetaa",
+          "meaning": "elevator",
+          "emoji": "🛗"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-o",
+      "char": "お",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/o/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'oh' as in 'go', lips lightly rounded.",
+      "words": [
+        {
+          "text": "おと",
+          "kanji": "音",
+          "roman": "oto",
+          "meaning": "sound",
+          "emoji": "🔊"
+        },
+        {
+          "text": "おちゃ",
+          "kanji": "お茶",
+          "roman": "ocha",
+          "meaning": "tea",
+          "emoji": "🍵"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-o",
+      "char": "オ",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/o/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'oh' as in 'go', lips lightly rounded.",
+      "words": [
+        {
+          "text": "オレンジ",
+          "roman": "orenji",
+          "meaning": "orange",
+          "emoji": "🍊"
+        },
+        {
+          "text": "オムレツ",
+          "roman": "omuretsu",
+          "meaning": "omelette",
+          "emoji": "🍳"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ka",
+      "char": "か",
+      "name": "ka",
+      "romanization": "ka",
+      "ipa": "/ka/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'k' + 'a'.",
+      "words": [
+        {
+          "text": "かさ",
+          "kanji": "傘",
+          "roman": "kasa",
+          "meaning": "umbrella",
+          "emoji": "☂️"
+        },
+        {
+          "text": "かわ",
+          "kanji": "川",
+          "roman": "kawa",
+          "meaning": "river",
+          "emoji": "🏞️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ka",
+      "char": "カ",
+      "name": "ka",
+      "romanization": "ka",
+      "ipa": "/ka/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'k' + 'a'.",
+      "words": [
+        {
+          "text": "カメラ",
+          "roman": "kamera",
+          "meaning": "camera",
+          "emoji": "📷"
+        },
+        {
+          "text": "カレー",
+          "roman": "karee",
+          "meaning": "curry",
+          "emoji": "🍛"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ki",
+      "char": "き",
+      "name": "ki",
+      "romanization": "ki",
+      "ipa": "/ki/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'k' + 'ee'. き looks like a key.",
+      "words": [
+        {
+          "text": "き",
+          "kanji": "木",
+          "roman": "ki",
+          "meaning": "tree",
+          "emoji": "🌳"
+        },
+        {
+          "text": "きいろ",
+          "kanji": "黄色",
+          "roman": "kiiro",
+          "meaning": "yellow",
+          "emoji": "🟡"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ki",
+      "char": "キ",
+      "name": "ki",
+      "romanization": "ki",
+      "ipa": "/ki/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'k' + 'ee'. き looks like a key.",
+      "words": [
+        {
+          "text": "キウイ",
+          "roman": "kiui",
+          "meaning": "kiwi",
+          "emoji": "🥝"
+        },
+        {
+          "text": "キッチン",
+          "roman": "kicchin",
+          "meaning": "kitchen",
+          "emoji": "🍳"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ku",
+      "char": "く",
+      "name": "ku",
+      "romanization": "ku",
+      "ipa": "/kɯ/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'k' + 'u'. く is a single beak-like stroke.",
+      "words": [
+        {
+          "text": "くも",
+          "kanji": "雲",
+          "roman": "kumo",
+          "meaning": "cloud",
+          "emoji": "☁️"
+        },
+        {
+          "text": "くつ",
+          "kanji": "靴",
+          "roman": "kutsu",
+          "meaning": "shoes",
+          "emoji": "👟"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ku",
+      "char": "ク",
+      "name": "ku",
+      "romanization": "ku",
+      "ipa": "/kɯ/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'k' + 'u'. く is a single beak-like stroke.",
+      "words": [
+        {
+          "text": "クッキー",
+          "roman": "kukkii",
+          "meaning": "cookie",
+          "emoji": "🍪"
+        },
+        {
+          "text": "クラス",
+          "roman": "kurasu",
+          "meaning": "class",
+          "emoji": "🏫"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ke",
+      "char": "け",
+      "name": "ke",
+      "romanization": "ke",
+      "ipa": "/ke/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'k' + 'eh'.",
+      "words": [
+        {
+          "text": "けむり",
+          "kanji": "煙",
+          "roman": "kemuri",
+          "meaning": "smoke",
+          "emoji": "💨"
+        },
+        {
+          "text": "け",
+          "kanji": "毛",
+          "roman": "ke",
+          "meaning": "hair / fur",
+          "emoji": "🧶"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ke",
+      "char": "ケ",
+      "name": "ke",
+      "romanization": "ke",
+      "ipa": "/ke/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'k' + 'eh'.",
+      "words": [
+        {
+          "text": "ケーキ",
+          "roman": "keeki",
+          "meaning": "cake",
+          "emoji": "🎂"
+        },
+        {
+          "text": "ケチャップ",
+          "roman": "kechappu",
+          "meaning": "ketchup",
+          "emoji": "🍅"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ko",
+      "char": "こ",
+      "name": "ko",
+      "romanization": "ko",
+      "ipa": "/ko/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'k' + 'oh'.",
+      "words": [
+        {
+          "text": "こども",
+          "kanji": "子供",
+          "roman": "kodomo",
+          "meaning": "child",
+          "emoji": "🧒"
+        },
+        {
+          "text": "こえ",
+          "kanji": "声",
+          "roman": "koe",
+          "meaning": "voice",
+          "emoji": "🗣️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ko",
+      "char": "コ",
+      "name": "ko",
+      "romanization": "ko",
+      "ipa": "/ko/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'k' + 'oh'.",
+      "words": [
+        {
+          "text": "コーヒー",
+          "roman": "koohii",
+          "meaning": "coffee",
+          "emoji": "☕"
+        },
+        {
+          "text": "コアラ",
+          "roman": "koara",
+          "meaning": "koala",
+          "emoji": "🐨"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-sa",
+      "char": "さ",
+      "name": "sa",
+      "romanization": "sa",
+      "ipa": "/sa/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'s' + 'a'.",
+      "words": [
+        {
+          "text": "さかな",
+          "kanji": "魚",
+          "roman": "sakana",
+          "meaning": "fish",
+          "emoji": "🐟"
+        },
+        {
+          "text": "さくら",
+          "kanji": "桜",
+          "roman": "sakura",
+          "meaning": "cherry blossom",
+          "emoji": "🌸"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-sa",
+      "char": "サ",
+      "name": "sa",
+      "romanization": "sa",
+      "ipa": "/sa/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'s' + 'a'.",
+      "words": [
+        {
+          "text": "サラダ",
+          "roman": "sarada",
+          "meaning": "salad",
+          "emoji": "🥗"
+        },
+        {
+          "text": "サッカー",
+          "roman": "sakkaa",
+          "meaning": "soccer",
+          "emoji": "⚽"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-shi",
+      "char": "し",
+      "name": "shi",
+      "romanization": "shi",
+      "ipa": "/ɕi/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'shee' — a soft 'sh'. し is one long swoop.",
+      "words": [
+        {
+          "text": "しお",
+          "kanji": "塩",
+          "roman": "shio",
+          "meaning": "salt",
+          "emoji": "🧂"
+        },
+        {
+          "text": "しろ",
+          "kanji": "白",
+          "roman": "shiro",
+          "meaning": "white",
+          "emoji": "⬜"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-shi",
+      "char": "シ",
+      "name": "shi",
+      "romanization": "shi",
+      "ipa": "/ɕi/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'shee' — a soft 'sh'. し is one long swoop.",
+      "words": [
+        {
+          "text": "シャツ",
+          "roman": "shatsu",
+          "meaning": "shirt",
+          "emoji": "👕"
+        },
+        {
+          "text": "シマウマ",
+          "roman": "shimauma",
+          "meaning": "zebra",
+          "emoji": "🦓"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-su",
+      "char": "す",
+      "name": "su",
+      "romanization": "su",
+      "ipa": "/sɯ/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'s' + 'u'.",
+      "words": [
+        {
+          "text": "すし",
+          "kanji": "寿司",
+          "roman": "sushi",
+          "meaning": "sushi",
+          "emoji": "🍣"
+        },
+        {
+          "text": "すいか",
+          "kanji": "西瓜",
+          "roman": "suika",
+          "meaning": "watermelon",
+          "emoji": "🍉"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-su",
+      "char": "ス",
+      "name": "su",
+      "romanization": "su",
+      "ipa": "/sɯ/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'s' + 'u'.",
+      "words": [
+        {
+          "text": "スプーン",
+          "roman": "supuun",
+          "meaning": "spoon",
+          "emoji": "🥄"
+        },
+        {
+          "text": "スキー",
+          "roman": "sukii",
+          "meaning": "ski",
+          "emoji": "⛷️"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-se",
+      "char": "せ",
+      "name": "se",
+      "romanization": "se",
+      "ipa": "/se/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'s' + 'eh'.",
+      "words": [
+        {
+          "text": "せんせい",
+          "kanji": "先生",
+          "roman": "sensei",
+          "meaning": "teacher",
+          "emoji": "👩‍🏫"
+        },
+        {
+          "text": "せかい",
+          "kanji": "世界",
+          "roman": "sekai",
+          "meaning": "world",
+          "emoji": "🌍"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-se",
+      "char": "セ",
+      "name": "se",
+      "romanization": "se",
+      "ipa": "/se/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'s' + 'eh'.",
+      "words": [
+        {
+          "text": "セーター",
+          "roman": "seetaa",
+          "meaning": "sweater",
+          "emoji": "🧥"
+        },
+        {
+          "text": "セロリ",
+          "roman": "serori",
+          "meaning": "celery",
+          "emoji": "🥬"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-so",
+      "char": "そ",
+      "name": "so",
+      "romanization": "so",
+      "ipa": "/so/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'s' + 'oh'. ソ vs ン: ソ strokes go top-down.",
+      "words": [
+        {
+          "text": "そら",
+          "kanji": "空",
+          "roman": "sora",
+          "meaning": "sky",
+          "emoji": "🌌"
+        },
+        {
+          "text": "そば",
+          "kanji": "蕎麦",
+          "roman": "soba",
+          "meaning": "buckwheat noodles",
+          "emoji": "🍜"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-so",
+      "char": "ソ",
+      "name": "so",
+      "romanization": "so",
+      "ipa": "/so/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'s' + 'oh'. ソ vs ン: ソ strokes go top-down.",
+      "words": [
+        {
+          "text": "ソファ",
+          "roman": "sofa",
+          "meaning": "sofa",
+          "emoji": "🛋️"
+        },
+        {
+          "text": "ソース",
+          "roman": "soosu",
+          "meaning": "sauce",
+          "emoji": "🥫"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ta",
+      "char": "た",
+      "name": "ta",
+      "romanization": "ta",
+      "ipa": "/ta/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'t' + 'a'.",
+      "words": [
+        {
+          "text": "たまご",
+          "kanji": "卵",
+          "roman": "tamago",
+          "meaning": "egg",
+          "emoji": "🥚"
+        },
+        {
+          "text": "た",
+          "kanji": "田",
+          "roman": "ta",
+          "meaning": "rice field",
+          "emoji": "🌾"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ta",
+      "char": "タ",
+      "name": "ta",
+      "romanization": "ta",
+      "ipa": "/ta/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'t' + 'a'.",
+      "words": [
+        {
+          "text": "タオル",
+          "roman": "taoru",
+          "meaning": "towel",
+          "emoji": "🧖"
+        },
+        {
+          "text": "タクシー",
+          "roman": "takushii",
+          "meaning": "taxi",
+          "emoji": "🚕"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-chi",
+      "char": "ち",
+      "name": "chi",
+      "romanization": "chi",
+      "ipa": "/tɕi/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'chee' as in 'cheese'.",
+      "words": [
+        {
+          "text": "ちち",
+          "kanji": "父",
+          "roman": "chichi",
+          "meaning": "father",
+          "emoji": "👨"
+        },
+        {
+          "text": "ちず",
+          "kanji": "地図",
+          "roman": "chizu",
+          "meaning": "map",
+          "emoji": "🗺️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-chi",
+      "char": "チ",
+      "name": "chi",
+      "romanization": "chi",
+      "ipa": "/tɕi/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'chee' as in 'cheese'.",
+      "words": [
+        {
+          "text": "チーズ",
+          "roman": "chiizu",
+          "meaning": "cheese",
+          "emoji": "🧀"
+        },
+        {
+          "text": "チケット",
+          "roman": "chiketto",
+          "meaning": "ticket",
+          "emoji": "🎫"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-tsu",
+      "char": "つ",
+      "name": "tsu",
+      "romanization": "tsu",
+      "ipa": "/tsɯ/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'tsu' as in 'cats'. ツ vs シ: ツ strokes come down from the top.",
+      "words": [
+        {
+          "text": "つき",
+          "kanji": "月",
+          "roman": "tsuki",
+          "meaning": "moon",
+          "emoji": "🌙"
+        },
+        {
+          "text": "つくえ",
+          "kanji": "机",
+          "roman": "tsukue",
+          "meaning": "desk",
+          "emoji": "🪑"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-tsu",
+      "char": "ツ",
+      "name": "tsu",
+      "romanization": "tsu",
+      "ipa": "/tsɯ/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'tsu' as in 'cats'. ツ vs シ: ツ strokes come down from the top.",
+      "words": [
+        {
+          "text": "ツアー",
+          "roman": "tsuaa",
+          "meaning": "tour",
+          "emoji": "🧳"
+        },
+        {
+          "text": "ツナ",
+          "roman": "tsuna",
+          "meaning": "tuna",
+          "emoji": "🐟"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-te",
+      "char": "て",
+      "name": "te",
+      "romanization": "te",
+      "ipa": "/te/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'t' + 'eh'.",
+      "words": [
+        {
+          "text": "て",
+          "kanji": "手",
+          "roman": "te",
+          "meaning": "hand",
+          "emoji": "✋"
+        },
+        {
+          "text": "てがみ",
+          "kanji": "手紙",
+          "roman": "tegami",
+          "meaning": "letter",
+          "emoji": "✉️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-te",
+      "char": "テ",
+      "name": "te",
+      "romanization": "te",
+      "ipa": "/te/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'t' + 'eh'.",
+      "words": [
+        {
+          "text": "テレビ",
+          "roman": "terebi",
+          "meaning": "television",
+          "emoji": "📺"
+        },
+        {
+          "text": "テスト",
+          "roman": "tesuto",
+          "meaning": "test",
+          "emoji": "📝"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-to",
+      "char": "と",
+      "name": "to",
+      "romanization": "to",
+      "ipa": "/to/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'t' + 'oh'.",
+      "words": [
+        {
+          "text": "とり",
+          "kanji": "鳥",
+          "roman": "tori",
+          "meaning": "bird",
+          "emoji": "🐦"
+        },
+        {
+          "text": "とけい",
+          "kanji": "時計",
+          "roman": "tokei",
+          "meaning": "clock",
+          "emoji": "🕐"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-to",
+      "char": "ト",
+      "name": "to",
+      "romanization": "to",
+      "ipa": "/to/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'t' + 'oh'.",
+      "words": [
+        {
+          "text": "トマト",
+          "roman": "tomato",
+          "meaning": "tomato",
+          "emoji": "🍅"
+        },
+        {
+          "text": "トラック",
+          "roman": "torakku",
+          "meaning": "truck",
+          "emoji": "🚚"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-na",
+      "char": "な",
+      "name": "na",
+      "romanization": "na",
+      "ipa": "/na/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'n' + 'a'.",
+      "words": [
+        {
+          "text": "なつ",
+          "kanji": "夏",
+          "roman": "natsu",
+          "meaning": "summer",
+          "emoji": "☀️"
+        },
+        {
+          "text": "なまえ",
+          "kanji": "名前",
+          "roman": "namae",
+          "meaning": "name",
+          "emoji": "📛"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-na",
+      "char": "ナ",
+      "name": "na",
+      "romanization": "na",
+      "ipa": "/na/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'n' + 'a'.",
+      "words": [
+        {
+          "text": "ナイフ",
+          "roman": "naifu",
+          "meaning": "knife",
+          "emoji": "🔪"
+        },
+        {
+          "text": "ナプキン",
+          "roman": "napukin",
+          "meaning": "napkin",
+          "emoji": "🧻"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ni",
+      "char": "に",
+      "name": "ni",
+      "romanization": "ni",
+      "ipa": "/ɲi/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'nee'. ニ looks like the kanji 二 (two).",
+      "words": [
+        {
+          "text": "にく",
+          "kanji": "肉",
+          "roman": "niku",
+          "meaning": "meat",
+          "emoji": "🍖"
+        },
+        {
+          "text": "にじ",
+          "kanji": "虹",
+          "roman": "niji",
+          "meaning": "rainbow",
+          "emoji": "🌈"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ni",
+      "char": "ニ",
+      "name": "ni",
+      "romanization": "ni",
+      "ipa": "/ɲi/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'nee'. ニ looks like the kanji 二 (two).",
+      "words": [
+        {
+          "text": "ニュース",
+          "roman": "nyuusu",
+          "meaning": "news",
+          "emoji": "📰"
+        },
+        {
+          "text": "ニット",
+          "roman": "nitto",
+          "meaning": "knitwear",
+          "emoji": "🧶"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-nu",
+      "char": "ぬ",
+      "name": "nu",
+      "romanization": "nu",
+      "ipa": "/nɯ/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'n' + 'u'. ぬ has a tail loop (don't confuse with め).",
+      "words": [
+        {
+          "text": "ぬの",
+          "kanji": "布",
+          "roman": "nuno",
+          "meaning": "cloth",
+          "emoji": "🧵"
+        },
+        {
+          "text": "ぬいぐるみ",
+          "roman": "nuigurumi",
+          "meaning": "stuffed toy",
+          "emoji": "🧸"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-nu",
+      "char": "ヌ",
+      "name": "nu",
+      "romanization": "nu",
+      "ipa": "/nɯ/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'n' + 'u'. ぬ has a tail loop (don't confuse with め).",
+      "words": [
+        {
+          "text": "ヌードル",
+          "roman": "nuudoru",
+          "meaning": "noodle",
+          "emoji": "🍜"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ne",
+      "char": "ね",
+      "name": "ne",
+      "romanization": "ne",
+      "ipa": "/ne/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'n' + 'eh'. ね ends in a loop like a cat's tail.",
+      "words": [
+        {
+          "text": "ねこ",
+          "kanji": "猫",
+          "roman": "neko",
+          "meaning": "cat",
+          "emoji": "🐱"
+        },
+        {
+          "text": "ねだん",
+          "kanji": "値段",
+          "roman": "nedan",
+          "meaning": "price",
+          "emoji": "💰"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ne",
+      "char": "ネ",
+      "name": "ne",
+      "romanization": "ne",
+      "ipa": "/ne/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'n' + 'eh'. ね ends in a loop like a cat's tail.",
+      "words": [
+        {
+          "text": "ネクタイ",
+          "roman": "nekutai",
+          "meaning": "necktie",
+          "emoji": "👔"
+        },
+        {
+          "text": "ネット",
+          "roman": "netto",
+          "meaning": "net",
+          "emoji": "🕸️"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-no",
+      "char": "の",
+      "name": "no",
+      "romanization": "no",
+      "ipa": "/no/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'n' + 'oh'. の is a single spiral.",
+      "words": [
+        {
+          "text": "のり",
+          "kanji": "海苔",
+          "roman": "nori",
+          "meaning": "seaweed",
+          "emoji": "🍙"
+        },
+        {
+          "text": "のみもの",
+          "kanji": "飲み物",
+          "roman": "nomimono",
+          "meaning": "drink",
+          "emoji": "🥤"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-no",
+      "char": "ノ",
+      "name": "no",
+      "romanization": "no",
+      "ipa": "/no/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'n' + 'oh'. の is a single spiral.",
+      "words": [
+        {
+          "text": "ノート",
+          "roman": "nooto",
+          "meaning": "notebook",
+          "emoji": "📓"
+        },
+        {
+          "text": "ノック",
+          "roman": "nokku",
+          "meaning": "knock",
+          "emoji": "✊"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ha",
+      "char": "は",
+      "name": "ha",
+      "romanization": "ha",
+      "ipa": "/ha/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'h' + 'a'. As the topic particle, は is read 'wa'.",
+      "words": [
+        {
+          "text": "はな",
+          "kanji": "花",
+          "roman": "hana",
+          "meaning": "flower",
+          "emoji": "🌸"
+        },
+        {
+          "text": "は",
+          "kanji": "歯",
+          "roman": "ha",
+          "meaning": "tooth",
+          "emoji": "🦷"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ha",
+      "char": "ハ",
+      "name": "ha",
+      "romanization": "ha",
+      "ipa": "/ha/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'h' + 'a'. As the topic particle, は is read 'wa'.",
+      "words": [
+        {
+          "text": "ハンバーガー",
+          "roman": "hanbaagaa",
+          "meaning": "hamburger",
+          "emoji": "🍔"
+        },
+        {
+          "text": "ハート",
+          "roman": "haato",
+          "meaning": "heart",
+          "emoji": "❤️"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-hi",
+      "char": "ひ",
+      "name": "hi",
+      "romanization": "hi",
+      "ipa": "/çi/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'hee' with a slight hiss.",
+      "words": [
+        {
+          "text": "ひ",
+          "kanji": "火",
+          "roman": "hi",
+          "meaning": "fire",
+          "emoji": "🔥"
+        },
+        {
+          "text": "ひと",
+          "kanji": "人",
+          "roman": "hito",
+          "meaning": "person",
+          "emoji": "🧑"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-hi",
+      "char": "ヒ",
+      "name": "hi",
+      "romanization": "hi",
+      "ipa": "/çi/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'hee' with a slight hiss.",
+      "words": [
+        {
+          "text": "ヒーター",
+          "roman": "hiitaa",
+          "meaning": "heater",
+          "emoji": "🔥"
+        },
+        {
+          "text": "ヒント",
+          "roman": "hinto",
+          "meaning": "hint",
+          "emoji": "💡"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-fu",
+      "char": "ふ",
+      "name": "fu",
+      "romanization": "fu",
+      "ipa": "/ɸɯ/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "A soft 'fu' blown between the lips, lighter than English 'f'.",
+      "words": [
+        {
+          "text": "ふゆ",
+          "kanji": "冬",
+          "roman": "fuyu",
+          "meaning": "winter",
+          "emoji": "❄️"
+        },
+        {
+          "text": "ふね",
+          "kanji": "船",
+          "roman": "fune",
+          "meaning": "ship",
+          "emoji": "🚢"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-fu",
+      "char": "フ",
+      "name": "fu",
+      "romanization": "fu",
+      "ipa": "/ɸɯ/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "A soft 'fu' blown between the lips, lighter than English 'f'.",
+      "words": [
+        {
+          "text": "フォーク",
+          "roman": "fooku",
+          "meaning": "fork",
+          "emoji": "🍴"
+        },
+        {
+          "text": "フルーツ",
+          "roman": "furuutsu",
+          "meaning": "fruit",
+          "emoji": "🍎"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-he",
+      "char": "へ",
+      "name": "he",
+      "romanization": "he",
+      "ipa": "/he/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'h' + 'eh'. へ is the same shape in both kana! As a particle it's read 'e'.",
+      "words": [
+        {
+          "text": "へや",
+          "kanji": "部屋",
+          "roman": "heya",
+          "meaning": "room",
+          "emoji": "🚪"
+        },
+        {
+          "text": "へび",
+          "kanji": "蛇",
+          "roman": "hebi",
+          "meaning": "snake",
+          "emoji": "🐍"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-he",
+      "char": "ヘ",
+      "name": "he",
+      "romanization": "he",
+      "ipa": "/he/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'h' + 'eh'. へ is the same shape in both kana! As a particle it's read 'e'.",
+      "words": [
+        {
+          "text": "ヘリコプター",
+          "roman": "herikoputaa",
+          "meaning": "helicopter",
+          "emoji": "🚁"
+        },
+        {
+          "text": "ヘルメット",
+          "roman": "herumetto",
+          "meaning": "helmet",
+          "emoji": "⛑️"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ho",
+      "char": "ほ",
+      "name": "ho",
+      "romanization": "ho",
+      "ipa": "/ho/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'h' + 'oh'. ほ is は plus a stroke.",
+      "words": [
+        {
+          "text": "ほし",
+          "kanji": "星",
+          "roman": "hoshi",
+          "meaning": "star",
+          "emoji": "⭐"
+        },
+        {
+          "text": "ほん",
+          "kanji": "本",
+          "roman": "hon",
+          "meaning": "book",
+          "emoji": "📖"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ho",
+      "char": "ホ",
+      "name": "ho",
+      "romanization": "ho",
+      "ipa": "/ho/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'h' + 'oh'. ほ is は plus a stroke.",
+      "words": [
+        {
+          "text": "ホテル",
+          "roman": "hoteru",
+          "meaning": "hotel",
+          "emoji": "🏨"
+        },
+        {
+          "text": "ホットドッグ",
+          "roman": "hottodoggu",
+          "meaning": "hot dog",
+          "emoji": "🌭"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ma",
+      "char": "ま",
+      "name": "ma",
+      "romanization": "ma",
+      "ipa": "/ma/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'m' + 'a'.",
+      "words": [
+        {
+          "text": "まど",
+          "kanji": "窓",
+          "roman": "mado",
+          "meaning": "window",
+          "emoji": "🪟"
+        },
+        {
+          "text": "まめ",
+          "kanji": "豆",
+          "roman": "mame",
+          "meaning": "bean",
+          "emoji": "🫘"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ma",
+      "char": "マ",
+      "name": "ma",
+      "romanization": "ma",
+      "ipa": "/ma/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'m' + 'a'.",
+      "words": [
+        {
+          "text": "マスク",
+          "roman": "masuku",
+          "meaning": "mask",
+          "emoji": "😷"
+        },
+        {
+          "text": "マイク",
+          "roman": "maiku",
+          "meaning": "microphone",
+          "emoji": "🎤"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-mi",
+      "char": "み",
+      "name": "mi",
+      "romanization": "mi",
+      "ipa": "/mi/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'mee'. ミ is three strokes.",
+      "words": [
+        {
+          "text": "みみ",
+          "kanji": "耳",
+          "roman": "mimi",
+          "meaning": "ear",
+          "emoji": "👂"
+        },
+        {
+          "text": "みず",
+          "kanji": "水",
+          "roman": "mizu",
+          "meaning": "water",
+          "emoji": "💧"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-mi",
+      "char": "ミ",
+      "name": "mi",
+      "romanization": "mi",
+      "ipa": "/mi/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'mee'. ミ is three strokes.",
+      "words": [
+        {
+          "text": "ミルク",
+          "roman": "miruku",
+          "meaning": "milk",
+          "emoji": "🥛"
+        },
+        {
+          "text": "ミシン",
+          "roman": "mishin",
+          "meaning": "sewing machine",
+          "emoji": "🧵"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-mu",
+      "char": "む",
+      "name": "mu",
+      "romanization": "mu",
+      "ipa": "/mɯ/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'m' + 'u'. む looks like a cow saying 'muu'.",
+      "words": [
+        {
+          "text": "むし",
+          "kanji": "虫",
+          "roman": "mushi",
+          "meaning": "insect",
+          "emoji": "🐛"
+        },
+        {
+          "text": "むら",
+          "kanji": "村",
+          "roman": "mura",
+          "meaning": "village",
+          "emoji": "🏘️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-mu",
+      "char": "ム",
+      "name": "mu",
+      "romanization": "mu",
+      "ipa": "/mɯ/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'m' + 'u'. む looks like a cow saying 'muu'.",
+      "words": [
+        {
+          "text": "ムース",
+          "roman": "muusu",
+          "meaning": "mousse",
+          "emoji": "🍮"
+        },
+        {
+          "text": "ムード",
+          "roman": "muudo",
+          "meaning": "mood",
+          "emoji": "🎭"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-me",
+      "char": "め",
+      "name": "me",
+      "romanization": "me",
+      "ipa": "/me/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'m' + 'eh'. め is ぬ without the loop.",
+      "words": [
+        {
+          "text": "め",
+          "kanji": "目",
+          "roman": "me",
+          "meaning": "eye",
+          "emoji": "👁️"
+        },
+        {
+          "text": "めがね",
+          "kanji": "眼鏡",
+          "roman": "megane",
+          "meaning": "glasses",
+          "emoji": "👓"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-me",
+      "char": "メ",
+      "name": "me",
+      "romanization": "me",
+      "ipa": "/me/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'m' + 'eh'. め is ぬ without the loop.",
+      "words": [
+        {
+          "text": "メロン",
+          "roman": "meron",
+          "meaning": "melon",
+          "emoji": "🍈"
+        },
+        {
+          "text": "メニュー",
+          "roman": "menyuu",
+          "meaning": "menu",
+          "emoji": "📋"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-mo",
+      "char": "も",
+      "name": "mo",
+      "romanization": "mo",
+      "ipa": "/mo/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'m' + 'oh'.",
+      "words": [
+        {
+          "text": "もも",
+          "kanji": "桃",
+          "roman": "momo",
+          "meaning": "peach",
+          "emoji": "🍑"
+        },
+        {
+          "text": "もり",
+          "kanji": "森",
+          "roman": "mori",
+          "meaning": "forest",
+          "emoji": "🌲"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-mo",
+      "char": "モ",
+      "name": "mo",
+      "romanization": "mo",
+      "ipa": "/mo/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'m' + 'oh'.",
+      "words": [
+        {
+          "text": "モーター",
+          "roman": "mootaa",
+          "meaning": "motor",
+          "emoji": "🛵"
+        },
+        {
+          "text": "モデル",
+          "roman": "moderu",
+          "meaning": "model",
+          "emoji": "💃"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ya",
+      "char": "や",
+      "name": "ya",
+      "romanization": "ya",
+      "ipa": "/ja/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'ya' as in 'yacht'.",
+      "words": [
+        {
+          "text": "やま",
+          "kanji": "山",
+          "roman": "yama",
+          "meaning": "mountain",
+          "emoji": "⛰️"
+        },
+        {
+          "text": "やさい",
+          "kanji": "野菜",
+          "roman": "yasai",
+          "meaning": "vegetable",
+          "emoji": "🥬"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ya",
+      "char": "ヤ",
+      "name": "ya",
+      "romanization": "ya",
+      "ipa": "/ja/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'ya' as in 'yacht'.",
+      "words": [
+        {
+          "text": "タイヤ",
+          "roman": "taiya",
+          "meaning": "tire",
+          "emoji": "🛞"
+        },
+        {
+          "text": "ヤード",
+          "roman": "yaado",
+          "meaning": "yard",
+          "emoji": "📏"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-yu",
+      "char": "ゆ",
+      "name": "yu",
+      "romanization": "yu",
+      "ipa": "/jɯ/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'yu' as in 'you'. ゆ looks like a swimming fish.",
+      "words": [
+        {
+          "text": "ゆき",
+          "kanji": "雪",
+          "roman": "yuki",
+          "meaning": "snow",
+          "emoji": "❄️"
+        },
+        {
+          "text": "ゆび",
+          "kanji": "指",
+          "roman": "yubi",
+          "meaning": "finger",
+          "emoji": "👆"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-yu",
+      "char": "ユ",
+      "name": "yu",
+      "romanization": "yu",
+      "ipa": "/jɯ/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'yu' as in 'you'. ゆ looks like a swimming fish.",
+      "words": [
+        {
+          "text": "ユニフォーム",
+          "roman": "yunifoomu",
+          "meaning": "uniform",
+          "emoji": "👕"
+        },
+        {
+          "text": "ユーロ",
+          "roman": "yuuro",
+          "meaning": "euro",
+          "emoji": "💶"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-yo",
+      "char": "よ",
+      "name": "yo",
+      "romanization": "yo",
+      "ipa": "/jo/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'yo' as in 'yoga'. ヨ looks like a capital E.",
+      "words": [
+        {
+          "text": "よる",
+          "kanji": "夜",
+          "roman": "yoru",
+          "meaning": "night",
+          "emoji": "🌃"
+        },
+        {
+          "text": "よこ",
+          "kanji": "横",
+          "roman": "yoko",
+          "meaning": "side / horizontal",
+          "emoji": "↔️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-yo",
+      "char": "ヨ",
+      "name": "yo",
+      "romanization": "yo",
+      "ipa": "/jo/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'yo' as in 'yoga'. ヨ looks like a capital E.",
+      "words": [
+        {
+          "text": "ヨーグルト",
+          "roman": "yooguruto",
+          "meaning": "yogurt",
+          "emoji": "🥛"
+        },
+        {
+          "text": "ヨット",
+          "roman": "yotto",
+          "meaning": "yacht",
+          "emoji": "⛵"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ra",
+      "char": "ら",
+      "name": "ra",
+      "romanization": "ra",
+      "ipa": "/ɾa/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "A light tapped 'r', between English r and l.",
+      "words": [
+        {
+          "text": "らいねん",
+          "kanji": "来年",
+          "roman": "rainen",
+          "meaning": "next year",
+          "emoji": "📅"
+        },
+        {
+          "text": "らく",
+          "kanji": "楽",
+          "roman": "raku",
+          "meaning": "ease / comfort",
+          "emoji": "😌"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ra",
+      "char": "ラ",
+      "name": "ra",
+      "romanization": "ra",
+      "ipa": "/ɾa/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "A light tapped 'r', between English r and l.",
+      "words": [
+        {
+          "text": "ライオン",
+          "roman": "raion",
+          "meaning": "lion",
+          "emoji": "🦁"
+        },
+        {
+          "text": "ラジオ",
+          "roman": "rajio",
+          "meaning": "radio",
+          "emoji": "📻"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ri",
+      "char": "り",
+      "name": "ri",
+      "romanization": "ri",
+      "ipa": "/ɾi/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "Tapped 'r' + 'ee'.",
+      "words": [
+        {
+          "text": "りんご",
+          "kanji": "林檎",
+          "roman": "ringo",
+          "meaning": "apple",
+          "emoji": "🍎"
+        },
+        {
+          "text": "りゆう",
+          "kanji": "理由",
+          "roman": "riyū",
+          "meaning": "reason",
+          "emoji": "💭"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ri",
+      "char": "リ",
+      "name": "ri",
+      "romanization": "ri",
+      "ipa": "/ɾi/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "Tapped 'r' + 'ee'.",
+      "words": [
+        {
+          "text": "リボン",
+          "roman": "ribon",
+          "meaning": "ribbon",
+          "emoji": "🎀"
+        },
+        {
+          "text": "リモコン",
+          "roman": "rimokon",
+          "meaning": "remote control",
+          "emoji": "🎮"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ru",
+      "char": "る",
+      "name": "ru",
+      "romanization": "ru",
+      "ipa": "/ɾɯ/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "Tapped 'r' + 'u'. る has a loop; ろ does not.",
+      "words": [
+        {
+          "text": "るす",
+          "kanji": "留守",
+          "roman": "rusu",
+          "meaning": "not at home",
+          "emoji": "🏠"
+        },
+        {
+          "text": "るり",
+          "kanji": "瑠璃",
+          "roman": "ruri",
+          "meaning": "azure / lapis",
+          "emoji": "💙"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ru",
+      "char": "ル",
+      "name": "ru",
+      "romanization": "ru",
+      "ipa": "/ɾɯ/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "Tapped 'r' + 'u'. る has a loop; ろ does not.",
+      "words": [
+        {
+          "text": "ルビー",
+          "roman": "rubii",
+          "meaning": "ruby",
+          "emoji": "💎"
+        },
+        {
+          "text": "ルール",
+          "roman": "ruuru",
+          "meaning": "rule",
+          "emoji": "📏"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-re",
+      "char": "れ",
+      "name": "re",
+      "romanization": "re",
+      "ipa": "/ɾe/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "Tapped 'r' + 'eh'.",
+      "words": [
+        {
+          "text": "れきし",
+          "kanji": "歴史",
+          "roman": "rekishi",
+          "meaning": "history",
+          "emoji": "📜"
+        },
+        {
+          "text": "れいぞうこ",
+          "kanji": "冷蔵庫",
+          "roman": "reizōko",
+          "meaning": "refrigerator",
+          "emoji": "🧊"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-re",
+      "char": "レ",
+      "name": "re",
+      "romanization": "re",
+      "ipa": "/ɾe/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "Tapped 'r' + 'eh'.",
+      "words": [
+        {
+          "text": "レモン",
+          "roman": "remon",
+          "meaning": "lemon",
+          "emoji": "🍋"
+        },
+        {
+          "text": "レストラン",
+          "roman": "resutoran",
+          "meaning": "restaurant",
+          "emoji": "🍽️"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-ro",
+      "char": "ろ",
+      "name": "ro",
+      "romanization": "ro",
+      "ipa": "/ɾo/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "Tapped 'r' + 'oh'. ロ is a simple square.",
+      "words": [
+        {
+          "text": "ろうか",
+          "kanji": "廊下",
+          "roman": "rōka",
+          "meaning": "hallway",
+          "emoji": "🚪"
+        },
+        {
+          "text": "ろく",
+          "kanji": "六",
+          "roman": "roku",
+          "meaning": "six",
+          "emoji": "6️⃣"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-ro",
+      "char": "ロ",
+      "name": "ro",
+      "romanization": "ro",
+      "ipa": "/ɾo/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "Tapped 'r' + 'oh'. ロ is a simple square.",
+      "words": [
+        {
+          "text": "ロボット",
+          "roman": "robotto",
+          "meaning": "robot",
+          "emoji": "🤖"
+        },
+        {
+          "text": "ロケット",
+          "roman": "roketto",
+          "meaning": "rocket",
+          "emoji": "🚀"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-wa",
+      "char": "わ",
+      "name": "wa",
+      "romanization": "wa",
+      "ipa": "/wa/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "'wa' as in 'water'. Don't confuse わ with ね/れ.",
+      "words": [
+        {
+          "text": "わたし",
+          "kanji": "私",
+          "roman": "watashi",
+          "meaning": "I / me",
+          "emoji": "🙋"
+        },
+        {
+          "text": "わらう",
+          "kanji": "笑う",
+          "roman": "warau",
+          "meaning": "to laugh",
+          "emoji": "😄"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-wa",
+      "char": "ワ",
+      "name": "wa",
+      "romanization": "wa",
+      "ipa": "/wa/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "'wa' as in 'water'. Don't confuse わ with ね/れ.",
+      "words": [
+        {
+          "text": "ワイン",
+          "roman": "wain",
+          "meaning": "wine",
+          "emoji": "🍷"
+        },
+        {
+          "text": "ワニ",
+          "roman": "wani",
+          "meaning": "crocodile",
+          "emoji": "🐊"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-wo",
+      "char": "を",
+      "name": "wo",
+      "romanization": "wo",
+      "ipa": "/o/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "Pronounced 'o'. Used only as the object-marking particle; it never starts a word. Katakana ヲ is virtually unused today.",
+      "words": [
+        {
+          "text": "ほんをよむ",
+          "kanji": "本を読む",
+          "roman": "hon o yomu",
+          "meaning": "to read a book",
+          "emoji": "📖"
+        },
+        {
+          "text": "みずをのむ",
+          "kanji": "水を飲む",
+          "roman": "mizu o nomu",
+          "meaning": "to drink water",
+          "emoji": "💧"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-wo",
+      "char": "ヲ",
+      "name": "wo",
+      "romanization": "wo",
+      "ipa": "/o/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "Pronounced 'o'. Used only as the object-marking particle; it never starts a word. Katakana ヲ is virtually unused today.",
+      "words": [
+        {
+          "text": "ヲ",
+          "roman": "wo",
+          "meaning": "archaic — stylistic use only",
+          "emoji": "🈳"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-n",
+      "char": "ん",
+      "name": "n",
+      "romanization": "n",
+      "ipa": "/ɴ/",
+      "kana": "hiragana",
+      "cat": "gojuon",
+      "memoryTrick": "The only standalone consonant — it closes syllables, like the 'n' in 'pen', and never begins a word. ン vs ソ: ン's stroke sweeps up from the bottom.",
+      "words": [
+        {
+          "text": "ほん",
+          "kanji": "本",
+          "roman": "hon",
+          "meaning": "book",
+          "emoji": "📖"
+        },
+        {
+          "text": "えん",
+          "kanji": "円",
+          "roman": "en",
+          "meaning": "yen / circle",
+          "emoji": "💴"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-n",
+      "char": "ン",
+      "name": "n",
+      "romanization": "n",
+      "ipa": "/ɴ/",
+      "kana": "katakana",
+      "cat": "gojuon",
+      "memoryTrick": "The only standalone consonant — it closes syllables, like the 'n' in 'pen', and never begins a word. ン vs ソ: ン's stroke sweeps up from the bottom.",
+      "words": [
+        {
+          "text": "パン",
+          "roman": "pan",
+          "meaning": "bread",
+          "emoji": "🍞"
+        },
+        {
+          "text": "ラーメン",
+          "roman": "raamen",
+          "meaning": "ramen",
+          "emoji": "🍜"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-ga",
+      "char": "が",
+      "name": "ga",
+      "romanization": "ga",
+      "ipa": "/ga/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'g'.",
+      "words": [
+        {
+          "text": "がっこう",
+          "kanji": "学校",
+          "roman": "gakkō",
+          "meaning": "school",
+          "emoji": "🏫"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-ga",
+      "char": "ガ",
+      "name": "ga",
+      "romanization": "ga",
+      "ipa": "/ga/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'g'.",
+      "words": [
+        {
+          "text": "ガラス",
+          "roman": "garasu",
+          "meaning": "glass",
+          "emoji": "🥃"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-gi",
+      "char": "ぎ",
+      "name": "gi",
+      "romanization": "gi",
+      "ipa": "/gi/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'g'.",
+      "words": [
+        {
+          "text": "ぎん",
+          "kanji": "銀",
+          "roman": "gin",
+          "meaning": "silver",
+          "emoji": "🥈"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-gi",
+      "char": "ギ",
+      "name": "gi",
+      "romanization": "gi",
+      "ipa": "/gi/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'g'.",
+      "words": [
+        {
+          "text": "ギター",
+          "roman": "gitaa",
+          "meaning": "guitar",
+          "emoji": "🎸"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-gu",
+      "char": "ぐ",
+      "name": "gu",
+      "romanization": "gu",
+      "ipa": "/gɯ/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'g'.",
+      "words": [
+        {
+          "text": "かぐ",
+          "kanji": "家具",
+          "roman": "kagu",
+          "meaning": "furniture",
+          "emoji": "🛋️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-gu",
+      "char": "グ",
+      "name": "gu",
+      "romanization": "gu",
+      "ipa": "/gɯ/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'g'.",
+      "words": [
+        {
+          "text": "グローブ",
+          "roman": "guroobu",
+          "meaning": "glove",
+          "emoji": "🧤"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-ge",
+      "char": "げ",
+      "name": "ge",
+      "romanization": "ge",
+      "ipa": "/ge/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'g'.",
+      "words": [
+        {
+          "text": "げんき",
+          "kanji": "元気",
+          "roman": "genki",
+          "meaning": "healthy / lively",
+          "emoji": "💪"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-ge",
+      "char": "ゲ",
+      "name": "ge",
+      "romanization": "ge",
+      "ipa": "/ge/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'g'.",
+      "words": [
+        {
+          "text": "ゲーム",
+          "roman": "geemu",
+          "meaning": "game",
+          "emoji": "🎮"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-go",
+      "char": "ご",
+      "name": "go",
+      "romanization": "go",
+      "ipa": "/go/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'g'.",
+      "words": [
+        {
+          "text": "ごはん",
+          "kanji": "ご飯",
+          "roman": "gohan",
+          "meaning": "rice / meal",
+          "emoji": "🍚"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-go",
+      "char": "ゴ",
+      "name": "go",
+      "romanization": "go",
+      "ipa": "/go/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'g'.",
+      "words": [
+        {
+          "text": "ゴリラ",
+          "roman": "gorira",
+          "meaning": "gorilla",
+          "emoji": "🦍"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-za",
+      "char": "ざ",
+      "name": "za",
+      "romanization": "za",
+      "ipa": "/dza/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'z'.",
+      "words": [
+        {
+          "text": "ざっし",
+          "kanji": "雑誌",
+          "roman": "zasshi",
+          "meaning": "magazine",
+          "emoji": "📖"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-za",
+      "char": "ザ",
+      "name": "za",
+      "romanization": "za",
+      "ipa": "/dza/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'z'.",
+      "words": [
+        {
+          "text": "デザート",
+          "roman": "dezaato",
+          "meaning": "dessert",
+          "emoji": "🍰"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-ji",
+      "char": "じ",
+      "name": "ji",
+      "romanization": "ji",
+      "ipa": "/dʑi/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'j'.",
+      "words": [
+        {
+          "text": "じかん",
+          "kanji": "時間",
+          "roman": "jikan",
+          "meaning": "time",
+          "emoji": "⏰"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-ji",
+      "char": "ジ",
+      "name": "ji",
+      "romanization": "ji",
+      "ipa": "/dʑi/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'j'.",
+      "words": [
+        {
+          "text": "ジュース",
+          "roman": "juusu",
+          "meaning": "juice",
+          "emoji": "🧃"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-zu",
+      "char": "ず",
+      "name": "zu",
+      "romanization": "zu",
+      "ipa": "/dzɯ/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'z'.",
+      "words": [
+        {
+          "text": "ちず",
+          "kanji": "地図",
+          "roman": "chizu",
+          "meaning": "map",
+          "emoji": "🗺️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-zu",
+      "char": "ズ",
+      "name": "zu",
+      "romanization": "zu",
+      "ipa": "/dzɯ/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'z'.",
+      "words": [
+        {
+          "text": "チーズ",
+          "roman": "chiizu",
+          "meaning": "cheese",
+          "emoji": "🧀"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-ze",
+      "char": "ぜ",
+      "name": "ze",
+      "romanization": "ze",
+      "ipa": "/dze/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'z'.",
+      "words": [
+        {
+          "text": "ぜんぶ",
+          "kanji": "全部",
+          "roman": "zenbu",
+          "meaning": "everything",
+          "emoji": "💯"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-ze",
+      "char": "ゼ",
+      "name": "ze",
+      "romanization": "ze",
+      "ipa": "/dze/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'z'.",
+      "words": [
+        {
+          "text": "ゼリー",
+          "roman": "zerii",
+          "meaning": "jelly",
+          "emoji": "🍮"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-zo",
+      "char": "ぞ",
+      "name": "zo",
+      "romanization": "zo",
+      "ipa": "/dzo/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'z'.",
+      "words": [
+        {
+          "text": "ぞう",
+          "kanji": "象",
+          "roman": "zō",
+          "meaning": "elephant",
+          "emoji": "🐘"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-zo",
+      "char": "ゾ",
+      "name": "zo",
+      "romanization": "zo",
+      "ipa": "/dzo/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'z'.",
+      "words": [
+        {
+          "text": "リゾート",
+          "roman": "rizooto",
+          "meaning": "resort",
+          "emoji": "🏖️"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-da",
+      "char": "だ",
+      "name": "da",
+      "romanization": "da",
+      "ipa": "/da/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'd'.",
+      "words": [
+        {
+          "text": "だいがく",
+          "kanji": "大学",
+          "roman": "daigaku",
+          "meaning": "university",
+          "emoji": "🎓"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-da",
+      "char": "ダ",
+      "name": "da",
+      "romanization": "da",
+      "ipa": "/da/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'd'.",
+      "words": [
+        {
+          "text": "ダンス",
+          "roman": "dansu",
+          "meaning": "dance",
+          "emoji": "💃"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-dji",
+      "char": "ぢ",
+      "name": "dji",
+      "romanization": "dji",
+      "ipa": "/dʑi/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "A rare kana, pronounced the same as じ 'ji'. Appears in a few words like はなぢ (nosebleed); katakana ヂ is almost never used.",
+      "words": [
+        {
+          "text": "はなぢ",
+          "kanji": "鼻血",
+          "roman": "hanaji",
+          "meaning": "nosebleed",
+          "emoji": "🩸"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-dji",
+      "char": "ヂ",
+      "name": "dji",
+      "romanization": "dji",
+      "ipa": "/dʑi/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "A rare kana, pronounced the same as じ 'ji'. Appears in a few words like はなぢ (nosebleed); katakana ヂ is almost never used.",
+      "words": []
+    },
+    {
+      "id": "ja-h-d-dzu",
+      "char": "づ",
+      "name": "dzu",
+      "romanization": "dzu",
+      "ipa": "/dzɯ/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "A rare kana, pronounced the same as ず 'zu'. Used in a few words like つづく (to continue); katakana ヅ is almost never used.",
+      "words": [
+        {
+          "text": "つづく",
+          "kanji": "続く",
+          "roman": "tsuzuku",
+          "meaning": "to continue",
+          "emoji": "➡️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-dzu",
+      "char": "ヅ",
+      "name": "dzu",
+      "romanization": "dzu",
+      "ipa": "/dzɯ/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "A rare kana, pronounced the same as ず 'zu'. Used in a few words like つづく (to continue); katakana ヅ is almost never used.",
+      "words": []
+    },
+    {
+      "id": "ja-h-d-de",
+      "char": "で",
+      "name": "de",
+      "romanization": "de",
+      "ipa": "/de/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'd'.",
+      "words": [
+        {
+          "text": "でんしゃ",
+          "kanji": "電車",
+          "roman": "densha",
+          "meaning": "train",
+          "emoji": "🚃"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-de",
+      "char": "デ",
+      "name": "de",
+      "romanization": "de",
+      "ipa": "/de/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'd'.",
+      "words": [
+        {
+          "text": "デザイン",
+          "roman": "dezain",
+          "meaning": "design",
+          "emoji": "🎨"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-do",
+      "char": "ど",
+      "name": "do",
+      "romanization": "do",
+      "ipa": "/do/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'd'.",
+      "words": [
+        {
+          "text": "どうぶつ",
+          "kanji": "動物",
+          "roman": "dōbutsu",
+          "meaning": "animal",
+          "emoji": "🐾"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-do",
+      "char": "ド",
+      "name": "do",
+      "romanization": "do",
+      "ipa": "/do/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'd'.",
+      "words": [
+        {
+          "text": "ドア",
+          "roman": "doa",
+          "meaning": "door",
+          "emoji": "🚪"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-ba",
+      "char": "ば",
+      "name": "ba",
+      "romanization": "ba",
+      "ipa": "/ba/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'b'.",
+      "words": [
+        {
+          "text": "かばん",
+          "kanji": "鞄",
+          "roman": "kaban",
+          "meaning": "bag",
+          "emoji": "🎒"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-ba",
+      "char": "バ",
+      "name": "ba",
+      "romanization": "ba",
+      "ipa": "/ba/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'b'.",
+      "words": [
+        {
+          "text": "バナナ",
+          "roman": "banana",
+          "meaning": "banana",
+          "emoji": "🍌"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-bi",
+      "char": "び",
+      "name": "bi",
+      "romanization": "bi",
+      "ipa": "/bi/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'b'.",
+      "words": [
+        {
+          "text": "びん",
+          "kanji": "瓶",
+          "roman": "bin",
+          "meaning": "bottle",
+          "emoji": "🍾"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-bi",
+      "char": "ビ",
+      "name": "bi",
+      "romanization": "bi",
+      "ipa": "/bi/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'b'.",
+      "words": [
+        {
+          "text": "ビール",
+          "roman": "biiru",
+          "meaning": "beer",
+          "emoji": "🍺"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-bu",
+      "char": "ぶ",
+      "name": "bu",
+      "romanization": "bu",
+      "ipa": "/bɯ/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'b'.",
+      "words": [
+        {
+          "text": "ぶた",
+          "kanji": "豚",
+          "roman": "buta",
+          "meaning": "pig",
+          "emoji": "🐷"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-bu",
+      "char": "ブ",
+      "name": "bu",
+      "romanization": "bu",
+      "ipa": "/bɯ/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'b'.",
+      "words": [
+        {
+          "text": "ブーツ",
+          "roman": "buutsu",
+          "meaning": "boots",
+          "emoji": "🥾"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-be",
+      "char": "べ",
+      "name": "be",
+      "romanization": "be",
+      "ipa": "/be/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'b'.",
+      "words": [
+        {
+          "text": "べんきょう",
+          "kanji": "勉強",
+          "roman": "benkyō",
+          "meaning": "study",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-be",
+      "char": "ベ",
+      "name": "be",
+      "romanization": "be",
+      "ipa": "/be/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'b'.",
+      "words": [
+        {
+          "text": "ベッド",
+          "roman": "beddo",
+          "meaning": "bed",
+          "emoji": "🛏️"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-bo",
+      "char": "ぼ",
+      "name": "bo",
+      "romanization": "bo",
+      "ipa": "/bo/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'b'.",
+      "words": [
+        {
+          "text": "ぼうし",
+          "kanji": "帽子",
+          "roman": "bōshi",
+          "meaning": "hat",
+          "emoji": "🧢"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-bo",
+      "char": "ボ",
+      "name": "bo",
+      "romanization": "bo",
+      "ipa": "/bo/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Dakuten: add two strokes (゛) to voice the consonant — here it becomes 'b'.",
+      "words": [
+        {
+          "text": "ボール",
+          "roman": "booru",
+          "meaning": "ball",
+          "emoji": "⚽"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-pa",
+      "char": "ぱ",
+      "name": "pa",
+      "romanization": "pa",
+      "ipa": "/pa/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Handakuten: add a small circle (゜) to the は-row to turn 'h' into 'p'.",
+      "words": [
+        {
+          "text": "はっぱ",
+          "kanji": "葉っぱ",
+          "roman": "happa",
+          "meaning": "leaf",
+          "emoji": "🍃"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-pa",
+      "char": "パ",
+      "name": "pa",
+      "romanization": "pa",
+      "ipa": "/pa/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Handakuten: add a small circle (゜) to the は-row to turn 'h' into 'p'.",
+      "words": [
+        {
+          "text": "パン",
+          "roman": "pan",
+          "meaning": "bread",
+          "emoji": "🍞"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-pi",
+      "char": "ぴ",
+      "name": "pi",
+      "romanization": "pi",
+      "ipa": "/pi/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Handakuten: add a small circle (゜) to the は-row to turn 'h' into 'p'.",
+      "words": [
+        {
+          "text": "えんぴつ",
+          "kanji": "鉛筆",
+          "roman": "enpitsu",
+          "meaning": "pencil",
+          "emoji": "✏️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-pi",
+      "char": "ピ",
+      "name": "pi",
+      "romanization": "pi",
+      "ipa": "/pi/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Handakuten: add a small circle (゜) to the は-row to turn 'h' into 'p'.",
+      "words": [
+        {
+          "text": "ピアノ",
+          "roman": "piano",
+          "meaning": "piano",
+          "emoji": "🎹"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-pu",
+      "char": "ぷ",
+      "name": "pu",
+      "romanization": "pu",
+      "ipa": "/pɯ/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Handakuten: add a small circle (゜) to the は-row to turn 'h' into 'p'.",
+      "words": [
+        {
+          "text": "てんぷら",
+          "kanji": "天ぷら",
+          "roman": "tenpura",
+          "meaning": "tempura",
+          "emoji": "🍤"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-pu",
+      "char": "プ",
+      "name": "pu",
+      "romanization": "pu",
+      "ipa": "/pɯ/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Handakuten: add a small circle (゜) to the は-row to turn 'h' into 'p'.",
+      "words": [
+        {
+          "text": "プール",
+          "roman": "puuru",
+          "meaning": "pool",
+          "emoji": "🏊"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-pe",
+      "char": "ぺ",
+      "name": "pe",
+      "romanization": "pe",
+      "ipa": "/pe/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Handakuten: add a small circle (゜) to the は-row to turn 'h' into 'p'.",
+      "words": [
+        {
+          "text": "ぺらぺら",
+          "roman": "perapera",
+          "meaning": "fluent (speech)",
+          "emoji": "💬"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-pe",
+      "char": "ペ",
+      "name": "pe",
+      "romanization": "pe",
+      "ipa": "/pe/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Handakuten: add a small circle (゜) to the は-row to turn 'h' into 'p'.",
+      "words": [
+        {
+          "text": "ペン",
+          "roman": "pen",
+          "meaning": "pen",
+          "emoji": "🖊️"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-d-po",
+      "char": "ぽ",
+      "name": "po",
+      "romanization": "po",
+      "ipa": "/po/",
+      "kana": "hiragana",
+      "cat": "dakuten",
+      "memoryTrick": "Handakuten: add a small circle (゜) to the は-row to turn 'h' into 'p'.",
+      "words": [
+        {
+          "text": "たんぽぽ",
+          "kanji": "蒲公英",
+          "roman": "tanpopo",
+          "meaning": "dandelion",
+          "emoji": "🌼"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-d-po",
+      "char": "ポ",
+      "name": "po",
+      "romanization": "po",
+      "ipa": "/po/",
+      "kana": "katakana",
+      "cat": "dakuten",
+      "memoryTrick": "Handakuten: add a small circle (゜) to the は-row to turn 'h' into 'p'.",
+      "words": [
+        {
+          "text": "ポテト",
+          "roman": "poteto",
+          "meaning": "potato",
+          "emoji": "🥔"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-kya",
+      "char": "きゃ",
+      "name": "kya",
+      "romanization": "kya",
+      "ipa": "/kʲa/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size k-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "きゃく",
+          "kanji": "客",
+          "roman": "kyaku",
+          "meaning": "guest",
+          "emoji": "🧳"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-kya",
+      "char": "キャ",
+      "name": "kya",
+      "romanization": "kya",
+      "ipa": "/kʲa/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size k-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "キャンプ",
+          "roman": "kyanpu",
+          "meaning": "camp",
+          "emoji": "⛺"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-kyu",
+      "char": "きゅ",
+      "name": "kyu",
+      "romanization": "kyu",
+      "ipa": "/kʲɯ/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size k-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "きゅう",
+          "kanji": "九",
+          "roman": "kyū",
+          "meaning": "nine",
+          "emoji": "9️⃣"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-kyu",
+      "char": "キュ",
+      "name": "kyu",
+      "romanization": "kyu",
+      "ipa": "/kʲɯ/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size k-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "キュー",
+          "roman": "kyū",
+          "meaning": "cue",
+          "emoji": "🎱"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-kyo",
+      "char": "きょ",
+      "name": "kyo",
+      "romanization": "kyo",
+      "ipa": "/kʲo/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size k-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "きょう",
+          "kanji": "今日",
+          "roman": "kyō",
+          "meaning": "today",
+          "emoji": "📅"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-kyo",
+      "char": "キョ",
+      "name": "kyo",
+      "romanization": "kyo",
+      "ipa": "/kʲo/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size k-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-sha",
+      "char": "しゃ",
+      "name": "sha",
+      "romanization": "sha",
+      "ipa": "/ɕa/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size s-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "しゃしん",
+          "kanji": "写真",
+          "roman": "shashin",
+          "meaning": "photo",
+          "emoji": "📷"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-sha",
+      "char": "シャ",
+      "name": "sha",
+      "romanization": "sha",
+      "ipa": "/ɕa/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size s-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "シャワー",
+          "roman": "shawaa",
+          "meaning": "shower",
+          "emoji": "🚿"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-shu",
+      "char": "しゅ",
+      "name": "shu",
+      "romanization": "shu",
+      "ipa": "/ɕɯ/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size s-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "しゅくだい",
+          "kanji": "宿題",
+          "roman": "shukudai",
+          "meaning": "homework",
+          "emoji": "📝"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-shu",
+      "char": "シュ",
+      "name": "shu",
+      "romanization": "shu",
+      "ipa": "/ɕɯ/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size s-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "シュート",
+          "roman": "shuuto",
+          "meaning": "shoot",
+          "emoji": "⚽"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-sho",
+      "char": "しょ",
+      "name": "sho",
+      "romanization": "sho",
+      "ipa": "/ɕo/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size s-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "しょどう",
+          "kanji": "書道",
+          "roman": "shodō",
+          "meaning": "calligraphy",
+          "emoji": "🖌️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-sho",
+      "char": "ショ",
+      "name": "sho",
+      "romanization": "sho",
+      "ipa": "/ɕo/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size s-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ショップ",
+          "roman": "shoppu",
+          "meaning": "shop",
+          "emoji": "🛍️"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-cha",
+      "char": "ちゃ",
+      "name": "cha",
+      "romanization": "cha",
+      "ipa": "/tɕa/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size c-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "おちゃ",
+          "kanji": "お茶",
+          "roman": "ocha",
+          "meaning": "tea",
+          "emoji": "🍵"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-cha",
+      "char": "チャ",
+      "name": "cha",
+      "romanization": "cha",
+      "ipa": "/tɕa/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size c-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "チャンス",
+          "roman": "chansu",
+          "meaning": "chance",
+          "emoji": "🍀"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-chu",
+      "char": "ちゅ",
+      "name": "chu",
+      "romanization": "chu",
+      "ipa": "/tɕɯ/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size c-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ちゅうもん",
+          "kanji": "注文",
+          "roman": "chūmon",
+          "meaning": "order",
+          "emoji": "📋"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-chu",
+      "char": "チュ",
+      "name": "chu",
+      "romanization": "chu",
+      "ipa": "/tɕɯ/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size c-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "チューリップ",
+          "roman": "chuurippu",
+          "meaning": "tulip",
+          "emoji": "🌷"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-cho",
+      "char": "ちょ",
+      "name": "cho",
+      "romanization": "cho",
+      "ipa": "/tɕo/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size c-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ちょう",
+          "kanji": "蝶",
+          "roman": "chō",
+          "meaning": "butterfly",
+          "emoji": "🦋"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-cho",
+      "char": "チョ",
+      "name": "cho",
+      "romanization": "cho",
+      "ipa": "/tɕo/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size c-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "チョコ",
+          "roman": "choko",
+          "meaning": "chocolate",
+          "emoji": "🍫"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-nya",
+      "char": "にゃ",
+      "name": "nya",
+      "romanization": "nya",
+      "ipa": "/ɲa/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size n-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "にゃあ",
+          "roman": "nyaa",
+          "meaning": "meow",
+          "emoji": "🐱"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-nya",
+      "char": "ニャ",
+      "name": "nya",
+      "romanization": "nya",
+      "ipa": "/ɲa/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size n-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-nyu",
+      "char": "にゅ",
+      "name": "nyu",
+      "romanization": "nyu",
+      "ipa": "/ɲɯ/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size n-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "にゅうがく",
+          "kanji": "入学",
+          "roman": "nyūgaku",
+          "meaning": "school entrance",
+          "emoji": "🎓"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-nyu",
+      "char": "ニュ",
+      "name": "nyu",
+      "romanization": "nyu",
+      "ipa": "/ɲɯ/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size n-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ニュース",
+          "roman": "nyuusu",
+          "meaning": "news",
+          "emoji": "📰"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-nyo",
+      "char": "にょ",
+      "name": "nyo",
+      "romanization": "nyo",
+      "ipa": "/ɲo/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size n-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "にょうぼう",
+          "kanji": "女房",
+          "roman": "nyōbō",
+          "meaning": "wife",
+          "emoji": "👰"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-nyo",
+      "char": "ニョ",
+      "name": "nyo",
+      "romanization": "nyo",
+      "ipa": "/ɲo/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size n-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-hya",
+      "char": "ひゃ",
+      "name": "hya",
+      "romanization": "hya",
+      "ipa": "/ça/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size h-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ひゃく",
+          "kanji": "百",
+          "roman": "hyaku",
+          "meaning": "hundred",
+          "emoji": "💯"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-hya",
+      "char": "ヒャ",
+      "name": "hya",
+      "romanization": "hya",
+      "ipa": "/ça/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size h-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-hyu",
+      "char": "ひゅ",
+      "name": "hyu",
+      "romanization": "hyu",
+      "ipa": "/çɯ/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size h-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ひゅうひゅう",
+          "roman": "hyūhyū",
+          "meaning": "whistling wind",
+          "emoji": "🌬️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-hyu",
+      "char": "ヒュ",
+      "name": "hyu",
+      "romanization": "hyu",
+      "ipa": "/çɯ/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size h-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ヒューズ",
+          "roman": "hyuuzu",
+          "meaning": "fuse",
+          "emoji": "🔌"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-hyo",
+      "char": "ひょ",
+      "name": "hyo",
+      "romanization": "hyo",
+      "ipa": "/ço/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size h-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ひょう",
+          "kanji": "表",
+          "roman": "hyō",
+          "meaning": "chart / table",
+          "emoji": "📊"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-hyo",
+      "char": "ヒョ",
+      "name": "hyo",
+      "romanization": "hyo",
+      "ipa": "/ço/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size h-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-mya",
+      "char": "みゃ",
+      "name": "mya",
+      "romanization": "mya",
+      "ipa": "/mʲa/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size m-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "みゃく",
+          "kanji": "脈",
+          "roman": "myaku",
+          "meaning": "pulse",
+          "emoji": "💓"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-mya",
+      "char": "ミャ",
+      "name": "mya",
+      "romanization": "mya",
+      "ipa": "/mʲa/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size m-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-myu",
+      "char": "みゅ",
+      "name": "myu",
+      "romanization": "myu",
+      "ipa": "/mʲɯ/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Rare in native words — you'll meet it mostly in katakana loanwords.",
+      "words": []
+    },
+    {
+      "id": "ja-k-y-myu",
+      "char": "ミュ",
+      "name": "myu",
+      "romanization": "myu",
+      "ipa": "/mʲɯ/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Rare in native words — you'll meet it mostly in katakana loanwords.",
+      "words": [
+        {
+          "text": "ミュージック",
+          "roman": "myuujikku",
+          "meaning": "music",
+          "emoji": "🎵"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-myo",
+      "char": "みょ",
+      "name": "myo",
+      "romanization": "myo",
+      "ipa": "/mʲo/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size m-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "みょうじ",
+          "kanji": "名字",
+          "roman": "myōji",
+          "meaning": "surname",
+          "emoji": "📛"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-myo",
+      "char": "ミョ",
+      "name": "myo",
+      "romanization": "myo",
+      "ipa": "/mʲo/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size m-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-rya",
+      "char": "りゃ",
+      "name": "rya",
+      "romanization": "rya",
+      "ipa": "/ɾʲa/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size r-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "りゃく",
+          "kanji": "略",
+          "roman": "ryaku",
+          "meaning": "abbreviation",
+          "emoji": "✂️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-rya",
+      "char": "リャ",
+      "name": "rya",
+      "romanization": "rya",
+      "ipa": "/ɾʲa/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size r-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-ryu",
+      "char": "りゅ",
+      "name": "ryu",
+      "romanization": "ryu",
+      "ipa": "/ɾʲɯ/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size r-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "りゅう",
+          "kanji": "竜",
+          "roman": "ryū",
+          "meaning": "dragon",
+          "emoji": "🐉"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-ryu",
+      "char": "リュ",
+      "name": "ryu",
+      "romanization": "ryu",
+      "ipa": "/ɾʲɯ/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size r-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "リュック",
+          "roman": "ryukku",
+          "meaning": "backpack",
+          "emoji": "🎒"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-ryo",
+      "char": "りょ",
+      "name": "ryo",
+      "romanization": "ryo",
+      "ipa": "/ɾʲo/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size r-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "りょこう",
+          "kanji": "旅行",
+          "roman": "ryokō",
+          "meaning": "travel",
+          "emoji": "🧳"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-ryo",
+      "char": "リョ",
+      "name": "ryo",
+      "romanization": "ryo",
+      "ipa": "/ɾʲo/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size r-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-gya",
+      "char": "ぎゃ",
+      "name": "gya",
+      "romanization": "gya",
+      "ipa": "/gʲa/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size g-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ぎゃく",
+          "kanji": "逆",
+          "roman": "gyaku",
+          "meaning": "reverse / opposite",
+          "emoji": "🔄"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-gya",
+      "char": "ギャ",
+      "name": "gya",
+      "romanization": "gya",
+      "ipa": "/gʲa/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size g-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ギャグ",
+          "roman": "gyagu",
+          "meaning": "gag / joke",
+          "emoji": "😆"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-gyu",
+      "char": "ぎゅ",
+      "name": "gyu",
+      "romanization": "gyu",
+      "ipa": "/gʲɯ/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size g-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ぎゅうにゅう",
+          "kanji": "牛乳",
+          "roman": "gyūnyū",
+          "meaning": "milk",
+          "emoji": "🥛"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-gyu",
+      "char": "ギュ",
+      "name": "gyu",
+      "romanization": "gyu",
+      "ipa": "/gʲɯ/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size g-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-gyo",
+      "char": "ぎょ",
+      "name": "gyo",
+      "romanization": "gyo",
+      "ipa": "/gʲo/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size g-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ぎょうざ",
+          "kanji": "餃子",
+          "roman": "gyōza",
+          "meaning": "dumpling",
+          "emoji": "🥟"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-gyo",
+      "char": "ギョ",
+      "name": "gyo",
+      "romanization": "gyo",
+      "ipa": "/gʲo/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size g-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-ja",
+      "char": "じゃ",
+      "name": "ja",
+      "romanization": "ja",
+      "ipa": "/dʑa/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size j-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "じゃがいも",
+          "roman": "jagaimo",
+          "meaning": "potato",
+          "emoji": "🥔"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-ja",
+      "char": "ジャ",
+      "name": "ja",
+      "romanization": "ja",
+      "ipa": "/dʑa/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size j-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ジャム",
+          "roman": "jamu",
+          "meaning": "jam",
+          "emoji": "🍓"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-ju",
+      "char": "じゅ",
+      "name": "ju",
+      "romanization": "ju",
+      "ipa": "/dʑɯ/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size j-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "じゅう",
+          "kanji": "十",
+          "roman": "jū",
+          "meaning": "ten",
+          "emoji": "🔟"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-ju",
+      "char": "ジュ",
+      "name": "ju",
+      "romanization": "ju",
+      "ipa": "/dʑɯ/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size j-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ジュース",
+          "roman": "juusu",
+          "meaning": "juice",
+          "emoji": "🧃"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-jo",
+      "char": "じょ",
+      "name": "jo",
+      "romanization": "jo",
+      "ipa": "/dʑo/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size j-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "じょせい",
+          "kanji": "女性",
+          "roman": "josei",
+          "meaning": "woman",
+          "emoji": "👩"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-jo",
+      "char": "ジョ",
+      "name": "jo",
+      "romanization": "jo",
+      "ipa": "/dʑo/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size j-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ジョギング",
+          "roman": "jogingu",
+          "meaning": "jogging",
+          "emoji": "🏃"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-bya",
+      "char": "びゃ",
+      "name": "bya",
+      "romanization": "bya",
+      "ipa": "/bʲa/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size b-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "さんびゃく",
+          "kanji": "三百",
+          "roman": "sanbyaku",
+          "meaning": "three hundred",
+          "emoji": "🔢"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-bya",
+      "char": "ビャ",
+      "name": "bya",
+      "romanization": "bya",
+      "ipa": "/bʲa/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size b-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-byu",
+      "char": "びゅ",
+      "name": "byu",
+      "romanization": "byu",
+      "ipa": "/bʲɯ/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Rare in native words — mostly seen in katakana loanwords.",
+      "words": []
+    },
+    {
+      "id": "ja-k-y-byu",
+      "char": "ビュ",
+      "name": "byu",
+      "romanization": "byu",
+      "ipa": "/bʲɯ/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Rare in native words — mostly seen in katakana loanwords.",
+      "words": [
+        {
+          "text": "ビュッフェ",
+          "roman": "byuffe",
+          "meaning": "buffet",
+          "emoji": "🍽️"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-byo",
+      "char": "びょ",
+      "name": "byo",
+      "romanization": "byo",
+      "ipa": "/bʲo/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size b-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "びょういん",
+          "kanji": "病院",
+          "roman": "byōin",
+          "meaning": "hospital",
+          "emoji": "🏥"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-byo",
+      "char": "ビョ",
+      "name": "byo",
+      "romanization": "byo",
+      "ipa": "/bʲo/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size b-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-pya",
+      "char": "ぴゃ",
+      "name": "pya",
+      "romanization": "pya",
+      "ipa": "/pʲa/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Very rare — appears mainly in counters and onomatopoeia.",
+      "words": []
+    },
+    {
+      "id": "ja-k-y-pya",
+      "char": "ピャ",
+      "name": "pya",
+      "romanization": "pya",
+      "ipa": "/pʲa/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Very rare — appears mainly in counters and onomatopoeia.",
+      "words": []
+    },
+    {
+      "id": "ja-h-y-pyu",
+      "char": "ぴゅ",
+      "name": "pyu",
+      "romanization": "pyu",
+      "ipa": "/pʲɯ/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Rare in native words — mostly seen in katakana loanwords.",
+      "words": []
+    },
+    {
+      "id": "ja-k-y-pyu",
+      "char": "ピュ",
+      "name": "pyu",
+      "romanization": "pyu",
+      "ipa": "/pʲɯ/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Rare in native words — mostly seen in katakana loanwords.",
+      "words": [
+        {
+          "text": "コンピュータ",
+          "roman": "konpyuuta",
+          "meaning": "computer",
+          "emoji": "💻"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-y-pyo",
+      "char": "ぴょ",
+      "name": "pyo",
+      "romanization": "pyo",
+      "ipa": "/pʲo/",
+      "kana": "hiragana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size p-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": [
+        {
+          "text": "ぴょんぴょん",
+          "roman": "pyonpyon",
+          "meaning": "hopping",
+          "emoji": "🐰"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-y-pyo",
+      "char": "ピョ",
+      "name": "pyo",
+      "romanization": "pyo",
+      "ipa": "/pʲo/",
+      "kana": "katakana",
+      "cat": "yoon",
+      "memoryTrick": "Yōon: a full-size p-row kana plus a small ゃ/ゅ/ょ, blended into one syllable.",
+      "words": []
+    },
+    {
+      "id": "ja-k-s-fa",
+      "char": "ファ",
+      "name": "fa",
+      "romanization": "fa",
+      "ipa": "/ɸa/",
+      "kana": "katakana",
+      "cat": "special",
+      "memoryTrick": "A modern katakana blend for a sound Japanese borrowed from other languages — a base kana plus a small vowel kana.",
+      "words": [
+        {
+          "text": "ファッション",
+          "roman": "fasshon",
+          "meaning": "fashion",
+          "emoji": "👗"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-s-fi",
+      "char": "フィ",
+      "name": "fi",
+      "romanization": "fi",
+      "ipa": "/ɸi/",
+      "kana": "katakana",
+      "cat": "special",
+      "memoryTrick": "A modern katakana blend for a sound Japanese borrowed from other languages — a base kana plus a small vowel kana.",
+      "words": [
+        {
+          "text": "フィルム",
+          "roman": "firumu",
+          "meaning": "film",
+          "emoji": "🎞️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-s-fe",
+      "char": "フェ",
+      "name": "fe",
+      "romanization": "fe",
+      "ipa": "/ɸe/",
+      "kana": "katakana",
+      "cat": "special",
+      "memoryTrick": "A modern katakana blend for a sound Japanese borrowed from other languages — a base kana plus a small vowel kana.",
+      "words": [
+        {
+          "text": "カフェ",
+          "roman": "kafe",
+          "meaning": "cafe",
+          "emoji": "☕"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-s-fo",
+      "char": "フォ",
+      "name": "fo",
+      "romanization": "fo",
+      "ipa": "/ɸo/",
+      "kana": "katakana",
+      "cat": "special",
+      "memoryTrick": "A modern katakana blend for a sound Japanese borrowed from other languages — a base kana plus a small vowel kana.",
+      "words": [
+        {
+          "text": "フォーク",
+          "roman": "fooku",
+          "meaning": "fork",
+          "emoji": "🍴"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-s-ti",
+      "char": "ティ",
+      "name": "ti",
+      "romanization": "ti",
+      "ipa": "/ti/",
+      "kana": "katakana",
+      "cat": "special",
+      "memoryTrick": "A modern katakana blend for a sound Japanese borrowed from other languages — a base kana plus a small vowel kana.",
+      "words": [
+        {
+          "text": "パーティ",
+          "roman": "paati",
+          "meaning": "party",
+          "emoji": "🎉"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-s-di",
+      "char": "ディ",
+      "name": "di",
+      "romanization": "di",
+      "ipa": "/di/",
+      "kana": "katakana",
+      "cat": "special",
+      "memoryTrick": "A modern katakana blend for a sound Japanese borrowed from other languages — a base kana plus a small vowel kana.",
+      "words": [
+        {
+          "text": "ディズニー",
+          "roman": "dizunii",
+          "meaning": "Disney",
+          "emoji": "🏰"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-s-wi",
+      "char": "ウィ",
+      "name": "wi",
+      "romanization": "wi",
+      "ipa": "/wi/",
+      "kana": "katakana",
+      "cat": "special",
+      "memoryTrick": "A modern katakana blend for a sound Japanese borrowed from other languages — a base kana plus a small vowel kana.",
+      "words": [
+        {
+          "text": "ウィンク",
+          "roman": "winku",
+          "meaning": "wink",
+          "emoji": "😉"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-s-we",
+      "char": "ウェ",
+      "name": "we",
+      "romanization": "we",
+      "ipa": "/we/",
+      "kana": "katakana",
+      "cat": "special",
+      "memoryTrick": "A modern katakana blend for a sound Japanese borrowed from other languages — a base kana plus a small vowel kana.",
+      "words": [
+        {
+          "text": "ウェブ",
+          "roman": "webu",
+          "meaning": "web",
+          "emoji": "🌐"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-s-wo",
+      "char": "ウォ",
+      "name": "wo",
+      "romanization": "wo",
+      "ipa": "/wo/",
+      "kana": "katakana",
+      "cat": "special",
+      "memoryTrick": "A modern katakana blend for a sound Japanese borrowed from other languages — a base kana plus a small vowel kana.",
+      "words": [
+        {
+          "text": "ウォッカ",
+          "roman": "wokka",
+          "meaning": "vodka",
+          "emoji": "🍸"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-s-va",
+      "char": "ヴァ",
+      "name": "va",
+      "romanization": "va",
+      "ipa": "/va/",
+      "kana": "katakana",
+      "cat": "special",
+      "memoryTrick": "A modern katakana blend for a sound Japanese borrowed from other languages — a base kana plus a small vowel kana.",
+      "words": [
+        {
+          "text": "ヴァイオリン",
+          "roman": "vaiorin",
+          "meaning": "violin",
+          "emoji": "🎻"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-s-che",
+      "char": "チェ",
+      "name": "che",
+      "romanization": "che",
+      "ipa": "/tɕe/",
+      "kana": "katakana",
+      "cat": "special",
+      "memoryTrick": "A modern katakana blend for a sound Japanese borrowed from other languages — a base kana plus a small vowel kana.",
+      "words": [
+        {
+          "text": "チェス",
+          "roman": "chesu",
+          "meaning": "chess",
+          "emoji": "♟️"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-s-she",
+      "char": "シェ",
+      "name": "she",
+      "romanization": "she",
+      "ipa": "/ɕe/",
+      "kana": "katakana",
+      "cat": "special",
+      "memoryTrick": "A modern katakana blend for a sound Japanese borrowed from other languages — a base kana plus a small vowel kana.",
+      "words": [
+        {
+          "text": "シェフ",
+          "roman": "shefu",
+          "meaning": "chef",
+          "emoji": "👨‍🍳"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-s-je",
+      "char": "ジェ",
+      "name": "je",
+      "romanization": "je",
+      "ipa": "/dʑe/",
+      "kana": "katakana",
+      "cat": "special",
+      "memoryTrick": "A modern katakana blend for a sound Japanese borrowed from other languages — a base kana plus a small vowel kana.",
+      "words": [
+        {
+          "text": "ジェット",
+          "roman": "jetto",
+          "meaning": "jet",
+          "emoji": "✈️"
+        }
+      ]
+    },
+    {
+      "id": "ja-h-sokuon",
+      "char": "っ",
+      "name": "small tsu",
+      "romanization": "(double)",
+      "ipa": "(geminate)",
+      "kana": "hiragana",
+      "cat": "sokuon",
+      "noQuiz": true,
+      "memoryTrick": "A small っ (half-size つ) doesn't make a sound of its own — it doubles the next consonant and adds a tiny pause, like the catch in 'oops!'. Written full-size it's つ 'tsu'; small, it's the sokuon.",
+      "words": [
+        {
+          "text": "がっこう",
+          "kanji": "学校",
+          "roman": "gakkō",
+          "meaning": "school (note the doubled k)",
+          "emoji": "🏫"
+        },
+        {
+          "text": "きって",
+          "kanji": "切手",
+          "roman": "kitte",
+          "meaning": "postage stamp",
+          "emoji": "📮"
+        }
+      ]
+    },
+    {
+      "id": "ja-k-sokuon",
+      "char": "ッ",
+      "name": "small tsu",
+      "romanization": "(double)",
+      "ipa": "(geminate)",
+      "kana": "katakana",
+      "cat": "sokuon",
+      "noQuiz": true,
+      "memoryTrick": "The katakana sokuon — a small ッ that doubles the next consonant, common in loanwords. Full-size it's ツ 'tsu'; small, it just lengthens the stop.",
+      "words": [
+        {
+          "text": "ベッド",
+          "roman": "beddo",
+          "meaning": "bed (doubled d)",
+          "emoji": "🛏️"
+        },
+        {
+          "text": "コップ",
+          "roman": "koppu",
+          "meaning": "cup (doubled p)",
+          "emoji": "🥤"
+        }
+      ]
+    }
+  ]
+}

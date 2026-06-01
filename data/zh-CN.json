@@ -1,0 +1,316 @@
+{
+  "language": "Mandarin Chinese",
+  "code": "zh-CN",
+  "direction": "ltr",
+  "intro": "Mandarin has no alphabet — it is written with characters (汉字). To learn the sounds, beginners use Pinyin, which splits each syllable into an initial (the opening consonant) and a final (the rest). These are the 21 initials plus the \"zero initial\" for syllables that open on a vowel.",
+  "letters": [
+    {
+      "id": "zh-b",
+      "char": "b",
+      "name": "bo",
+      "romanization": "b",
+      "ipa": "/p/",
+      "say": "玻",
+      "memoryTrick": "An unaspirated /p/ — like the 'b' in 'spy' with no puff of air. Teachers recite it as 'bo'. Pinyin 'b' is softer than an English b.",
+      "words": [
+        { "text": "爸爸", "kanji": "爸", "roman": "bàba", "meaning": "dad", "emoji": "👨" },
+        { "text": "包", "kanji": "包", "roman": "bāo", "meaning": "bag", "emoji": "🎒" },
+        { "text": "白", "kanji": "白", "roman": "bái", "meaning": "white", "emoji": "⬜" }
+      ]
+    },
+    {
+      "id": "zh-p",
+      "char": "p",
+      "name": "po",
+      "romanization": "p",
+      "ipa": "/pʰ/",
+      "say": "坡",
+      "memoryTrick": "An aspirated 'p' — like 'pot' with a strong puff of air on your hand. Recited 'po'. The pair b/p differ only by that breath.",
+      "words": [
+        { "text": "苹果", "kanji": "苹果", "roman": "píngguǒ", "meaning": "apple", "emoji": "🍎" },
+        { "text": "朋友", "kanji": "朋友", "roman": "péngyou", "meaning": "friend", "emoji": "👫" },
+        { "text": "跑", "kanji": "跑", "roman": "pǎo", "meaning": "to run", "emoji": "🏃" }
+      ]
+    },
+    {
+      "id": "zh-m",
+      "char": "m",
+      "name": "mo",
+      "romanization": "m",
+      "ipa": "/m/",
+      "say": "摸",
+      "memoryTrick": "Exactly the 'm' in 'mom', humming with lips closed. Recited 'mo'.",
+      "words": [
+        { "text": "妈妈", "kanji": "妈", "roman": "māma", "meaning": "mom", "emoji": "👩" },
+        { "text": "猫", "kanji": "猫", "roman": "māo", "meaning": "cat", "emoji": "🐱" },
+        { "text": "门", "kanji": "门", "roman": "mén", "meaning": "door", "emoji": "🚪" }
+      ]
+    },
+    {
+      "id": "zh-f",
+      "char": "f",
+      "name": "fo",
+      "romanization": "f",
+      "ipa": "/f/",
+      "say": "佛",
+      "memoryTrick": "The 'f' in 'fun', top teeth on the lower lip. Recited 'fo'.",
+      "words": [
+        { "text": "飞机", "kanji": "飞机", "roman": "fēijī", "meaning": "airplane", "emoji": "✈️" },
+        { "text": "风", "kanji": "风", "roman": "fēng", "meaning": "wind", "emoji": "🌬️" },
+        { "text": "饭", "kanji": "饭", "roman": "fàn", "meaning": "rice / meal", "emoji": "🍚" }
+      ]
+    },
+    {
+      "id": "zh-d",
+      "char": "d",
+      "name": "de",
+      "romanization": "d",
+      "ipa": "/t/",
+      "say": "得",
+      "memoryTrick": "An unaspirated /t/ — like the 't' in 'stop', softer than English d. Recited 'de'.",
+      "words": [
+        { "text": "大", "kanji": "大", "roman": "dà", "meaning": "big", "emoji": "🐘" },
+        { "text": "灯", "kanji": "灯", "roman": "dēng", "meaning": "lamp", "emoji": "💡" },
+        { "text": "刀", "kanji": "刀", "roman": "dāo", "meaning": "knife", "emoji": "🔪" }
+      ]
+    },
+    {
+      "id": "zh-t",
+      "char": "t",
+      "name": "te",
+      "romanization": "t",
+      "ipa": "/tʰ/",
+      "say": "特",
+      "memoryTrick": "An aspirated 't' — like 'top' with a clear puff of air. Recited 'te'. The pair d/t differ only by that breath.",
+      "words": [
+        { "text": "头", "kanji": "头", "roman": "tóu", "meaning": "head", "emoji": "🗣️" },
+        { "text": "太阳", "kanji": "太阳", "roman": "tàiyáng", "meaning": "sun", "emoji": "☀️" },
+        { "text": "兔子", "kanji": "兔子", "roman": "tùzi", "meaning": "rabbit", "emoji": "🐰" }
+      ]
+    },
+    {
+      "id": "zh-n",
+      "char": "n",
+      "name": "ne",
+      "romanization": "n",
+      "ipa": "/n/",
+      "say": "讷",
+      "memoryTrick": "The 'n' in 'no', tongue tip behind the teeth. Recited 'ne'.",
+      "words": [
+        { "text": "你", "kanji": "你", "roman": "nǐ", "meaning": "you", "emoji": "👉" },
+        { "text": "牛奶", "kanji": "牛奶", "roman": "niúnǎi", "meaning": "milk", "emoji": "🥛" },
+        { "text": "鸟", "kanji": "鸟", "roman": "niǎo", "meaning": "bird", "emoji": "🐦" }
+      ]
+    },
+    {
+      "id": "zh-l",
+      "char": "l",
+      "name": "le",
+      "romanization": "l",
+      "ipa": "/l/",
+      "say": "勒",
+      "memoryTrick": "The 'l' in 'love'. Recited 'le'.",
+      "words": [
+        { "text": "龙", "kanji": "龙", "roman": "lóng", "meaning": "dragon", "emoji": "🐉" },
+        { "text": "路", "kanji": "路", "roman": "lù", "meaning": "road", "emoji": "🛣️" },
+        { "text": "老虎", "kanji": "老虎", "roman": "lǎohǔ", "meaning": "tiger", "emoji": "🐯" }
+      ]
+    },
+    {
+      "id": "zh-g",
+      "char": "g",
+      "name": "ge",
+      "romanization": "g",
+      "ipa": "/k/",
+      "say": "哥",
+      "memoryTrick": "An unaspirated /k/ — like the 'k' in 'sky', softer than English g. Recited 'ge'.",
+      "words": [
+        { "text": "狗", "kanji": "狗", "roman": "gǒu", "meaning": "dog", "emoji": "🐕" },
+        { "text": "高", "kanji": "高", "roman": "gāo", "meaning": "tall / high", "emoji": "📏" },
+        { "text": "哥哥", "kanji": "哥", "roman": "gēge", "meaning": "older brother", "emoji": "👦" }
+      ]
+    },
+    {
+      "id": "zh-k",
+      "char": "k",
+      "name": "ke",
+      "romanization": "k",
+      "ipa": "/kʰ/",
+      "say": "科",
+      "memoryTrick": "An aspirated 'k' — like 'kite' with a strong puff. Recited 'ke'. The pair g/k differ only by that breath.",
+      "words": [
+        { "text": "口", "kanji": "口", "roman": "kǒu", "meaning": "mouth", "emoji": "👄" },
+        { "text": "咖啡", "kanji": "咖啡", "roman": "kāfēi", "meaning": "coffee", "emoji": "☕" },
+        { "text": "看", "kanji": "看", "roman": "kàn", "meaning": "to look", "emoji": "👀" }
+      ]
+    },
+    {
+      "id": "zh-h",
+      "char": "h",
+      "name": "he",
+      "romanization": "h",
+      "ipa": "/x/",
+      "say": "喝",
+      "memoryTrick": "Raspier than the English 'h' — a soft scrape at the back of the throat, like the 'ch' in Scottish 'loch'. Recited 'he'.",
+      "words": [
+        { "text": "海", "kanji": "海", "roman": "hǎi", "meaning": "sea", "emoji": "🌊" },
+        { "text": "红", "kanji": "红", "roman": "hóng", "meaning": "red", "emoji": "🔴" },
+        { "text": "火", "kanji": "火", "roman": "huǒ", "meaning": "fire", "emoji": "🔥" }
+      ]
+    },
+    {
+      "id": "zh-j",
+      "char": "j",
+      "name": "ji",
+      "romanization": "j",
+      "ipa": "/tɕ/",
+      "say": "鸡",
+      "memoryTrick": "A soft, unaspirated 'j' said with the tongue flat and the lips spread — between English 'j' and 'ch'. Always followed by an i- or ü-sound. Recited 'ji'.",
+      "words": [
+        { "text": "家", "kanji": "家", "roman": "jiā", "meaning": "home / family", "emoji": "🏠" },
+        { "text": "鸡", "kanji": "鸡", "roman": "jī", "meaning": "chicken", "emoji": "🐔" },
+        { "text": "脚", "kanji": "脚", "roman": "jiǎo", "meaning": "foot", "emoji": "🦶" }
+      ]
+    },
+    {
+      "id": "zh-q",
+      "char": "q",
+      "name": "qi",
+      "romanization": "q",
+      "ipa": "/tɕʰ/",
+      "say": "七",
+      "memoryTrick": "Like 'j' but aspirated — the 'ch' in 'cheese' with the lips spread and a puff of air. Not a 'k' sound! Recited 'qi'.",
+      "words": [
+        { "text": "钱", "kanji": "钱", "roman": "qián", "meaning": "money", "emoji": "💰" },
+        { "text": "汽车", "kanji": "汽车", "roman": "qìchē", "meaning": "car", "emoji": "🚗" },
+        { "text": "球", "kanji": "球", "roman": "qiú", "meaning": "ball", "emoji": "⚽" }
+      ]
+    },
+    {
+      "id": "zh-x",
+      "char": "x",
+      "name": "xi",
+      "romanization": "x",
+      "ipa": "/ɕ/",
+      "say": "西",
+      "memoryTrick": "A light 'sh' said with the tongue flat and lips spread — between 's' and 'sh'. Not a 'ks' or 'z' sound! Recited 'xi'.",
+      "words": [
+        { "text": "学校", "kanji": "学校", "roman": "xuéxiào", "meaning": "school", "emoji": "🏫" },
+        { "text": "西瓜", "kanji": "西瓜", "roman": "xīguā", "meaning": "watermelon", "emoji": "🍉" },
+        { "text": "鞋", "kanji": "鞋", "roman": "xié", "meaning": "shoe", "emoji": "👟" }
+      ]
+    },
+    {
+      "id": "zh-zh",
+      "char": "zh",
+      "name": "zhi",
+      "romanization": "zh",
+      "ipa": "/ʈʂ/",
+      "say": "知",
+      "memoryTrick": "A retroflex 'j' — curl the tongue tip up toward the roof of the mouth, like the 'j' in 'jam' said with a curled tongue. Recited 'zhi'.",
+      "words": [
+        { "text": "猪", "kanji": "猪", "roman": "zhū", "meaning": "pig", "emoji": "🐷" },
+        { "text": "中国", "kanji": "中国", "roman": "Zhōngguó", "meaning": "China", "emoji": "🇨🇳" },
+        { "text": "桌子", "kanji": "桌子", "roman": "zhuōzi", "meaning": "table", "emoji": "🪑" }
+      ]
+    },
+    {
+      "id": "zh-ch",
+      "char": "ch",
+      "name": "chi",
+      "romanization": "ch",
+      "ipa": "/ʈʂʰ/",
+      "say": "吃",
+      "memoryTrick": "A retroflex 'ch' — like 'church' with the tongue curled back and a puff of air. The aspirated partner of 'zh'. Recited 'chi'.",
+      "words": [
+        { "text": "茶", "kanji": "茶", "roman": "chá", "meaning": "tea", "emoji": "🍵" },
+        { "text": "车", "kanji": "车", "roman": "chē", "meaning": "vehicle / car", "emoji": "🚙" },
+        { "text": "吃", "kanji": "吃", "roman": "chī", "meaning": "to eat", "emoji": "🍽️" }
+      ]
+    },
+    {
+      "id": "zh-sh",
+      "char": "sh",
+      "name": "shi",
+      "romanization": "sh",
+      "ipa": "/ʂ/",
+      "say": "诗",
+      "memoryTrick": "A retroflex 'sh' — like 'shoe' but with the tongue tip curled up and back. Recited 'shi'.",
+      "words": [
+        { "text": "书", "kanji": "书", "roman": "shū", "meaning": "book", "emoji": "📖" },
+        { "text": "山", "kanji": "山", "roman": "shān", "meaning": "mountain", "emoji": "⛰️" },
+        { "text": "手", "kanji": "手", "roman": "shǒu", "meaning": "hand", "emoji": "✋" }
+      ]
+    },
+    {
+      "id": "zh-r",
+      "char": "r",
+      "name": "ri",
+      "romanization": "r",
+      "ipa": "/ʐ/",
+      "say": "日",
+      "memoryTrick": "A buzzing retroflex sound, between the 'r' in 'rabbit' and the 's' in 'pleasure', with the tongue curled back. Recited 'ri'.",
+      "words": [
+        { "text": "人", "kanji": "人", "roman": "rén", "meaning": "person", "emoji": "🧑" },
+        { "text": "日", "kanji": "日", "roman": "rì", "meaning": "sun / day", "emoji": "☀️" },
+        { "text": "肉", "kanji": "肉", "roman": "ròu", "meaning": "meat", "emoji": "🍖" }
+      ]
+    },
+    {
+      "id": "zh-z",
+      "char": "z",
+      "name": "zi",
+      "romanization": "z",
+      "ipa": "/ts/",
+      "say": "资",
+      "memoryTrick": "Like the 'ds' in 'kids' — an unaspirated 'ts' with no puff. Recited 'zi'.",
+      "words": [
+        { "text": "字", "kanji": "字", "roman": "zì", "meaning": "character / word", "emoji": "🔤" },
+        { "text": "嘴", "kanji": "嘴", "roman": "zuǐ", "meaning": "mouth", "emoji": "👄" },
+        { "text": "早", "kanji": "早", "roman": "zǎo", "meaning": "early / morning", "emoji": "🌅" }
+      ]
+    },
+    {
+      "id": "zh-c",
+      "char": "c",
+      "name": "ci",
+      "romanization": "c",
+      "ipa": "/tsʰ/",
+      "say": "刺",
+      "memoryTrick": "Like the 'ts' in 'cats' with a strong puff of air. The aspirated partner of 'z'. Recited 'ci'.",
+      "words": [
+        { "text": "菜", "kanji": "菜", "roman": "cài", "meaning": "vegetable / dish", "emoji": "🥬" },
+        { "text": "草", "kanji": "草", "roman": "cǎo", "meaning": "grass", "emoji": "🌱" },
+        { "text": "词", "kanji": "词", "roman": "cí", "meaning": "word", "emoji": "📝" }
+      ]
+    },
+    {
+      "id": "zh-s",
+      "char": "s",
+      "name": "si",
+      "romanization": "s",
+      "ipa": "/s/",
+      "say": "丝",
+      "memoryTrick": "The plain 's' in 'see'. Recited 'si'.",
+      "words": [
+        { "text": "三", "kanji": "三", "roman": "sān", "meaning": "three", "emoji": "3️⃣" },
+        { "text": "伞", "kanji": "伞", "roman": "sǎn", "meaning": "umbrella", "emoji": "☂️" },
+        { "text": "森林", "kanji": "森林", "roman": "sēnlín", "meaning": "forest", "emoji": "🌲" }
+      ]
+    },
+    {
+      "id": "zh-zero",
+      "char": "∅",
+      "name": "zero initial",
+      "romanization": "—",
+      "ipa": "(vowel onset)",
+      "say": "啊",
+      "memoryTrick": "Some syllables have no opening consonant at all — they begin straight on the vowel (a, o, e, …). This is the \"zero initial\" (零声母). The written y/w in pinyin are just spelling helpers, not real consonants.",
+      "words": [
+        { "text": "爱", "kanji": "爱", "roman": "ài", "meaning": "love", "emoji": "❤️" },
+        { "text": "鹅", "kanji": "鹅", "roman": "é", "meaning": "goose", "emoji": "🦢" },
+        { "text": "二", "kanji": "二", "roman": "èr", "meaning": "two", "emoji": "2️⃣" }
+      ]
+    }
+  ]
+}

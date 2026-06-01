@@ -59,6 +59,7 @@ export async function loadQuizItems(code) {
 
   const items = [];
   for (const letter of data.letters) {
+    if (letter.noQuiz) continue;
     if (letter.forms) {
       const present = FORM_ORDER.filter(f => letter.forms[f]);
       for (const f of present) {
@@ -67,6 +68,7 @@ export async function loadQuizItems(code) {
           letterId: letter.id,
           char: letter.forms[f],      // displayed glyph (this form)
           sound: letter.char,         // base character used for audio
+          say: letter.say || null,    // optional clean pronunciation override
           name: letter.name,
           formName: f,
           romanization: letter.romanization,
@@ -80,6 +82,7 @@ export async function loadQuizItems(code) {
         letterId: letter.id,
         char: letter.char,
         sound: letter.char,
+        say: letter.say || null,
         name: letter.name,
         formName: null,
         romanization: letter.romanization,
