@@ -1,6 +1,6 @@
 // grid.js — letter grid for one language (RTL-aware)
 import { loadLanguage } from '../data.js';
-import { h, esc } from '../ui.js';
+import { h, esc, flagImgs } from '../ui.js';
 import { renderTypeface } from '../fonts.js';
 
 export async function render({ code }) {
@@ -18,6 +18,8 @@ export async function render({ code }) {
       </div>
       <h1 class="page-title" style="margin-top:12px">${esc(data.language)} letters</h1>
       <p class="page-sub">${data.letters.length} letters to explore. Tap any tile for its sound, forms and a memory trick.</p>
+      ${meta.countries ? `<p class="grid-speakers"><span class="grid-speakers__flags">${flagImgs(meta.countries)}</span> <span>Spoken by <b>≈${esc(meta.speakers || '')}</b> people${meta.share ? ` · about <b>${esc(meta.share)}</b> of the world` : ''}</span></p>` : ''}
+      ${meta.draft ? '<p class="draft-note">✦ Draft — a small demo set of letters for this language, not the full alphabet yet.</p>' : ''}
     </header>
   `));
 

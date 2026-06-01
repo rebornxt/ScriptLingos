@@ -58,6 +58,16 @@
 }
 .lang-card__native { font-size: 15px; font-weight: 700; color: var(--ink); }
 .lang-card__name { font-size: 12.5px; color: var(--ink-3); font-weight: 600; }
+.lang-card__stats { display: flex; align-items: center; gap: 7px; margin-top: 6px; }
+.lang-card__flags { display: inline-flex; align-items: center; gap: 3px; }
+.lang-card__flags .flag { height: 11px; width: auto; border-radius: 2px; box-shadow: 0 0 0 1px rgba(0,0,0,.08); }
+.lang-card__share { font-size: 10.5px; font-weight: 800; color: var(--accent-ink); background: var(--accent-soft); padding: 1px 6px; border-radius: 999px; white-space: nowrap; }
+.lang-card__draft {
+  align-self: flex-start; margin-top: 5px;
+  font-size: 9px; font-weight: 800; letter-spacing: .07em; text-transform: uppercase;
+  padding: 2px 7px; border-radius: 999px;
+  background: var(--accent-soft); color: var(--accent-ink);
+}
 .lang-card.is-soon { background: var(--surface-2); box-shadow: none; }
 .lang-card.is-soon .lang-card__glyph { color: var(--ink-3); opacity: .55; }
 .lang-card.is-soon:hover { transform: none; box-shadow: none; border-color: var(--line); }
@@ -319,6 +329,43 @@ table.cmp tbody tr:hover { background: var(--surface-2); }
 .quiz-count { font-size: 13px; font-weight: 800; color: var(--ink-2); font-variant-numeric: tabular-nums; }
 .quiz-score-mini { font-size: 13px; font-weight: 800; color: var(--accent); }
 
+/* direction (mode) selector */
+.quiz-modes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 6px; }
+.qmode {
+  display: flex; flex-direction: column; align-items: center; gap: 2px;
+  padding: 11px 6px; border-radius: var(--radius-sm);
+  background: var(--surface); border: 2px solid var(--line); color: var(--ink-2);
+  transition: border-color .15s, background .15s, color .15s, transform .12s;
+}
+.qmode:hover { border-color: var(--line-2); }
+.qmode:active { transform: scale(.97); }
+.qmode.is-on { border-color: var(--accent); background: var(--accent-soft); color: var(--accent-ink); }
+.qmode__label { font-size: 14px; font-weight: 800; letter-spacing: -.01em; white-space: nowrap; }
+.qmode__sub { font-size: 11.5px; font-weight: 700; color: var(--ink-3); white-space: nowrap; }
+.qmode.is-on .qmode__sub { color: var(--accent-ink); opacity: .8; }
+@media (max-width: 380px) { .qmode__label { font-size: 12px; } .qmode__sub { display: none; } }
+
+/* draft badge */
+.draft-dot {
+  display: inline-block; vertical-align: middle; margin-left: 6px;
+  font-size: 9.5px; font-weight: 800; letter-spacing: .06em; text-transform: uppercase;
+  padding: 1px 6px; border-radius: 999px;
+  background: var(--surface-2); color: var(--ink-3); border: 1px solid var(--line);
+}
+.draft-note {
+  margin: 12px 0 0; padding: 10px 14px; border-radius: var(--radius-sm);
+  background: var(--accent-soft); color: var(--accent-ink);
+  font-size: 13px; font-weight: 700; text-wrap: pretty;
+  border: 1px solid color-mix(in srgb, var(--accent) 20%, transparent);
+}
+.grid-speakers {
+  display: flex; align-items: center; gap: 10px; margin: 12px 0 0;
+  font-size: 13.5px; color: var(--ink-2); text-wrap: pretty;
+}
+.grid-speakers b { color: var(--ink); font-weight: 800; }
+.grid-speakers__flags { display: inline-flex; align-items: center; gap: 4px; flex: none; }
+.grid-speakers__flags .flag { height: 15px; width: auto; border-radius: 2px; box-shadow: 0 0 0 1px rgba(0,0,0,.1); }
+
 .quiz-prompt { text-align: center; margin-bottom: 22px; }
 .quiz-prompt p { color: var(--ink-2); font-size: 15px; margin: 0 0 16px; }
 .quiz-prompt .speak { margin: 0 auto; font-size: 17px; padding: 16px 26px 16px 18px; }
@@ -337,6 +384,38 @@ table.cmp tbody tr:hover { background: var(--surface-2); }
 .qopt.is-wrong { border-color: #d64545; background: color-mix(in srgb, #d64545 10%, var(--surface)); color: #b53030; }
 .qopt[disabled] { pointer-events: none; }
 .qopt.is-dim { opacity: .45; }
+
+/* glyph prompt (used by the Glyph → Sound / IPA directions) */
+.quiz-glyph {
+  font-size: clamp(76px, 22vw, 120px); line-height: 1; color: var(--ink);
+  font-weight: 500; margin: 4px 0 2px; text-align: center;
+}
+/* text options (romanization or IPA, instead of a glyph) */
+.qopt--text {
+  aspect-ratio: auto; min-height: 72px; padding: 14px 12px;
+  font-size: clamp(20px, 5.5vw, 26px); font-weight: 800; letter-spacing: -.01em;
+  text-align: center; word-break: break-word;
+}
+.qopt--ipa { font-family: 'Noto Sans', system-ui, sans-serif; font-weight: 700; }
+
+/* glyph→sound options: a "listen" button + the romanization, side by side.
+   Tapping the play circle hears the sound; tapping the rest picks the answer. */
+.qopt--sound {
+  display: flex; aspect-ratio: auto; min-height: 76px;
+  flex-direction: row; align-items: center; justify-content: flex-start; gap: 13px;
+  padding: 12px 16px; text-align: left;
+}
+.qopt__play {
+  display: grid; place-items: center; width: 42px; height: 42px; flex: none;
+  border-radius: 50%; background: var(--accent); color: #fff; cursor: pointer;
+  transition: transform .12s;
+}
+.qopt__play:hover { transform: scale(1.06); }
+.qopt__play:active { transform: scale(.92); }
+.qopt__play.is-playing { animation: pulse 1s var(--ease) infinite; }
+.qopt__rom { font-size: clamp(19px, 5vw, 25px); font-weight: 800; letter-spacing: -.01em; }
+.qopt--sound.is-correct .qopt__play { background: #1f9d55; }
+.qopt--sound.is-wrong .qopt__play { background: #d64545; }
 
 .quiz-feedback { text-align: center; margin-top: 20px; min-height: 24px; font-weight: 800; }
 .quiz-feedback.ok { color: #1f9d55; }

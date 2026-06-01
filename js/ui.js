@@ -42,3 +42,12 @@ export function shuffle(arr) {
   }
   return a;
 }
+
+// Real flag images (cross-platform — flag emoji don't render on Windows).
+// `codes` is an array of ISO-3166 alpha-2 country codes.
+export function flagImgs(codes, max = 99) {
+  if (!Array.isArray(codes)) return '';
+  return codes.slice(0, max).map(c =>
+    `<img class="flag" src="https://flagcdn.com/${esc(c)}.svg" alt="${esc(c.toUpperCase())}" loading="lazy" />`
+  ).join('');
+}

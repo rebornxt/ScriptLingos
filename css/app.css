@@ -67,6 +67,8 @@
 .group-cjk     { --accent:#b14a7e; --accent-ink:#933a66; --accent-soft:#f8eaf1; }
 .group-sea     { --accent:#2f8aa0; --accent-ink:#216c7e; --accent-soft:#e4f1f4; }
 .group-afro    { --accent:#5d8a3f; --accent-ink:#48702e; --accent-soft:#ecf3e4; }
+.group-hellenic{ --accent:#2f6db0; --accent-ink:#23557f; --accent-soft:#e6eef6; }
+.group-caucasus{ --accent:#8a5cc0; --accent-ink:#6f479e; --accent-soft:#f0e9f8; }
 
 [data-theme="dark"] .group-rtl   { --accent:#e08a6c; --accent-ink:#f0a888; --accent-soft:#241c19; }
 [data-theme="dark"] .group-indic { --accent:#dfb15c; --accent-ink:#eec678; --accent-soft:#241f15; }
@@ -75,6 +77,8 @@
 [data-theme="dark"] .group-cjk   { --accent:#e082b1; --accent-ink:#f09cc7; --accent-soft:#251820; }
 [data-theme="dark"] .group-sea   { --accent:#5cc2d8; --accent-ink:#7fd6e9; --accent-soft:#152226; }
 [data-theme="dark"] .group-afro  { --accent:#93c264; --accent-ink:#abd67f; --accent-soft:#1b2215; }
+[data-theme="dark"] .group-hellenic { --accent:#6aa6e0; --accent-ink:#8cc0ef; --accent-soft:#152030; }
+[data-theme="dark"] .group-caucasus { --accent:#b48ce0; --accent-ink:#c8a8ee; --accent-soft:#1f1830; }
 
 /* ---- script fonts (each overridable via --font-<script>; default = learner-friendly) ---- */
 .s-latin { font-family: var(--font-s-latin, 'Noto Sans'), sans-serif; }
@@ -84,6 +88,11 @@
 .s-my    { font-family: var(--font-s-my, 'Padauk'), sans-serif; }
 .s-km    { font-family: var(--font-s-km, 'Hanuman'), serif; }
 .s-ko    { font-family: var(--font-s-ko, 'Noto Sans KR'), sans-serif; }
+.s-el    { font-family: var(--font-s-el, 'Noto Sans'), sans-serif; }
+.s-lo    { font-family: var(--font-s-lo, 'Noto Sans Lao'), sans-serif; }
+.s-bn    { font-family: var(--font-s-bn, 'Noto Sans Bengali'), serif; }
+.s-ta    { font-family: var(--font-s-ta, 'Noto Sans Tamil'), sans-serif; }
+.s-ka    { font-family: var(--font-s-ka, 'Noto Sans Georgian'), sans-serif; }
 
 /* ============================================================ base */
 * { box-sizing: border-box; }
@@ -124,10 +133,18 @@ button { font-family: inherit; cursor: pointer; }
 .topbar__back:active { transform: scale(.92); }
 .topbar__brand { display: flex; align-items: center; gap: 9px; margin-right: auto; }
 .topbar__mark {
-  font-weight: 800; font-size: 17px; letter-spacing: -.5px;
-  display: grid; place-items: center; width: 38px; height: 32px;
-  background: var(--ink); color: var(--bg); border-radius: 10px;
+  display: grid; grid-template-columns: repeat(2, 1fr); grid-auto-rows: 1fr; gap: 2px;
+  width: 36px; height: 36px;
 }
+.topbar__mark i {
+  display: grid; place-items: center; border-radius: 5px;
+  font-style: normal; font-weight: 800; font-size: 12px; line-height: 1; color: #fff;
+  overflow: hidden;
+}
+.topbar__mark .m1 { background: #4338ca; }
+.topbar__mark .m2 { background: #b14a7e; }
+.topbar__mark .m3 { background: #b5832a; font-family: 'Noto Sans Devanagari', sans-serif; font-size: 11px; }
+.topbar__mark .m4 { background: #b65336; font-family: 'Noto Sans Arabic', sans-serif; }
 .topbar__name { font-weight: 800; font-size: 18px; letter-spacing: -.4px; }
 .topbar__theme {
   display: grid; place-items: center;

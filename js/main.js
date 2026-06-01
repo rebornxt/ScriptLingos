@@ -96,5 +96,16 @@ themeBtn.addEventListener('click', () => {
 });
 
 window.addEventListener('hashchange', navigate);
+
+// Tapping the tab you're already on resets that screen to its start.
+// For Quiz this returns you to the language picker even mid-quiz (the quiz
+// manages its own internal state, so the same-hash click won't re-render
+// on its own). Harmless for Home/Compare — they just rebuild.
+tabs.forEach(t => t.addEventListener('click', () => {
+  const target = t.getAttribute('href');
+  const here = location.hash || '#/';
+  if (target === here) navigate();
+}));
+
 applyFonts();
 navigate();
