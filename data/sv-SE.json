@@ -2,138 +2,590 @@
   "language": "Swedish",
   "code": "sv-SE",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
-      "id": "sv-a-ring",
-      "char": "Å å",
-      "name": "å",
-      "romanization": "å",
-      "ipa": "/oː/",
-      "memoryTrick": "An 'a' with a ring — a long 'oh'.",
+      "id": "sv-a",
+      "char": "a",
+      "name": "A",
+      "romanization": "ah",
+      "ipa": "/ɑː/",
+      "letterAudio": "audio/sv/letters/sv-a.mp3",
+      "memoryTrick": "Sounds like the 'a' in 'father' when long — open your mouth wide and let the sound out from deep in your throat. The short version is like the 'u' in 'cup'.",
       "words": [
-        {
-          "text": "år",
-          "roman": "år",
-          "meaning": "year",
-          "emoji": "📅"
-        },
-        {
-          "text": "åtta",
-          "roman": "åtta",
-          "meaning": "eight",
-          "emoji": "8️⃣"
-        }
+        { "text": "apa", "roman": "ah-pah", "meaning": "monkey", "emoji": "🐒", "audio": "audio/sv/words/sv-a-01.mp3" },
+        { "text": "anka", "roman": "ang-kah", "meaning": "duck", "emoji": "🦆", "audio": "audio/sv/words/sv-a-02.mp3" },
+        { "text": "arm", "roman": "arm", "meaning": "arm", "emoji": "💪", "audio": "audio/sv/words/sv-a-03.mp3" },
+        { "text": "arg", "roman": "ary", "meaning": "angry", "emoji": "😠", "audio": "audio/sv/words/sv-a-04.mp3" },
+        { "text": "ask", "roman": "ask", "meaning": "ash tree", "emoji": "🌳", "audio": "audio/sv/words/sv-a-05.mp3" },
+        { "text": "av", "roman": "ahv", "meaning": "of / from", "audio": "audio/sv/words/sv-a-06.mp3" },
+        { "text": "al", "roman": "ahl", "meaning": "alder tree", "emoji": "🌿", "audio": "audio/sv/words/sv-a-07.mp3" },
+        { "text": "axel", "roman": "ak-sel", "meaning": "shoulder", "audio": "audio/sv/words/sv-a-08.mp3" },
+        { "text": "arbeta", "roman": "ar-beh-tah", "meaning": "to work", "audio": "audio/sv/words/sv-a-09.mp3" },
+        { "text": "alltid", "roman": "all-teed", "meaning": "always", "audio": "audio/sv/words/sv-a-10.mp3" }
       ]
     },
     {
-      "id": "sv-a-uml",
-      "char": "Ä ä",
-      "name": "ä",
-      "romanization": "ä",
-      "ipa": "/ɛ/",
-      "memoryTrick": "Says 'eh' as in 'bed'.",
+      "id": "sv-b",
+      "char": "b",
+      "name": "B",
+      "romanization": "beh",
+      "ipa": "/beː/",
+      "letterAudio": "audio/sv/letters/sv-b.mp3",
+      "memoryTrick": "Same sound as English 'b' — press your lips together and release with voice. Swedish never softens it; it's always a crisp 'buh'.",
       "words": [
-        {
-          "text": "äpple",
-          "roman": "äpple",
-          "meaning": "apple",
-          "emoji": "🍎"
-        },
-        {
-          "text": "äta",
-          "roman": "äta",
-          "meaning": "to eat",
-          "emoji": "🍽️"
-        }
+        { "text": "bok", "roman": "book", "meaning": "book", "emoji": "📖", "audio": "audio/sv/words/sv-b-01.mp3" },
+        { "text": "bil", "roman": "beel", "meaning": "car", "emoji": "🚗", "audio": "audio/sv/words/sv-b-02.mp3" },
+        { "text": "barn", "roman": "bahrn", "meaning": "child", "emoji": "👶", "audio": "audio/sv/words/sv-b-03.mp3" },
+        { "text": "bra", "roman": "brah", "meaning": "good", "emoji": "👍", "audio": "audio/sv/words/sv-b-04.mp3" },
+        { "text": "boll", "roman": "boll", "meaning": "ball", "emoji": "⚽", "audio": "audio/sv/words/sv-b-05.mp3" },
+        { "text": "båt", "roman": "bawt", "meaning": "boat", "emoji": "⛵", "audio": "audio/sv/words/sv-b-06.mp3" },
+        { "text": "bro", "roman": "broo", "meaning": "bridge", "emoji": "🌉", "audio": "audio/sv/words/sv-b-07.mp3" },
+        { "text": "blå", "roman": "blaw", "meaning": "blue", "emoji": "🔵", "audio": "audio/sv/words/sv-b-08.mp3" },
+        { "text": "bord", "roman": "boord", "meaning": "table", "audio": "audio/sv/words/sv-b-09.mp3" },
+        { "text": "björn", "roman": "byurn", "meaning": "bear", "emoji": "🐻", "audio": "audio/sv/words/sv-b-10.mp3" },
+        { "text": "blomma", "roman": "bloom-mah", "meaning": "flower", "emoji": "🌸", "audio": "audio/sv/words/sv-b-11.mp3" },
+        { "text": "bröd", "roman": "brurd", "meaning": "bread", "emoji": "🍞", "audio": "audio/sv/words/sv-b-12.mp3" }
       ]
     },
     {
-      "id": "sv-o-uml",
-      "char": "Ö ö",
-      "name": "ö",
-      "romanization": "ö",
-      "ipa": "/øː/",
-      "memoryTrick": "Round your lips for 'o' but say 'e'.",
+      "id": "sv-c",
+      "char": "c",
+      "name": "C",
+      "romanization": "seh",
+      "ipa": "/seː/",
+      "letterAudio": "audio/sv/letters/sv-c.mp3",
+      "memoryTrick": "In Swedish, 'c' before e/i/y is soft like English 's' in 'see'. Before a/o/u/å, it's hard like 'k'. It appears mostly in loanwords — native Swedish words rarely use it.",
       "words": [
-        {
-          "text": "öga",
-          "roman": "öga",
-          "meaning": "eye",
-          "emoji": "👁️"
-        },
-        {
-          "text": "öl",
-          "roman": "öl",
-          "meaning": "beer",
-          "emoji": "🍺"
-        }
+        { "text": "cykel", "roman": "syy-kel", "meaning": "bicycle", "emoji": "🚲", "audio": "audio/sv/words/sv-c-01.mp3" },
+        { "text": "citron", "roman": "sit-roon", "meaning": "lemon", "emoji": "🍋", "audio": "audio/sv/words/sv-c-02.mp3" },
+        { "text": "cirkel", "roman": "sir-kel", "meaning": "circle", "emoji": "⭕", "audio": "audio/sv/words/sv-c-03.mp3" },
+        { "text": "centrum", "roman": "sen-trum", "meaning": "center / downtown", "audio": "audio/sv/words/sv-c-04.mp3" },
+        { "text": "cello", "roman": "chel-loh", "meaning": "cello", "audio": "audio/sv/words/sv-c-05.mp3" }
       ]
     },
     {
-      "id": "sv-k",
-      "char": "K k",
-      "name": "kå",
-      "romanization": "k",
-      "ipa": "/ɕ/",
-      "memoryTrick": "Before e, i, y the 'k' softens to a 'sh'-like sound.",
+      "id": "sv-d",
+      "char": "d",
+      "name": "D",
+      "romanization": "deh",
+      "ipa": "/deː/",
+      "letterAudio": "audio/sv/letters/sv-d.mp3",
+      "memoryTrick": "Sounds like English 'd' — but with your tongue pressed against the back of your upper teeth, not the roof of your mouth. This dental placement gives Swedish its crisp sound.",
       "words": [
-        {
-          "text": "kär",
-          "roman": "chär",
-          "meaning": "dear",
-          "emoji": "❤️"
-        },
-        {
-          "text": "kyrka",
-          "roman": "chyrka",
-          "meaning": "church",
-          "emoji": "⛪"
-        }
+        { "text": "dag", "roman": "dahg", "meaning": "day", "emoji": "☀️", "audio": "audio/sv/words/sv-d-01.mp3" },
+        { "text": "dörr", "roman": "durr", "meaning": "door", "emoji": "🚪", "audio": "audio/sv/words/sv-d-02.mp3" },
+        { "text": "du", "roman": "doo", "meaning": "you", "audio": "audio/sv/words/sv-d-03.mp3" },
+        { "text": "docka", "roman": "dock-ah", "meaning": "doll", "audio": "audio/sv/words/sv-d-04.mp3" },
+        { "text": "djur", "roman": "yoor", "meaning": "animal", "emoji": "🐾", "audio": "audio/sv/words/sv-d-05.mp3" },
+        { "text": "dricka", "roman": "drick-ah", "meaning": "to drink", "audio": "audio/sv/words/sv-d-06.mp3" },
+        { "text": "droppe", "roman": "drop-peh", "meaning": "drop (of liquid)", "emoji": "💧", "audio": "audio/sv/words/sv-d-07.mp3" },
+        { "text": "dansa", "roman": "dan-sah", "meaning": "to dance", "emoji": "💃", "audio": "audio/sv/words/sv-d-08.mp3" },
+        { "text": "djup", "roman": "yoop", "meaning": "deep", "audio": "audio/sv/words/sv-d-09.mp3" },
+        { "text": "drake", "roman": "drah-keh", "meaning": "dragon / kite", "emoji": "🐉", "audio": "audio/sv/words/sv-d-10.mp3" },
+        { "text": "dröm", "roman": "drum", "meaning": "dream", "emoji": "💭", "audio": "audio/sv/words/sv-d-11.mp3" },
+        { "text": "drottning", "roman": "drot-ning", "meaning": "queen", "emoji": "👑", "audio": "audio/sv/words/sv-d-12.mp3" }
+      ]
+    },
+    {
+      "id": "sv-e",
+      "char": "e",
+      "name": "E",
+      "romanization": "eh",
+      "ipa": "/eː/",
+      "letterAudio": "audio/sv/letters/sv-e.mp3",
+      "memoryTrick": "Long 'e' is like the 'ea' in 'yeah' but tighter — no glide at the end. The short version is like English 'e' in 'bed'. Keep it clean and don't let it slide into a diphthong.",
+      "words": [
+        { "text": "elefant", "roman": "el-eh-fant", "meaning": "elephant", "emoji": "🐘", "audio": "audio/sv/words/sv-e-01.mp3" },
+        { "text": "en", "roman": "en", "meaning": "one / a", "audio": "audio/sv/words/sv-e-02.mp3" },
+        { "text": "eld", "roman": "eld", "meaning": "fire", "emoji": "🔥", "audio": "audio/sv/words/sv-e-03.mp3" },
+        { "text": "ek", "roman": "eek", "meaning": "oak tree", "emoji": "🌳", "audio": "audio/sv/words/sv-e-04.mp3" },
+        { "text": "elev", "roman": "el-ehv", "meaning": "student / pupil", "audio": "audio/sv/words/sv-e-05.mp3" },
+        { "text": "ett", "roman": "ett", "meaning": "one (neuter)", "audio": "audio/sv/words/sv-e-06.mp3" },
+        { "text": "efter", "roman": "ef-ter", "meaning": "after", "audio": "audio/sv/words/sv-e-07.mp3" },
+        { "text": "ensam", "roman": "en-sam", "meaning": "alone", "audio": "audio/sv/words/sv-e-08.mp3" },
+        { "text": "elva", "roman": "el-vah", "meaning": "eleven", "audio": "audio/sv/words/sv-e-09.mp3" },
+        { "text": "ekorre", "roman": "eh-kor-reh", "meaning": "squirrel", "emoji": "🐿️", "audio": "audio/sv/words/sv-e-10.mp3" }
+      ]
+    },
+    {
+      "id": "sv-f",
+      "char": "f",
+      "name": "F",
+      "romanization": "eff",
+      "ipa": "/ɛf/",
+      "letterAudio": "audio/sv/letters/sv-f.mp3",
+      "memoryTrick": "Just like English 'f' — top teeth on bottom lip, blow air through. Swedish never voices it; there's no 'v' sound hiding in this letter.",
+      "words": [
+        { "text": "fisk", "roman": "fisk", "meaning": "fish", "emoji": "🐟", "audio": "audio/sv/words/sv-f-01.mp3" },
+        { "text": "fågel", "roman": "faw-gel", "meaning": "bird", "emoji": "🐦", "audio": "audio/sv/words/sv-f-02.mp3" },
+        { "text": "fyra", "roman": "fee-rah", "meaning": "four", "audio": "audio/sv/words/sv-f-03.mp3" },
+        { "text": "frukt", "roman": "frookt", "meaning": "fruit", "emoji": "🍎", "audio": "audio/sv/words/sv-f-04.mp3" },
+        { "text": "fot", "roman": "foot", "meaning": "foot", "emoji": "🦶", "audio": "audio/sv/words/sv-f-05.mp3" },
+        { "text": "flicka", "roman": "flick-ah", "meaning": "girl", "audio": "audio/sv/words/sv-f-06.mp3" },
+        { "text": "färg", "roman": "fary", "meaning": "color", "emoji": "🎨", "audio": "audio/sv/words/sv-f-07.mp3" },
+        { "text": "familj", "roman": "fah-mily", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/sv/words/sv-f-08.mp3" },
+        { "text": "fredag", "roman": "freh-dahg", "meaning": "Friday", "audio": "audio/sv/words/sv-f-09.mp3" },
+        { "text": "fråga", "roman": "fraw-gah", "meaning": "question / to ask", "audio": "audio/sv/words/sv-f-10.mp3" }
+      ]
+    },
+    {
+      "id": "sv-g",
+      "char": "g",
+      "name": "G",
+      "romanization": "geh",
+      "ipa": "/ɡeː/",
+      "letterAudio": "audio/sv/letters/sv-g.mp3",
+      "memoryTrick": "Before a/o/u/å it's a hard 'g' like in 'go'. Before e/i/y/ä/ö it softens into a 'y' sound like in 'yes'. This is a classic Swedish rule — learn it early!",
+      "words": [
+        { "text": "gata", "roman": "gah-tah", "meaning": "street", "audio": "audio/sv/words/sv-g-01.mp3" },
+        { "text": "gå", "roman": "gaw", "meaning": "to go / walk", "emoji": "🚶", "audio": "audio/sv/words/sv-g-02.mp3" },
+        { "text": "god", "roman": "good", "meaning": "good / tasty", "audio": "audio/sv/words/sv-g-03.mp3" },
+        { "text": "grön", "roman": "grurn", "meaning": "green", "emoji": "🟢", "audio": "audio/sv/words/sv-g-04.mp3" },
+        { "text": "glass", "roman": "glass", "meaning": "ice cream", "emoji": "🍦", "audio": "audio/sv/words/sv-g-05.mp3" },
+        { "text": "groda", "roman": "groo-dah", "meaning": "frog", "emoji": "🐸", "audio": "audio/sv/words/sv-g-06.mp3" },
+        { "text": "gul", "roman": "gool", "meaning": "yellow", "emoji": "🟡", "audio": "audio/sv/words/sv-g-07.mp3" },
+        { "text": "glad", "roman": "glahd", "meaning": "happy", "emoji": "😊", "audio": "audio/sv/words/sv-g-08.mp3" },
+        { "text": "gammal", "roman": "gam-mal", "meaning": "old", "audio": "audio/sv/words/sv-g-09.mp3" },
+        { "text": "gris", "roman": "grees", "meaning": "pig", "emoji": "🐷", "audio": "audio/sv/words/sv-g-10.mp3" },
+        { "text": "ge", "roman": "yeh", "meaning": "to give", "audio": "audio/sv/words/sv-g-11.mp3" },
+        { "text": "gissa", "roman": "yis-sah", "meaning": "to guess", "audio": "audio/sv/words/sv-g-12.mp3" }
+      ]
+    },
+    {
+      "id": "sv-h",
+      "char": "h",
+      "name": "H",
+      "romanization": "haw",
+      "ipa": "/hoː/",
+      "letterAudio": "audio/sv/letters/sv-h.mp3",
+      "memoryTrick": "A soft breathy 'h' like in English 'hat' — but in Swedish, 'h' before 'j' (as in 'hjälp') is completely silent. The 'hj' combo says just 'y'.",
+      "words": [
+        { "text": "hus", "roman": "hoos", "meaning": "house", "emoji": "🏠", "audio": "audio/sv/words/sv-h-01.mp3" },
+        { "text": "hund", "roman": "hoond", "meaning": "dog", "emoji": "🐕", "audio": "audio/sv/words/sv-h-02.mp3" },
+        { "text": "hatt", "roman": "hatt", "meaning": "hat", "emoji": "🎩", "audio": "audio/sv/words/sv-h-03.mp3" },
+        { "text": "hej", "roman": "hey", "meaning": "hello", "emoji": "👋", "audio": "audio/sv/words/sv-h-04.mp3" },
+        { "text": "hjärta", "roman": "yar-tah", "meaning": "heart", "emoji": "❤️", "audio": "audio/sv/words/sv-h-05.mp3" },
+        { "text": "hand", "roman": "hand", "meaning": "hand", "emoji": "✋", "audio": "audio/sv/words/sv-h-06.mp3" },
+        { "text": "höst", "roman": "hurst", "meaning": "autumn", "emoji": "🍂", "audio": "audio/sv/words/sv-h-07.mp3" },
+        { "text": "hav", "roman": "hahv", "meaning": "sea / ocean", "emoji": "🌊", "audio": "audio/sv/words/sv-h-08.mp3" },
+        { "text": "häst", "roman": "hest", "meaning": "horse", "emoji": "🐴", "audio": "audio/sv/words/sv-h-09.mp3" },
+        { "text": "hitta", "roman": "hit-tah", "meaning": "to find", "audio": "audio/sv/words/sv-h-10.mp3" }
+      ]
+    },
+    {
+      "id": "sv-i",
+      "char": "i",
+      "name": "I",
+      "romanization": "ee",
+      "ipa": "/iː/",
+      "letterAudio": "audio/sv/letters/sv-i.mp3",
+      "memoryTrick": "Like English 'ee' in 'see' but with your tongue even higher and more forward — almost buzzing behind your teeth. Swedish 'i' is distinctly bright and tense.",
+      "words": [
+        { "text": "is", "roman": "ees", "meaning": "ice", "emoji": "🧊", "audio": "audio/sv/words/sv-i-01.mp3" },
+        { "text": "igelkott", "roman": "ee-gel-kott", "meaning": "hedgehog", "emoji": "🦔", "audio": "audio/sv/words/sv-i-02.mp3" },
+        { "text": "in", "roman": "een", "meaning": "in / into", "audio": "audio/sv/words/sv-i-03.mp3" },
+        { "text": "inte", "roman": "in-teh", "meaning": "not", "audio": "audio/sv/words/sv-i-04.mp3" },
+        { "text": "idé", "roman": "ee-deh", "meaning": "idea", "emoji": "💡", "audio": "audio/sv/words/sv-i-05.mp3" },
+        { "text": "inget", "roman": "ing-et", "meaning": "nothing", "audio": "audio/sv/words/sv-i-06.mp3" },
+        { "text": "insekter", "roman": "in-sek-ter", "meaning": "insects", "emoji": "🐛", "audio": "audio/sv/words/sv-i-07.mp3" },
+        { "text": "invånare", "roman": "in-vaw-nah-reh", "meaning": "inhabitant / resident", "audio": "audio/sv/words/sv-i-08.mp3" },
+        { "text": "isbjörn", "roman": "ees-byurn", "meaning": "polar bear", "emoji": "🐻‍❄️", "audio": "audio/sv/words/sv-i-09.mp3" },
+        { "text": "ingenjör", "roman": "in-jen-yur", "meaning": "engineer", "audio": "audio/sv/words/sv-i-10.mp3" }
       ]
     },
     {
       "id": "sv-j",
-      "char": "J j",
-      "name": "ji",
-      "romanization": "j",
-      "ipa": "/j/",
-      "memoryTrick": "Says 'y' as in 'yes'.",
+      "char": "j",
+      "name": "J",
+      "romanization": "yee",
+      "ipa": "/jiː/",
+      "letterAudio": "audio/sv/letters/sv-j.mp3",
+      "memoryTrick": "Always like English 'y' in 'yes' — never like the English 'j' in 'jam'. Think of it as a 'y' that just happens to look like a 'j'.",
       "words": [
-        {
-          "text": "ja",
-          "roman": "ja",
-          "meaning": "yes",
-          "emoji": "✅"
-        },
-        {
-          "text": "jul",
-          "roman": "jul",
-          "meaning": "Christmas",
-          "emoji": "🎄"
-        }
+        { "text": "ja", "roman": "yah", "meaning": "yes", "emoji": "✅", "audio": "audio/sv/words/sv-j-01.mp3" },
+        { "text": "jordgubbe", "roman": "yoord-gub-beh", "meaning": "strawberry", "emoji": "🍓", "audio": "audio/sv/words/sv-j-02.mp3" },
+        { "text": "jul", "roman": "yool", "meaning": "Christmas", "emoji": "🎄", "audio": "audio/sv/words/sv-j-03.mp3" },
+        { "text": "jacka", "roman": "yak-kah", "meaning": "jacket", "emoji": "🧥", "audio": "audio/sv/words/sv-j-04.mp3" },
+        { "text": "järn", "roman": "yarn", "meaning": "iron (metal)", "audio": "audio/sv/words/sv-j-05.mp3" },
+        { "text": "jätte", "roman": "yet-teh", "meaning": "giant / very", "audio": "audio/sv/words/sv-j-06.mp3" },
+        { "text": "jobb", "roman": "yobb", "meaning": "job / work", "audio": "audio/sv/words/sv-j-07.mp3" },
+        { "text": "jämlikhet", "roman": "yem-leek-het", "meaning": "equality", "audio": "audio/sv/words/sv-j-08.mp3" },
+        { "text": "jord", "roman": "yoord", "meaning": "earth / soil", "emoji": "🌍", "audio": "audio/sv/words/sv-j-09.mp3" },
+        { "text": "jakt", "roman": "yakt", "meaning": "hunt", "audio": "audio/sv/words/sv-j-10.mp3" }
+      ]
+    },
+    {
+      "id": "sv-k",
+      "char": "k",
+      "name": "K",
+      "romanization": "kaw",
+      "ipa": "/koː/",
+      "letterAudio": "audio/sv/letters/sv-k.mp3",
+      "memoryTrick": "Before a/o/u/å: hard 'k' like English 'kite'. Before e/i/y/ä/ö: softens into a 'sh'-like sound (like 'sh' in 'she'), often called the 'tje' sound. This soft 'k' is one of Swedish's signature sounds.",
+      "words": [
+        { "text": "katt", "roman": "katt", "meaning": "cat", "emoji": "🐱", "audio": "audio/sv/words/sv-k-01.mp3" },
+        { "text": "ko", "roman": "koo", "meaning": "cow", "emoji": "🐄", "audio": "audio/sv/words/sv-k-02.mp3" },
+        { "text": "klocka", "roman": "klock-ah", "meaning": "clock / watch", "emoji": "🕐", "audio": "audio/sv/words/sv-k-03.mp3" },
+        { "text": "kung", "roman": "koong", "meaning": "king", "emoji": "🤴", "audio": "audio/sv/words/sv-k-04.mp3" },
+        { "text": "kall", "roman": "kall", "meaning": "cold", "emoji": "🥶", "audio": "audio/sv/words/sv-k-05.mp3" },
+        { "text": "kärlek", "roman": "shar-lek", "meaning": "love", "emoji": "❤️", "audio": "audio/sv/words/sv-k-06.mp3" },
+        { "text": "körsbär", "roman": "shurs-bar", "meaning": "cherry", "emoji": "🍒", "audio": "audio/sv/words/sv-k-07.mp3" },
+        { "text": "kniv", "roman": "kneev", "meaning": "knife", "emoji": "🔪", "audio": "audio/sv/words/sv-k-08.mp3" },
+        { "text": "kanelbulle", "roman": "kah-nel-bool-leh", "meaning": "cinnamon bun", "audio": "audio/sv/words/sv-k-09.mp3" },
+        { "text": "kaka", "roman": "kah-kah", "meaning": "cookie", "emoji": "🍪", "audio": "audio/sv/words/sv-k-10.mp3" },
+        { "text": "kille", "roman": "kil-leh", "meaning": "boy / guy", "audio": "audio/sv/words/sv-k-11.mp3" },
+        { "text": "kyss", "roman": "shyss", "meaning": "kiss", "emoji": "💋", "audio": "audio/sv/words/sv-k-12.mp3" }
+      ]
+    },
+    {
+      "id": "sv-l",
+      "char": "l",
+      "name": "L",
+      "romanization": "ell",
+      "ipa": "/ɛl/",
+      "letterAudio": "audio/sv/letters/sv-l.mp3",
+      "memoryTrick": "Like English 'l' but your tongue touches right behind your upper front teeth. Swedish 'l' never has the 'dark L' sound of English 'ball' — it stays light and clear in all positions.",
+      "words": [
+        { "text": "lejon", "roman": "leh-yon", "meaning": "lion", "emoji": "🦁", "audio": "audio/sv/words/sv-l-01.mp3" },
+        { "text": "lamm", "roman": "lamm", "meaning": "lamb", "emoji": "🐑", "audio": "audio/sv/words/sv-l-02.mp3" },
+        { "text": "ljus", "roman": "yoos", "meaning": "light / candle", "emoji": "🕯️", "audio": "audio/sv/words/sv-l-03.mp3" },
+        { "text": "lärare", "roman": "lar-ah-reh", "meaning": "teacher", "audio": "audio/sv/words/sv-l-04.mp3" },
+        { "text": "land", "roman": "land", "meaning": "country", "emoji": "🏳️", "audio": "audio/sv/words/sv-l-05.mp3" },
+        { "text": "liten", "roman": "lee-ten", "meaning": "small", "audio": "audio/sv/words/sv-l-06.mp3" },
+        { "text": "lördag", "roman": "lur-dahg", "meaning": "Saturday", "audio": "audio/sv/words/sv-l-07.mp3" },
+        { "text": "läsa", "roman": "lah-sah", "meaning": "to read", "emoji": "📚", "audio": "audio/sv/words/sv-l-08.mp3" },
+        { "text": "lång", "roman": "lawng", "meaning": "long / tall", "audio": "audio/sv/words/sv-l-09.mp3" },
+        { "text": "leva", "roman": "leh-vah", "meaning": "to live", "audio": "audio/sv/words/sv-l-10.mp3" }
+      ]
+    },
+    {
+      "id": "sv-m",
+      "char": "m",
+      "name": "M",
+      "romanization": "emm",
+      "ipa": "/ɛm/",
+      "letterAudio": "audio/sv/letters/sv-m.mp3",
+      "memoryTrick": "Same as English 'm' — press your lips together and hum. Nothing tricky here; Swedish and English agree on this one.",
+      "words": [
+        { "text": "mjölk", "roman": "myulk", "meaning": "milk", "emoji": "🥛", "audio": "audio/sv/words/sv-m-01.mp3" },
+        { "text": "morot", "roman": "moo-root", "meaning": "carrot", "emoji": "🥕", "audio": "audio/sv/words/sv-m-02.mp3" },
+        { "text": "mat", "roman": "maht", "meaning": "food", "emoji": "🍽️", "audio": "audio/sv/words/sv-m-03.mp3" },
+        { "text": "mor", "roman": "moor", "meaning": "mother", "emoji": "👩", "audio": "audio/sv/words/sv-m-04.mp3" },
+        { "text": "måne", "roman": "maw-neh", "meaning": "moon", "emoji": "🌙", "audio": "audio/sv/words/sv-m-05.mp3" },
+        { "text": "myra", "roman": "mee-rah", "meaning": "ant", "emoji": "🐜", "audio": "audio/sv/words/sv-m-06.mp3" },
+        { "text": "man", "roman": "mahn", "meaning": "man", "audio": "audio/sv/words/sv-m-07.mp3" },
+        { "text": "måndag", "roman": "mawn-dahg", "meaning": "Monday", "audio": "audio/sv/words/sv-m-08.mp3" },
+        { "text": "moln", "roman": "mooln", "meaning": "cloud", "emoji": "☁️", "audio": "audio/sv/words/sv-m-09.mp3" },
+        { "text": "mus", "roman": "moos", "meaning": "mouse", "emoji": "🐭", "audio": "audio/sv/words/sv-m-10.mp3" },
+        { "text": "mörk", "roman": "murk", "meaning": "dark", "audio": "audio/sv/words/sv-m-11.mp3" },
+        { "text": "mjuk", "roman": "myook", "meaning": "soft", "audio": "audio/sv/words/sv-m-12.mp3" }
+      ]
+    },
+    {
+      "id": "sv-n",
+      "char": "n",
+      "name": "N",
+      "romanization": "enn",
+      "ipa": "/ɛn/",
+      "letterAudio": "audio/sv/letters/sv-n.mp3",
+      "memoryTrick": "Like English 'n', but touch the back of your upper teeth with your tongue tip — it's a dental 'n', not alveolar. Subtle but it's what makes Swedish sound Swedish.",
+      "words": [
+        { "text": "natt", "roman": "natt", "meaning": "night", "emoji": "🌙", "audio": "audio/sv/words/sv-n-01.mp3" },
+        { "text": "ny", "roman": "nee", "meaning": "new", "emoji": "🆕", "audio": "audio/sv/words/sv-n-02.mp3" },
+        { "text": "näsa", "roman": "nah-sah", "meaning": "nose", "emoji": "👃", "audio": "audio/sv/words/sv-n-03.mp3" },
+        { "text": "nio", "roman": "nee-oh", "meaning": "nine", "audio": "audio/sv/words/sv-n-04.mp3" },
+        { "text": "namn", "roman": "namn", "meaning": "name", "audio": "audio/sv/words/sv-n-05.mp3" },
+        { "text": "norr", "roman": "norr", "meaning": "north", "emoji": "🧭", "audio": "audio/sv/words/sv-n-06.mp3" },
+        { "text": "nöjd", "roman": "nurd", "meaning": "satisfied", "emoji": "😌", "audio": "audio/sv/words/sv-n-07.mp3" },
+        { "text": "nummer", "roman": "num-mer", "meaning": "number", "audio": "audio/sv/words/sv-n-08.mp3" },
+        { "text": "nyckel", "roman": "nyk-kel", "meaning": "key", "emoji": "🔑", "audio": "audio/sv/words/sv-n-09.mp3" },
+        { "text": "nära", "roman": "nah-rah", "meaning": "near / close", "audio": "audio/sv/words/sv-n-10.mp3" }
       ]
     },
     {
       "id": "sv-o",
-      "char": "O o",
-      "name": "o",
-      "romanization": "o",
-      "ipa": "/u/",
-      "memoryTrick": "Often says 'oo' as in 'food'.",
+      "char": "o",
+      "name": "O",
+      "romanization": "oo",
+      "ipa": "/uː/",
+      "letterAudio": "audio/sv/letters/sv-o.mp3",
+      "memoryTrick": "Tricky! Swedish 'o' can sound like English 'oo' in 'moon' (as in 'bo' — to live) or like 'aw' in 'law' (as in 'ost' — cheese). Context and region affect which you'll hear. When in doubt, round your lips tightly.",
       "words": [
-        {
-          "text": "bo",
-          "roman": "boo",
-          "meaning": "to live",
-          "emoji": "🏠"
-        },
-        {
-          "text": "sol",
-          "roman": "sool",
-          "meaning": "sun",
-          "emoji": "☀️"
-        }
+        { "text": "ord", "roman": "oord", "meaning": "word", "audio": "audio/sv/words/sv-o-01.mp3" },
+        { "text": "och", "roman": "ock", "meaning": "and", "audio": "audio/sv/words/sv-o-02.mp3" },
+        { "text": "ost", "roman": "oost", "meaning": "cheese", "emoji": "🧀", "audio": "audio/sv/words/sv-o-03.mp3" },
+        { "text": "orm", "roman": "oorm", "meaning": "snake", "emoji": "🐍", "audio": "audio/sv/words/sv-o-04.mp3" },
+        { "text": "onsdag", "roman": "oons-dahg", "meaning": "Wednesday", "audio": "audio/sv/words/sv-o-05.mp3" },
+        { "text": "ordbok", "roman": "oord-book", "meaning": "dictionary", "emoji": "📖", "audio": "audio/sv/words/sv-o-06.mp3" },
+        { "text": "ovan", "roman": "oo-vahn", "meaning": "above / upstairs", "audio": "audio/sv/words/sv-o-07.mp3" },
+        { "text": "oro", "roman": "oo-roo", "meaning": "worry / anxiety", "audio": "audio/sv/words/sv-o-08.mp3" },
+        { "text": "olika", "roman": "oo-lee-kah", "meaning": "different", "audio": "audio/sv/words/sv-o-09.mp3" },
+        { "text": "om", "roman": "om", "meaning": "if / about", "audio": "audio/sv/words/sv-o-10.mp3" }
+      ]
+    },
+    {
+      "id": "sv-p",
+      "char": "p",
+      "name": "P",
+      "romanization": "peh",
+      "ipa": "/peː/",
+      "letterAudio": "audio/sv/letters/sv-p.mp3",
+      "memoryTrick": "Like English 'p' but with less aspiration — don't puff out as much air. Hold a piece of paper in front of your mouth; it should barely move when you say Swedish 'p' compared to English.",
+      "words": [
+        { "text": "pojke", "roman": "poy-keh", "meaning": "boy", "audio": "audio/sv/words/sv-p-01.mp3" },
+        { "text": "papper", "roman": "pap-per", "meaning": "paper", "emoji": "📄", "audio": "audio/sv/words/sv-p-02.mp3" },
+        { "text": "plats", "roman": "plats", "meaning": "place / seat", "audio": "audio/sv/words/sv-p-03.mp3" },
+        { "text": "pengar", "roman": "peng-ar", "meaning": "money", "emoji": "💰", "audio": "audio/sv/words/sv-p-04.mp3" },
+        { "text": "polis", "roman": "poo-lees", "meaning": "police", "emoji": "👮", "audio": "audio/sv/words/sv-p-05.mp3" },
+        { "text": "present", "roman": "preh-sent", "meaning": "gift", "emoji": "🎁", "audio": "audio/sv/words/sv-p-06.mp3" },
+        { "text": "päron", "roman": "pah-ron", "meaning": "pear", "emoji": "🍐", "audio": "audio/sv/words/sv-p-07.mp3" },
+        { "text": "puss", "roman": "pooss", "meaning": "peck / small kiss", "emoji": "😘", "audio": "audio/sv/words/sv-p-08.mp3" },
+        { "text": "prata", "roman": "prah-tah", "meaning": "to talk / speak", "audio": "audio/sv/words/sv-p-09.mp3" },
+        { "text": "pizza", "roman": "peet-sah", "meaning": "pizza", "emoji": "🍕", "audio": "audio/sv/words/sv-p-10.mp3" }
+      ]
+    },
+    {
+      "id": "sv-q",
+      "char": "q",
+      "name": "Q",
+      "romanization": "koo",
+      "ipa": "/kʉː/",
+      "letterAudio": "audio/sv/letters/sv-q.mp3",
+      "memoryTrick": "Very rare in Swedish — nearly always followed by 'u' and pronounced like 'kv'. Think of it as a fancy 'k' that only appears in loanwords. The letter name sounds like 'kew' in English.",
+      "words": [
+        { "text": "quiz", "roman": "kviss", "meaning": "quiz", "audio": "audio/sv/words/sv-q-01.mp3" },
+        { "text": "quinoa", "roman": "keen-wah", "meaning": "quinoa", "emoji": "🌾", "audio": "audio/sv/words/sv-q-02.mp3" }
+      ]
+    },
+    {
+      "id": "sv-r",
+      "char": "r",
+      "name": "R",
+      "romanization": "arr",
+      "ipa": "/ær/",
+      "letterAudio": "audio/sv/letters/sv-r.mp3",
+      "memoryTrick": "A rolled or tapped 'r' — flick the tip of your tongue against the ridge behind your upper teeth, once or twice. In southern Sweden it's a throaty French-style 'r' instead. Either way, it's always pronounced, never silent.",
+      "words": [
+        { "text": "ros", "roman": "roos", "meaning": "rose", "emoji": "🌹", "audio": "audio/sv/words/sv-r-01.mp3" },
+        { "text": "räv", "roman": "rav", "meaning": "fox", "emoji": "🦊", "audio": "audio/sv/words/sv-r-02.mp3" },
+        { "text": "regn", "roman": "rengn", "meaning": "rain", "emoji": "🌧️", "audio": "audio/sv/words/sv-r-03.mp3" },
+        { "text": "röd", "roman": "rurd", "meaning": "red", "emoji": "🔴", "audio": "audio/sv/words/sv-r-04.mp3" },
+        { "text": "rum", "roman": "room", "meaning": "room", "audio": "audio/sv/words/sv-r-05.mp3" },
+        { "text": "rådjur", "roman": "rawd-yoor", "meaning": "roe deer", "emoji": "🦌", "audio": "audio/sv/words/sv-r-06.mp3" },
+        { "text": "resa", "roman": "reh-sah", "meaning": "to travel / trip", "emoji": "✈️", "audio": "audio/sv/words/sv-r-07.mp3" },
+        { "text": "riktig", "roman": "rik-tig", "meaning": "real / genuine", "audio": "audio/sv/words/sv-r-08.mp3" },
+        { "text": "rolig", "roman": "roo-lig", "meaning": "fun / funny", "emoji": "😂", "audio": "audio/sv/words/sv-r-09.mp3" },
+        { "text": "rätt", "roman": "rett", "meaning": "correct / right", "emoji": "✔️", "audio": "audio/sv/words/sv-r-10.mp3" }
+      ]
+    },
+    {
+      "id": "sv-s",
+      "char": "s",
+      "name": "S",
+      "romanization": "ess",
+      "ipa": "/ɛs/",
+      "letterAudio": "audio/sv/letters/sv-s.mp3",
+      "memoryTrick": "Always a clean, hissing 's' like in 'snake' — never voiced like the 'z' in 'rose'. Swedish 's' never turns into a 'z' between vowels. Keep it sharp and unvoiced.",
+      "words": [
+        { "text": "sol", "roman": "sool", "meaning": "sun", "emoji": "☀️", "audio": "audio/sv/words/sv-s-01.mp3" },
+        { "text": "snö", "roman": "snur", "meaning": "snow", "emoji": "❄️", "audio": "audio/sv/words/sv-s-02.mp3" },
+        { "text": "söt", "roman": "surt", "meaning": "sweet / cute", "audio": "audio/sv/words/sv-s-03.mp3" },
+        { "text": "soppa", "roman": "sop-pah", "meaning": "soup", "emoji": "🍲", "audio": "audio/sv/words/sv-s-04.mp3" },
+        { "text": "skog", "roman": "skoog", "meaning": "forest", "emoji": "🌲", "audio": "audio/sv/words/sv-s-05.mp3" },
+        { "text": "syn", "roman": "seen", "meaning": "sight / vision", "audio": "audio/sv/words/sv-s-06.mp3" },
+        { "text": "stor", "roman": "stoor", "meaning": "big / large", "audio": "audio/sv/words/sv-s-07.mp3" },
+        { "text": "syster", "roman": "syss-ter", "meaning": "sister", "audio": "audio/sv/words/sv-s-08.mp3" },
+        { "text": "sjö", "roman": "shur", "meaning": "lake", "emoji": "🏞️", "audio": "audio/sv/words/sv-s-09.mp3" },
+        { "text": "sova", "roman": "soo-vah", "meaning": "to sleep", "emoji": "😴", "audio": "audio/sv/words/sv-s-10.mp3" },
+        { "text": "skola", "roman": "skoo-lah", "meaning": "school", "emoji": "🏫", "audio": "audio/sv/words/sv-s-11.mp3" },
+        { "text": "snäll", "roman": "snell", "meaning": "kind / nice", "audio": "audio/sv/words/sv-s-12.mp3" }
+      ]
+    },
+    {
+      "id": "sv-t",
+      "char": "t",
+      "name": "T",
+      "romanization": "teh",
+      "ipa": "/teː/",
+      "letterAudio": "audio/sv/letters/sv-t.mp3",
+      "memoryTrick": "Like English 't' but dental — tongue tip touches the back of your upper front teeth, not the roof of your mouth. And like Swedish 'p', it has much less aspiration; no big puff of air.",
+      "words": [
+        { "text": "tre", "roman": "treh", "meaning": "three", "audio": "audio/sv/words/sv-t-01.mp3" },
+        { "text": "tio", "roman": "tee-oh", "meaning": "ten", "audio": "audio/sv/words/sv-t-02.mp3" },
+        { "text": "tak", "roman": "tahk", "meaning": "roof / ceiling", "audio": "audio/sv/words/sv-t-03.mp3" },
+        { "text": "tid", "roman": "teed", "meaning": "time", "emoji": "⏰", "audio": "audio/sv/words/sv-t-04.mp3" },
+        { "text": "tand", "roman": "tand", "meaning": "tooth", "emoji": "🦷", "audio": "audio/sv/words/sv-t-05.mp3" },
+        { "text": "tårta", "roman": "tawr-tah", "meaning": "cake", "emoji": "🎂", "audio": "audio/sv/words/sv-t-06.mp3" },
+        { "text": "träd", "roman": "trad", "meaning": "tree", "emoji": "🌳", "audio": "audio/sv/words/sv-t-07.mp3" },
+        { "text": "tjej", "roman": "shay", "meaning": "girl (colloquial)", "audio": "audio/sv/words/sv-t-08.mp3" },
+        { "text": "tisdag", "roman": "tees-dahg", "meaning": "Tuesday", "audio": "audio/sv/words/sv-t-09.mp3" },
+        { "text": "tung", "roman": "toong", "meaning": "heavy", "audio": "audio/sv/words/sv-t-10.mp3" },
+        { "text": "tänka", "roman": "ten-kah", "meaning": "to think", "emoji": "🤔", "audio": "audio/sv/words/sv-t-11.mp3" },
+        { "text": "tyst", "roman": "teest", "meaning": "quiet / silent", "emoji": "🤫", "audio": "audio/sv/words/sv-t-12.mp3" }
+      ]
+    },
+    {
+      "id": "sv-u",
+      "char": "u",
+      "name": "U",
+      "romanization": "ew",
+      "ipa": "/ʉː/",
+      "letterAudio": "audio/sv/letters/sv-u.mp3",
+      "memoryTrick": "A sound English doesn't have! Round your lips tightly as if saying 'oo', but keep your tongue forward as if saying 'ee'. The result is a compressed, buzzy vowel — somewhere between 'ew' and a whistle.",
+      "words": [
+        { "text": "uggla", "roman": "oog-lah", "meaning": "owl", "emoji": "🦉", "audio": "audio/sv/words/sv-u-01.mp3" },
+        { "text": "under", "roman": "oon-der", "meaning": "under / during", "audio": "audio/sv/words/sv-u-02.mp3" },
+        { "text": "ung", "roman": "oong", "meaning": "young", "audio": "audio/sv/words/sv-u-03.mp3" },
+        { "text": "ut", "roman": "oot", "meaning": "out", "audio": "audio/sv/words/sv-u-04.mp3" },
+        { "text": "ugn", "roman": "oongn", "meaning": "oven", "audio": "audio/sv/words/sv-u-05.mp3" },
+        { "text": "upp", "roman": "oop", "meaning": "up", "emoji": "⬆️", "audio": "audio/sv/words/sv-u-06.mp3" },
+        { "text": "ursäkt", "roman": "oor-sekt", "meaning": "excuse / apology", "audio": "audio/sv/words/sv-u-07.mp3" },
+        { "text": "utan", "roman": "oo-tan", "meaning": "without", "audio": "audio/sv/words/sv-u-08.mp3" },
+        { "text": "universum", "roman": "oo-ni-ver-soom", "meaning": "universe", "emoji": "🌌", "audio": "audio/sv/words/sv-u-09.mp3" },
+        { "text": "upptäcka", "roman": "oop-teck-ah", "meaning": "to discover", "audio": "audio/sv/words/sv-u-10.mp3" }
+      ]
+    },
+    {
+      "id": "sv-v",
+      "char": "v",
+      "name": "V",
+      "romanization": "veh",
+      "ipa": "/veː/",
+      "letterAudio": "audio/sv/letters/sv-v.mp3",
+      "memoryTrick": "Same as English 'v' — top teeth on bottom lip, voice buzzing through. Swedish 'v' is always voiced, never like 'f'. Simple and consistent.",
+      "words": [
+        { "text": "vatten", "roman": "vat-ten", "meaning": "water", "emoji": "💧", "audio": "audio/sv/words/sv-v-01.mp3" },
+        { "text": "vän", "roman": "venn", "meaning": "friend", "audio": "audio/sv/words/sv-v-02.mp3" },
+        { "text": "vit", "roman": "veet", "meaning": "white", "emoji": "⬜", "audio": "audio/sv/words/sv-v-03.mp3" },
+        { "text": "vår", "roman": "vawr", "meaning": "spring (season)", "emoji": "🌱", "audio": "audio/sv/words/sv-v-04.mp3" },
+        { "text": "väg", "roman": "vag", "meaning": "road", "audio": "audio/sv/words/sv-v-05.mp3" },
+        { "text": "varg", "roman": "vary", "meaning": "wolf", "emoji": "🐺", "audio": "audio/sv/words/sv-v-06.mp3" },
+        { "text": "varm", "roman": "varm", "meaning": "warm", "audio": "audio/sv/words/sv-v-07.mp3" },
+        { "text": "vinter", "roman": "vin-ter", "meaning": "winter", "emoji": "⛄", "audio": "audio/sv/words/sv-v-08.mp3" },
+        { "text": "vacker", "roman": "vack-er", "meaning": "beautiful", "audio": "audio/sv/words/sv-v-09.mp3" },
+        { "text": "vilja", "roman": "vil-yah", "meaning": "to want", "audio": "audio/sv/words/sv-v-10.mp3" }
+      ]
+    },
+    {
+      "id": "sv-w",
+      "char": "w",
+      "name": "W",
+      "romanization": "dubbel-veh",
+      "ipa": "/ˈdɵbːɛlˌveː/",
+      "letterAudio": "audio/sv/letters/sv-w.mp3",
+      "memoryTrick": "Called 'double-v' in Swedish, and pronounced just like a regular Swedish 'v'. It appears almost exclusively in loanwords and names. Don't say 'double-u' — Swedes will think that's very English of you!",
+      "words": [
+        { "text": "webb", "roman": "vebb", "meaning": "web", "emoji": "🌐", "audio": "audio/sv/words/sv-w-01.mp3" },
+        { "text": "webbplats", "roman": "vebb-plats", "meaning": "website", "audio": "audio/sv/words/sv-w-02.mp3" },
+        { "text": "whisky", "roman": "vis-kee", "meaning": "whisky", "emoji": "🥃", "audio": "audio/sv/words/sv-w-03.mp3" }
+      ]
+    },
+    {
+      "id": "sv-x",
+      "char": "x",
+      "name": "X",
+      "romanization": "eks",
+      "ipa": "/ɛks/",
+      "letterAudio": "audio/sv/letters/sv-x.mp3",
+      "memoryTrick": "Pronounced like 'ks' (as in 'box'). Uncommon in Swedish apart from loanwords and the prefix 'ex-' (meaning former). The letter name rhymes with 'sex'.",
+      "words": [
+        { "text": "xylofon", "roman": "ksy-loh-fawn", "meaning": "xylophone", "audio": "audio/sv/words/sv-x-01.mp3" },
+        { "text": "taxi", "roman": "tak-see", "meaning": "taxi", "emoji": "🚕", "audio": "audio/sv/words/sv-x-02.mp3" },
+        { "text": "exempel", "roman": "ek-sem-pel", "meaning": "example", "audio": "audio/sv/words/sv-x-03.mp3" }
+      ]
+    },
+    {
+      "id": "sv-y",
+      "char": "y",
+      "name": "Y",
+      "romanization": "ew",
+      "ipa": "/yː/",
+      "letterAudio": "audio/sv/letters/sv-y.mp3",
+      "memoryTrick": "Round your lips tightly as for 'oo', but say 'ee' — the same trick as Swedish 'u' but slightly more open. It's like the French 'u' in 'tu' or German 'ü'. Very front, very rounded, very Swedish!",
+      "words": [
+        { "text": "yta", "roman": "ee-tah", "meaning": "surface", "audio": "audio/sv/words/sv-y-01.mp3" },
+        { "text": "yrke", "roman": "eer-keh", "meaning": "profession", "audio": "audio/sv/words/sv-y-02.mp3" },
+        { "text": "ylle", "roman": "eel-leh", "meaning": "wool (fabric)", "audio": "audio/sv/words/sv-y-03.mp3" },
+        { "text": "yster", "roman": "ees-ter", "meaning": "lively / frisky", "audio": "audio/sv/words/sv-y-04.mp3" },
+        { "text": "yxan", "roman": "eek-san", "meaning": "the axe", "emoji": "🪓", "audio": "audio/sv/words/sv-y-05.mp3" },
+        { "text": "yngel", "roman": "eeng-el", "meaning": "fry (young fish)", "emoji": "🐟", "audio": "audio/sv/words/sv-y-06.mp3" }
+      ]
+    },
+    {
+      "id": "sv-z",
+      "char": "z",
+      "name": "Z",
+      "romanization": "sah-tah",
+      "ipa": "/ˈsɛːta/",
+      "letterAudio": "audio/sv/letters/sv-z.mp3",
+      "memoryTrick": "Called 'säta' in Swedish, and pronounced like a regular 's' — Swedish almost never voices it to a buzzing 'z' like English does. It appears in a handful of loanwords and names.",
+      "words": [
+        { "text": "zebra", "roman": "seh-brah", "meaning": "zebra", "emoji": "🦓", "audio": "audio/sv/words/sv-z-01.mp3" },
+        { "text": "zon", "roman": "sohn", "meaning": "zone", "audio": "audio/sv/words/sv-z-02.mp3" },
+        { "text": "zoo", "roman": "soh-oh", "meaning": "zoo", "emoji": "🦁", "audio": "audio/sv/words/sv-z-03.mp3" }
+      ]
+    },
+    {
+      "id": "sv-å",
+      "char": "å",
+      "name": "Å",
+      "romanization": "aw",
+      "ipa": "/oː/",
+      "letterAudio": "audio/sv/letters/sv-å.mp3",
+      "memoryTrick": "Like the 'o' in English 'more' or 'for' — round your lips and let the sound resonate deep in your mouth. Think of the 'aw' sound you make when you see something adorable. This is a full letter, not just an 'a' with a circle on top!",
+      "words": [
+        { "text": "ål", "roman": "awl", "meaning": "eel", "emoji": "🐍", "audio": "audio/sv/words/sv-å-01.mp3" },
+        { "text": "åska", "roman": "aws-kah", "meaning": "thunder", "emoji": "⛈️", "audio": "audio/sv/words/sv-å-02.mp3" },
+        { "text": "åsna", "roman": "aws-nah", "meaning": "donkey", "audio": "audio/sv/words/sv-å-03.mp3" },
+        { "text": "ålder", "roman": "awl-der", "meaning": "age", "audio": "audio/sv/words/sv-å-04.mp3" },
+        { "text": "år", "roman": "awr", "meaning": "year", "emoji": "📅", "audio": "audio/sv/words/sv-å-05.mp3" },
+        { "text": "åtta", "roman": "awt-tah", "meaning": "eight", "audio": "audio/sv/words/sv-å-06.mp3" },
+        { "text": "åker", "roman": "aw-ker", "meaning": "field", "emoji": "🌾", "audio": "audio/sv/words/sv-å-07.mp3" },
+        { "text": "ånga", "roman": "awng-ah", "meaning": "steam", "audio": "audio/sv/words/sv-å-08.mp3" },
+        { "text": "åsikt", "roman": "aw-sikt", "meaning": "opinion", "audio": "audio/sv/words/sv-å-09.mp3" },
+        { "text": "åter", "roman": "aw-ter", "meaning": "again / back", "audio": "audio/sv/words/sv-å-10.mp3" }
+      ]
+    },
+    {
+      "id": "sv-ä",
+      "char": "ä",
+      "name": "Ä",
+      "romanization": "ah",
+      "ipa": "/ɛː/",
+      "letterAudio": "audio/sv/letters/sv-ä.mp3",
+      "memoryTrick": "Like the 'e' in English 'bed' when short, or the 'ai' in 'air' when long. Open your mouth wider than for a regular 'e'. Think of how you'd say 'yeah' — that's close. The two dots aren't decoration; they change the vowel completely.",
+      "words": [
+        { "text": "älg", "roman": "ely", "meaning": "moose / elk", "emoji": "🫎", "audio": "audio/sv/words/sv-ä-01.mp3" },
+        { "text": "äpple", "roman": "ep-leh", "meaning": "apple", "emoji": "🍎", "audio": "audio/sv/words/sv-ä-02.mp3" },
+        { "text": "ängel", "roman": "eng-el", "meaning": "angel", "emoji": "👼", "audio": "audio/sv/words/sv-ä-03.mp3" },
+        { "text": "ägg", "roman": "egg", "meaning": "egg", "emoji": "🥚", "audio": "audio/sv/words/sv-ä-04.mp3" },
+        { "text": "ära", "roman": "ah-rah", "meaning": "honor", "audio": "audio/sv/words/sv-ä-05.mp3" },
+        { "text": "ärta", "roman": "ar-tah", "meaning": "pea", "audio": "audio/sv/words/sv-ä-06.mp3" },
+        { "text": "älv", "roman": "elv", "meaning": "river", "emoji": "🏞️", "audio": "audio/sv/words/sv-ä-07.mp3" },
+        { "text": "äventyr", "roman": "ah-ven-teer", "meaning": "adventure", "audio": "audio/sv/words/sv-ä-08.mp3" },
+        { "text": "ärlig", "roman": "ar-lig", "meaning": "honest", "audio": "audio/sv/words/sv-ä-09.mp3" },
+        { "text": "älska", "roman": "el-skah", "meaning": "to love", "emoji": "❤️", "audio": "audio/sv/words/sv-ä-10.mp3" }
+      ]
+    },
+    {
+      "id": "sv-ö",
+      "char": "ö",
+      "name": "Ö",
+      "romanization": "ur",
+      "ipa": "/øː/",
+      "letterAudio": "audio/sv/letters/sv-ö.mp3",
+      "memoryTrick": "Make an 'eh' shape with your mouth, but round your lips as if saying 'oh'. It's like the 'i' in English 'bird' or the French 'eu' in 'peu'. This is perhaps the most distinctively Swedish vowel — master it and you'll sound like a local.",
+      "words": [
+        { "text": "ö", "roman": "ur", "meaning": "island", "emoji": "🏝️", "audio": "audio/sv/words/sv-ö-01.mp3" },
+        { "text": "öga", "roman": "ur-gah", "meaning": "eye", "emoji": "👁️", "audio": "audio/sv/words/sv-ö-02.mp3" },
+        { "text": "öppna", "roman": "urp-nah", "meaning": "to open", "audio": "audio/sv/words/sv-ö-03.mp3" },
+        { "text": "öra", "roman": "ur-rah", "meaning": "ear", "emoji": "👂", "audio": "audio/sv/words/sv-ö-04.mp3" },
+        { "text": "önska", "roman": "urn-skah", "meaning": "to wish", "emoji": "⭐", "audio": "audio/sv/words/sv-ö-05.mp3" },
+        { "text": "öst", "roman": "urst", "meaning": "east", "emoji": "🧭", "audio": "audio/sv/words/sv-ö-06.mp3" },
+        { "text": "öl", "roman": "url", "meaning": "beer", "emoji": "🍺", "audio": "audio/sv/words/sv-ö-07.mp3" },
+        { "text": "öde", "roman": "ur-deh", "meaning": "deserted / fate", "audio": "audio/sv/words/sv-ö-08.mp3" },
+        { "text": "över", "roman": "ur-ver", "meaning": "over", "audio": "audio/sv/words/sv-ö-09.mp3" },
+        { "text": "ögonblick", "roman": "ur-gon-blick", "meaning": "moment", "audio": "audio/sv/words/sv-ö-10.mp3" }
       ]
     }
   ]

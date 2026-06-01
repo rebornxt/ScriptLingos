@@ -2,138 +2,505 @@
   "language": "Lithuanian",
   "code": "lt-LT",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
-      "id": "lt-e-dot",
-      "char": "Ė ė",
-      "name": "ė",
-      "romanization": "ė",
-      "ipa": "/eː/",
-      "memoryTrick": "An 'e' with a dot — a long, closed 'ay'.",
+      "id": "lt-a",
+      "char": "a",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/lt/letters/lt-a.mp3",
+      "memoryTrick": "Like the 'a' in 'father', but short and crisp — imagine a quick, bright 'ah'.",
       "words": [
-        {
-          "text": "dėdė",
-          "roman": "dede",
-          "meaning": "uncle",
-          "emoji": "👨"
-        },
-        {
-          "text": "ėriukas",
-          "roman": "eriukas",
-          "meaning": "lamb",
-          "emoji": "🐑"
-        }
+        { "text": "arbata", "roman": "arbata", "meaning": "tea", "emoji": "🍵", "audio": "audio/lt/words/lt-a-01.mp3" },
+        { "text": "akmuo", "roman": "akmuo", "meaning": "stone", "emoji": "🪨", "audio": "audio/lt/words/lt-a-02.mp3" },
+        { "text": "agurkas", "roman": "agurkas", "meaning": "cucumber", "emoji": "🥒", "audio": "audio/lt/words/lt-a-03.mp3" },
+        { "text": "aitvaras", "roman": "aitvaras", "meaning": "kite", "emoji": "🪁", "audio": "audio/lt/words/lt-a-04.mp3" },
+        { "text": "avis", "roman": "avis", "meaning": "sheep", "emoji": "🐑", "audio": "audio/lt/words/lt-a-05.mp3" },
+        { "text": "antras", "roman": "antras", "meaning": "second", "emoji": "🥈", "audio": "audio/lt/words/lt-a-06.mp3" },
+        { "text": "aklas", "roman": "aklas", "meaning": "blind", "audio": "audio/lt/words/lt-a-07.mp3" },
+        { "text": "aštuoni", "roman": "aštuoni", "meaning": "eight", "emoji": "8️⃣", "audio": "audio/lt/words/lt-a-08.mp3" },
+        { "text": "amžius", "roman": "amžius", "meaning": "age, century", "audio": "audio/lt/words/lt-a-09.mp3" },
+        { "text": "aukštas", "roman": "aukštas", "meaning": "tall, floor", "emoji": "🏢", "audio": "audio/lt/words/lt-a-10.mp3" }
+      ]
+    },
+    {
+      "id": "lt-ogonek-a",
+      "char": "ą",
+      "name": "a nosinė (nasal a)",
+      "romanization": "ą",
+      "ipa": "/aː/",
+      "letterAudio": "audio/lt/letters/lt-ogonek-a.mp3",
+      "memoryTrick": "A long 'a' like 'aaah' at the doctor — the little tail (ogonek) underneath means 'hold it longer.' Historically it was nasal, like the French 'an' in 'enfant.'",
+      "words": [
+        { "text": "ąsotis", "roman": "ąsotis", "meaning": "jug, pitcher", "emoji": "🏺", "audio": "audio/lt/words/lt-ogonek-a-01.mp3" },
+        { "text": "ąžuolas", "roman": "ąžuolas", "meaning": "oak tree", "emoji": "🌳", "audio": "audio/lt/words/lt-ogonek-a-02.mp3" },
+        { "text": "ąsa", "roman": "ąsa", "meaning": "handle, ear (of a jug)", "audio": "audio/lt/words/lt-ogonek-a-03.mp3" },
+        { "text": "kąsti", "roman": "kąsti", "meaning": "to bite", "audio": "audio/lt/words/lt-ogonek-a-04.mp3" },
+        { "text": "žąsis", "roman": "žąsis", "meaning": "goose", "emoji": "🪿", "audio": "audio/lt/words/lt-ogonek-a-05.mp3" },
+        { "text": "grąžinti", "roman": "grąžinti", "meaning": "to return, give back", "audio": "audio/lt/words/lt-ogonek-a-06.mp3" }
+      ]
+    },
+    {
+      "id": "lt-b",
+      "char": "b",
+      "name": "bė",
+      "romanization": "b",
+      "ipa": "/b/",
+      "letterAudio": "audio/lt/letters/lt-b.mp3",
+      "memoryTrick": "Exactly like English 'b' in 'ball' — a firm, voiced pop of the lips. No surprises here.",
+      "words": [
+        { "text": "brolis", "roman": "brolis", "meaning": "brother", "emoji": "👦", "audio": "audio/lt/words/lt-b-01.mp3" },
+        { "text": "bitė", "roman": "bitė", "meaning": "bee", "emoji": "🐝", "audio": "audio/lt/words/lt-b-02.mp3" },
+        { "text": "baltas", "roman": "baltas", "meaning": "white", "emoji": "⬜", "audio": "audio/lt/words/lt-b-03.mp3" },
+        { "text": "butas", "roman": "butas", "meaning": "apartment", "emoji": "🏠", "audio": "audio/lt/words/lt-b-04.mp3" },
+        { "text": "bėgti", "roman": "bėgti", "meaning": "to run", "emoji": "🏃", "audio": "audio/lt/words/lt-b-05.mp3" },
+        { "text": "berniukas", "roman": "berniukas", "meaning": "boy", "emoji": "👦", "audio": "audio/lt/words/lt-b-06.mp3" },
+        { "text": "balandis", "roman": "balandis", "meaning": "pigeon; April", "emoji": "🕊️", "audio": "audio/lt/words/lt-b-07.mp3" },
+        { "text": "barzda", "roman": "barzda", "meaning": "beard", "emoji": "🧔", "audio": "audio/lt/words/lt-b-08.mp3" }
+      ]
+    },
+    {
+      "id": "lt-c",
+      "char": "c",
+      "name": "cė",
+      "romanization": "c",
+      "ipa": "/t͡s/",
+      "letterAudio": "audio/lt/letters/lt-c.mp3",
+      "memoryTrick": "Always 'ts' as in 'cats' — never soft like 'city.' Think of it as a crisp t+s combo fired together.",
+      "words": [
+        { "text": "citrina", "roman": "citrina", "meaning": "lemon", "emoji": "🍋", "audio": "audio/lt/words/lt-c-01.mp3" },
+        { "text": "cukrus", "roman": "cukrus", "meaning": "sugar", "emoji": "🍬", "audio": "audio/lt/words/lt-c-02.mp3" },
+        { "text": "centras", "roman": "centras", "meaning": "center, downtown", "emoji": "🏙️", "audio": "audio/lt/words/lt-c-03.mp3" }
       ]
     },
     {
       "id": "lt-c-caron",
-      "char": "Č č",
-      "name": "čé",
+      "char": "č",
+      "name": "čė",
       "romanization": "č",
-      "ipa": "/tʃ/",
-      "memoryTrick": "A 'c' with a háček = 'ch'.",
+      "ipa": "/t͡ʃ/",
+      "letterAudio": "audio/lt/letters/lt-c-caron.mp3",
+      "memoryTrick": "The 'ch' in 'chocolate' or 'cherry.' The little háček (ˇ) on top turns the hard 'ts' into a soft 'ch.'",
       "words": [
-        {
-          "text": "čia",
-          "roman": "chia",
-          "meaning": "here",
-          "emoji": "📍"
-        },
-        {
-          "text": "ačiū",
-          "roman": "achoo",
-          "meaning": "thank you",
-          "emoji": "🙏"
-        }
+        { "text": "česnakas", "roman": "česnakas", "meaning": "garlic", "emoji": "🧄", "audio": "audio/lt/words/lt-c-caron-01.mp3" },
+        { "text": "čia", "roman": "čia", "meaning": "here", "emoji": "📍", "audio": "audio/lt/words/lt-c-caron-02.mp3" },
+        { "text": "čiupti", "roman": "čiupti", "meaning": "to grab, touch", "emoji": "🤏", "audio": "audio/lt/words/lt-c-caron-03.mp3" }
       ]
     },
     {
-      "id": "lt-s-caron",
-      "char": "Š š",
-      "name": "eš",
-      "romanization": "š",
-      "ipa": "/ʃ/",
-      "memoryTrick": "An 's' with a háček = 'sh'.",
+      "id": "lt-d",
+      "char": "d",
+      "name": "dė",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/lt/letters/lt-d.mp3",
+      "memoryTrick": "Same as English 'd' in 'dog' — tongue taps the roof of your mouth right behind the teeth.",
       "words": [
-        {
-          "text": "šuo",
-          "roman": "shuo",
-          "meaning": "dog",
-          "emoji": "🐕"
-        },
-        {
-          "text": "šeši",
-          "roman": "sheshi",
-          "meaning": "six",
-          "emoji": "6️⃣"
-        }
+        { "text": "dangus", "roman": "dangus", "meaning": "sky", "emoji": "☁️", "audio": "audio/lt/words/lt-d-01.mp3" },
+        { "text": "duona", "roman": "duona", "meaning": "bread", "emoji": "🍞", "audio": "audio/lt/words/lt-d-02.mp3" },
+        { "text": "diena", "roman": "diena", "meaning": "day", "emoji": "☀️", "audio": "audio/lt/words/lt-d-03.mp3" },
+        { "text": "draugas", "roman": "draugas", "meaning": "friend", "emoji": "👫", "audio": "audio/lt/words/lt-d-04.mp3" },
+        { "text": "durys", "roman": "durys", "meaning": "door", "emoji": "🚪", "audio": "audio/lt/words/lt-d-05.mp3" },
+        { "text": "didelis", "roman": "didelis", "meaning": "big, large", "emoji": "🐘", "audio": "audio/lt/words/lt-d-06.mp3" },
+        { "text": "dantis", "roman": "dantis", "meaning": "tooth", "emoji": "🦷", "audio": "audio/lt/words/lt-d-07.mp3" },
+        { "text": "daina", "roman": "daina", "meaning": "song", "emoji": "🎵", "audio": "audio/lt/words/lt-d-08.mp3" }
       ]
     },
     {
-      "id": "lt-z-caron",
-      "char": "Ž ž",
-      "name": "žė",
-      "romanization": "ž",
-      "ipa": "/ʒ/",
-      "memoryTrick": "A 'z' with a háček = 'zh'.",
+      "id": "lt-e",
+      "char": "e",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/lt/letters/lt-e.mp3",
+      "memoryTrick": "A wide, open 'e' like the 'e' in 'bed' or 'let' — spread your mouth a bit wider than you would in English.",
       "words": [
-        {
-          "text": "žmogus",
-          "roman": "zhmogus",
-          "meaning": "person",
-          "emoji": "🧍"
-        },
-        {
-          "text": "žuvis",
-          "roman": "zhuvis",
-          "meaning": "fish",
-          "emoji": "🐟"
-        }
+        { "text": "ežeras", "roman": "ežeras", "meaning": "lake", "emoji": "🏞️", "audio": "audio/lt/words/lt-e-01.mp3" },
+        { "text": "eiti", "roman": "eiti", "meaning": "to go, walk", "emoji": "🚶", "audio": "audio/lt/words/lt-e-02.mp3" },
+        { "text": "elnias", "roman": "elnias", "meaning": "deer", "emoji": "🦌", "audio": "audio/lt/words/lt-e-03.mp3" },
+        { "text": "erelis", "roman": "erelis", "meaning": "eagle", "emoji": "🦅", "audio": "audio/lt/words/lt-e-04.mp3" }
       ]
     },
     {
-      "id": "lt-u-macron",
-      "char": "Ū ū",
-      "name": "ū",
-      "romanization": "ū",
-      "ipa": "/uː/",
-      "memoryTrick": "A 'u' with a macron — a long 'oo'.",
+      "id": "lt-ogonek-e",
+      "char": "ę",
+      "name": "e nosinė (nasal e)",
+      "romanization": "ę",
+      "ipa": "/æː/",
+      "letterAudio": "audio/lt/letters/lt-ogonek-e.mp3",
+      "memoryTrick": "A long, wide 'e' like the 'a' in English 'cat' but held twice as long. The ogonek (little tail) means stretch it out — historically it was nasal, like the French 'in' in 'vin.'",
       "words": [
-        {
-          "text": "ūsai",
-          "roman": "oosai",
-          "meaning": "moustache",
-          "emoji": "👨"
-        },
-        {
-          "text": "dūmai",
-          "roman": "doomai",
-          "meaning": "smoke",
-          "emoji": "💨"
-        }
+        { "text": "kęsti", "roman": "kęsti", "meaning": "to endure, suffer", "audio": "audio/lt/words/lt-ogonek-e-01.mp3" },
+        { "text": "tęsti", "roman": "tęsti", "meaning": "to continue", "audio": "audio/lt/words/lt-ogonek-e-02.mp3" },
+        { "text": "gręžti", "roman": "gręžti", "meaning": "to drill, turn", "audio": "audio/lt/words/lt-ogonek-e-03.mp3" }
+      ]
+    },
+    {
+      "id": "lt-e-dot",
+      "char": "ė",
+      "name": "ė",
+      "romanization": "ė",
+      "ipa": "/eː/",
+      "letterAudio": "audio/lt/letters/lt-e-dot.mp3",
+      "memoryTrick": "A long, closed 'e' like the 'ay' in 'say' but without the glide — pure and steady. The dot above says 'close your mouth a bit and hold the sound.'",
+      "words": [
+        { "text": "ėriukas", "roman": "ėriukas", "meaning": "lamb", "emoji": "🐑", "audio": "audio/lt/words/lt-e-dot-01.mp3" },
+        { "text": "ėsti", "roman": "ėsti", "meaning": "to eat (of animals)", "audio": "audio/lt/words/lt-e-dot-02.mp3" },
+        { "text": "ėjimas", "roman": "ėjimas", "meaning": "walking, gait", "emoji": "🚶", "audio": "audio/lt/words/lt-e-dot-03.mp3" }
+      ]
+    },
+    {
+      "id": "lt-f",
+      "char": "f",
+      "name": "ef",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/lt/letters/lt-f.mp3",
+      "memoryTrick": "Same as English 'f' in 'fish' — bottom lip against upper teeth, blow air through. Mostly appears in loanwords.",
+      "words": [
+        { "text": "fabrikas", "roman": "fabrikas", "meaning": "factory", "emoji": "🏭", "audio": "audio/lt/words/lt-f-01.mp3" },
+        { "text": "futbolas", "roman": "futbolas", "meaning": "football, soccer", "emoji": "⚽", "audio": "audio/lt/words/lt-f-02.mp3" },
+        { "text": "filmas", "roman": "filmas", "meaning": "film, movie", "emoji": "🎬", "audio": "audio/lt/words/lt-f-03.mp3" }
+      ]
+    },
+    {
+      "id": "lt-g",
+      "char": "g",
+      "name": "gė",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "letterAudio": "audio/lt/letters/lt-g.mp3",
+      "memoryTrick": "Always hard like 'g' in 'goat' — never soft like 'giraffe.' A firm voiced stop at the back of the throat.",
+      "words": [
+        { "text": "galva", "roman": "galva", "meaning": "head", "emoji": "🗣️", "audio": "audio/lt/words/lt-g-01.mp3" },
+        { "text": "gatvė", "roman": "gatvė", "meaning": "street", "emoji": "🛣️", "audio": "audio/lt/words/lt-g-02.mp3" },
+        { "text": "gėlė", "roman": "gėlė", "meaning": "flower", "emoji": "🌸", "audio": "audio/lt/words/lt-g-03.mp3" },
+        { "text": "gyvatė", "roman": "gyvatė", "meaning": "snake", "emoji": "🐍", "audio": "audio/lt/words/lt-g-04.mp3" },
+        { "text": "geležis", "roman": "geležis", "meaning": "iron (metal)", "emoji": "🔩", "audio": "audio/lt/words/lt-g-05.mp3" },
+        { "text": "geras", "roman": "geras", "meaning": "good", "emoji": "👍", "audio": "audio/lt/words/lt-g-06.mp3" }
+      ]
+    },
+    {
+      "id": "lt-h",
+      "char": "h",
+      "name": "ha",
+      "romanization": "h",
+      "ipa": "/ɣ/",
+      "letterAudio": "audio/lt/letters/lt-h.mp3",
+      "memoryTrick": "A soft, breathy sound between 'h' and a gargled 'g' — like the 'ch' in Scottish 'loch' but voiced and much gentler. Mostly in loanwords.",
+      "words": [
+        { "text": "herbas", "roman": "herbas", "meaning": "coat of arms", "emoji": "🛡️", "audio": "audio/lt/words/lt-h-01.mp3" },
+        { "text": "himnas", "roman": "himnas", "meaning": "anthem", "emoji": "🎶", "audio": "audio/lt/words/lt-h-02.mp3" },
+        { "text": "harmonika", "roman": "harmonika", "meaning": "harmonica", "emoji": "🎹", "audio": "audio/lt/words/lt-h-03.mp3" }
+      ]
+    },
+    {
+      "id": "lt-i",
+      "char": "i",
+      "name": "i trumpoji (short i)",
+      "romanization": "i",
+      "ipa": "/ɪ/",
+      "letterAudio": "audio/lt/letters/lt-i.mp3",
+      "memoryTrick": "Short and relaxed, like the 'i' in English 'bit' or 'sit.' Keep it quick — it's the little sibling of the long 'į' and 'y.'",
+      "words": [
+        { "text": "ilgas", "roman": "ilgas", "meaning": "long", "emoji": "📏", "audio": "audio/lt/words/lt-i-01.mp3" },
+        { "text": "inkilas", "roman": "inkilas", "meaning": "birdhouse, nest box", "emoji": "🐦", "audio": "audio/lt/words/lt-i-02.mp3" },
+        { "text": "irklas", "roman": "irklas", "meaning": "oar", "emoji": "🛶", "audio": "audio/lt/words/lt-i-03.mp3" }
+      ]
+    },
+    {
+      "id": "lt-ogonek-i",
+      "char": "į",
+      "name": "i nosinė (nasal i)",
+      "romanization": "į",
+      "ipa": "/iː/",
+      "letterAudio": "audio/lt/letters/lt-ogonek-i.mp3",
+      "memoryTrick": "A long 'ee' like the 'ee' in 'see' or 'bee' — pure and sustained. The ogonek tail says 'stretch this vowel out.'",
+      "words": [
+        { "text": "įdomus", "roman": "įdomus", "meaning": "interesting", "emoji": "🤔", "audio": "audio/lt/words/lt-ogonek-i-01.mp3" },
+        { "text": "įlanka", "roman": "įlanka", "meaning": "bay, gulf", "emoji": "🌊", "audio": "audio/lt/words/lt-ogonek-i-02.mp3" },
+        { "text": "įrankis", "roman": "įrankis", "meaning": "tool", "emoji": "🔧", "audio": "audio/lt/words/lt-ogonek-i-03.mp3" },
+        { "text": "įstatymas", "roman": "įstatymas", "meaning": "law", "emoji": "⚖️", "audio": "audio/lt/words/lt-ogonek-i-04.mp3" }
       ]
     },
     {
       "id": "lt-y",
-      "char": "Y y",
-      "name": "y",
+      "char": "y",
+      "name": "y ilgoji (long i)",
       "romanization": "y",
       "ipa": "/iː/",
-      "memoryTrick": "In Lithuanian, 'y' is a long 'ee' vowel.",
+      "letterAudio": "audio/lt/letters/lt-y.mp3",
+      "memoryTrick": "Also a long 'ee' — identical in sound to 'į.' Think of it as the 'y' that's secretly an 'ee,' like in 'happy' but held longer. Same long 'ee' sound, different spelling.",
       "words": [
-        {
-          "text": "yra",
-          "roman": "yra",
-          "meaning": "is / are",
-          "emoji": "✅"
-        },
-        {
-          "text": "vyras",
-          "roman": "vyras",
-          "meaning": "man",
-          "emoji": "👨"
-        }
+        { "text": "yla", "roman": "yla", "meaning": "awl (tool)", "emoji": "🪡", "audio": "audio/lt/words/lt-y-01.mp3" },
+        { "text": "ypatingas", "roman": "ypatingas", "meaning": "special, exceptional", "emoji": "⭐", "audio": "audio/lt/words/lt-y-02.mp3" },
+        { "text": "yda", "roman": "yda", "meaning": "flaw, defect", "audio": "audio/lt/words/lt-y-03.mp3" }
+      ]
+    },
+    {
+      "id": "lt-j",
+      "char": "j",
+      "name": "jot",
+      "romanization": "j",
+      "ipa": "/j/",
+      "letterAudio": "audio/lt/letters/lt-j.mp3",
+      "memoryTrick": "Like 'y' in English 'yes' or 'yogurt.' A quick glide — it always acts as a consonant, never as a vowel.",
+      "words": [
+        { "text": "jūra", "roman": "jūra", "meaning": "sea", "emoji": "🌊", "audio": "audio/lt/words/lt-j-01.mp3" },
+        { "text": "jaunas", "roman": "jaunas", "meaning": "young", "emoji": "👶", "audio": "audio/lt/words/lt-j-02.mp3" },
+        { "text": "jautis", "roman": "jautis", "meaning": "ox, bull", "emoji": "🐂", "audio": "audio/lt/words/lt-j-03.mp3" },
+        { "text": "juokas", "roman": "juokas", "meaning": "laughter", "emoji": "😂", "audio": "audio/lt/words/lt-j-04.mp3" }
+      ]
+    },
+    {
+      "id": "lt-k",
+      "char": "k",
+      "name": "ka",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/lt/letters/lt-k.mp3",
+      "memoryTrick": "Like English 'k' in 'kite' — crisp and unaspirated. A clean pop from the back of the mouth, no puff of air.",
+      "words": [
+        { "text": "katė", "roman": "katė", "meaning": "cat", "emoji": "🐱", "audio": "audio/lt/words/lt-k-01.mp3" },
+        { "text": "knyga", "roman": "knyga", "meaning": "book", "emoji": "📖", "audio": "audio/lt/words/lt-k-02.mp3" },
+        { "text": "kelias", "roman": "kelias", "meaning": "road", "emoji": "🛤️", "audio": "audio/lt/words/lt-k-03.mp3" },
+        { "text": "kiaušinis", "roman": "kiaušinis", "meaning": "egg", "emoji": "🥚", "audio": "audio/lt/words/lt-k-04.mp3" },
+        { "text": "kaimas", "roman": "kaimas", "meaning": "village, countryside", "emoji": "🏘️", "audio": "audio/lt/words/lt-k-05.mp3" },
+        { "text": "koja", "roman": "koja", "meaning": "leg, foot", "emoji": "🦵", "audio": "audio/lt/words/lt-k-06.mp3" }
+      ]
+    },
+    {
+      "id": "lt-l",
+      "char": "l",
+      "name": "el",
+      "romanization": "l",
+      "ipa": "/ɫ/",
+      "letterAudio": "audio/lt/letters/lt-l.mp3",
+      "memoryTrick": "A dark, velarized 'l' like the 'l' in English 'ball' or 'pull' — the back of your tongue lifts toward the soft palate. Not the light 'l' of 'light.'",
+      "words": [
+        { "text": "lapė", "roman": "lapė", "meaning": "fox", "emoji": "🦊", "audio": "audio/lt/words/lt-l-01.mp3" },
+        { "text": "ledas", "roman": "ledas", "meaning": "ice", "emoji": "🧊", "audio": "audio/lt/words/lt-l-02.mp3" },
+        { "text": "labas", "roman": "labas", "meaning": "hello", "emoji": "👋", "audio": "audio/lt/words/lt-l-03.mp3" },
+        { "text": "laiškas", "roman": "laiškas", "meaning": "letter, mail", "emoji": "✉️", "audio": "audio/lt/words/lt-l-04.mp3" },
+        { "text": "langas", "roman": "langas", "meaning": "window", "emoji": "🪟", "audio": "audio/lt/words/lt-l-05.mp3" },
+        { "text": "lietus", "roman": "lietus", "meaning": "rain", "emoji": "🌧️", "audio": "audio/lt/words/lt-l-06.mp3" }
+      ]
+    },
+    {
+      "id": "lt-m",
+      "char": "m",
+      "name": "em",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/lt/letters/lt-m.mp3",
+      "memoryTrick": "Same as English 'm' in 'moon' — lips together, voice humming through the nose. Warm and familiar.",
+      "words": [
+        { "text": "mama", "roman": "mama", "meaning": "mom, mother", "emoji": "👩", "audio": "audio/lt/words/lt-m-01.mp3" },
+        { "text": "miškas", "roman": "miškas", "meaning": "forest", "emoji": "🌲", "audio": "audio/lt/words/lt-m-02.mp3" },
+        { "text": "medus", "roman": "medus", "meaning": "honey", "emoji": "🍯", "audio": "audio/lt/words/lt-m-03.mp3" },
+        { "text": "mėnulis", "roman": "mėnulis", "meaning": "moon", "emoji": "🌙", "audio": "audio/lt/words/lt-m-04.mp3" },
+        { "text": "miestas", "roman": "miestas", "meaning": "city", "emoji": "🏙️", "audio": "audio/lt/words/lt-m-05.mp3" },
+        { "text": "mergaitė", "roman": "mergaitė", "meaning": "girl", "emoji": "👧", "audio": "audio/lt/words/lt-m-06.mp3" }
+      ]
+    },
+    {
+      "id": "lt-n",
+      "char": "n",
+      "name": "en",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/lt/letters/lt-n.mp3",
+      "memoryTrick": "Same as English 'n' in 'no' — tongue tip against the ridge behind your upper teeth. Straightforward and common.",
+      "words": [
+        { "text": "namas", "roman": "namas", "meaning": "house", "emoji": "🏠", "audio": "audio/lt/words/lt-n-01.mp3" },
+        { "text": "nosis", "roman": "nosis", "meaning": "nose", "emoji": "👃", "audio": "audio/lt/words/lt-n-02.mp3" },
+        { "text": "naktis", "roman": "naktis", "meaning": "night", "emoji": "🌃", "audio": "audio/lt/words/lt-n-03.mp3" },
+        { "text": "norėti", "roman": "norėti", "meaning": "to want", "emoji": "🙏", "audio": "audio/lt/words/lt-n-04.mp3" }
+      ]
+    },
+    {
+      "id": "lt-o",
+      "char": "o",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/oː/",
+      "letterAudio": "audio/lt/letters/lt-o.mp3",
+      "memoryTrick": "A long, pure 'o' like in 'more' but held steady — no glide at the end. Round your lips and keep them there.",
+      "words": [
+        { "text": "oras", "roman": "oras", "meaning": "air, weather", "emoji": "🌤️", "audio": "audio/lt/words/lt-o-01.mp3" },
+        { "text": "ožka", "roman": "ožka", "meaning": "goat", "emoji": "🐐", "audio": "audio/lt/words/lt-o-02.mp3" },
+        { "text": "obuolys", "roman": "obuolys", "meaning": "apple", "emoji": "🍎", "audio": "audio/lt/words/lt-o-03.mp3" }
+      ]
+    },
+    {
+      "id": "lt-p",
+      "char": "p",
+      "name": "pė",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/lt/letters/lt-p.mp3",
+      "memoryTrick": "Like English 'p' in 'pen' but without the puff of air — a clean, unaspirated pop of the lips.",
+      "words": [
+        { "text": "pienas", "roman": "pienas", "meaning": "milk", "emoji": "🥛", "audio": "audio/lt/words/lt-p-01.mp3" },
+        { "text": "paukštis", "roman": "paukštis", "meaning": "bird", "emoji": "🐦", "audio": "audio/lt/words/lt-p-02.mp3" },
+        { "text": "pirštas", "roman": "pirštas", "meaning": "finger", "emoji": "👆", "audio": "audio/lt/words/lt-p-03.mp3" },
+        { "text": "puodelis", "roman": "puodelis", "meaning": "cup", "emoji": "☕", "audio": "audio/lt/words/lt-p-04.mp3" },
+        { "text": "parkas", "roman": "parkas", "meaning": "park", "emoji": "🌳", "audio": "audio/lt/words/lt-p-05.mp3" }
+      ]
+    },
+    {
+      "id": "lt-r",
+      "char": "r",
+      "name": "er",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/lt/letters/lt-r.mp3",
+      "memoryTrick": "A rolled or tapped 'r' — like the Spanish 'r' in 'pero' or the Scottish rolled 'r.' Your tongue tip flicks against the ridge behind your teeth.",
+      "words": [
+        { "text": "ranka", "roman": "ranka", "meaning": "hand, arm", "emoji": "✋", "audio": "audio/lt/words/lt-r-01.mp3" },
+        { "text": "ratas", "roman": "ratas", "meaning": "wheel, circle", "emoji": "🛞", "audio": "audio/lt/words/lt-r-02.mp3" },
+        { "text": "rytas", "roman": "rytas", "meaning": "morning", "emoji": "🌅", "audio": "audio/lt/words/lt-r-03.mp3" },
+        { "text": "rožė", "roman": "rožė", "meaning": "rose", "emoji": "🌹", "audio": "audio/lt/words/lt-r-04.mp3" }
+      ]
+    },
+    {
+      "id": "lt-s",
+      "char": "s",
+      "name": "es",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/lt/letters/lt-s.mp3",
+      "memoryTrick": "Always a sharp 's' as in 'sun' — never voiced like 'z.' A clean hiss with the tongue near the roof of the mouth.",
+      "words": [
+        { "text": "saulė", "roman": "saulė", "meaning": "sun", "emoji": "☀️", "audio": "audio/lt/words/lt-s-01.mp3" },
+        { "text": "stalas", "roman": "stalas", "meaning": "table", "emoji": "🪑", "audio": "audio/lt/words/lt-s-02.mp3" },
+        { "text": "sūris", "roman": "sūris", "meaning": "cheese", "emoji": "🧀", "audio": "audio/lt/words/lt-s-03.mp3" },
+        { "text": "sniegas", "roman": "sniegas", "meaning": "snow", "emoji": "❄️", "audio": "audio/lt/words/lt-s-04.mp3" },
+        { "text": "siena", "roman": "siena", "meaning": "wall", "emoji": "🧱", "audio": "audio/lt/words/lt-s-05.mp3" }
+      ]
+    },
+    {
+      "id": "lt-s-caron",
+      "char": "š",
+      "name": "eš",
+      "romanization": "š",
+      "ipa": "/ʃ/",
+      "letterAudio": "audio/lt/letters/lt-s-caron.mp3",
+      "memoryTrick": "The 'sh' in 'ship' or 'shoe.' The háček (ˇ) turns the hissing 's' into a softer, hushing sound — like you're asking someone to be quiet.",
+      "words": [
+        { "text": "šuo", "roman": "šuo", "meaning": "dog", "emoji": "🐕", "audio": "audio/lt/words/lt-s-caron-01.mp3" },
+        { "text": "širdis", "roman": "širdis", "meaning": "heart", "emoji": "❤️", "audio": "audio/lt/words/lt-s-caron-02.mp3" },
+        { "text": "šaltas", "roman": "šaltas", "meaning": "cold", "emoji": "🥶", "audio": "audio/lt/words/lt-s-caron-03.mp3" },
+        { "text": "šaukštas", "roman": "šaukštas", "meaning": "spoon", "emoji": "🥄", "audio": "audio/lt/words/lt-s-caron-04.mp3" },
+        { "text": "šeima", "roman": "šeima", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/lt/words/lt-s-caron-05.mp3" }
+      ]
+    },
+    {
+      "id": "lt-t",
+      "char": "t",
+      "name": "tė",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/lt/letters/lt-t.mp3",
+      "memoryTrick": "Like English 't' in 'top' but without the puff of air — tongue tip right behind the upper teeth, quick and clean.",
+      "words": [
+        { "text": "tėvas", "roman": "tėvas", "meaning": "father", "emoji": "👨", "audio": "audio/lt/words/lt-t-01.mp3" },
+        { "text": "takas", "roman": "takas", "meaning": "path, trail", "emoji": "🥾", "audio": "audio/lt/words/lt-t-02.mp3" },
+        { "text": "tiltas", "roman": "tiltas", "meaning": "bridge", "emoji": "🌉", "audio": "audio/lt/words/lt-t-03.mp3" },
+        { "text": "traukinys", "roman": "traukinys", "meaning": "train", "emoji": "🚂", "audio": "audio/lt/words/lt-t-04.mp3" },
+        { "text": "turgus", "roman": "turgus", "meaning": "market", "emoji": "🏪", "audio": "audio/lt/words/lt-t-05.mp3" }
+      ]
+    },
+    {
+      "id": "lt-u",
+      "char": "u",
+      "name": "u trumpoji (short u)",
+      "romanization": "u",
+      "ipa": "/ʊ/",
+      "letterAudio": "audio/lt/letters/lt-u.mp3",
+      "memoryTrick": "Short and relaxed, like the 'oo' in 'foot' or 'put' — not the long 'oo' of 'food.' Keep your lips loosely rounded and the sound quick.",
+      "words": [
+        { "text": "upė", "roman": "upė", "meaning": "river", "emoji": "🏞️", "audio": "audio/lt/words/lt-u-01.mp3" },
+        { "text": "ugnis", "roman": "ugnis", "meaning": "fire", "emoji": "🔥", "audio": "audio/lt/words/lt-u-02.mp3" },
+        { "text": "uoga", "roman": "uoga", "meaning": "berry", "emoji": "🫐", "audio": "audio/lt/words/lt-u-03.mp3" },
+        { "text": "uostas", "roman": "uostas", "meaning": "port, harbor", "emoji": "⚓", "audio": "audio/lt/words/lt-u-04.mp3" }
+      ]
+    },
+    {
+      "id": "lt-ogonek-u",
+      "char": "ų",
+      "name": "u nosinė (nasal u)",
+      "romanization": "ų",
+      "ipa": "/uː/",
+      "letterAudio": "audio/lt/letters/lt-ogonek-u.mp3",
+      "memoryTrick": "A long 'oo' like the 'oo' in 'food' or 'moon' — held steady. The ogonek tail means 'sustain this vowel.' Rare in word stems, common in grammatical endings.",
+      "words": [
+        { "text": "siųsti", "roman": "siųsti", "meaning": "to send", "emoji": "📤", "audio": "audio/lt/words/lt-ogonek-u-01.mp3" },
+        { "text": "skųsti", "roman": "skųsti", "meaning": "to complain, denounce", "audio": "audio/lt/words/lt-ogonek-u-02.mp3" }
+      ]
+    },
+    {
+      "id": "lt-u-macron",
+      "char": "ū",
+      "name": "ū (u ilgoji, long u)",
+      "romanization": "ū",
+      "ipa": "/uː/",
+      "letterAudio": "audio/lt/letters/lt-u-macron.mp3",
+      "memoryTrick": "Also a long 'oo' — identical in sound to 'ų.' The macron (flat line) above it is the simplest clue: hold the vowel. Think of the 'oo' in 'moon' but pure and unglided.",
+      "words": [
+        { "text": "ūkas", "roman": "ūkas", "meaning": "fog, mist", "emoji": "🌫️", "audio": "audio/lt/words/lt-u-macron-01.mp3" },
+        { "text": "ūgis", "roman": "ūgis", "meaning": "height, stature", "emoji": "📏", "audio": "audio/lt/words/lt-u-macron-02.mp3" },
+        { "text": "ūdra", "roman": "ūdra", "meaning": "otter", "emoji": "🦦", "audio": "audio/lt/words/lt-u-macron-03.mp3" },
+        { "text": "sūris", "roman": "sūris", "meaning": "cheese", "emoji": "🧀", "audio": "audio/lt/words/lt-u-macron-04.mp3" },
+        { "text": "dūmai", "roman": "dūmai", "meaning": "smoke", "emoji": "💨", "audio": "audio/lt/words/lt-u-macron-05.mp3" }
+      ]
+    },
+    {
+      "id": "lt-v",
+      "char": "v",
+      "name": "vė",
+      "romanization": "v",
+      "ipa": "/v/",
+      "letterAudio": "audio/lt/letters/lt-v.mp3",
+      "memoryTrick": "Like English 'v' in 'van' — bottom lip against upper teeth with voice. Never like 'w' — keep it buzzy.",
+      "words": [
+        { "text": "vanduo", "roman": "vanduo", "meaning": "water", "emoji": "💧", "audio": "audio/lt/words/lt-v-01.mp3" },
+        { "text": "vynas", "roman": "vynas", "meaning": "wine", "emoji": "🍷", "audio": "audio/lt/words/lt-v-02.mp3" },
+        { "text": "vyras", "roman": "vyras", "meaning": "man, husband", "emoji": "👨", "audio": "audio/lt/words/lt-v-03.mp3" },
+        { "text": "vakaras", "roman": "vakaras", "meaning": "evening", "emoji": "🌆", "audio": "audio/lt/words/lt-v-04.mp3" },
+        { "text": "vėjas", "roman": "vėjas", "meaning": "wind", "emoji": "💨", "audio": "audio/lt/words/lt-v-05.mp3" }
+      ]
+    },
+    {
+      "id": "lt-z",
+      "char": "z",
+      "name": "zė",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/lt/letters/lt-z.mp3",
+      "memoryTrick": "Like English 'z' in 'zoo' or 'buzz' — a voiced hiss. Always voiced, unlike 's' which is always unvoiced.",
+      "words": [
+        { "text": "zuikis", "roman": "zuikis", "meaning": "hare, bunny", "emoji": "🐰", "audio": "audio/lt/words/lt-z-01.mp3" },
+        { "text": "zebras", "roman": "zebras", "meaning": "zebra", "emoji": "🦓", "audio": "audio/lt/words/lt-z-02.mp3" },
+        { "text": "zylė", "roman": "zylė", "meaning": "titmouse (bird)", "emoji": "🐦", "audio": "audio/lt/words/lt-z-03.mp3" }
+      ]
+    },
+    {
+      "id": "lt-z-caron",
+      "char": "ž",
+      "name": "žė",
+      "romanization": "ž",
+      "ipa": "/ʒ/",
+      "letterAudio": "audio/lt/letters/lt-z-caron.mp3",
+      "memoryTrick": "The 's' in 'pleasure' or the French 'j' in 'je' — a soft, buzzy sound. The háček turns the sharp 'z' into a smooth, luxurious hum.",
+      "words": [
+        { "text": "žuvis", "roman": "žuvis", "meaning": "fish", "emoji": "🐟", "audio": "audio/lt/words/lt-z-caron-01.mp3" },
+        { "text": "žiema", "roman": "žiema", "meaning": "winter", "emoji": "⛄", "audio": "audio/lt/words/lt-z-caron-02.mp3" },
+        { "text": "žmogus", "roman": "žmogus", "meaning": "person, human", "emoji": "🧑", "audio": "audio/lt/words/lt-z-caron-03.mp3" },
+        { "text": "žodis", "roman": "žodis", "meaning": "word", "emoji": "📝", "audio": "audio/lt/words/lt-z-caron-04.mp3" },
+        { "text": "žalias", "roman": "žalias", "meaning": "green", "emoji": "🟢", "audio": "audio/lt/words/lt-z-caron-05.mp3" },
+        { "text": "žemė", "roman": "žemė", "meaning": "earth, land, ground", "emoji": "🌍", "audio": "audio/lt/words/lt-z-caron-06.mp3" }
       ]
     }
   ]

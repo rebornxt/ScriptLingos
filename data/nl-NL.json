@@ -2,138 +2,583 @@
   "language": "Dutch",
   "code": "nl-NL",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
-      "id": "nl-ij",
-      "char": "IJ ij",
-      "name": "ij",
-      "romanization": "ij",
-      "ipa": "/ɛi/",
-      "memoryTrick": "A digraph treated as one letter — sounds like 'ay' in 'hay'.",
+      "id": "nl-a",
+      "char": "a",
+      "name": "aa",
+      "romanization": "a",
+      "ipa": "/aː/",
+      "letterAudio": "audio/nl/letters/nl-a.mp3",
+      "memoryTrick": "Like the 'a' in English 'father' when long, or the 'a' in 'calm' when short — Dutch 'a' can stretch out warmly.",
       "words": [
-        {
-          "text": "ijs",
-          "roman": "ijs",
-          "meaning": "ice",
-          "emoji": "🧊"
-        },
-        {
-          "text": "vijf",
-          "roman": "vijf",
-          "meaning": "five",
-          "emoji": "5️⃣"
-        }
+        { "text": "aap", "roman": "aap", "meaning": "monkey", "emoji": "🐒", "audio": "audio/nl/words/nl-a-01.mp3" },
+        { "text": "appel", "roman": "appel", "meaning": "apple", "emoji": "🍎", "audio": "audio/nl/words/nl-a-02.mp3" },
+        { "text": "auto", "roman": "auto", "meaning": "car", "emoji": "🚗", "audio": "audio/nl/words/nl-a-03.mp3" },
+        { "text": "avond", "roman": "avond", "meaning": "evening", "audio": "audio/nl/words/nl-a-04.mp3" },
+        { "text": "arm", "roman": "arm", "meaning": "arm", "emoji": "💪", "audio": "audio/nl/words/nl-a-05.mp3" },
+        { "text": "acht", "roman": "acht", "meaning": "eight", "audio": "audio/nl/words/nl-a-06.mp3" },
+        { "text": "aarde", "roman": "aarde", "meaning": "earth", "emoji": "🌍", "audio": "audio/nl/words/nl-a-07.mp3" },
+        { "text": "adem", "roman": "adem", "meaning": "breath", "audio": "audio/nl/words/nl-a-08.mp3" },
+        { "text": "april", "roman": "april", "meaning": "April", "audio": "audio/nl/words/nl-a-09.mp3" },
+        { "text": "altijd", "roman": "altijd", "meaning": "always", "audio": "audio/nl/words/nl-a-10.mp3" },
+        { "text": "antwoord", "roman": "antwoord", "meaning": "answer", "audio": "audio/nl/words/nl-a-11.mp3" },
+        { "text": "alleen", "roman": "alleen", "meaning": "alone", "audio": "audio/nl/words/nl-a-12.mp3" }
+      ]
+    },
+    {
+      "id": "nl-b",
+      "char": "b",
+      "name": "bee",
+      "romanization": "b",
+      "ipa": "/b/",
+      "letterAudio": "audio/nl/letters/nl-b.mp3",
+      "memoryTrick": "Same crisp 'b' as in English 'ball'. Dutch 'b' is voiced just like its English cousin — let your lips pop apart.",
+      "words": [
+        { "text": "bal", "roman": "bal", "meaning": "ball", "emoji": "⚽", "audio": "audio/nl/words/nl-b-01.mp3" },
+        { "text": "bed", "roman": "bed", "meaning": "bed", "emoji": "🛏️", "audio": "audio/nl/words/nl-b-02.mp3" },
+        { "text": "beer", "roman": "beer", "meaning": "bear", "emoji": "🐻", "audio": "audio/nl/words/nl-b-03.mp3" },
+        { "text": "berg", "roman": "berg", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/nl/words/nl-b-04.mp3" },
+        { "text": "boek", "roman": "boek", "meaning": "book", "emoji": "📖", "audio": "audio/nl/words/nl-b-05.mp3" },
+        { "text": "boom", "roman": "boom", "meaning": "tree", "emoji": "🌳", "audio": "audio/nl/words/nl-b-06.mp3" },
+        { "text": "brood", "roman": "brood", "meaning": "bread", "emoji": "🍞", "audio": "audio/nl/words/nl-b-07.mp3" },
+        { "text": "blauw", "roman": "blauw", "meaning": "blue", "audio": "audio/nl/words/nl-b-08.mp3" },
+        { "text": "brief", "roman": "brief", "meaning": "letter (mail)", "emoji": "✉️", "audio": "audio/nl/words/nl-b-09.mp3" },
+        { "text": "blij", "roman": "blij", "meaning": "happy", "audio": "audio/nl/words/nl-b-10.mp3" },
+        { "text": "bot", "roman": "bot", "meaning": "bone", "emoji": "🦴", "audio": "audio/nl/words/nl-b-11.mp3" },
+        { "text": "bruin", "roman": "bruin", "meaning": "brown", "audio": "audio/nl/words/nl-b-12.mp3" }
+      ]
+    },
+    {
+      "id": "nl-c",
+      "char": "c",
+      "name": "cee",
+      "romanization": "c",
+      "ipa": "/s/",
+      "letterAudio": "audio/nl/letters/nl-c.mp3",
+      "memoryTrick": "Dutch 'c' before 'e' or 'i' sounds like an English 's' as in 'cent'; before 'a', 'o', 'u' it's a hard 'k' — but Dutch prefers 'k' for native words, so 'c' appears mostly in loanwords.",
+      "words": [
+        { "text": "cent", "roman": "cent", "meaning": "cent (coin)", "emoji": "🪙", "audio": "audio/nl/words/nl-c-01.mp3" },
+        { "text": "citroen", "roman": "citroen", "meaning": "lemon", "emoji": "🍋", "audio": "audio/nl/words/nl-c-02.mp3" },
+        { "text": "circus", "roman": "circus", "meaning": "circus", "emoji": "🎪", "audio": "audio/nl/words/nl-c-03.mp3" },
+        { "text": "club", "roman": "club", "meaning": "club", "audio": "audio/nl/words/nl-c-04.mp3" },
+        { "text": "computer", "roman": "computer", "meaning": "computer", "emoji": "💻", "audio": "audio/nl/words/nl-c-05.mp3" },
+        { "text": "code", "roman": "code", "meaning": "code", "audio": "audio/nl/words/nl-c-06.mp3" },
+        { "text": "collega", "roman": "collega", "meaning": "colleague", "audio": "audio/nl/words/nl-c-07.mp3" },
+        { "text": "cadeau", "roman": "cadeau", "meaning": "gift", "emoji": "🎁", "audio": "audio/nl/words/nl-c-08.mp3" },
+        { "text": "camera", "roman": "camera", "meaning": "camera", "emoji": "📷", "audio": "audio/nl/words/nl-c-09.mp3" },
+        { "text": "cactus", "roman": "cactus", "meaning": "cactus", "emoji": "🌵", "audio": "audio/nl/words/nl-c-10.mp3" }
+      ]
+    },
+    {
+      "id": "nl-d",
+      "char": "d",
+      "name": "dee",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/nl/letters/nl-d.mp3",
+      "memoryTrick": "Like English 'd' in 'dog', but at the end of a word Dutch 'd' softens to a 't' sound — so 'hond' sounds like 'hont'.",
+      "words": [
+        { "text": "dag", "roman": "dag", "meaning": "day", "audio": "audio/nl/words/nl-d-01.mp3" },
+        { "text": "deur", "roman": "deur", "meaning": "door", "emoji": "🚪", "audio": "audio/nl/words/nl-d-02.mp3" },
+        { "text": "dier", "roman": "dier", "meaning": "animal", "emoji": "🐾", "audio": "audio/nl/words/nl-d-03.mp3" },
+        { "text": "dorp", "roman": "dorp", "meaning": "village", "emoji": "🏘️", "audio": "audio/nl/words/nl-d-04.mp3" },
+        { "text": "drie", "roman": "drie", "meaning": "three", "audio": "audio/nl/words/nl-d-05.mp3" },
+        { "text": "donker", "roman": "donker", "meaning": "dark", "audio": "audio/nl/words/nl-d-06.mp3" },
+        { "text": "duim", "roman": "duim", "meaning": "thumb", "emoji": "👍", "audio": "audio/nl/words/nl-d-07.mp3" },
+        { "text": "droom", "roman": "droom", "meaning": "dream", "audio": "audio/nl/words/nl-d-08.mp3" },
+        { "text": "dans", "roman": "dans", "meaning": "dance", "emoji": "💃", "audio": "audio/nl/words/nl-d-09.mp3" },
+        { "text": "dak", "roman": "dak", "meaning": "roof", "audio": "audio/nl/words/nl-d-10.mp3" },
+        { "text": "dicht", "roman": "dicht", "meaning": "closed", "audio": "audio/nl/words/nl-d-11.mp3" },
+        { "text": "draad", "roman": "draad", "meaning": "thread/wire", "audio": "audio/nl/words/nl-d-12.mp3" }
+      ]
+    },
+    {
+      "id": "nl-e",
+      "char": "e",
+      "name": "ee",
+      "romanization": "e",
+      "ipa": "/eː/",
+      "letterAudio": "audio/nl/letters/nl-e.mp3",
+      "memoryTrick": "Dutch 'e' has many faces: long like 'ay' in 'say', short like 'e' in 'bed', and the unstressed 'schwa' like the 'a' in English 'about'. It's the busiest vowel in Dutch!",
+      "words": [
+        { "text": "een", "roman": "een", "meaning": "one; a/an", "audio": "audio/nl/words/nl-e-01.mp3" },
+        { "text": "ei", "roman": "ei", "meaning": "egg", "emoji": "🥚", "audio": "audio/nl/words/nl-e-02.mp3" },
+        { "text": "eend", "roman": "eend", "meaning": "duck", "emoji": "🦆", "audio": "audio/nl/words/nl-e-03.mp3" },
+        { "text": "elf", "roman": "elf", "meaning": "eleven", "audio": "audio/nl/words/nl-e-04.mp3" },
+        { "text": "eten", "roman": "eten", "meaning": "to eat; food", "audio": "audio/nl/words/nl-e-05.mp3" },
+        { "text": "ezel", "roman": "ezel", "meaning": "donkey", "emoji": "🫏", "audio": "audio/nl/words/nl-e-06.mp3" },
+        { "text": "einde", "roman": "einde", "meaning": "end", "audio": "audio/nl/words/nl-e-07.mp3" },
+        { "text": "eiland", "roman": "eiland", "meaning": "island", "emoji": "🏝️", "audio": "audio/nl/words/nl-e-08.mp3" },
+        { "text": "echt", "roman": "echt", "meaning": "real; really", "audio": "audio/nl/words/nl-e-09.mp3" },
+        { "text": "en", "roman": "en", "meaning": "and", "audio": "audio/nl/words/nl-e-10.mp3" }
+      ]
+    },
+    {
+      "id": "nl-f",
+      "char": "f",
+      "name": "ef",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/nl/letters/nl-f.mp3",
+      "memoryTrick": "Same breathy 'f' as in English 'fish'. Press your top teeth to your bottom lip and push air through — just like blowing out a candle gently.",
+      "words": [
+        { "text": "fiets", "roman": "fiets", "meaning": "bicycle", "emoji": "🚲", "audio": "audio/nl/words/nl-f-01.mp3" },
+        { "text": "foto", "roman": "foto", "meaning": "photo", "emoji": "📸", "audio": "audio/nl/words/nl-f-02.mp3" },
+        { "text": "fruit", "roman": "fruit", "meaning": "fruit", "emoji": "🍎", "audio": "audio/nl/words/nl-f-03.mp3" },
+        { "text": "feest", "roman": "feest", "meaning": "party", "emoji": "🎉", "audio": "audio/nl/words/nl-f-04.mp3" },
+        { "text": "fles", "roman": "fles", "meaning": "bottle", "emoji": "🍾", "audio": "audio/nl/words/nl-f-05.mp3" },
+        { "text": "film", "roman": "film", "meaning": "film; movie", "emoji": "🎬", "audio": "audio/nl/words/nl-f-06.mp3" },
+        { "text": "friet", "roman": "friet", "meaning": "fries", "emoji": "🍟", "audio": "audio/nl/words/nl-f-07.mp3" },
+        { "text": "familie", "roman": "familie", "meaning": "family", "audio": "audio/nl/words/nl-f-08.mp3" },
+        { "text": "fout", "roman": "fout", "meaning": "mistake; wrong", "audio": "audio/nl/words/nl-f-09.mp3" },
+        { "text": "fris", "roman": "fris", "meaning": "fresh; soda", "audio": "audio/nl/words/nl-f-10.mp3" }
       ]
     },
     {
       "id": "nl-g",
-      "char": "G g",
-      "name": "ge",
+      "char": "g",
+      "name": "gee",
       "romanization": "g",
       "ipa": "/ɣ/",
-      "memoryTrick": "The famous Dutch 'g', scraped at the back of the throat.",
+      "letterAudio": "audio/nl/letters/nl-g.mp3",
+      "memoryTrick": "The famous Dutch 'g' — a throaty, rasping sound like clearing your throat gently. Imagine saying the 'ch' in Scottish 'loch' but with your voice humming underneath.",
       "words": [
-        {
-          "text": "goed",
-          "roman": "khoot",
-          "meaning": "good",
-          "emoji": "👍"
-        },
-        {
-          "text": "geld",
-          "roman": "khelt",
-          "meaning": "money",
-          "emoji": "💰"
-        }
+        { "text": "geel", "roman": "geel", "meaning": "yellow", "audio": "audio/nl/words/nl-g-01.mp3" },
+        { "text": "groen", "roman": "groen", "meaning": "green", "audio": "audio/nl/words/nl-g-02.mp3" },
+        { "text": "groot", "roman": "groot", "meaning": "big; great", "audio": "audio/nl/words/nl-g-03.mp3" },
+        { "text": "geld", "roman": "geld", "meaning": "money", "emoji": "💰", "audio": "audio/nl/words/nl-g-04.mp3" },
+        { "text": "glas", "roman": "glas", "meaning": "glass", "emoji": "🥛", "audio": "audio/nl/words/nl-g-05.mp3" },
+        { "text": "goed", "roman": "goed", "meaning": "good", "audio": "audio/nl/words/nl-g-06.mp3" },
+        { "text": "geit", "roman": "geit", "meaning": "goat", "emoji": "🐐", "audio": "audio/nl/words/nl-g-07.mp3" },
+        { "text": "goud", "roman": "goud", "meaning": "gold", "audio": "audio/nl/words/nl-g-08.mp3" },
+        { "text": "gast", "roman": "gast", "meaning": "guest", "audio": "audio/nl/words/nl-g-09.mp3" },
+        { "text": "graag", "roman": "graag", "meaning": "gladly; please", "audio": "audio/nl/words/nl-g-10.mp3" }
       ]
     },
     {
-      "id": "nl-a",
-      "char": "A a",
-      "name": "a",
-      "romanization": "a",
-      "ipa": "/ɑ/",
-      "memoryTrick": "A short 'a' as in 'father'.",
+      "id": "nl-h",
+      "char": "h",
+      "name": "haa",
+      "romanization": "h",
+      "ipa": "/ɦ/",
+      "letterAudio": "audio/nl/letters/nl-h.mp3",
+      "memoryTrick": "A breathier 'h' than English — let your vocal cords hum slightly while you exhale. It's like you're sighing warmly onto a window before writing on it.",
       "words": [
-        {
-          "text": "appel",
-          "roman": "appel",
-          "meaning": "apple",
-          "emoji": "🍎"
-        },
-        {
-          "text": "auto",
-          "roman": "auto",
-          "meaning": "car",
-          "emoji": "🚗"
-        }
+        { "text": "huis", "roman": "huis", "meaning": "house", "emoji": "🏠", "audio": "audio/nl/words/nl-h-01.mp3" },
+        { "text": "hond", "roman": "hond", "meaning": "dog", "emoji": "🐕", "audio": "audio/nl/words/nl-h-02.mp3" },
+        { "text": "hand", "roman": "hand", "meaning": "hand", "emoji": "✋", "audio": "audio/nl/words/nl-h-03.mp3" },
+        { "text": "hoofd", "roman": "hoofd", "meaning": "head", "audio": "audio/nl/words/nl-h-04.mp3" },
+        { "text": "hoed", "roman": "hoed", "meaning": "hat", "emoji": "🎩", "audio": "audio/nl/words/nl-h-05.mp3" },
+        { "text": "hout", "roman": "hout", "meaning": "wood", "emoji": "🪵", "audio": "audio/nl/words/nl-h-06.mp3" },
+        { "text": "honger", "roman": "honger", "meaning": "hunger", "audio": "audio/nl/words/nl-h-07.mp3" },
+        { "text": "heel", "roman": "heel", "meaning": "whole; very", "audio": "audio/nl/words/nl-h-08.mp3" },
+        { "text": "hard", "roman": "hard", "meaning": "hard; loud; fast", "audio": "audio/nl/words/nl-h-09.mp3" },
+        { "text": "herfst", "roman": "herfst", "meaning": "autumn", "emoji": "🍂", "audio": "audio/nl/words/nl-h-10.mp3" },
+        { "text": "half", "roman": "half", "meaning": "half", "audio": "audio/nl/words/nl-h-11.mp3" },
+        { "text": "hoek", "roman": "hoek", "meaning": "corner", "audio": "audio/nl/words/nl-h-12.mp3" }
       ]
     },
     {
-      "id": "nl-oe",
-      "char": "OE oe",
-      "name": "oe",
-      "romanization": "oe",
-      "ipa": "/u/",
-      "memoryTrick": "The digraph 'oe' = 'oo' as in 'food'.",
+      "id": "nl-i",
+      "char": "i",
+      "name": "ie",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/nl/letters/nl-i.mp3",
+      "memoryTrick": "Like 'ee' in English 'see' when long, or 'i' in 'sit' when short. Don't confuse it with the Dutch 'ie' spelling — a single 'i' can go either way!",
       "words": [
-        {
-          "text": "koe",
-          "roman": "koe",
-          "meaning": "cow",
-          "emoji": "🐄"
-        },
-        {
-          "text": "boek",
-          "roman": "boek",
-          "meaning": "book",
-          "emoji": "📖"
-        }
+        { "text": "ik", "roman": "ik", "meaning": "I", "audio": "audio/nl/words/nl-i-01.mp3" },
+        { "text": "in", "roman": "in", "meaning": "in", "audio": "audio/nl/words/nl-i-02.mp3" },
+        { "text": "idee", "roman": "idee", "meaning": "idea", "audio": "audio/nl/words/nl-i-03.mp3" },
+        { "text": "iets", "roman": "iets", "meaning": "something", "audio": "audio/nl/words/nl-i-04.mp3" },
+        { "text": "insect", "roman": "insect", "meaning": "insect", "emoji": "🐛", "audio": "audio/nl/words/nl-i-05.mp3" },
+        { "text": "ingang", "roman": "ingang", "meaning": "entrance", "emoji": "🚪", "audio": "audio/nl/words/nl-i-06.mp3" },
+        { "text": "inkt", "roman": "inkt", "meaning": "ink", "audio": "audio/nl/words/nl-i-07.mp3" },
+        { "text": "inwoner", "roman": "inwoner", "meaning": "inhabitant", "audio": "audio/nl/words/nl-i-08.mp3" },
+        { "text": "intern", "roman": "intern", "meaning": "internal", "audio": "audio/nl/words/nl-i-09.mp3" },
+        { "text": "industrie", "roman": "industrie", "meaning": "industry", "audio": "audio/nl/words/nl-i-10.mp3" }
+      ]
+    },
+    {
+      "id": "nl-j",
+      "char": "j",
+      "name": "jee",
+      "romanization": "j",
+      "ipa": "/j/",
+      "letterAudio": "audio/nl/letters/nl-j.mp3",
+      "memoryTrick": "Like the 'y' in English 'yes' — a quick, happy glide. In Dutch, 'j' is always this y-like consonant, never the 'dzh' sound you hear in English 'jungle'.",
+      "words": [
+        { "text": "jaar", "roman": "jaar", "meaning": "year", "audio": "audio/nl/words/nl-j-01.mp3" },
+        { "text": "jong", "roman": "jong", "meaning": "young", "audio": "audio/nl/words/nl-j-02.mp3" },
+        { "text": "jas", "roman": "jas", "meaning": "coat", "emoji": "🧥", "audio": "audio/nl/words/nl-j-03.mp3" },
+        { "text": "ja", "roman": "ja", "meaning": "yes", "audio": "audio/nl/words/nl-j-04.mp3" },
+        { "text": "juf", "roman": "juf", "meaning": "teacher (female, primary school)", "audio": "audio/nl/words/nl-j-05.mp3" },
+        { "text": "juli", "roman": "juli", "meaning": "July", "audio": "audio/nl/words/nl-j-06.mp3" },
+        { "text": "juni", "roman": "juni", "meaning": "June", "audio": "audio/nl/words/nl-j-07.mp3" },
+        { "text": "jam", "roman": "jam", "meaning": "jam", "emoji": "🍓", "audio": "audio/nl/words/nl-j-08.mp3" },
+        { "text": "jongen", "roman": "jongen", "meaning": "boy", "emoji": "👦", "audio": "audio/nl/words/nl-j-09.mp3" },
+        { "text": "jurk", "roman": "jurk", "meaning": "dress", "emoji": "👗", "audio": "audio/nl/words/nl-j-10.mp3" }
+      ]
+    },
+    {
+      "id": "nl-k",
+      "char": "k",
+      "name": "kaa",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/nl/letters/nl-k.mp3",
+      "memoryTrick": "Same sharp 'k' as in English 'kite'. Dutch uses 'k' in many places where English would use 'c' — think of 'kat' versus 'cat'.",
+      "words": [
+        { "text": "kat", "roman": "kat", "meaning": "cat", "emoji": "🐱", "audio": "audio/nl/words/nl-k-01.mp3" },
+        { "text": "kip", "roman": "kip", "meaning": "chicken", "emoji": "🐔", "audio": "audio/nl/words/nl-k-02.mp3" },
+        { "text": "kind", "roman": "kind", "meaning": "child", "emoji": "🧒", "audio": "audio/nl/words/nl-k-03.mp3" },
+        { "text": "koffie", "roman": "koffie", "meaning": "coffee", "emoji": "☕", "audio": "audio/nl/words/nl-k-04.mp3" },
+        { "text": "kaas", "roman": "kaas", "meaning": "cheese", "emoji": "🧀", "audio": "audio/nl/words/nl-k-05.mp3" },
+        { "text": "kamer", "roman": "kamer", "meaning": "room", "audio": "audio/nl/words/nl-k-06.mp3" },
+        { "text": "koning", "roman": "koning", "meaning": "king", "emoji": "👑", "audio": "audio/nl/words/nl-k-07.mp3" },
+        { "text": "koud", "roman": "koud", "meaning": "cold", "audio": "audio/nl/words/nl-k-08.mp3" },
+        { "text": "klein", "roman": "klein", "meaning": "small", "audio": "audio/nl/words/nl-k-09.mp3" },
+        { "text": "klok", "roman": "klok", "meaning": "clock", "emoji": "🕐", "audio": "audio/nl/words/nl-k-10.mp3" },
+        { "text": "kort", "roman": "kort", "meaning": "short", "audio": "audio/nl/words/nl-k-11.mp3" },
+        { "text": "kleur", "roman": "kleur", "meaning": "color", "audio": "audio/nl/words/nl-k-12.mp3" }
+      ]
+    },
+    {
+      "id": "nl-l",
+      "char": "l",
+      "name": "el",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/nl/letters/nl-l.mp3",
+      "memoryTrick": "Like English 'l' in 'lamp', but keep your tongue touching right behind your top teeth — Dutch 'l' is a bit lighter and more forward than the 'dark l' at the end of English words.",
+      "words": [
+        { "text": "lamp", "roman": "lamp", "meaning": "lamp", "emoji": "💡", "audio": "audio/nl/words/nl-l-01.mp3" },
+        { "text": "land", "roman": "land", "meaning": "country; land", "audio": "audio/nl/words/nl-l-02.mp3" },
+        { "text": "licht", "roman": "licht", "meaning": "light", "audio": "audio/nl/words/nl-l-03.mp3" },
+        { "text": "lief", "roman": "lief", "meaning": "sweet; dear", "audio": "audio/nl/words/nl-l-04.mp3" },
+        { "text": "lang", "roman": "lang", "meaning": "long; tall", "audio": "audio/nl/words/nl-l-05.mp3" },
+        { "text": "lachen", "roman": "lachen", "meaning": "to laugh", "audio": "audio/nl/words/nl-l-06.mp3" },
+        { "text": "lezen", "roman": "lezen", "meaning": "to read", "audio": "audio/nl/words/nl-l-07.mp3" },
+        { "text": "lucht", "roman": "lucht", "meaning": "air; sky", "audio": "audio/nl/words/nl-l-08.mp3" },
+        { "text": "lepel", "roman": "lepel", "meaning": "spoon", "emoji": "🥄", "audio": "audio/nl/words/nl-l-09.mp3" },
+        { "text": "leeuw", "roman": "leeuw", "meaning": "lion", "emoji": "🦁", "audio": "audio/nl/words/nl-l-10.mp3" },
+        { "text": "links", "roman": "links", "meaning": "left", "audio": "audio/nl/words/nl-l-11.mp3" },
+        { "text": "lente", "roman": "lente", "meaning": "spring (season)", "emoji": "🌸", "audio": "audio/nl/words/nl-l-12.mp3" }
+      ]
+    },
+    {
+      "id": "nl-m",
+      "char": "m",
+      "name": "em",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/nl/letters/nl-m.mp3",
+      "memoryTrick": "Same humming 'm' as in English 'moon'. Press your lips together and let your voice vibrate — Dutch 'm' is identical to its English twin.",
+      "words": [
+        { "text": "maan", "roman": "maan", "meaning": "moon", "emoji": "🌙", "audio": "audio/nl/words/nl-m-01.mp3" },
+        { "text": "moeder", "roman": "moeder", "meaning": "mother", "audio": "audio/nl/words/nl-m-02.mp3" },
+        { "text": "melk", "roman": "melk", "meaning": "milk", "emoji": "🥛", "audio": "audio/nl/words/nl-m-03.mp3" },
+        { "text": "mes", "roman": "mes", "meaning": "knife", "emoji": "🔪", "audio": "audio/nl/words/nl-m-04.mp3" },
+        { "text": "mond", "roman": "mond", "meaning": "mouth", "emoji": "👄", "audio": "audio/nl/words/nl-m-05.mp3" },
+        { "text": "muis", "roman": "muis", "meaning": "mouse", "emoji": "🐭", "audio": "audio/nl/words/nl-m-06.mp3" },
+        { "text": "mooi", "roman": "mooi", "meaning": "beautiful", "audio": "audio/nl/words/nl-m-07.mp3" },
+        { "text": "markt", "roman": "markt", "meaning": "market", "emoji": "🏪", "audio": "audio/nl/words/nl-m-08.mp3" },
+        { "text": "morgen", "roman": "morgen", "meaning": "morning; tomorrow", "audio": "audio/nl/words/nl-m-09.mp3" },
+        { "text": "moe", "roman": "moe", "meaning": "tired", "audio": "audio/nl/words/nl-m-10.mp3" },
+        { "text": "meisje", "roman": "meisje", "meaning": "girl", "emoji": "👧", "audio": "audio/nl/words/nl-m-11.mp3" },
+        { "text": "manier", "roman": "manier", "meaning": "way; manner", "audio": "audio/nl/words/nl-m-12.mp3" }
+      ]
+    },
+    {
+      "id": "nl-n",
+      "char": "n",
+      "name": "en",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/nl/letters/nl-n.mp3",
+      "memoryTrick": "Same as English 'n' in 'nose'. Touch the tip of your tongue to the ridge behind your top teeth — just like English, but Dutch often drops the final 'n' in everyday speech (so 'eten' sounds like 'ete').",
+      "words": [
+        { "text": "neus", "roman": "neus", "meaning": "nose", "emoji": "👃", "audio": "audio/nl/words/nl-n-01.mp3" },
+        { "text": "nacht", "roman": "nacht", "meaning": "night", "audio": "audio/nl/words/nl-n-02.mp3" },
+        { "text": "naam", "roman": "naam", "meaning": "name", "audio": "audio/nl/words/nl-n-03.mp3" },
+        { "text": "negen", "roman": "negen", "meaning": "nine", "audio": "audio/nl/words/nl-n-04.mp3" },
+        { "text": "nieuw", "roman": "nieuw", "meaning": "new", "audio": "audio/nl/words/nl-n-05.mp3" },
+        { "text": "nooit", "roman": "nooit", "meaning": "never", "audio": "audio/nl/words/nl-n-06.mp3" },
+        { "text": "noot", "roman": "noot", "meaning": "nut; note", "emoji": "🥜", "audio": "audio/nl/words/nl-n-07.mp3" },
+        { "text": "noord", "roman": "noord", "meaning": "north", "audio": "audio/nl/words/nl-n-08.mp3" },
+        { "text": "nat", "roman": "nat", "meaning": "wet", "audio": "audio/nl/words/nl-n-09.mp3" },
+        { "text": "naald", "roman": "naald", "meaning": "needle", "emoji": "🪡", "audio": "audio/nl/words/nl-n-10.mp3" },
+        { "text": "niveau", "roman": "niveau", "meaning": "level", "audio": "audio/nl/words/nl-n-11.mp3" },
+        { "text": "nodig", "roman": "nodig", "meaning": "necessary", "audio": "audio/nl/words/nl-n-12.mp3" }
+      ]
+    },
+    {
+      "id": "nl-o",
+      "char": "o",
+      "name": "oo",
+      "romanization": "o",
+      "ipa": "/oː/",
+      "letterAudio": "audio/nl/letters/nl-o.mp3",
+      "memoryTrick": "Like 'o' in English 'go' when long, or 'o' in 'cot' when short. Round your lips into a tight circle — Dutch vowels love a good lip workout!",
+      "words": [
+        { "text": "oog", "roman": "oog", "meaning": "eye", "emoji": "👁️", "audio": "audio/nl/words/nl-o-01.mp3" },
+        { "text": "oor", "roman": "oor", "meaning": "ear", "emoji": "👂", "audio": "audio/nl/words/nl-o-02.mp3" },
+        { "text": "oud", "roman": "oud", "meaning": "old", "audio": "audio/nl/words/nl-o-03.mp3" },
+        { "text": "oma", "roman": "oma", "meaning": "grandma", "emoji": "👵", "audio": "audio/nl/words/nl-o-04.mp3" },
+        { "text": "opa", "roman": "opa", "meaning": "grandpa", "emoji": "👴", "audio": "audio/nl/words/nl-o-05.mp3" },
+        { "text": "open", "roman": "open", "meaning": "open", "audio": "audio/nl/words/nl-o-06.mp3" },
+        { "text": "olie", "roman": "olie", "meaning": "oil", "audio": "audio/nl/words/nl-o-07.mp3" },
+        { "text": "oven", "roman": "oven", "meaning": "oven", "audio": "audio/nl/words/nl-o-08.mp3" },
+        { "text": "oefening", "roman": "oefening", "meaning": "exercise", "audio": "audio/nl/words/nl-o-09.mp3" },
+        { "text": "oktober", "roman": "oktober", "meaning": "October", "audio": "audio/nl/words/nl-o-10.mp3" },
+        { "text": "ochtend", "roman": "ochtend", "meaning": "morning", "audio": "audio/nl/words/nl-o-11.mp3" },
+        { "text": "onder", "roman": "onder", "meaning": "under", "audio": "audio/nl/words/nl-o-12.mp3" }
+      ]
+    },
+    {
+      "id": "nl-p",
+      "char": "p",
+      "name": "pee",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/nl/letters/nl-p.mp3",
+      "memoryTrick": "Like English 'p' in 'pen', but Dutch 'p' is unaspirated — it pops without that puff of air English speakers add. Hold a tissue in front of your mouth; if it flutters, you're puffing too much!",
+      "words": [
+        { "text": "paard", "roman": "paard", "meaning": "horse", "emoji": "🐴", "audio": "audio/nl/words/nl-p-01.mp3" },
+        { "text": "poes", "roman": "poes", "meaning": "cat (pet name)", "emoji": "🐱", "audio": "audio/nl/words/nl-p-02.mp3" },
+        { "text": "pen", "roman": "pen", "meaning": "pen", "emoji": "🖊️", "audio": "audio/nl/words/nl-p-03.mp3" },
+        { "text": "plein", "roman": "plein", "meaning": "square (town)", "audio": "audio/nl/words/nl-p-04.mp3" },
+        { "text": "prijs", "roman": "prijs", "meaning": "price; prize", "audio": "audio/nl/words/nl-p-05.mp3" },
+        { "text": "punt", "roman": "punt", "meaning": "point; dot", "audio": "audio/nl/words/nl-p-06.mp3" },
+        { "text": "papier", "roman": "papier", "meaning": "paper", "emoji": "📄", "audio": "audio/nl/words/nl-p-07.mp3" },
+        { "text": "peer", "roman": "peer", "meaning": "pear", "emoji": "🍐", "audio": "audio/nl/words/nl-p-08.mp3" },
+        { "text": "politie", "roman": "politie", "meaning": "police", "emoji": "👮", "audio": "audio/nl/words/nl-p-09.mp3" },
+        { "text": "praat", "roman": "praat", "meaning": "talk (verb stem)", "audio": "audio/nl/words/nl-p-10.mp3" },
+        { "text": "prachtig", "roman": "prachtig", "meaning": "gorgeous", "audio": "audio/nl/words/nl-p-11.mp3" },
+        { "text": "probleem", "roman": "probleem", "meaning": "problem", "audio": "audio/nl/words/nl-p-12.mp3" }
+      ]
+    },
+    {
+      "id": "nl-q",
+      "char": "q",
+      "name": "kuu",
+      "romanization": "q",
+      "ipa": "/k/",
+      "letterAudio": "audio/nl/letters/nl-q.mp3",
+      "memoryTrick": "Rare in native Dutch — it appears almost exclusively in loanwords, always followed by 'u'. Think of the 'kw' sound in English 'quick' or the 'k' in 'quiz'.",
+      "words": [
+        { "text": "quiz", "roman": "quiz", "meaning": "quiz", "audio": "audio/nl/words/nl-q-01.mp3" },
+        { "text": "qua", "roman": "qua", "meaning": "regarding; as for", "audio": "audio/nl/words/nl-q-02.mp3" },
+        { "text": "quasi", "roman": "quasi", "meaning": "supposedly; quasi-", "audio": "audio/nl/words/nl-q-03.mp3" },
+        { "text": "quote", "roman": "quote", "meaning": "quote", "audio": "audio/nl/words/nl-q-04.mp3" }
+      ]
+    },
+    {
+      "id": "nl-r",
+      "char": "r",
+      "name": "er",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/nl/letters/nl-r.mp3",
+      "memoryTrick": "Dutch 'r' can be rolled (like Spanish), gargled in the throat (like French), or tapped — all three are correct depending on the region. The throaty version is most common in the Netherlands: imagine a gentle purr.",
+      "words": [
+        { "text": "rood", "roman": "rood", "meaning": "red", "audio": "audio/nl/words/nl-r-01.mp3" },
+        { "text": "regen", "roman": "regen", "meaning": "rain", "emoji": "🌧️", "audio": "audio/nl/words/nl-r-02.mp3" },
+        { "text": "raam", "roman": "raam", "meaning": "window", "emoji": "🪟", "audio": "audio/nl/words/nl-r-03.mp3" },
+        { "text": "rivier", "roman": "rivier", "meaning": "river", "emoji": "🏞️", "audio": "audio/nl/words/nl-r-04.mp3" },
+        { "text": "rug", "roman": "rug", "meaning": "back (body)", "audio": "audio/nl/words/nl-r-05.mp3" },
+        { "text": "rijst", "roman": "rijst", "meaning": "rice", "emoji": "🍚", "audio": "audio/nl/words/nl-r-06.mp3" },
+        { "text": "rust", "roman": "rust", "meaning": "rest; quiet", "audio": "audio/nl/words/nl-r-07.mp3" },
+        { "text": "reis", "roman": "reis", "meaning": "journey; trip", "audio": "audio/nl/words/nl-r-08.mp3" },
+        { "text": "recht", "roman": "recht", "meaning": "straight; right (law)", "audio": "audio/nl/words/nl-r-09.mp3" },
+        { "text": "rond", "roman": "rond", "meaning": "round", "audio": "audio/nl/words/nl-r-10.mp3" }
+      ]
+    },
+    {
+      "id": "nl-s",
+      "char": "s",
+      "name": "es",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/nl/letters/nl-s.mp3",
+      "memoryTrick": "Same hissing 's' as in English 'sun'. Dutch 'sch' at the start of a word is a special combo: 's' + a throaty 'ch' — think of 'school' with an extra rasp at the end of the 's'.",
+      "words": [
+        { "text": "school", "roman": "school", "meaning": "school", "emoji": "🏫", "audio": "audio/nl/words/nl-s-01.mp3" },
+        { "text": "stoel", "roman": "stoel", "meaning": "chair", "emoji": "🪑", "audio": "audio/nl/words/nl-s-02.mp3" },
+        { "text": "stad", "roman": "stad", "meaning": "city", "emoji": "🏙️", "audio": "audio/nl/words/nl-s-03.mp3" },
+        { "text": "straat", "roman": "straat", "meaning": "street", "audio": "audio/nl/words/nl-s-04.mp3" },
+        { "text": "sap", "roman": "sap", "meaning": "juice", "emoji": "🧃", "audio": "audio/nl/words/nl-s-05.mp3" },
+        { "text": "soep", "roman": "soep", "meaning": "soup", "emoji": "🍜", "audio": "audio/nl/words/nl-s-06.mp3" },
+        { "text": "sleutel", "roman": "sleutel", "meaning": "key", "emoji": "🔑", "audio": "audio/nl/words/nl-s-07.mp3" },
+        { "text": "sneeuw", "roman": "sneeuw", "meaning": "snow", "emoji": "❄️", "audio": "audio/nl/words/nl-s-08.mp3" },
+        { "text": "schoen", "roman": "schoen", "meaning": "shoe", "emoji": "👞", "audio": "audio/nl/words/nl-s-09.mp3" },
+        { "text": "sterk", "roman": "sterk", "meaning": "strong", "audio": "audio/nl/words/nl-s-10.mp3" },
+        { "text": "stem", "roman": "stem", "meaning": "voice; vote", "audio": "audio/nl/words/nl-s-11.mp3" },
+        { "text": "slapen", "roman": "slapen", "meaning": "to sleep", "audio": "audio/nl/words/nl-s-12.mp3" }
+      ]
+    },
+    {
+      "id": "nl-t",
+      "char": "t",
+      "name": "tee",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/nl/letters/nl-t.mp3",
+      "memoryTrick": "Like English 't' in 'top', but unaspirated — no puff of air. Place your tongue right behind your top teeth (not on the ridge like in English) for that authentic Dutch sound.",
+      "words": [
+        { "text": "tafel", "roman": "tafel", "meaning": "table", "emoji": "🪑", "audio": "audio/nl/words/nl-t-01.mp3" },
+        { "text": "tijd", "roman": "tijd", "meaning": "time", "audio": "audio/nl/words/nl-t-02.mp3" },
+        { "text": "trein", "roman": "trein", "meaning": "train", "emoji": "🚆", "audio": "audio/nl/words/nl-t-03.mp3" },
+        { "text": "twee", "roman": "twee", "meaning": "two", "audio": "audio/nl/words/nl-t-04.mp3" },
+        { "text": "tuin", "roman": "tuin", "meaning": "garden", "emoji": "🌻", "audio": "audio/nl/words/nl-t-05.mp3" },
+        { "text": "thee", "roman": "thee", "meaning": "tea", "emoji": "🫖", "audio": "audio/nl/words/nl-t-06.mp3" },
+        { "text": "tand", "roman": "tand", "meaning": "tooth", "emoji": "🦷", "audio": "audio/nl/words/nl-t-07.mp3" },
+        { "text": "tien", "roman": "tien", "meaning": "ten", "audio": "audio/nl/words/nl-t-08.mp3" },
+        { "text": "thuis", "roman": "thuis", "meaning": "at home; home", "emoji": "🏡", "audio": "audio/nl/words/nl-t-09.mp3" },
+        { "text": "taal", "roman": "taal", "meaning": "language", "audio": "audio/nl/words/nl-t-10.mp3" },
+        { "text": "tekst", "roman": "tekst", "meaning": "text", "audio": "audio/nl/words/nl-t-11.mp3" },
+        { "text": "tellen", "roman": "tellen", "meaning": "to count", "audio": "audio/nl/words/nl-t-12.mp3" }
       ]
     },
     {
       "id": "nl-u",
-      "char": "U u",
-      "name": "u",
+      "char": "u",
+      "name": "uu",
       "romanization": "u",
-      "ipa": "/ʏ/",
-      "memoryTrick": "A rounded front vowel between 'u' and 'ew'.",
+      "ipa": "/y/",
+      "letterAudio": "audio/nl/letters/nl-u.mp3",
+      "memoryTrick": "A sound English doesn't have! Round your lips like you're saying 'oo' in 'food', but try to say 'ee' instead — that's the Dutch 'u'. It's exactly like the French 'u' in 'tu' or German 'ü' in 'für'.",
       "words": [
-        {
-          "text": "uur",
-          "roman": "uur",
-          "meaning": "hour",
-          "emoji": "🕐"
-        },
-        {
-          "text": "vuur",
-          "roman": "vuur",
-          "meaning": "fire",
-          "emoji": "🔥"
-        }
+        { "text": "uur", "roman": "uur", "meaning": "hour", "audio": "audio/nl/words/nl-u-01.mp3" },
+        { "text": "ui", "roman": "ui", "meaning": "onion", "emoji": "🧅", "audio": "audio/nl/words/nl-u-02.mp3" },
+        { "text": "uit", "roman": "uit", "meaning": "out; from", "audio": "audio/nl/words/nl-u-03.mp3" },
+        { "text": "uil", "roman": "uil", "meaning": "owl", "emoji": "🦉", "audio": "audio/nl/words/nl-u-04.mp3" },
+        { "text": "unie", "roman": "unie", "meaning": "union", "audio": "audio/nl/words/nl-u-05.mp3" },
+        { "text": "uniform", "roman": "uniform", "meaning": "uniform", "audio": "audio/nl/words/nl-u-06.mp3" },
+        { "text": "uniek", "roman": "uniek", "meaning": "unique", "audio": "audio/nl/words/nl-u-07.mp3" },
+        { "text": "Utrecht", "roman": "Utrecht", "meaning": "Utrecht (city)", "audio": "audio/nl/words/nl-u-08.mp3" },
+        { "text": "uw", "roman": "uw", "meaning": "your (formal)", "audio": "audio/nl/words/nl-u-09.mp3" },
+        { "text": "uienschil", "roman": "uienschil", "meaning": "onion peel", "audio": "audio/nl/words/nl-u-10.mp3" }
+      ]
+    },
+    {
+      "id": "nl-v",
+      "char": "v",
+      "name": "vee",
+      "romanization": "v",
+      "ipa": "/v/",
+      "letterAudio": "audio/nl/letters/nl-v.mp3",
+      "memoryTrick": "Like English 'v' but often softer — in some regions it's almost an 'f'. Touch your top teeth to your bottom lip and hum; Dutch 'v' can glide closer to 'f' than in English, especially at the start of words.",
+      "words": [
+        { "text": "vis", "roman": "vis", "meaning": "fish", "emoji": "🐟", "audio": "audio/nl/words/nl-v-01.mp3" },
+        { "text": "vogel", "roman": "vogel", "meaning": "bird", "emoji": "🐦", "audio": "audio/nl/words/nl-v-02.mp3" },
+        { "text": "vuur", "roman": "vuur", "meaning": "fire", "emoji": "🔥", "audio": "audio/nl/words/nl-v-03.mp3" },
+        { "text": "vier", "roman": "vier", "meaning": "four", "audio": "audio/nl/words/nl-v-04.mp3" },
+        { "text": "vijf", "roman": "vijf", "meaning": "five", "audio": "audio/nl/words/nl-v-05.mp3" },
+        { "text": "vader", "roman": "vader", "meaning": "father", "audio": "audio/nl/words/nl-v-06.mp3" },
+        { "text": "veel", "roman": "veel", "meaning": "much; many", "audio": "audio/nl/words/nl-v-07.mp3" },
+        { "text": "veld", "roman": "veld", "meaning": "field", "emoji": "🌾", "audio": "audio/nl/words/nl-v-08.mp3" },
+        { "text": "ver", "roman": "ver", "meaning": "far", "audio": "audio/nl/words/nl-v-09.mp3" },
+        { "text": "vers", "roman": "vers", "meaning": "fresh", "audio": "audio/nl/words/nl-v-10.mp3" },
+        { "text": "vriend", "roman": "vriend", "meaning": "friend", "audio": "audio/nl/words/nl-v-11.mp3" },
+        { "text": "vandaag", "roman": "vandaag", "meaning": "today", "audio": "audio/nl/words/nl-v-12.mp3" }
       ]
     },
     {
       "id": "nl-w",
-      "char": "W w",
+      "char": "w",
       "name": "wee",
       "romanization": "w",
       "ipa": "/ʋ/",
-      "memoryTrick": "A soft, 'v'-like 'w'.",
+      "letterAudio": "audio/nl/letters/nl-w.mp3",
+      "memoryTrick": "Halfway between English 'v' and 'w' — bring your top teeth close to your bottom lip (like a 'v') but don't quite touch. Some Dutch speakers pronounce it closer to a labiodental 'v', especially in the north.",
       "words": [
-        {
-          "text": "water",
-          "roman": "water",
-          "meaning": "water",
-          "emoji": "💧"
-        },
-        {
-          "text": "wind",
-          "roman": "wint",
-          "meaning": "wind",
-          "emoji": "💨"
-        }
+        { "text": "water", "roman": "water", "meaning": "water", "emoji": "💧", "audio": "audio/nl/words/nl-w-01.mp3" },
+        { "text": "werk", "roman": "werk", "meaning": "work", "audio": "audio/nl/words/nl-w-02.mp3" },
+        { "text": "week", "roman": "week", "meaning": "week", "audio": "audio/nl/words/nl-w-03.mp3" },
+        { "text": "weg", "roman": "weg", "meaning": "road; away", "audio": "audio/nl/words/nl-w-04.mp3" },
+        { "text": "wit", "roman": "wit", "meaning": "white", "audio": "audio/nl/words/nl-w-05.mp3" },
+        { "text": "warm", "roman": "warm", "meaning": "warm", "audio": "audio/nl/words/nl-w-06.mp3" },
+        { "text": "wijn", "roman": "wijn", "meaning": "wine", "emoji": "🍷", "audio": "audio/nl/words/nl-w-07.mp3" },
+        { "text": "wind", "roman": "wind", "meaning": "wind", "audio": "audio/nl/words/nl-w-08.mp3" },
+        { "text": "wolk", "roman": "wolk", "meaning": "cloud", "emoji": "☁️", "audio": "audio/nl/words/nl-w-09.mp3" },
+        { "text": "wonen", "roman": "wonen", "meaning": "to live (reside)", "audio": "audio/nl/words/nl-w-10.mp3" },
+        { "text": "woord", "roman": "woord", "meaning": "word", "audio": "audio/nl/words/nl-w-11.mp3" },
+        { "text": "winkel", "roman": "winkel", "meaning": "shop; store", "emoji": "🏬", "audio": "audio/nl/words/nl-w-12.mp3" }
+      ]
+    },
+    {
+      "id": "nl-x",
+      "char": "x",
+      "name": "iks",
+      "romanization": "x",
+      "ipa": "/ks/",
+      "letterAudio": "audio/nl/letters/nl-x.mp3",
+      "memoryTrick": "Same 'ks' sound as in English 'box' or 'fox'. Very rare in Dutch — it appears only in loanwords from Greek and Latin, so you won't encounter it in everyday native vocabulary.",
+      "words": [
+        { "text": "xylofoon", "roman": "xylofoon", "meaning": "xylophone", "audio": "audio/nl/words/nl-x-01.mp3" },
+        { "text": "x-as", "roman": "x-as", "meaning": "x-axis", "audio": "audio/nl/words/nl-x-02.mp3" }
+      ]
+    },
+    {
+      "id": "nl-y",
+      "char": "y",
+      "name": "ij",
+      "romanization": "y",
+      "ipa": "/ɛɪ/",
+      "letterAudio": "audio/nl/letters/nl-y.mp3",
+      "memoryTrick": "Called 'Griekse ij' (Greek y) or 'ypsilon'. In loanwords it can sound like 'ie' (/i/) as in 'baby', or like the Dutch 'ij' (/ɛɪ/). Native Dutch words use 'ij' instead — this is the imported cousin.",
+      "words": [
+        { "text": "yoga", "roman": "yoga", "meaning": "yoga", "audio": "audio/nl/words/nl-y-01.mp3" },
+        { "text": "yoghurt", "roman": "yoghurt", "meaning": "yogurt", "audio": "audio/nl/words/nl-y-02.mp3" },
+        { "text": "y-as", "roman": "y-as", "meaning": "y-axis", "audio": "audio/nl/words/nl-y-03.mp3" },
+        { "text": "yen", "roman": "yen", "meaning": "yen (currency)", "emoji": "💴", "audio": "audio/nl/words/nl-y-04.mp3" },
+        { "text": "yoghurtdrank", "roman": "yoghurtdrank", "meaning": "yogurt drink", "audio": "audio/nl/words/nl-y-05.mp3" }
+      ]
+    },
+    {
+      "id": "nl-z",
+      "char": "z",
+      "name": "zet",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/nl/letters/nl-z.mp3",
+      "memoryTrick": "Same buzzing 'z' as in English 'zebra'. But at the end of a word, Dutch devoices it — so 'huis' (house) ends with an 's' sound, and a final 'z' would do the same.",
+      "words": [
+        { "text": "zon", "roman": "zon", "meaning": "sun", "emoji": "☀️", "audio": "audio/nl/words/nl-z-01.mp3" },
+        { "text": "zee", "roman": "zee", "meaning": "sea", "emoji": "🌊", "audio": "audio/nl/words/nl-z-02.mp3" },
+        { "text": "zout", "roman": "zout", "meaning": "salt", "emoji": "🧂", "audio": "audio/nl/words/nl-z-03.mp3" },
+        { "text": "zes", "roman": "zes", "meaning": "six", "audio": "audio/nl/words/nl-z-04.mp3" },
+        { "text": "zeven", "roman": "zeven", "meaning": "seven", "audio": "audio/nl/words/nl-z-05.mp3" },
+        { "text": "zwart", "roman": "zwart", "meaning": "black", "audio": "audio/nl/words/nl-z-06.mp3" },
+        { "text": "zilver", "roman": "zilver", "meaning": "silver", "audio": "audio/nl/words/nl-z-07.mp3" },
+        { "text": "ziek", "roman": "ziek", "meaning": "sick; ill", "audio": "audio/nl/words/nl-z-08.mp3" },
+        { "text": "zacht", "roman": "zacht", "meaning": "soft; gentle", "audio": "audio/nl/words/nl-z-09.mp3" },
+        { "text": "zomer", "roman": "zomer", "meaning": "summer", "emoji": "☀️", "audio": "audio/nl/words/nl-z-10.mp3" },
+        { "text": "zuid", "roman": "zuid", "meaning": "south", "audio": "audio/nl/words/nl-z-11.mp3" },
+        { "text": "zwemmen", "roman": "zwemmen", "meaning": "to swim", "emoji": "🏊", "audio": "audio/nl/words/nl-z-12.mp3" }
+      ]
+    },
+    {
+      "id": "nl-ij",
+      "char": "ij",
+      "name": "lange ij",
+      "romanization": "ij",
+      "ipa": "/ɛɪ/",
+      "letterAudio": "audio/nl/letters/nl-ij.mp3",
+      "memoryTrick": "The famous Dutch digraph! It sounds like the 'eye' in English 'eye' or 'ay' in 'day' but starting with a more open mouth. In uppercase, BOTH letters are capitalized (IJsland, not Ijsland). It's sometimes written as a single ligature ĳ, but the two-letter form is standard.",
+      "words": [
+        { "text": "ijs", "roman": "ijs", "meaning": "ice; ice cream", "emoji": "🍦", "audio": "audio/nl/words/nl-ij-01.mp3" },
+        { "text": "ijzer", "roman": "ijzer", "meaning": "iron (metal)", "audio": "audio/nl/words/nl-ij-02.mp3" },
+        { "text": "IJsland", "roman": "IJsland", "meaning": "Iceland", "audio": "audio/nl/words/nl-ij-03.mp3" },
+        { "text": "ijsbeer", "roman": "ijsbeer", "meaning": "polar bear", "emoji": "🐻‍❄️", "audio": "audio/nl/words/nl-ij-04.mp3" },
+        { "text": "ijsje", "roman": "ijsje", "meaning": "ice cream cone", "emoji": "🍦", "audio": "audio/nl/words/nl-ij-05.mp3" },
+        { "text": "ijver", "roman": "ijver", "meaning": "diligence; zeal", "audio": "audio/nl/words/nl-ij-06.mp3" },
+        { "text": "ijskast", "roman": "ijskast", "meaning": "refrigerator", "audio": "audio/nl/words/nl-ij-07.mp3" },
+        { "text": "ijdel", "roman": "ijdel", "meaning": "vain; conceited", "audio": "audio/nl/words/nl-ij-08.mp3" },
+        { "text": "ijsvrij", "roman": "ijsvrij", "meaning": "ice-free; day off from school due to ice", "audio": "audio/nl/words/nl-ij-09.mp3" },
+        { "text": "ijsschots", "roman": "ijsschots", "meaning": "ice floe", "audio": "audio/nl/words/nl-ij-10.mp3" }
       ]
     }
   ]

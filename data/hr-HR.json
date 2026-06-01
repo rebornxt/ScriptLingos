@@ -2,138 +2,557 @@
   "language": "Croatian",
   "code": "hr-HR",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
-      "id": "hr-c-caron",
-      "char": "Č č",
-      "name": "čé",
-      "romanization": "č",
-      "ipa": "/tʃ/",
-      "memoryTrick": "A 'c' with a háček = a hard 'ch'.",
+      "id": "hr-a",
+      "char": "a",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/hr/letters/hr-a.mp3",
+      "memoryTrick": "Like the 'a' in 'father'. Open your mouth wide and keep it relaxed — Croatian vowels are always short and pure, never drawn out.",
       "words": [
-        {
-          "text": "čaj",
-          "roman": "chai",
-          "meaning": "tea",
-          "emoji": "🍵"
-        },
-        {
-          "text": "čovjek",
-          "roman": "chovyek",
-          "meaning": "person",
-          "emoji": "🧍"
-        }
+        { "text": "avion", "roman": "avion", "meaning": "airplane", "emoji": "✈️", "audio": "audio/hr/words/hr-a-01.mp3" },
+        { "text": "auto", "roman": "auto", "meaning": "car", "emoji": "🚗", "audio": "audio/hr/words/hr-a-02.mp3" },
+        { "text": "autobus", "roman": "autobus", "meaning": "bus", "emoji": "🚌", "audio": "audio/hr/words/hr-a-03.mp3" },
+        { "text": "jabuka", "roman": "jabuka", "meaning": "apple", "emoji": "🍎", "audio": "audio/hr/words/hr-a-04.mp3" },
+        { "text": "anđeo", "roman": "anđeo", "meaning": "angel", "emoji": "👼", "audio": "audio/hr/words/hr-a-05.mp3" },
+        { "text": "abeceda", "roman": "abeceda", "meaning": "alphabet", "emoji": "🔤", "audio": "audio/hr/words/hr-a-06.mp3" },
+        { "text": "adresa", "roman": "adresa", "meaning": "address", "emoji": "📍", "audio": "audio/hr/words/hr-a-07.mp3" },
+        { "text": "apoteka", "roman": "apoteka", "meaning": "pharmacy", "emoji": "💊", "audio": "audio/hr/words/hr-a-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-b",
+      "char": "b",
+      "name": "be",
+      "romanization": "b",
+      "ipa": "/b/",
+      "letterAudio": "audio/hr/letters/hr-b.mp3",
+      "memoryTrick": "Same as English 'b' in 'boy'. A straightforward voiced plosive — press your lips together and release with your voice on.",
+      "words": [
+        { "text": "brod", "roman": "brod", "meaning": "ship", "emoji": "🚢", "audio": "audio/hr/words/hr-b-01.mp3" },
+        { "text": "baka", "roman": "baka", "meaning": "grandmother", "emoji": "👵", "audio": "audio/hr/words/hr-b-02.mp3" },
+        { "text": "banana", "roman": "banana", "meaning": "banana", "emoji": "🍌", "audio": "audio/hr/words/hr-b-03.mp3" },
+        { "text": "bijel", "roman": "bijel", "meaning": "white", "emoji": "⬜", "audio": "audio/hr/words/hr-b-04.mp3" },
+        { "text": "brat", "roman": "brat", "meaning": "brother", "emoji": "👦", "audio": "audio/hr/words/hr-b-05.mp3" },
+        { "text": "bolest", "roman": "bolest", "meaning": "illness", "emoji": "🤒", "audio": "audio/hr/words/hr-b-06.mp3" },
+        { "text": "boca", "roman": "boca", "meaning": "bottle", "emoji": "🍾", "audio": "audio/hr/words/hr-b-07.mp3" },
+        { "text": "brdo", "roman": "brdo", "meaning": "hill", "emoji": "⛰️", "audio": "audio/hr/words/hr-b-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-c",
+      "char": "c",
+      "name": "ce",
+      "romanization": "c",
+      "ipa": "/t͡s/",
+      "letterAudio": "audio/hr/letters/hr-c.mp3",
+      "memoryTrick": "Always like 'ts' in 'cats' — never like an English 's' or 'k'. Think of the 'zz' in 'pizza'.",
+      "words": [
+        { "text": "cesta", "roman": "cesta", "meaning": "road", "emoji": "🛣️", "audio": "audio/hr/words/hr-c-01.mp3" },
+        { "text": "cvijet", "roman": "cvijet", "meaning": "flower", "emoji": "🌸", "audio": "audio/hr/words/hr-c-02.mp3" },
+        { "text": "cipela", "roman": "cipela", "meaning": "shoe", "emoji": "👞", "audio": "audio/hr/words/hr-c-03.mp3" },
+        { "text": "crn", "roman": "crn", "meaning": "black", "emoji": "⬛", "audio": "audio/hr/words/hr-c-04.mp3" },
+        { "text": "cijena", "roman": "cijena", "meaning": "price", "emoji": "🏷️", "audio": "audio/hr/words/hr-c-05.mp3" },
+        { "text": "crkva", "roman": "crkva", "meaning": "church", "emoji": "⛪", "audio": "audio/hr/words/hr-c-06.mp3" },
+        { "text": "cura", "roman": "cura", "meaning": "girl", "emoji": "👧", "audio": "audio/hr/words/hr-c-07.mp3" },
+        { "text": "cigla", "roman": "cigla", "meaning": "brick", "emoji": "🧱", "audio": "audio/hr/words/hr-c-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-c-caron",
+      "char": "č",
+      "name": "če",
+      "romanization": "č",
+      "ipa": "/t͡ʃ/",
+      "letterAudio": "audio/hr/letters/hr-c-caron.mp3",
+      "memoryTrick": "Like 'ch' in 'chocolate'. The little v-shaped caron (ˇ) above the c turns it into a 'ch' sound — think 'c' for 'crunch' plus a hat.",
+      "words": [
+        { "text": "čaj", "roman": "čaj", "meaning": "tea", "emoji": "🍵", "audio": "audio/hr/words/hr-c-caron-01.mp3" },
+        { "text": "čovjek", "roman": "čovjek", "meaning": "person", "emoji": "🧑", "audio": "audio/hr/words/hr-c-caron-02.mp3" },
+        { "text": "čokolada", "roman": "čokolada", "meaning": "chocolate", "emoji": "🍫", "audio": "audio/hr/words/hr-c-caron-03.mp3" },
+        { "text": "četiri", "roman": "četiri", "meaning": "four", "emoji": "4️⃣", "audio": "audio/hr/words/hr-c-caron-04.mp3" },
+        { "text": "čist", "roman": "čist", "meaning": "clean", "emoji": "✨", "audio": "audio/hr/words/hr-c-caron-05.mp3" },
+        { "text": "čaša", "roman": "čaša", "meaning": "glass", "emoji": "🥛", "audio": "audio/hr/words/hr-c-caron-06.mp3" },
+        { "text": "čekić", "roman": "čekić", "meaning": "hammer", "emoji": "🔨", "audio": "audio/hr/words/hr-c-caron-07.mp3" },
+        { "text": "čudo", "roman": "čudo", "meaning": "miracle", "emoji": "✨", "audio": "audio/hr/words/hr-c-caron-08.mp3" }
       ]
     },
     {
       "id": "hr-c-acute",
-      "char": "Ć ć",
-      "name": "ćé",
+      "char": "ć",
+      "name": "će",
       "romanization": "ć",
-      "ipa": "/tɕ/",
-      "memoryTrick": "A 'c' with an accent = a soft 'ch'.",
+      "ipa": "/t͡ɕ/",
+      "letterAudio": "audio/hr/letters/hr-c-acute.mp3",
+      "memoryTrick": "A softer 'ch' than č — like the 't' in 'tune' said quickly. Place the middle of your tongue higher against the roof of your mouth for a lighter, hissier sound.",
       "words": [
-        {
-          "text": "ćup",
-          "roman": "chup",
-          "meaning": "jar",
-          "emoji": "🏺"
-        },
-        {
-          "text": "noć",
-          "roman": "noch",
-          "meaning": "night",
-          "emoji": "🌙"
-        }
+        { "text": "ćup", "roman": "ćup", "meaning": "pot", "emoji": "🫖", "audio": "audio/hr/words/hr-c-acute-01.mp3" },
+        { "text": "ćilim", "roman": "ćilim", "meaning": "rug", "emoji": "🧶", "audio": "audio/hr/words/hr-c-acute-02.mp3" },
+        { "text": "ćevap", "roman": "ćevap", "meaning": "kebab", "emoji": "🥙", "audio": "audio/hr/words/hr-c-acute-03.mp3" },
+        { "text": "ćelija", "roman": "ćelija", "meaning": "cell", "emoji": "🔬", "audio": "audio/hr/words/hr-c-acute-04.mp3" },
+        { "text": "ćebe", "roman": "ćebe", "meaning": "blanket", "emoji": "🛏️", "audio": "audio/hr/words/hr-c-acute-05.mp3" },
+        { "text": "ćutjeti", "roman": "ćutjeti", "meaning": "to be silent", "emoji": "🤫", "audio": "audio/hr/words/hr-c-acute-06.mp3" }
+      ]
+    },
+    {
+      "id": "hr-d",
+      "char": "d",
+      "name": "de",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/hr/letters/hr-d.mp3",
+      "memoryTrick": "Same as English 'd' in 'dog'. Press the tip of your tongue behind your upper teeth and release with your voice on.",
+      "words": [
+        { "text": "dan", "roman": "dan", "meaning": "day", "emoji": "☀️", "audio": "audio/hr/words/hr-d-01.mp3" },
+        { "text": "drvo", "roman": "drvo", "meaning": "tree", "emoji": "🌳", "audio": "audio/hr/words/hr-d-02.mp3" },
+        { "text": "dijete", "roman": "dijete", "meaning": "child", "emoji": "👶", "audio": "audio/hr/words/hr-d-03.mp3" },
+        { "text": "dug", "roman": "dug", "meaning": "debt", "emoji": "💸", "audio": "audio/hr/words/hr-d-04.mp3" },
+        { "text": "dom", "roman": "dom", "meaning": "home", "emoji": "🏠", "audio": "audio/hr/words/hr-d-05.mp3" },
+        { "text": "doručak", "roman": "doručak", "meaning": "breakfast", "emoji": "🍳", "audio": "audio/hr/words/hr-d-06.mp3" },
+        { "text": "daska", "roman": "daska", "meaning": "board", "emoji": "🪵", "audio": "audio/hr/words/hr-d-07.mp3" },
+        { "text": "duga", "roman": "duga", "meaning": "rainbow", "emoji": "🌈", "audio": "audio/hr/words/hr-d-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-dz-caron",
+      "char": "dž",
+      "name": "dže",
+      "romanization": "dž",
+      "ipa": "/d͡ʒ/",
+      "letterAudio": "audio/hr/letters/hr-dz-caron.mp3",
+      "memoryTrick": "Like 'j' in 'jungle' or 'dge' in 'judge'. Two letters but one sound — it's the voiced partner of č. Think of saying 'jazz' with a Croatian accent.",
+      "words": [
+        { "text": "džep", "roman": "džep", "meaning": "pocket", "emoji": "👖", "audio": "audio/hr/words/hr-dz-caron-01.mp3" },
+        { "text": "džungla", "roman": "džungla", "meaning": "jungle", "emoji": "🌴", "audio": "audio/hr/words/hr-dz-caron-02.mp3" },
+        { "text": "džamija", "roman": "džamija", "meaning": "mosque", "emoji": "🕌", "audio": "audio/hr/words/hr-dz-caron-03.mp3" },
+        { "text": "džemper", "roman": "džemper", "meaning": "sweater", "emoji": "🧥", "audio": "audio/hr/words/hr-dz-caron-04.mp3" },
+        { "text": "džezva", "roman": "džezva", "meaning": "coffee pot", "emoji": "☕", "audio": "audio/hr/words/hr-dz-caron-05.mp3" }
       ]
     },
     {
       "id": "hr-d-stroke",
-      "char": "Đ đ",
+      "char": "đ",
       "name": "đe",
       "romanization": "đ",
-      "ipa": "/dʑ/",
-      "memoryTrick": "A 'd' with a stroke = a soft 'j'.",
+      "ipa": "/d͡ʑ/",
+      "letterAudio": "audio/hr/letters/hr-d-stroke.mp3",
+      "memoryTrick": "A softer version of dž — like the 'd' in 'during' said quickly. Your tongue should be higher and flatter against the roof of your mouth, more like a gentle 'dy'.",
       "words": [
-        {
-          "text": "đak",
-          "roman": "djak",
-          "meaning": "pupil",
-          "emoji": "🎒"
-        },
-        {
-          "text": "žeđ",
-          "roman": "zhedj",
-          "meaning": "thirst",
-          "emoji": "💧"
-        }
+        { "text": "đak", "roman": "đak", "meaning": "pupil", "emoji": "🎒", "audio": "audio/hr/words/hr-d-stroke-01.mp3" },
+        { "text": "đumbir", "roman": "đumbir", "meaning": "ginger", "emoji": "🫚", "audio": "audio/hr/words/hr-d-stroke-02.mp3" },
+        { "text": "đon", "roman": "đon", "meaning": "shoe sole", "emoji": "👟", "audio": "audio/hr/words/hr-d-stroke-03.mp3" },
+        { "text": "đurđica", "roman": "đurđica", "meaning": "lily of the valley", "emoji": "🌿", "audio": "audio/hr/words/hr-d-stroke-04.mp3" },
+        { "text": "đavo", "roman": "đavo", "meaning": "devil", "emoji": "😈", "audio": "audio/hr/words/hr-d-stroke-05.mp3" }
       ]
     },
     {
-      "id": "hr-s-caron",
-      "char": "Š š",
-      "name": "eš",
-      "romanization": "š",
-      "ipa": "/ʃ/",
-      "memoryTrick": "An 's' with a háček = 'sh'.",
+      "id": "hr-e",
+      "char": "e",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/e/",
+      "letterAudio": "audio/hr/letters/hr-e.mp3",
+      "memoryTrick": "Like 'e' in 'bed' — always short and crisp, never drawn out like in English 'they'. Keep it clean and mid-height.",
       "words": [
-        {
-          "text": "šuma",
-          "roman": "shuma",
-          "meaning": "forest",
-          "emoji": "🌲"
-        },
-        {
-          "text": "miš",
-          "roman": "mish",
-          "meaning": "mouse",
-          "emoji": "🐭"
-        }
+        { "text": "ekran", "roman": "ekran", "meaning": "screen", "emoji": "🖥️", "audio": "audio/hr/words/hr-e-01.mp3" },
+        { "text": "evo", "roman": "evo", "meaning": "here is", "emoji": "👉", "audio": "audio/hr/words/hr-e-02.mp3" },
+        { "text": "ekipa", "roman": "ekipa", "meaning": "team", "emoji": "👥", "audio": "audio/hr/words/hr-e-03.mp3" },
+        { "text": "element", "roman": "element", "meaning": "element", "emoji": "⚛️", "audio": "audio/hr/words/hr-e-04.mp3" },
+        { "text": "enciklopedija", "roman": "enciklopedija", "meaning": "encyclopedia", "emoji": "📚", "audio": "audio/hr/words/hr-e-05.mp3" },
+        { "text": "elektrika", "roman": "elektrika", "meaning": "electricity", "emoji": "⚡", "audio": "audio/hr/words/hr-e-06.mp3" }
       ]
     },
     {
-      "id": "hr-z-caron",
-      "char": "Ž ž",
-      "name": "žet",
-      "romanization": "ž",
-      "ipa": "/ʒ/",
-      "memoryTrick": "A 'z' with a háček = 'zh'.",
+      "id": "hr-f",
+      "char": "f",
+      "name": "ef",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/hr/letters/hr-f.mp3",
+      "memoryTrick": "Same as English 'f' in 'fish'. Top teeth on bottom lip, push air through — no voice, just breath.",
       "words": [
-        {
-          "text": "žaba",
-          "roman": "zhaba",
-          "meaning": "frog",
-          "emoji": "🐸"
-        },
-        {
-          "text": "žena",
-          "roman": "zhena",
-          "meaning": "woman",
-          "emoji": "👩"
-        }
+        { "text": "film", "roman": "film", "meaning": "film", "emoji": "🎬", "audio": "audio/hr/words/hr-f-01.mp3" },
+        { "text": "fotografija", "roman": "fotografija", "meaning": "photograph", "emoji": "📷", "audio": "audio/hr/words/hr-f-02.mp3" },
+        { "text": "frizer", "roman": "frizer", "meaning": "hairdresser", "emoji": "💇", "audio": "audio/hr/words/hr-f-03.mp3" },
+        { "text": "flaša", "roman": "flaša", "meaning": "bottle", "emoji": "🍶", "audio": "audio/hr/words/hr-f-04.mp3" },
+        { "text": "fakultet", "roman": "fakultet", "meaning": "faculty", "emoji": "🏛️", "audio": "audio/hr/words/hr-f-05.mp3" },
+        { "text": "festival", "roman": "festival", "meaning": "festival", "emoji": "🎪", "audio": "audio/hr/words/hr-f-06.mp3" }
+      ]
+    },
+    {
+      "id": "hr-g",
+      "char": "g",
+      "name": "ge",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "letterAudio": "audio/hr/letters/hr-g.mp3",
+      "memoryTrick": "Always like 'g' in 'go', never soft like 'g' in 'gentle'. Croatian g stays hard no matter what vowel follows it.",
+      "words": [
+        { "text": "grad", "roman": "grad", "meaning": "city", "emoji": "🏙️", "audio": "audio/hr/words/hr-g-01.mp3" },
+        { "text": "glava", "roman": "glava", "meaning": "head", "emoji": "🧠", "audio": "audio/hr/words/hr-g-02.mp3" },
+        { "text": "godina", "roman": "godina", "meaning": "year", "emoji": "📅", "audio": "audio/hr/words/hr-g-03.mp3" },
+        { "text": "glazba", "roman": "glazba", "meaning": "music", "emoji": "🎵", "audio": "audio/hr/words/hr-g-04.mp3" },
+        { "text": "grana", "roman": "grana", "meaning": "branch", "emoji": "🌿", "audio": "audio/hr/words/hr-g-05.mp3" },
+        { "text": "guma", "roman": "guma", "meaning": "rubber", "emoji": "🛞", "audio": "audio/hr/words/hr-g-06.mp3" },
+        { "text": "gost", "roman": "gost", "meaning": "guest", "emoji": "🧳", "audio": "audio/hr/words/hr-g-07.mp3" },
+        { "text": "glad", "roman": "glad", "meaning": "hunger", "emoji": "🍽️", "audio": "audio/hr/words/hr-g-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-h",
+      "char": "h",
+      "name": "ha",
+      "romanization": "h",
+      "ipa": "/x/",
+      "letterAudio": "audio/hr/letters/hr-h.mp3",
+      "memoryTrick": "Like the 'ch' in Scottish 'loch' or German 'Bach' — a raspy breath from the back of your throat. Never silent like in English 'hour'.",
+      "words": [
+        { "text": "hrana", "roman": "hrana", "meaning": "food", "emoji": "🍲", "audio": "audio/hr/words/hr-h-01.mp3" },
+        { "text": "hotel", "roman": "hotel", "meaning": "hotel", "emoji": "🏨", "audio": "audio/hr/words/hr-h-02.mp3" },
+        { "text": "hladno", "roman": "hladno", "meaning": "cold", "emoji": "🥶", "audio": "audio/hr/words/hr-h-03.mp3" },
+        { "text": "hvala", "roman": "hvala", "meaning": "thank you", "emoji": "🙏", "audio": "audio/hr/words/hr-h-04.mp3" },
+        { "text": "haljina", "roman": "haljina", "meaning": "dress", "emoji": "👗", "audio": "audio/hr/words/hr-h-05.mp3" },
+        { "text": "hrast", "roman": "hrast", "meaning": "oak tree", "emoji": "🌳", "audio": "audio/hr/words/hr-h-06.mp3" },
+        { "text": "hitno", "roman": "hitno", "meaning": "urgent", "emoji": "🚨", "audio": "audio/hr/words/hr-h-07.mp3" },
+        { "text": "hladnjak", "roman": "hladnjak", "meaning": "refrigerator", "emoji": "🧊", "audio": "audio/hr/words/hr-h-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-i",
+      "char": "i",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/hr/letters/hr-i.mp3",
+      "memoryTrick": "Like 'ee' in 'see' — pure and clean. Unlike English, Croatian 'i' is always short and never slides into a diphthong.",
+      "words": [
+        { "text": "ime", "roman": "ime", "meaning": "name", "emoji": "📛", "audio": "audio/hr/words/hr-i-01.mp3" },
+        { "text": "igra", "roman": "igra", "meaning": "game", "emoji": "🎮", "audio": "audio/hr/words/hr-i-02.mp3" },
+        { "text": "istina", "roman": "istina", "meaning": "truth", "emoji": "✅", "audio": "audio/hr/words/hr-i-03.mp3" },
+        { "text": "izlaz", "roman": "izlaz", "meaning": "exit", "emoji": "🚪", "audio": "audio/hr/words/hr-i-04.mp3" },
+        { "text": "igla", "roman": "igla", "meaning": "needle", "emoji": "🪡", "audio": "audio/hr/words/hr-i-05.mp3" },
+        { "text": "ideja", "roman": "ideja", "meaning": "idea", "emoji": "💡", "audio": "audio/hr/words/hr-i-06.mp3" },
+        { "text": "izvor", "roman": "izvor", "meaning": "spring", "emoji": "⛲", "audio": "audio/hr/words/hr-i-07.mp3" },
+        { "text": "izlog", "roman": "izlog", "meaning": "shop window", "emoji": "🪟", "audio": "audio/hr/words/hr-i-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-j",
+      "char": "j",
+      "name": "je",
+      "romanization": "j",
+      "ipa": "/j/",
+      "letterAudio": "audio/hr/letters/hr-j.mp3",
+      "memoryTrick": "Like 'y' in 'yes' — never like English 'j'. Think of it as the 'y' sound in 'yogurt' every time you see it.",
+      "words": [
+        { "text": "jezero", "roman": "jezero", "meaning": "lake", "emoji": "🏞️", "audio": "audio/hr/words/hr-j-01.mp3" },
+        { "text": "jaje", "roman": "jaje", "meaning": "egg", "emoji": "🥚", "audio": "audio/hr/words/hr-j-02.mp3" },
+        { "text": "jakna", "roman": "jakna", "meaning": "jacket", "emoji": "🧥", "audio": "audio/hr/words/hr-j-03.mp3" },
+        { "text": "jezik", "roman": "jezik", "meaning": "language", "emoji": "🗣️", "audio": "audio/hr/words/hr-j-04.mp3" },
+        { "text": "jesen", "roman": "jesen", "meaning": "autumn", "emoji": "🍂", "audio": "audio/hr/words/hr-j-05.mp3" },
+        { "text": "jug", "roman": "jug", "meaning": "south", "emoji": "🧭", "audio": "audio/hr/words/hr-j-06.mp3" },
+        { "text": "junak", "roman": "junak", "meaning": "hero", "emoji": "🦸", "audio": "audio/hr/words/hr-j-07.mp3" },
+        { "text": "jutro", "roman": "jutro", "meaning": "morning", "emoji": "🌅", "audio": "audio/hr/words/hr-j-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-k",
+      "char": "k",
+      "name": "ka",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/hr/letters/hr-k.mp3",
+      "memoryTrick": "Like English 'k' in 'kite', but less puffy. Croatian consonants are generally less aspirated — don't let out that extra burst of air.",
+      "words": [
+        { "text": "kuća", "roman": "kuća", "meaning": "house", "emoji": "🏡", "audio": "audio/hr/words/hr-k-01.mp3" },
+        { "text": "kava", "roman": "kava", "meaning": "coffee", "emoji": "☕", "audio": "audio/hr/words/hr-k-02.mp3" },
+        { "text": "knjiga", "roman": "knjiga", "meaning": "book", "emoji": "📖", "audio": "audio/hr/words/hr-k-03.mp3" },
+        { "text": "kamen", "roman": "kamen", "meaning": "stone", "emoji": "🪨", "audio": "audio/hr/words/hr-k-04.mp3" },
+        { "text": "krug", "roman": "krug", "meaning": "circle", "emoji": "⭕", "audio": "audio/hr/words/hr-k-05.mp3" },
+        { "text": "karta", "roman": "karta", "meaning": "ticket", "emoji": "🎫", "audio": "audio/hr/words/hr-k-06.mp3" },
+        { "text": "kino", "roman": "kino", "meaning": "cinema", "emoji": "🎥", "audio": "audio/hr/words/hr-k-07.mp3" },
+        { "text": "korak", "roman": "korak", "meaning": "step", "emoji": "👣", "audio": "audio/hr/words/hr-k-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-l",
+      "char": "l",
+      "name": "el",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/hr/letters/hr-l.mp3",
+      "memoryTrick": "Like English 'l' in 'light', but always clear and forward — never the 'dark l' of 'milk'. Keep the tip of your tongue right behind your upper teeth.",
+      "words": [
+        { "text": "lopta", "roman": "lopta", "meaning": "ball", "emoji": "⚽", "audio": "audio/hr/words/hr-l-01.mp3" },
+        { "text": "lovac", "roman": "lovac", "meaning": "hunter", "emoji": "🏹", "audio": "audio/hr/words/hr-l-02.mp3" },
+        { "text": "limun", "roman": "limun", "meaning": "lemon", "emoji": "🍋", "audio": "audio/hr/words/hr-l-03.mp3" },
+        { "text": "lakat", "roman": "lakat", "meaning": "elbow", "emoji": "💪", "audio": "audio/hr/words/hr-l-04.mp3" },
+        { "text": "led", "roman": "led", "meaning": "ice", "emoji": "🧊", "audio": "audio/hr/words/hr-l-05.mp3" },
+        { "text": "lice", "roman": "lice", "meaning": "face", "emoji": "😊", "audio": "audio/hr/words/hr-l-06.mp3" },
+        { "text": "list", "roman": "list", "meaning": "leaf", "emoji": "🍃", "audio": "audio/hr/words/hr-l-07.mp3" },
+        { "text": "luka", "roman": "luka", "meaning": "port", "emoji": "⚓", "audio": "audio/hr/words/hr-l-08.mp3" }
       ]
     },
     {
       "id": "hr-lj",
-      "char": "Lj lj",
+      "char": "lj",
       "name": "elj",
       "romanization": "lj",
       "ipa": "/ʎ/",
-      "memoryTrick": "A digraph — 'ly' as in 'million'.",
+      "letterAudio": "audio/hr/letters/hr-lj.mp3",
+      "memoryTrick": "Like 'lli' in 'million' said quickly. Press the whole blade of your tongue against the roof of your mouth and let air escape around the sides — a single palatal sound, not l + j.",
       "words": [
-        {
-          "text": "ljubav",
-          "roman": "lyubav",
-          "meaning": "love",
-          "emoji": "❤️"
-        },
-        {
-          "text": "ljeto",
-          "roman": "lyeto",
-          "meaning": "summer",
-          "emoji": "☀️"
-        }
+        { "text": "ljubav", "roman": "ljubav", "meaning": "love", "emoji": "❤️", "audio": "audio/hr/words/hr-lj-01.mp3" },
+        { "text": "ljudi", "roman": "ljudi", "meaning": "people", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/hr/words/hr-lj-02.mp3" },
+        { "text": "ljeto", "roman": "ljeto", "meaning": "summer", "emoji": "☀️", "audio": "audio/hr/words/hr-lj-03.mp3" },
+        { "text": "ljepota", "roman": "ljepota", "meaning": "beauty", "emoji": "💐", "audio": "audio/hr/words/hr-lj-04.mp3" },
+        { "text": "ljekarna", "roman": "ljekarna", "meaning": "pharmacy", "emoji": "💊", "audio": "audio/hr/words/hr-lj-05.mp3" }
+      ]
+    },
+    {
+      "id": "hr-m",
+      "char": "m",
+      "name": "em",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/hr/letters/hr-m.mp3",
+      "memoryTrick": "Same as English 'm' in 'mother'. Press your lips together and hum through your nose.",
+      "words": [
+        { "text": "majka", "roman": "majka", "meaning": "mother", "emoji": "👩", "audio": "audio/hr/words/hr-m-01.mp3" },
+        { "text": "more", "roman": "more", "meaning": "sea", "emoji": "🌊", "audio": "audio/hr/words/hr-m-02.mp3" },
+        { "text": "mlijeko", "roman": "mlijeko", "meaning": "milk", "emoji": "🥛", "audio": "audio/hr/words/hr-m-03.mp3" },
+        { "text": "most", "roman": "most", "meaning": "bridge", "emoji": "🌉", "audio": "audio/hr/words/hr-m-04.mp3" },
+        { "text": "magla", "roman": "magla", "meaning": "fog", "emoji": "🌫️", "audio": "audio/hr/words/hr-m-05.mp3" },
+        { "text": "maslac", "roman": "maslac", "meaning": "butter", "emoji": "🧈", "audio": "audio/hr/words/hr-m-06.mp3" },
+        { "text": "medvjed", "roman": "medvjed", "meaning": "bear", "emoji": "🐻", "audio": "audio/hr/words/hr-m-07.mp3" },
+        { "text": "misao", "roman": "misao", "meaning": "thought", "emoji": "💭", "audio": "audio/hr/words/hr-m-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-n",
+      "char": "n",
+      "name": "en",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/hr/letters/hr-n.mp3",
+      "memoryTrick": "Same as English 'n' in 'nose'. Tip of the tongue behind your upper teeth, air through your nose.",
+      "words": [
+        { "text": "nos", "roman": "nos", "meaning": "nose", "emoji": "👃", "audio": "audio/hr/words/hr-n-01.mp3" },
+        { "text": "noga", "roman": "noga", "meaning": "leg", "emoji": "🦵", "audio": "audio/hr/words/hr-n-02.mp3" },
+        { "text": "noć", "roman": "noć", "meaning": "night", "emoji": "🌙", "audio": "audio/hr/words/hr-n-03.mp3" },
+        { "text": "novac", "roman": "novac", "meaning": "money", "emoji": "💰", "audio": "audio/hr/words/hr-n-04.mp3" },
+        { "text": "nebo", "roman": "nebo", "meaning": "sky", "emoji": "🌌", "audio": "audio/hr/words/hr-n-05.mp3" },
+        { "text": "nada", "roman": "nada", "meaning": "hope", "emoji": "🤞", "audio": "audio/hr/words/hr-n-06.mp3" },
+        { "text": "nitko", "roman": "nitko", "meaning": "nobody", "emoji": "🚫", "audio": "audio/hr/words/hr-n-07.mp3" },
+        { "text": "narod", "roman": "narod", "meaning": "people", "emoji": "👥", "audio": "audio/hr/words/hr-n-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-nj",
+      "char": "nj",
+      "name": "enj",
+      "romanization": "nj",
+      "ipa": "/ɲ/",
+      "letterAudio": "audio/hr/letters/hr-nj.mp3",
+      "memoryTrick": "Like 'ny' in 'canyon' or Spanish 'ñ'. Press the middle of your tongue flat against the roof of your mouth — it's one soft sound, not n + j.",
+      "words": [
+        { "text": "njiva", "roman": "njiva", "meaning": "field", "emoji": "🌾", "audio": "audio/hr/words/hr-nj-01.mp3" },
+        { "text": "njuška", "roman": "njuška", "meaning": "snout", "emoji": "🐽", "audio": "audio/hr/words/hr-nj-02.mp3" },
+        { "text": "nježan", "roman": "nježan", "meaning": "gentle", "emoji": "🤗", "audio": "audio/hr/words/hr-nj-03.mp3" },
+        { "text": "njegov", "roman": "njegov", "meaning": "his", "emoji": "👨", "audio": "audio/hr/words/hr-nj-04.mp3" },
+        { "text": "njihov", "roman": "njihov", "meaning": "their", "emoji": "👥", "audio": "audio/hr/words/hr-nj-05.mp3" }
+      ]
+    },
+    {
+      "id": "hr-o",
+      "char": "o",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/o/",
+      "letterAudio": "audio/hr/letters/hr-o.mp3",
+      "memoryTrick": "Like 'o' in 'or' but shorter and purer — never slides into a 'w' at the end like English 'oh'. Keep your lips rounded and steady.",
+      "words": [
+        { "text": "oko", "roman": "oko", "meaning": "eye", "emoji": "👁️", "audio": "audio/hr/words/hr-o-01.mp3" },
+        { "text": "otok", "roman": "otok", "meaning": "island", "emoji": "🏝️", "audio": "audio/hr/words/hr-o-02.mp3" },
+        { "text": "oblak", "roman": "oblak", "meaning": "cloud", "emoji": "☁️", "audio": "audio/hr/words/hr-o-03.mp3" },
+        { "text": "obitelj", "roman": "obitelj", "meaning": "family", "emoji": "👨‍👩‍👧", "audio": "audio/hr/words/hr-o-04.mp3" },
+        { "text": "oglas", "roman": "oglas", "meaning": "advertisement", "emoji": "📢", "audio": "audio/hr/words/hr-o-05.mp3" },
+        { "text": "ocat", "roman": "ocat", "meaning": "vinegar", "emoji": "🍶", "audio": "audio/hr/words/hr-o-06.mp3" },
+        { "text": "osmijeh", "roman": "osmijeh", "meaning": "smile", "emoji": "😊", "audio": "audio/hr/words/hr-o-07.mp3" },
+        { "text": "opet", "roman": "opet", "meaning": "again", "emoji": "🔄", "audio": "audio/hr/words/hr-o-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-p",
+      "char": "p",
+      "name": "pe",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/hr/letters/hr-p.mp3",
+      "memoryTrick": "Like English 'p' in 'park', but with less puff of air. Hold back that little breathy burst that English speakers add — Croatian consonants are crisper.",
+      "words": [
+        { "text": "pas", "roman": "pas", "meaning": "dog", "emoji": "🐕", "audio": "audio/hr/words/hr-p-01.mp3" },
+        { "text": "put", "roman": "put", "meaning": "road", "emoji": "🛤️", "audio": "audio/hr/words/hr-p-02.mp3" },
+        { "text": "prozor", "roman": "prozor", "meaning": "window", "emoji": "🪟", "audio": "audio/hr/words/hr-p-03.mp3" },
+        { "text": "pismo", "roman": "pismo", "meaning": "letter", "emoji": "✉️", "audio": "audio/hr/words/hr-p-04.mp3" },
+        { "text": "planina", "roman": "planina", "meaning": "mountain", "emoji": "🏔️", "audio": "audio/hr/words/hr-p-05.mp3" },
+        { "text": "ptica", "roman": "ptica", "meaning": "bird", "emoji": "🐦", "audio": "audio/hr/words/hr-p-06.mp3" },
+        { "text": "pjesma", "roman": "pjesma", "meaning": "song", "emoji": "🎶", "audio": "audio/hr/words/hr-p-07.mp3" },
+        { "text": "pomoć", "roman": "pomoć", "meaning": "help", "emoji": "🆘", "audio": "audio/hr/words/hr-p-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-r",
+      "char": "r",
+      "name": "er",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/hr/letters/hr-r.mp3",
+      "memoryTrick": "A rolled 'r' — tap the tip of your tongue quickly against the ridge behind your upper teeth, like in Spanish 'perro'. Croatian r can even act as a vowel in words like 'prst' (finger).",
+      "words": [
+        { "text": "ruka", "roman": "ruka", "meaning": "hand", "emoji": "✋", "audio": "audio/hr/words/hr-r-01.mp3" },
+        { "text": "riba", "roman": "riba", "meaning": "fish", "emoji": "🐟", "audio": "audio/hr/words/hr-r-02.mp3" },
+        { "text": "rad", "roman": "rad", "meaning": "work", "emoji": "💼", "audio": "audio/hr/words/hr-r-03.mp3" },
+        { "text": "riječ", "roman": "riječ", "meaning": "word", "emoji": "💬", "audio": "audio/hr/words/hr-r-04.mp3" },
+        { "text": "restoran", "roman": "restoran", "meaning": "restaurant", "emoji": "🍽️", "audio": "audio/hr/words/hr-r-05.mp3" },
+        { "text": "razred", "roman": "razred", "meaning": "classroom", "emoji": "🏫", "audio": "audio/hr/words/hr-r-06.mp3" },
+        { "text": "rijeka", "roman": "rijeka", "meaning": "river", "emoji": "🏞️", "audio": "audio/hr/words/hr-r-07.mp3" },
+        { "text": "rođendan", "roman": "rođendan", "meaning": "birthday", "emoji": "🎂", "audio": "audio/hr/words/hr-r-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-s",
+      "char": "s",
+      "name": "es",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/hr/letters/hr-s.mp3",
+      "memoryTrick": "Like English 's' in 'sun'. Always voiceless — Croatian s never buzzes like 'z'. It's always sharp and hissy.",
+      "words": [
+        { "text": "sunce", "roman": "sunce", "meaning": "sun", "emoji": "☀️", "audio": "audio/hr/words/hr-s-01.mp3" },
+        { "text": "stol", "roman": "stol", "meaning": "table", "emoji": "🪑", "audio": "audio/hr/words/hr-s-02.mp3" },
+        { "text": "sestra", "roman": "sestra", "meaning": "sister", "emoji": "👩", "audio": "audio/hr/words/hr-s-03.mp3" },
+        { "text": "slika", "roman": "slika", "meaning": "picture", "emoji": "🖼️", "audio": "audio/hr/words/hr-s-04.mp3" },
+        { "text": "snijeg", "roman": "snijeg", "meaning": "snow", "emoji": "❄️", "audio": "audio/hr/words/hr-s-05.mp3" },
+        { "text": "selo", "roman": "selo", "meaning": "village", "emoji": "🏘️", "audio": "audio/hr/words/hr-s-06.mp3" },
+        { "text": "sloboda", "roman": "sloboda", "meaning": "freedom", "emoji": "🕊️", "audio": "audio/hr/words/hr-s-07.mp3" },
+        { "text": "sudac", "roman": "sudac", "meaning": "judge", "emoji": "⚖️", "audio": "audio/hr/words/hr-s-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-s-caron",
+      "char": "š",
+      "name": "eš",
+      "romanization": "š",
+      "ipa": "/ʃ/",
+      "letterAudio": "audio/hr/letters/hr-s-caron.mp3",
+      "memoryTrick": "Like 'sh' in 'ship'. The caron (ˇ) on top of the s is your signal to hush — it turns a sharp sss into a soft shhh.",
+      "words": [
+        { "text": "škola", "roman": "škola", "meaning": "school", "emoji": "🏫", "audio": "audio/hr/words/hr-s-caron-01.mp3" },
+        { "text": "šuma", "roman": "šuma", "meaning": "forest", "emoji": "🌲", "audio": "audio/hr/words/hr-s-caron-02.mp3" },
+        { "text": "šećer", "roman": "šećer", "meaning": "sugar", "emoji": "🍬", "audio": "audio/hr/words/hr-s-caron-03.mp3" },
+        { "text": "šalica", "roman": "šalica", "meaning": "cup", "emoji": "☕", "audio": "audio/hr/words/hr-s-caron-04.mp3" },
+        { "text": "širok", "roman": "širok", "meaning": "wide", "emoji": "↔️", "audio": "audio/hr/words/hr-s-caron-05.mp3" },
+        { "text": "šetnja", "roman": "šetnja", "meaning": "walk", "emoji": "🚶", "audio": "audio/hr/words/hr-s-caron-06.mp3" },
+        { "text": "šapat", "roman": "šapat", "meaning": "whisper", "emoji": "🤫", "audio": "audio/hr/words/hr-s-caron-07.mp3" },
+        { "text": "štap", "roman": "štap", "meaning": "stick", "emoji": "🦯", "audio": "audio/hr/words/hr-s-caron-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-t",
+      "char": "t",
+      "name": "te",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/hr/letters/hr-t.mp3",
+      "memoryTrick": "Like English 't' in 'top', but with the tongue right behind the teeth (dental) and less aspiration. A lighter, cleaner tap.",
+      "words": [
+        { "text": "tata", "roman": "tata", "meaning": "dad", "emoji": "👨", "audio": "audio/hr/words/hr-t-01.mp3" },
+        { "text": "trava", "roman": "trava", "meaning": "grass", "emoji": "🌱", "audio": "audio/hr/words/hr-t-02.mp3" },
+        { "text": "tri", "roman": "tri", "meaning": "three", "emoji": "3️⃣", "audio": "audio/hr/words/hr-t-03.mp3" },
+        { "text": "tjedan", "roman": "tjedan", "meaning": "week", "emoji": "📆", "audio": "audio/hr/words/hr-t-04.mp3" },
+        { "text": "tijelo", "roman": "tijelo", "meaning": "body", "emoji": "🧍", "audio": "audio/hr/words/hr-t-05.mp3" },
+        { "text": "tanjur", "roman": "tanjur", "meaning": "plate", "emoji": "🍽️", "audio": "audio/hr/words/hr-t-06.mp3" },
+        { "text": "tama", "roman": "tama", "meaning": "darkness", "emoji": "🌑", "audio": "audio/hr/words/hr-t-07.mp3" },
+        { "text": "toplina", "roman": "toplina", "meaning": "warmth", "emoji": "🔥", "audio": "audio/hr/words/hr-t-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-u",
+      "char": "u",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/hr/letters/hr-u.mp3",
+      "memoryTrick": "Like 'oo' in 'moon' — pure and tense. Keep your lips rounded tightly and don't let the sound slide into a diphthong at the end.",
+      "words": [
+        { "text": "uho", "roman": "uho", "meaning": "ear", "emoji": "👂", "audio": "audio/hr/words/hr-u-01.mp3" },
+        { "text": "ulica", "roman": "ulica", "meaning": "street", "emoji": "🛣️", "audio": "audio/hr/words/hr-u-02.mp3" },
+        { "text": "učitelj", "roman": "učitelj", "meaning": "teacher", "emoji": "👩‍🏫", "audio": "audio/hr/words/hr-u-03.mp3" },
+        { "text": "učenik", "roman": "učenik", "meaning": "student", "emoji": "🧑‍🎓", "audio": "audio/hr/words/hr-u-04.mp3" },
+        { "text": "umjetnik", "roman": "umjetnik", "meaning": "artist", "emoji": "🎨", "audio": "audio/hr/words/hr-u-05.mp3" },
+        { "text": "utorak", "roman": "utorak", "meaning": "Tuesday", "emoji": "📅", "audio": "audio/hr/words/hr-u-06.mp3" },
+        { "text": "ugljen", "roman": "ugljen", "meaning": "coal", "emoji": "🪨", "audio": "audio/hr/words/hr-u-07.mp3" },
+        { "text": "uzorak", "roman": "uzorak", "meaning": "sample", "emoji": "🧪", "audio": "audio/hr/words/hr-u-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-v",
+      "char": "v",
+      "name": "ve",
+      "romanization": "v",
+      "ipa": "/ʋ/",
+      "letterAudio": "audio/hr/letters/hr-v.mp3",
+      "memoryTrick": "A soft 'v' — somewhere between English 'v' and 'w'. Bring your upper teeth close to your lower lip but don't press as hard as in English; let the sound flow gently.",
+      "words": [
+        { "text": "voda", "roman": "voda", "meaning": "water", "emoji": "💧", "audio": "audio/hr/words/hr-v-01.mp3" },
+        { "text": "vatra", "roman": "vatra", "meaning": "fire", "emoji": "🔥", "audio": "audio/hr/words/hr-v-02.mp3" },
+        { "text": "vjetar", "roman": "vjetar", "meaning": "wind", "emoji": "💨", "audio": "audio/hr/words/hr-v-03.mp3" },
+        { "text": "vrijeme", "roman": "vrijeme", "meaning": "weather", "emoji": "🌤️", "audio": "audio/hr/words/hr-v-04.mp3" },
+        { "text": "vrata", "roman": "vrata", "meaning": "door", "emoji": "🚪", "audio": "audio/hr/words/hr-v-05.mp3" },
+        { "text": "vrt", "roman": "vrt", "meaning": "garden", "emoji": "🌻", "audio": "audio/hr/words/hr-v-06.mp3" },
+        { "text": "vino", "roman": "vino", "meaning": "wine", "emoji": "🍷", "audio": "audio/hr/words/hr-v-07.mp3" },
+        { "text": "vlak", "roman": "vlak", "meaning": "train", "emoji": "🚂", "audio": "audio/hr/words/hr-v-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-z",
+      "char": "z",
+      "name": "ze",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/hr/letters/hr-z.mp3",
+      "memoryTrick": "Like English 'z' in 'zebra' — a buzzing s. Your vocal cords should vibrate, unlike the sharp, voiceless s.",
+      "words": [
+        { "text": "zvijezda", "roman": "zvijezda", "meaning": "star", "emoji": "⭐", "audio": "audio/hr/words/hr-z-01.mp3" },
+        { "text": "zrak", "roman": "zrak", "meaning": "air", "emoji": "💨", "audio": "audio/hr/words/hr-z-02.mp3" },
+        { "text": "zima", "roman": "zima", "meaning": "winter", "emoji": "⛄", "audio": "audio/hr/words/hr-z-03.mp3" },
+        { "text": "zelen", "roman": "zelen", "meaning": "green", "emoji": "🟢", "audio": "audio/hr/words/hr-z-04.mp3" },
+        { "text": "zub", "roman": "zub", "meaning": "tooth", "emoji": "🦷", "audio": "audio/hr/words/hr-z-05.mp3" },
+        { "text": "zvono", "roman": "zvono", "meaning": "bell", "emoji": "🔔", "audio": "audio/hr/words/hr-z-06.mp3" },
+        { "text": "znak", "roman": "znak", "meaning": "sign", "emoji": "🪧", "audio": "audio/hr/words/hr-z-07.mp3" },
+        { "text": "zid", "roman": "zid", "meaning": "wall", "emoji": "🧱", "audio": "audio/hr/words/hr-z-08.mp3" }
+      ]
+    },
+    {
+      "id": "hr-z-caron",
+      "char": "ž",
+      "name": "že",
+      "romanization": "ž",
+      "ipa": "/ʒ/",
+      "letterAudio": "audio/hr/letters/hr-z-caron.mp3",
+      "memoryTrick": "Like 's' in 'measure' or 'g' in 'genre'. The caron turns a buzzing 'z' into a softer, French-style buzz — imagine the sound of something sizzling in a pan.",
+      "words": [
+        { "text": "život", "roman": "život", "meaning": "life", "emoji": "🧬", "audio": "audio/hr/words/hr-z-caron-01.mp3" },
+        { "text": "žena", "roman": "žena", "meaning": "woman", "emoji": "👩", "audio": "audio/hr/words/hr-z-caron-02.mp3" },
+        { "text": "žlica", "roman": "žlica", "meaning": "spoon", "emoji": "🥄", "audio": "audio/hr/words/hr-z-caron-03.mp3" },
+        { "text": "žaba", "roman": "žaba", "meaning": "frog", "emoji": "🐸", "audio": "audio/hr/words/hr-z-caron-04.mp3" },
+        { "text": "žuto", "roman": "žuto", "meaning": "yellow", "emoji": "🟡", "audio": "audio/hr/words/hr-z-caron-05.mp3" },
+        { "text": "želja", "roman": "želja", "meaning": "wish", "emoji": "🌟", "audio": "audio/hr/words/hr-z-caron-06.mp3" },
+        { "text": "žurba", "roman": "žurba", "meaning": "hurry", "emoji": "⏩", "audio": "audio/hr/words/hr-z-caron-07.mp3" },
+        { "text": "žica", "roman": "žica", "meaning": "wire", "emoji": "🔌", "audio": "audio/hr/words/hr-z-caron-08.mp3" }
       ]
     }
   ]

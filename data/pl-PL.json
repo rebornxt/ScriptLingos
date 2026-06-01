@@ -2,138 +2,730 @@
   "language": "Polish",
   "code": "pl-PL",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
-      "id": "pl-l-slash",
-      "char": "Ł ł",
-      "name": "eł",
-      "romanization": "ł",
-      "ipa": "/w/",
-      "memoryTrick": "An L with a slash — says 'w' as in 'water'.",
+      "id": "pl-a",
+      "char": "a",
+      "name": "A",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/pl/letters/pl-a.mp3",
+      "memoryTrick": "Like the 'a' in English 'father' — open and clear, the same pure vowel you make when the doctor asks you to say 'ahh'.",
       "words": [
-        {
-          "text": "łabędź",
-          "roman": "wabendj",
-          "meaning": "swan",
-          "emoji": "🦢"
-        },
-        {
-          "text": "mały",
-          "roman": "mawy",
-          "meaning": "small",
-          "emoji": "🐜"
-        }
+        { "text": "aparat", "roman": "aparat", "meaning": "camera", "emoji": "📷", "audio": "audio/pl/words/pl-a-01.mp3" },
+        { "text": "auto", "roman": "auto", "meaning": "car", "emoji": "🚗", "audio": "audio/pl/words/pl-a-02.mp3" },
+        { "text": "anioł", "roman": "anioł", "meaning": "angel", "emoji": "👼", "audio": "audio/pl/words/pl-a-03.mp3" },
+        { "text": "apteka", "roman": "apteka", "meaning": "pharmacy", "emoji": "💊", "audio": "audio/pl/words/pl-a-04.mp3" },
+        { "text": "aktor", "roman": "aktor", "meaning": "actor", "emoji": "🎭", "audio": "audio/pl/words/pl-a-05.mp3" },
+        { "text": "agrest", "roman": "agrest", "meaning": "gooseberry", "emoji": "🫐", "audio": "audio/pl/words/pl-a-06.mp3" },
+        { "text": "adres", "roman": "adres", "meaning": "address", "emoji": "📍", "audio": "audio/pl/words/pl-a-07.mp3" },
+        { "text": "akwarium", "roman": "akwarium", "meaning": "aquarium", "emoji": "🐠", "audio": "audio/pl/words/pl-a-08.mp3" }
       ]
     },
     {
       "id": "pl-a-ogonek",
-      "char": "Ą ą",
-      "name": "ą",
+      "char": "ą",
+      "name": "A with ogonek",
       "romanization": "ą",
       "ipa": "/ɔ̃/",
-      "memoryTrick": "A nasal 'on' vowel.",
+      "letterAudio": "audio/pl/letters/pl-a-ogonek.mp3",
+      "memoryTrick": "A nasal 'o' — like the 'on' in French 'bon'. Let the sound hum through your nose, as if you're saying 'oh' while pinching your nostrils shut.",
       "words": [
-        {
-          "text": "mąka",
-          "roman": "monka",
-          "meaning": "flour",
-          "emoji": "🌾"
-        },
-        {
-          "text": "ząb",
-          "roman": "zomp",
-          "meaning": "tooth",
-          "emoji": "🦷"
-        }
+        { "text": "ząb", "roman": "ząb", "meaning": "tooth", "emoji": "🦷", "audio": "audio/pl/words/pl-a-ogonek-01.mp3" },
+        { "text": "książka", "roman": "książka", "meaning": "book", "emoji": "📖", "audio": "audio/pl/words/pl-a-ogonek-02.mp3" },
+        { "text": "pająk", "roman": "pająk", "meaning": "spider", "emoji": "🕷️", "audio": "audio/pl/words/pl-a-ogonek-03.mp3" },
+        { "text": "mąż", "roman": "mąż", "meaning": "husband", "emoji": "👨", "audio": "audio/pl/words/pl-a-ogonek-04.mp3" },
+        { "text": "gołąb", "roman": "gołąb", "meaning": "pigeon", "emoji": "🕊️", "audio": "audio/pl/words/pl-a-ogonek-05.mp3" },
+        { "text": "wąsy", "roman": "wąsy", "meaning": "mustache", "emoji": "👨", "audio": "audio/pl/words/pl-a-ogonek-06.mp3" },
+        { "text": "dąb", "roman": "dąb", "meaning": "oak tree", "emoji": "🌳", "audio": "audio/pl/words/pl-a-ogonek-07.mp3" },
+        { "text": "żołądek", "roman": "żołądek", "meaning": "stomach", "emoji": "🤢", "audio": "audio/pl/words/pl-a-ogonek-08.mp3" }
       ]
     },
     {
-      "id": "pl-e-ogonek",
-      "char": "Ę ę",
-      "name": "ę",
-      "romanization": "ę",
-      "ipa": "/ɛ̃/",
-      "memoryTrick": "A nasal 'en' vowel.",
+      "id": "pl-b",
+      "char": "b",
+      "name": "Be",
+      "romanization": "b",
+      "ipa": "/b/",
+      "letterAudio": "audio/pl/letters/pl-b.mp3",
+      "memoryTrick": "Same as English 'b' in 'ball' — firm and voiced. Just remember it never softens before 'i' the way it might in some languages.",
       "words": [
-        {
-          "text": "ręka",
-          "roman": "renka",
-          "meaning": "hand",
-          "emoji": "✋"
-        },
-        {
-          "text": "język",
-          "roman": "yenzyk",
-          "meaning": "tongue",
-          "emoji": "👅"
-        }
+        { "text": "babcia", "roman": "babcia", "meaning": "grandmother", "emoji": "👵", "audio": "audio/pl/words/pl-b-01.mp3" },
+        { "text": "buty", "roman": "buty", "meaning": "shoes", "emoji": "👞", "audio": "audio/pl/words/pl-b-02.mp3" },
+        { "text": "biurko", "roman": "biurko", "meaning": "desk", "emoji": "🪑", "audio": "audio/pl/words/pl-b-03.mp3" },
+        { "text": "bajka", "roman": "bajka", "meaning": "fairy tale", "emoji": "📚", "audio": "audio/pl/words/pl-b-04.mp3" },
+        { "text": "brat", "roman": "brat", "meaning": "brother", "emoji": "👦", "audio": "audio/pl/words/pl-b-05.mp3" },
+        { "text": "balon", "roman": "balon", "meaning": "balloon", "emoji": "🎈", "audio": "audio/pl/words/pl-b-06.mp3" },
+        { "text": "biały", "roman": "biały", "meaning": "white", "emoji": "⬜", "audio": "audio/pl/words/pl-b-07.mp3" },
+        { "text": "bocian", "roman": "bocian", "meaning": "stork", "emoji": "🐦", "audio": "audio/pl/words/pl-b-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-c",
+      "char": "c",
+      "name": "Ce",
+      "romanization": "c",
+      "ipa": "/t͡s/",
+      "letterAudio": "audio/pl/letters/pl-c.mp3",
+      "memoryTrick": "Always 'ts' as in 'cats' — never 'k' or 's'. Think of it as a crisp, sharp 'ts' snapped off clean at the end.",
+      "words": [
+        { "text": "cebula", "roman": "cebula", "meaning": "onion", "emoji": "🧅", "audio": "audio/pl/words/pl-c-01.mp3" },
+        { "text": "cena", "roman": "cena", "meaning": "price", "emoji": "💲", "audio": "audio/pl/words/pl-c-02.mp3" },
+        { "text": "cukier", "roman": "cukier", "meaning": "sugar", "emoji": "🍬", "audio": "audio/pl/words/pl-c-03.mp3" },
+        { "text": "cytryna", "roman": "cytryna", "meaning": "lemon", "emoji": "🍋", "audio": "audio/pl/words/pl-c-04.mp3" },
+        { "text": "córka", "roman": "córka", "meaning": "daughter", "emoji": "👧", "audio": "audio/pl/words/pl-c-05.mp3" },
+        { "text": "cień", "roman": "cień", "meaning": "shadow", "emoji": "👤", "audio": "audio/pl/words/pl-c-06.mp3" },
+        { "text": "cud", "roman": "cud", "meaning": "miracle", "emoji": "✨", "audio": "audio/pl/words/pl-c-07.mp3" },
+        { "text": "cały", "roman": "cały", "meaning": "whole", "emoji": "🔄", "audio": "audio/pl/words/pl-c-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-c-acute",
+      "char": "ć",
+      "name": "Cie",
+      "romanization": "ć",
+      "ipa": "/t͡ɕ/",
+      "letterAudio": "audio/pl/letters/pl-c-acute.mp3",
+      "memoryTrick": "A soft 'ch' like the start of 'cheek' but with your tongue flat against the roof of your mouth. Think of a kitten sneezing — 'tch!' but gentle.",
+      "words": [
+        { "text": "ćma", "roman": "ćma", "meaning": "moth", "emoji": "🦋", "audio": "audio/pl/words/pl-c-acute-01.mp3" },
+        { "text": "ćwiczenie", "roman": "ćwiczenie", "meaning": "exercise", "emoji": "🏋️", "audio": "audio/pl/words/pl-c-acute-02.mp3" },
+        { "text": "chcieć", "roman": "chcieć", "meaning": "to want", "emoji": "🙏", "audio": "audio/pl/words/pl-c-acute-03.mp3" },
+        { "text": "mieć", "roman": "mieć", "meaning": "to have", "emoji": "🤲", "audio": "audio/pl/words/pl-c-acute-04.mp3" },
+        { "text": "pisać", "roman": "pisać", "meaning": "to write", "emoji": "✍️", "audio": "audio/pl/words/pl-c-acute-05.mp3" },
+        { "text": "pić", "roman": "pić", "meaning": "to drink", "emoji": "🥤", "audio": "audio/pl/words/pl-c-acute-06.mp3" },
+        { "text": "spać", "roman": "spać", "meaning": "to sleep", "emoji": "😴", "audio": "audio/pl/words/pl-c-acute-07.mp3" },
+        { "text": "jeść", "roman": "jeść", "meaning": "to eat", "emoji": "🍽️", "audio": "audio/pl/words/pl-c-acute-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-ch",
+      "char": "ch",
+      "name": "Ce Ha",
+      "romanization": "ch",
+      "ipa": "/x/",
+      "letterAudio": "audio/pl/letters/pl-ch.mp3",
+      "memoryTrick": "Like the 'ch' in Scottish 'loch' or German 'Bach' — a breathy scrape at the back of your throat. Not a 'k' sound and not 'ch' as in 'cheese'.",
+      "words": [
+        { "text": "chleb", "roman": "chleb", "meaning": "bread", "emoji": "🍞", "audio": "audio/pl/words/pl-ch-01.mp3" },
+        { "text": "chłopiec", "roman": "chłopiec", "meaning": "boy", "emoji": "👦", "audio": "audio/pl/words/pl-ch-02.mp3" },
+        { "text": "chmura", "roman": "chmura", "meaning": "cloud", "emoji": "☁️", "audio": "audio/pl/words/pl-ch-03.mp3" },
+        { "text": "chodzić", "roman": "chodzić", "meaning": "to walk", "emoji": "🚶", "audio": "audio/pl/words/pl-ch-04.mp3" },
+        { "text": "chata", "roman": "chata", "meaning": "cottage", "emoji": "🏠", "audio": "audio/pl/words/pl-ch-05.mp3" },
+        { "text": "chusteczka", "roman": "chusteczka", "meaning": "tissue", "emoji": "🤧", "audio": "audio/pl/words/pl-ch-06.mp3" },
+        { "text": "chwila", "roman": "chwila", "meaning": "moment", "emoji": "⏳", "audio": "audio/pl/words/pl-ch-07.mp3" },
+        { "text": "chować", "roman": "chować", "meaning": "to hide", "emoji": "🙈", "audio": "audio/pl/words/pl-ch-08.mp3" }
       ]
     },
     {
       "id": "pl-cz",
-      "char": "Cz cz",
-      "name": "cze",
+      "char": "cz",
+      "name": "Cze",
       "romanization": "cz",
-      "ipa": "/tʃ/",
-      "memoryTrick": "The digraph 'cz' = 'ch' as in 'chair'.",
+      "ipa": "/t͡ʂ/",
+      "letterAudio": "audio/pl/letters/pl-cz.mp3",
+      "memoryTrick": "A hard 'ch' like in English 'chocolate' or 'champion'. Retroflex — curl your tongue back a little for that harder Polish bite.",
       "words": [
-        {
-          "text": "czas",
-          "roman": "chas",
-          "meaning": "time",
-          "emoji": "⏰"
-        },
-        {
-          "text": "czarny",
-          "roman": "charny",
-          "meaning": "black",
-          "emoji": "⬛"
-        }
+        { "text": "czas", "roman": "czas", "meaning": "time", "emoji": "🕐", "audio": "audio/pl/words/pl-cz-01.mp3" },
+        { "text": "czapka", "roman": "czapka", "meaning": "cap", "emoji": "🧢", "audio": "audio/pl/words/pl-cz-02.mp3" },
+        { "text": "czekolada", "roman": "czekolada", "meaning": "chocolate", "emoji": "🍫", "audio": "audio/pl/words/pl-cz-03.mp3" },
+        { "text": "człowiek", "roman": "człowiek", "meaning": "person", "emoji": "🧑", "audio": "audio/pl/words/pl-cz-04.mp3" },
+        { "text": "czerwony", "roman": "czerwony", "meaning": "red", "emoji": "🔴", "audio": "audio/pl/words/pl-cz-05.mp3" },
+        { "text": "czytać", "roman": "czytać", "meaning": "to read", "emoji": "📖", "audio": "audio/pl/words/pl-cz-06.mp3" },
+        { "text": "czysty", "roman": "czysty", "meaning": "clean", "emoji": "✨", "audio": "audio/pl/words/pl-cz-07.mp3" },
+        { "text": "czuć", "roman": "czuć", "meaning": "to feel", "emoji": "🤗", "audio": "audio/pl/words/pl-cz-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-d",
+      "char": "d",
+      "name": "De",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/pl/letters/pl-d.mp3",
+      "memoryTrick": "Same as English 'd' in 'dog' — but in Polish it's a dental 'd', so touch your tongue right to the back of your upper teeth, not the roof of your mouth.",
+      "words": [
+        { "text": "dom", "roman": "dom", "meaning": "house", "emoji": "🏠", "audio": "audio/pl/words/pl-d-01.mp3" },
+        { "text": "drzewo", "roman": "drzewo", "meaning": "tree", "emoji": "🌲", "audio": "audio/pl/words/pl-d-02.mp3" },
+        { "text": "deszcz", "roman": "deszcz", "meaning": "rain", "emoji": "🌧️", "audio": "audio/pl/words/pl-d-03.mp3" },
+        { "text": "długi", "roman": "długi", "meaning": "long", "emoji": "📏", "audio": "audio/pl/words/pl-d-04.mp3" },
+        { "text": "dziecko", "roman": "dziecko", "meaning": "child", "emoji": "👶", "audio": "audio/pl/words/pl-d-05.mp3" },
+        { "text": "drzwi", "roman": "drzwi", "meaning": "door", "emoji": "🚪", "audio": "audio/pl/words/pl-d-06.mp3" },
+        { "text": "droga", "roman": "droga", "meaning": "road", "emoji": "🛣️", "audio": "audio/pl/words/pl-d-07.mp3" },
+        { "text": "dach", "roman": "dach", "meaning": "roof", "emoji": "🏗️", "audio": "audio/pl/words/pl-d-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-dz",
+      "char": "dz",
+      "name": "Dze",
+      "romanization": "dz",
+      "ipa": "/d͡z/",
+      "letterAudio": "audio/pl/letters/pl-dz.mp3",
+      "memoryTrick": "Like the 'ds' in 'beds' or 'lads' — a voiced 'ts' that buzzes in your throat. Start with a 'd' and slide straight into a 'z'.",
+      "words": [
+        { "text": "dzwon", "roman": "dzwon", "meaning": "bell", "emoji": "🔔", "audio": "audio/pl/words/pl-dz-01.mp3" },
+        { "text": "dzwonek", "roman": "dzwonek", "meaning": "doorbell", "emoji": "🔔", "audio": "audio/pl/words/pl-dz-02.mp3" },
+        { "text": "dzban", "roman": "dzban", "meaning": "pitcher", "emoji": "🏺", "audio": "audio/pl/words/pl-dz-03.mp3" },
+        { "text": "dzbanek", "roman": "dzbanek", "meaning": "small jug", "emoji": "🫖", "audio": "audio/pl/words/pl-dz-04.mp3" },
+        { "text": "dzwonić", "roman": "dzwonić", "meaning": "to ring", "emoji": "📞", "audio": "audio/pl/words/pl-dz-05.mp3" },
+        { "text": "dzida", "roman": "dzida", "meaning": "spear", "emoji": "🔱", "audio": "audio/pl/words/pl-dz-06.mp3" }
+      ]
+    },
+    {
+      "id": "pl-dz-acute",
+      "char": "dź",
+      "name": "Dzie",
+      "romanization": "dź",
+      "ipa": "/d͡ʑ/",
+      "letterAudio": "audio/pl/letters/pl-dz-acute.mp3",
+      "memoryTrick": "A soft, palatal 'j' — like the 'dg' in 'fudge' but lighter. Let your tongue lie flat against your hard palate and release gently.",
+      "words": [
+        { "text": "dźwięk", "roman": "dźwięk", "meaning": "sound", "emoji": "🔊", "audio": "audio/pl/words/pl-dz-acute-01.mp3" },
+        { "text": "niedźwiedź", "roman": "niedźwiedź", "meaning": "bear", "emoji": "🐻", "audio": "audio/pl/words/pl-dz-acute-02.mp3" },
+        { "text": "dźwig", "roman": "dźwig", "meaning": "crane", "emoji": "🏗️", "audio": "audio/pl/words/pl-dz-acute-03.mp3" },
+        { "text": "dźwignia", "roman": "dźwignia", "meaning": "lever", "emoji": "🕹️", "audio": "audio/pl/words/pl-dz-acute-04.mp3" }
+      ]
+    },
+    {
+      "id": "pl-dz-dot",
+      "char": "dż",
+      "name": "Dże",
+      "romanization": "dż",
+      "ipa": "/d͡ʐ/",
+      "letterAudio": "audio/pl/letters/pl-dz-dot.mp3",
+      "memoryTrick": "Like the English 'j' in 'jungle' or 'Java' — a hard, voiced sound. Retroflex, so pull your tongue back for that heavier Polish growl.",
+      "words": [
+        { "text": "dżem", "roman": "dżem", "meaning": "jam", "emoji": "🍓", "audio": "audio/pl/words/pl-dz-dot-01.mp3" },
+        { "text": "dżungla", "roman": "dżungla", "meaning": "jungle", "emoji": "🌴", "audio": "audio/pl/words/pl-dz-dot-02.mp3" },
+        { "text": "dżinsy", "roman": "dżinsy", "meaning": "jeans", "emoji": "👖", "audio": "audio/pl/words/pl-dz-dot-03.mp3" },
+        { "text": "dżdżownica", "roman": "dżdżownica", "meaning": "earthworm", "emoji": "🪱", "audio": "audio/pl/words/pl-dz-dot-04.mp3" },
+        { "text": "dżokej", "roman": "dżokej", "meaning": "jockey", "emoji": "🏇", "audio": "audio/pl/words/pl-dz-dot-05.mp3" }
+      ]
+    },
+    {
+      "id": "pl-e",
+      "char": "e",
+      "name": "E",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/pl/letters/pl-e.mp3",
+      "memoryTrick": "Like the 'e' in English 'bet' or 'red' — an open, clear vowel. Never slide into 'ee' — keep it short and wide.",
+      "words": [
+        { "text": "energia", "roman": "energia", "meaning": "energy", "emoji": "⚡", "audio": "audio/pl/words/pl-e-01.mp3" },
+        { "text": "ekran", "roman": "ekran", "meaning": "screen", "emoji": "🖥️", "audio": "audio/pl/words/pl-e-02.mp3" },
+        { "text": "egzamin", "roman": "egzamin", "meaning": "exam", "emoji": "📝", "audio": "audio/pl/words/pl-e-03.mp3" },
+        { "text": "emeryt", "roman": "emeryt", "meaning": "pensioner", "emoji": "🧓", "audio": "audio/pl/words/pl-e-04.mp3" },
+        { "text": "echo", "roman": "echo", "meaning": "echo", "emoji": "📢", "audio": "audio/pl/words/pl-e-05.mp3" }
+      ]
+    },
+    {
+      "id": "pl-e-ogonek",
+      "char": "ę",
+      "name": "E with ogonek",
+      "romanization": "ę",
+      "ipa": "/ɛ̃/",
+      "letterAudio": "audio/pl/letters/pl-e-ogonek.mp3",
+      "memoryTrick": "A nasal 'e' — like the 'en' in French 'bien'. Let the sound hum through your nose. At the end of a word it often loses the nasal quality and just sounds like a plain 'e'.",
+      "words": [
+        { "text": "język", "roman": "język", "meaning": "tongue", "emoji": "👅", "audio": "audio/pl/words/pl-e-ogonek-01.mp3" },
+        { "text": "ręka", "roman": "ręka", "meaning": "hand", "emoji": "✋", "audio": "audio/pl/words/pl-e-ogonek-02.mp3" },
+        { "text": "księżyc", "roman": "księżyc", "meaning": "moon", "emoji": "🌙", "audio": "audio/pl/words/pl-e-ogonek-03.mp3" },
+        { "text": "zęby", "roman": "zęby", "meaning": "teeth", "emoji": "🦷", "audio": "audio/pl/words/pl-e-ogonek-04.mp3" },
+        { "text": "pięć", "roman": "pięć", "meaning": "five", "emoji": "5️⃣", "audio": "audio/pl/words/pl-e-ogonek-05.mp3" },
+        { "text": "węzeł", "roman": "węzeł", "meaning": "knot", "emoji": "🪢", "audio": "audio/pl/words/pl-e-ogonek-06.mp3" },
+        { "text": "zwierzę", "roman": "zwierzę", "meaning": "animal", "emoji": "🐾", "audio": "audio/pl/words/pl-e-ogonek-07.mp3" },
+        { "text": "wstęga", "roman": "wstęga", "meaning": "ribbon", "emoji": "🎀", "audio": "audio/pl/words/pl-e-ogonek-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-f",
+      "char": "f",
+      "name": "Ef",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/pl/letters/pl-f.mp3",
+      "memoryTrick": "Exactly like English 'f' in 'fish' — a voiceless puff of air through your top teeth and bottom lip. No surprises here.",
+      "words": [
+        { "text": "fajka", "roman": "fajka", "meaning": "pipe", "emoji": "🚬", "audio": "audio/pl/words/pl-f-01.mp3" },
+        { "text": "filc", "roman": "filc", "meaning": "felt", "emoji": "🧶", "audio": "audio/pl/words/pl-f-02.mp3" },
+        { "text": "fotel", "roman": "fotel", "meaning": "armchair", "emoji": "🪑", "audio": "audio/pl/words/pl-f-03.mp3" },
+        { "text": "film", "roman": "film", "meaning": "movie", "emoji": "🎬", "audio": "audio/pl/words/pl-f-04.mp3" },
+        { "text": "filiżanka", "roman": "filiżanka", "meaning": "cup", "emoji": "☕", "audio": "audio/pl/words/pl-f-05.mp3" },
+        { "text": "flaga", "roman": "flaga", "meaning": "flag", "emoji": "🚩", "audio": "audio/pl/words/pl-f-06.mp3" },
+        { "text": "fartuch", "roman": "fartuch", "meaning": "apron", "emoji": "👩‍🍳", "audio": "audio/pl/words/pl-f-07.mp3" },
+        { "text": "fajerwerki", "roman": "fajerwerki", "meaning": "fireworks", "emoji": "🎆", "audio": "audio/pl/words/pl-f-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-g",
+      "char": "g",
+      "name": "Gie",
+      "romanization": "g",
+      "ipa": "/g/",
+      "letterAudio": "audio/pl/letters/pl-g.mp3",
+      "memoryTrick": "Always a hard 'g' as in 'goat' — never soft like 'g' in 'giant'. Even before 'i' or 'e', it stays firm. Think 'get' every time.",
+      "words": [
+        { "text": "góra", "roman": "góra", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/pl/words/pl-g-01.mp3" },
+        { "text": "głowa", "roman": "głowa", "meaning": "head", "emoji": "🗣️", "audio": "audio/pl/words/pl-g-02.mp3" },
+        { "text": "gruszka", "roman": "gruszka", "meaning": "pear", "emoji": "🍐", "audio": "audio/pl/words/pl-g-03.mp3" },
+        { "text": "gazeta", "roman": "gazeta", "meaning": "newspaper", "emoji": "📰", "audio": "audio/pl/words/pl-g-04.mp3" },
+        { "text": "grzyb", "roman": "grzyb", "meaning": "mushroom", "emoji": "🍄", "audio": "audio/pl/words/pl-g-05.mp3" },
+        { "text": "gniazdo", "roman": "gniazdo", "meaning": "nest", "emoji": "🪺", "audio": "audio/pl/words/pl-g-06.mp3" },
+        { "text": "gołąb", "roman": "gołąb", "meaning": "pigeon", "emoji": "🕊️", "audio": "audio/pl/words/pl-g-07.mp3" },
+        { "text": "garnek", "roman": "garnek", "meaning": "pot", "emoji": "🍲", "audio": "audio/pl/words/pl-g-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-h",
+      "char": "h",
+      "name": "Ha",
+      "romanization": "h",
+      "ipa": "/x/",
+      "letterAudio": "audio/pl/letters/pl-h.mp3",
+      "memoryTrick": "Same sound as Polish 'ch' — a throaty 'h' like in 'hello' but more like German 'Bach'. Identical in sound to 'ch', but different letter. Think 'heavy breath'.",
+      "words": [
+        { "text": "hamak", "roman": "hamak", "meaning": "hammock", "emoji": "🛏️", "audio": "audio/pl/words/pl-h-01.mp3" },
+        { "text": "herbata", "roman": "herbata", "meaning": "tea", "emoji": "🍵", "audio": "audio/pl/words/pl-h-02.mp3" },
+        { "text": "hulajnoga", "roman": "hulajnoga", "meaning": "scooter", "emoji": "🛴", "audio": "audio/pl/words/pl-h-03.mp3" },
+        { "text": "harmonia", "roman": "harmonia", "meaning": "harmony", "emoji": "🎵", "audio": "audio/pl/words/pl-h-04.mp3" },
+        { "text": "hotel", "roman": "hotel", "meaning": "hotel", "emoji": "🏨", "audio": "audio/pl/words/pl-h-05.mp3" },
+        { "text": "hak", "roman": "hak", "meaning": "hook", "emoji": "🪝", "audio": "audio/pl/words/pl-h-06.mp3" },
+        { "text": "hymn", "roman": "hymn", "meaning": "anthem", "emoji": "🎶", "audio": "audio/pl/words/pl-h-07.mp3" },
+        { "text": "huśtawka", "roman": "huśtawka", "meaning": "swing", "emoji": "🎡", "audio": "audio/pl/words/pl-h-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-i",
+      "char": "i",
+      "name": "I",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/pl/letters/pl-i.mp3",
+      "memoryTrick": "Like 'ee' in 'see' — a high, front vowel. Softens the consonant before it but you don't need to think about that yet; just keep it bright and clean.",
+      "words": [
+        { "text": "igła", "roman": "igła", "meaning": "needle", "emoji": "🪡", "audio": "audio/pl/words/pl-i-01.mp3" },
+        { "text": "imię", "roman": "imię", "meaning": "name", "emoji": "📛", "audio": "audio/pl/words/pl-i-02.mp3" },
+        { "text": "indyk", "roman": "indyk", "meaning": "turkey", "emoji": "🦃", "audio": "audio/pl/words/pl-i-03.mp3" },
+        { "text": "iskra", "roman": "iskra", "meaning": "spark", "emoji": "✨", "audio": "audio/pl/words/pl-i-04.mp3" },
+        { "text": "igrzyska", "roman": "igrzyska", "meaning": "games", "emoji": "🏟️", "audio": "audio/pl/words/pl-i-05.mp3" },
+        { "text": "ikona", "roman": "ikona", "meaning": "icon", "emoji": "🖼️", "audio": "audio/pl/words/pl-i-06.mp3" }
+      ]
+    },
+    {
+      "id": "pl-j",
+      "char": "j",
+      "name": "Jot",
+      "romanization": "j",
+      "ipa": "/j/",
+      "letterAudio": "audio/pl/letters/pl-j.mp3",
+      "memoryTrick": "Like 'y' in English 'yes' or 'yellow' — a glide. Never like English 'j' in 'jam'. Think of a yawning puppy: 'y-y-yes!'",
+      "words": [
+        { "text": "jabłko", "roman": "jabłko", "meaning": "apple", "emoji": "🍎", "audio": "audio/pl/words/pl-j-01.mp3" },
+        { "text": "jajko", "roman": "jajko", "meaning": "egg", "emoji": "🥚", "audio": "audio/pl/words/pl-j-02.mp3" },
+        { "text": "jezioro", "roman": "jezioro", "meaning": "lake", "emoji": "🏞️", "audio": "audio/pl/words/pl-j-03.mp3" },
+        { "text": "jesień", "roman": "jesień", "meaning": "autumn", "emoji": "🍂", "audio": "audio/pl/words/pl-j-04.mp3" },
+        { "text": "język", "roman": "język", "meaning": "language", "emoji": "🗣️", "audio": "audio/pl/words/pl-j-05.mp3" },
+        { "text": "jutro", "roman": "jutro", "meaning": "tomorrow", "emoji": "☀️", "audio": "audio/pl/words/pl-j-06.mp3" },
+        { "text": "jaskinia", "roman": "jaskinia", "meaning": "cave", "emoji": "🕳️", "audio": "audio/pl/words/pl-j-07.mp3" },
+        { "text": "jedzenie", "roman": "jedzenie", "meaning": "food", "emoji": "🍲", "audio": "audio/pl/words/pl-j-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-k",
+      "char": "k",
+      "name": "Ka",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/pl/letters/pl-k.mp3",
+      "memoryTrick": "Same as English 'k' in 'kite' — crisp, unaspirated, no puff of air. Polish 'k' is cleaner and tighter than the English one.",
+      "words": [
+        { "text": "kot", "roman": "kot", "meaning": "cat", "emoji": "🐱", "audio": "audio/pl/words/pl-k-01.mp3" },
+        { "text": "kawa", "roman": "kawa", "meaning": "coffee", "emoji": "☕", "audio": "audio/pl/words/pl-k-02.mp3" },
+        { "text": "książka", "roman": "książka", "meaning": "book", "emoji": "📖", "audio": "audio/pl/words/pl-k-03.mp3" },
+        { "text": "kubek", "roman": "kubek", "meaning": "mug", "emoji": "🍵", "audio": "audio/pl/words/pl-k-04.mp3" },
+        { "text": "klucz", "roman": "klucz", "meaning": "key", "emoji": "🔑", "audio": "audio/pl/words/pl-k-05.mp3" },
+        { "text": "kobieta", "roman": "kobieta", "meaning": "woman", "emoji": "👩", "audio": "audio/pl/words/pl-k-06.mp3" },
+        { "text": "kapelusz", "roman": "kapelusz", "meaning": "hat", "emoji": "🎩", "audio": "audio/pl/words/pl-k-07.mp3" },
+        { "text": "koń", "roman": "koń", "meaning": "horse", "emoji": "🐴", "audio": "audio/pl/words/pl-k-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-l",
+      "char": "l",
+      "name": "El",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/pl/letters/pl-l.mp3",
+      "memoryTrick": "A clear, light 'l' like in 'light' — never a dark 'l' like in 'pool'. Your tongue tip stays right behind your upper teeth.",
+      "words": [
+        { "text": "las", "roman": "las", "meaning": "forest", "emoji": "🌳", "audio": "audio/pl/words/pl-l-01.mp3" },
+        { "text": "lalka", "roman": "lalka", "meaning": "doll", "emoji": "🪆", "audio": "audio/pl/words/pl-l-02.mp3" },
+        { "text": "lód", "roman": "lód", "meaning": "ice", "emoji": "🧊", "audio": "audio/pl/words/pl-l-03.mp3" },
+        { "text": "lustro", "roman": "lustro", "meaning": "mirror", "emoji": "🪞", "audio": "audio/pl/words/pl-l-04.mp3" },
+        { "text": "lis", "roman": "lis", "meaning": "fox", "emoji": "🦊", "audio": "audio/pl/words/pl-l-05.mp3" },
+        { "text": "lew", "roman": "lew", "meaning": "lion", "emoji": "🦁", "audio": "audio/pl/words/pl-l-06.mp3" },
+        { "text": "łóżko", "roman": "łóżko", "meaning": "bed", "emoji": "🛏️", "audio": "audio/pl/words/pl-l-07.mp3" },
+        { "text": "lato", "roman": "lato", "meaning": "summer", "emoji": "☀️", "audio": "audio/pl/words/pl-l-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-l-stroke",
+      "char": "ł",
+      "name": "Eł",
+      "romanization": "ł",
+      "ipa": "/w/",
+      "letterAudio": "audio/pl/letters/pl-l-stroke.mp3",
+      "memoryTrick": "Sounds exactly like English 'w' in 'water' — not an 'l' at all! Think of the stroke through it as a warning: 'This is NOT what you think it is.'",
+      "words": [
+        { "text": "łódka", "roman": "łódka", "meaning": "boat", "emoji": "⛵", "audio": "audio/pl/words/pl-l-stroke-01.mp3" },
+        { "text": "łyżka", "roman": "łyżka", "meaning": "spoon", "emoji": "🥄", "audio": "audio/pl/words/pl-l-stroke-02.mp3" },
+        { "text": "łóżko", "roman": "łóżko", "meaning": "bed", "emoji": "🛏️", "audio": "audio/pl/words/pl-l-stroke-03.mp3" },
+        { "text": "łabędź", "roman": "łabędź", "meaning": "swan", "emoji": "🦢", "audio": "audio/pl/words/pl-l-stroke-04.mp3" },
+        { "text": "łokieć", "roman": "łokieć", "meaning": "elbow", "emoji": "💪", "audio": "audio/pl/words/pl-l-stroke-05.mp3" },
+        { "text": "łagodny", "roman": "łagodny", "meaning": "gentle", "emoji": "🕊️", "audio": "audio/pl/words/pl-l-stroke-06.mp3" },
+        { "text": "łza", "roman": "łza", "meaning": "tear", "emoji": "💧", "audio": "audio/pl/words/pl-l-stroke-07.mp3" },
+        { "text": "człowiek", "roman": "człowiek", "meaning": "person", "emoji": "🧑", "audio": "audio/pl/words/pl-l-stroke-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-m",
+      "char": "m",
+      "name": "Em",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/pl/letters/pl-m.mp3",
+      "memoryTrick": "Same as English 'm' in 'mom' — lips together, sound through the nose. Nothing tricky, just a cozy hum.",
+      "words": [
+        { "text": "mama", "roman": "mama", "meaning": "mom", "emoji": "👩", "audio": "audio/pl/words/pl-m-01.mp3" },
+        { "text": "mleko", "roman": "mleko", "meaning": "milk", "emoji": "🥛", "audio": "audio/pl/words/pl-m-02.mp3" },
+        { "text": "miasto", "roman": "miasto", "meaning": "city", "emoji": "🏙️", "audio": "audio/pl/words/pl-m-03.mp3" },
+        { "text": "morze", "roman": "morze", "meaning": "sea", "emoji": "🌊", "audio": "audio/pl/words/pl-m-04.mp3" },
+        { "text": "malina", "roman": "malina", "meaning": "raspberry", "emoji": "🫐", "audio": "audio/pl/words/pl-m-05.mp3" },
+        { "text": "mydło", "roman": "mydło", "meaning": "soap", "emoji": "🧼", "audio": "audio/pl/words/pl-m-06.mp3" },
+        { "text": "miś", "roman": "miś", "meaning": "teddy bear", "emoji": "🧸", "audio": "audio/pl/words/pl-m-07.mp3" },
+        { "text": "mąż", "roman": "mąż", "meaning": "husband", "emoji": "👨", "audio": "audio/pl/words/pl-m-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-n",
+      "char": "n",
+      "name": "En",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/pl/letters/pl-n.mp3",
+      "memoryTrick": "Like English 'n' in 'nose' — dental in Polish, so press your tongue firmly against the back of your upper teeth.",
+      "words": [
+        { "text": "noga", "roman": "noga", "meaning": "leg", "emoji": "🦵", "audio": "audio/pl/words/pl-n-01.mp3" },
+        { "text": "niebo", "roman": "niebo", "meaning": "sky", "emoji": "☁️", "audio": "audio/pl/words/pl-n-02.mp3" },
+        { "text": "nos", "roman": "nos", "meaning": "nose", "emoji": "👃", "audio": "audio/pl/words/pl-n-03.mp3" },
+        { "text": "noc", "roman": "noc", "meaning": "night", "emoji": "🌙", "audio": "audio/pl/words/pl-n-04.mp3" },
+        { "text": "nóż", "roman": "nóż", "meaning": "knife", "emoji": "🔪", "audio": "audio/pl/words/pl-n-05.mp3" },
+        { "text": "nitka", "roman": "nitka", "meaning": "thread", "emoji": "🧵", "audio": "audio/pl/words/pl-n-06.mp3" },
+        { "text": "nasiono", "roman": "nasiono", "meaning": "seed", "emoji": "🌰", "audio": "audio/pl/words/pl-n-07.mp3" },
+        { "text": "napój", "roman": "napój", "meaning": "drink", "emoji": "🧃", "audio": "audio/pl/words/pl-n-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-n-acute",
+      "char": "ń",
+      "name": "Eń",
+      "romanization": "ń",
+      "ipa": "/ɲ/",
+      "letterAudio": "audio/pl/letters/pl-n-acute.mp3",
+      "memoryTrick": "Like Spanish 'ñ' in 'señor' — a palatal 'n'. Press the middle of your tongue up to your hard palate. Think of a cat's 'nyah' sound.",
+      "words": [
+        { "text": "koń", "roman": "koń", "meaning": "horse", "emoji": "🐴", "audio": "audio/pl/words/pl-n-acute-01.mp3" },
+        { "text": "słoń", "roman": "słoń", "meaning": "elephant", "emoji": "🐘", "audio": "audio/pl/words/pl-n-acute-02.mp3" },
+        { "text": "dłoń", "roman": "dłoń", "meaning": "palm", "emoji": "🤲", "audio": "audio/pl/words/pl-n-acute-03.mp3" },
+        { "text": "jesień", "roman": "jesień", "meaning": "autumn", "emoji": "🍂", "audio": "audio/pl/words/pl-n-acute-04.mp3" },
+        { "text": "pierścień", "roman": "pierścień", "meaning": "ring", "emoji": "💍", "audio": "audio/pl/words/pl-n-acute-05.mp3" },
+        { "text": "ogień", "roman": "ogień", "meaning": "fire", "emoji": "🔥", "audio": "audio/pl/words/pl-n-acute-06.mp3" },
+        { "text": "nić", "roman": "nić", "meaning": "thread", "emoji": "🧵", "audio": "audio/pl/words/pl-n-acute-07.mp3" },
+        { "text": "nie", "roman": "nie", "meaning": "no", "emoji": "❌", "audio": "audio/pl/words/pl-n-acute-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-o",
+      "char": "o",
+      "name": "O",
+      "romanization": "o",
+      "ipa": "/ɔ/",
+      "letterAudio": "audio/pl/letters/pl-o.mp3",
+      "memoryTrick": "Like the 'o' in English 'bore' or 'thought' — a round, open vowel. Keep your lips rounded and don't let it slide into a diphthong.",
+      "words": [
+        { "text": "oko", "roman": "oko", "meaning": "eye", "emoji": "👁️", "audio": "audio/pl/words/pl-o-01.mp3" },
+        { "text": "owoc", "roman": "owoc", "meaning": "fruit", "emoji": "🍇", "audio": "audio/pl/words/pl-o-02.mp3" },
+        { "text": "orzech", "roman": "orzech", "meaning": "nut", "emoji": "🥜", "audio": "audio/pl/words/pl-o-03.mp3" },
+        { "text": "obraz", "roman": "obraz", "meaning": "picture", "emoji": "🖼️", "audio": "audio/pl/words/pl-o-04.mp3" },
+        { "text": "okno", "roman": "okno", "meaning": "window", "emoji": "🪟", "audio": "audio/pl/words/pl-o-05.mp3" },
+        { "text": "ołówek", "roman": "ołówek", "meaning": "pencil", "emoji": "✏️", "audio": "audio/pl/words/pl-o-06.mp3" },
+        { "text": "ogród", "roman": "ogród", "meaning": "garden", "emoji": "🏡", "audio": "audio/pl/words/pl-o-07.mp3" },
+        { "text": "owca", "roman": "owca", "meaning": "sheep", "emoji": "🐑", "audio": "audio/pl/words/pl-o-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-o-acute",
+      "char": "ó",
+      "name": "O with acute",
+      "romanization": "ó",
+      "ipa": "/u/",
+      "letterAudio": "audio/pl/letters/pl-o-acute.mp3",
+      "memoryTrick": "Pronounced exactly like 'u' — as in 'boot'. The acute mark is historical; it was once a long 'o'. Just think of 'ó' as a fancy way to write 'u'.",
+      "words": [
+        { "text": "ósemka", "roman": "ósemka", "meaning": "number eight", "emoji": "8️⃣", "audio": "audio/pl/words/pl-o-acute-01.mp3" },
+        { "text": "góra", "roman": "góra", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/pl/words/pl-o-acute-02.mp3" },
+        { "text": "król", "roman": "król", "meaning": "king", "emoji": "👑", "audio": "audio/pl/words/pl-o-acute-03.mp3" },
+        { "text": "lód", "roman": "lód", "meaning": "ice", "emoji": "🧊", "audio": "audio/pl/words/pl-o-acute-04.mp3" },
+        { "text": "nóż", "roman": "nóż", "meaning": "knife", "emoji": "🔪", "audio": "audio/pl/words/pl-o-acute-05.mp3" },
+        { "text": "mróz", "roman": "mróz", "meaning": "frost", "emoji": "❄️", "audio": "audio/pl/words/pl-o-acute-06.mp3" },
+        { "text": "stróż", "roman": "stróż", "meaning": "guard", "emoji": "💂", "audio": "audio/pl/words/pl-o-acute-07.mp3" },
+        { "text": "róg", "roman": "róg", "meaning": "corner", "emoji": "📐", "audio": "audio/pl/words/pl-o-acute-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-p",
+      "char": "p",
+      "name": "Pe",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/pl/letters/pl-p.mp3",
+      "memoryTrick": "Same as English 'p' in 'pen' — but Polish 'p' has NO puff of air. Hold a piece of paper in front of your mouth; it shouldn't move.",
+      "words": [
+        { "text": "pies", "roman": "pies", "meaning": "dog", "emoji": "🐕", "audio": "audio/pl/words/pl-p-01.mp3" },
+        { "text": "ptak", "roman": "ptak", "meaning": "bird", "emoji": "🐦", "audio": "audio/pl/words/pl-p-02.mp3" },
+        { "text": "piłka", "roman": "piłka", "meaning": "ball", "emoji": "⚽", "audio": "audio/pl/words/pl-p-03.mp3" },
+        { "text": "pająk", "roman": "pająk", "meaning": "spider", "emoji": "🕷️", "audio": "audio/pl/words/pl-p-04.mp3" },
+        { "text": "pociąg", "roman": "pociąg", "meaning": "train", "emoji": "🚂", "audio": "audio/pl/words/pl-p-05.mp3" },
+        { "text": "pomidor", "roman": "pomidor", "meaning": "tomato", "emoji": "🍅", "audio": "audio/pl/words/pl-p-06.mp3" },
+        { "text": "pieniądze", "roman": "pieniądze", "meaning": "money", "emoji": "💰", "audio": "audio/pl/words/pl-p-07.mp3" },
+        { "text": "płaszcz", "roman": "płaszcz", "meaning": "coat", "emoji": "🧥", "audio": "audio/pl/words/pl-p-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-r",
+      "char": "r",
+      "name": "Er",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/pl/letters/pl-r.mp3",
+      "memoryTrick": "A rolled 'r' — trilled with the tip of your tongue against the ridge behind your upper teeth. Like a little motor: 'rrrr'. Practice makes perfect!",
+      "words": [
+        { "text": "ryba", "roman": "ryba", "meaning": "fish", "emoji": "🐟", "audio": "audio/pl/words/pl-r-01.mp3" },
+        { "text": "ręka", "roman": "ręka", "meaning": "hand", "emoji": "✋", "audio": "audio/pl/words/pl-r-02.mp3" },
+        { "text": "rower", "roman": "rower", "meaning": "bicycle", "emoji": "🚲", "audio": "audio/pl/words/pl-r-03.mp3" },
+        { "text": "rodzina", "roman": "rodzina", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/pl/words/pl-r-04.mp3" },
+        { "text": "radio", "roman": "radio", "meaning": "radio", "emoji": "📻", "audio": "audio/pl/words/pl-r-05.mp3" },
+        { "text": "rów", "roman": "rów", "meaning": "ditch", "emoji": "🕳️", "audio": "audio/pl/words/pl-r-06.mp3" },
+        { "text": "rura", "roman": "rura", "meaning": "pipe", "emoji": "🔧", "audio": "audio/pl/words/pl-r-07.mp3" },
+        { "text": "róża", "roman": "róża", "meaning": "rose", "emoji": "🌹", "audio": "audio/pl/words/pl-r-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-rz",
+      "char": "rz",
+      "name": "Rze",
+      "romanization": "rz",
+      "ipa": "/ʐ/",
+      "letterAudio": "audio/pl/letters/pl-rz.mp3",
+      "memoryTrick": "Sounds identical to 'ż' — like the 's' in 'pleasure' or 'Zhivago'. Historically a soft 'r' but now just a buzzing 'zh'. Think of a bee: 'zhzhzh'.",
+      "words": [
+        { "text": "rzeka", "roman": "rzeka", "meaning": "river", "emoji": "🏞️", "audio": "audio/pl/words/pl-rz-01.mp3" },
+        { "text": "rzodkiewka", "roman": "rzodkiewka", "meaning": "radish", "emoji": "🥬", "audio": "audio/pl/words/pl-rz-02.mp3" },
+        { "text": "rzepa", "roman": "rzepa", "meaning": "turnip", "emoji": "🥔", "audio": "audio/pl/words/pl-rz-03.mp3" },
+        { "text": "rzemiosło", "roman": "rzemiosło", "meaning": "craft", "emoji": "🛠️", "audio": "audio/pl/words/pl-rz-04.mp3" },
+        { "text": "morze", "roman": "morze", "meaning": "sea", "emoji": "🌊", "audio": "audio/pl/words/pl-rz-05.mp3" },
+        { "text": "orzech", "roman": "orzech", "meaning": "nut", "emoji": "🥜", "audio": "audio/pl/words/pl-rz-06.mp3" },
+        { "text": "grzyb", "roman": "grzyb", "meaning": "mushroom", "emoji": "🍄", "audio": "audio/pl/words/pl-rz-07.mp3" },
+        { "text": "burza", "roman": "burza", "meaning": "storm", "emoji": "⛈️", "audio": "audio/pl/words/pl-rz-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-s",
+      "char": "s",
+      "name": "Es",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/pl/letters/pl-s.mp3",
+      "memoryTrick": "Same as English 's' in 'sun' — a clean hiss. Unlike English, it never voices to a 'z' sound. Always sharp and hissing like a snake.",
+      "words": [
+        { "text": "słońce", "roman": "słońce", "meaning": "sun", "emoji": "☀️", "audio": "audio/pl/words/pl-s-01.mp3" },
+        { "text": "serce", "roman": "serce", "meaning": "heart", "emoji": "❤️", "audio": "audio/pl/words/pl-s-02.mp3" },
+        { "text": "samolot", "roman": "samolot", "meaning": "airplane", "emoji": "✈️", "audio": "audio/pl/words/pl-s-03.mp3" },
+        { "text": "sowa", "roman": "sowa", "meaning": "owl", "emoji": "🦉", "audio": "audio/pl/words/pl-s-04.mp3" },
+        { "text": "stół", "roman": "stół", "meaning": "table", "emoji": "🪑", "audio": "audio/pl/words/pl-s-05.mp3" },
+        { "text": "ser", "roman": "ser", "meaning": "cheese", "emoji": "🧀", "audio": "audio/pl/words/pl-s-06.mp3" },
+        { "text": "śnieg", "roman": "śnieg", "meaning": "snow", "emoji": "❄️", "audio": "audio/pl/words/pl-s-07.mp3" },
+        { "text": "sok", "roman": "sok", "meaning": "juice", "emoji": "🧃", "audio": "audio/pl/words/pl-s-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-s-acute",
+      "char": "ś",
+      "name": "Eś",
+      "romanization": "ś",
+      "ipa": "/ɕ/",
+      "letterAudio": "audio/pl/letters/pl-s-acute.mp3",
+      "memoryTrick": "A soft 'sh' — like the 'sh' in 'sheep' but gentler, with your tongue higher and flatter. Think of whispering 'shh' to a sleeping baby.",
+      "words": [
+        { "text": "śnieg", "roman": "śnieg", "meaning": "snow", "emoji": "❄️", "audio": "audio/pl/words/pl-s-acute-01.mp3" },
+        { "text": "świat", "roman": "świat", "meaning": "world", "emoji": "🌍", "audio": "audio/pl/words/pl-s-acute-02.mp3" },
+        { "text": "światło", "roman": "światło", "meaning": "light", "emoji": "💡", "audio": "audio/pl/words/pl-s-acute-03.mp3" },
+        { "text": "śliwka", "roman": "śliwka", "meaning": "plum", "emoji": "🫐", "audio": "audio/pl/words/pl-s-acute-04.mp3" },
+        { "text": "śpiew", "roman": "śpiew", "meaning": "singing", "emoji": "🎤", "audio": "audio/pl/words/pl-s-acute-05.mp3" },
+        { "text": "ośmiornica", "roman": "ośmiornica", "meaning": "octopus", "emoji": "🐙", "audio": "audio/pl/words/pl-s-acute-06.mp3" },
+        { "text": "świeca", "roman": "świeca", "meaning": "candle", "emoji": "🕯️", "audio": "audio/pl/words/pl-s-acute-07.mp3" },
+        { "text": "gęś", "roman": "gęś", "meaning": "goose", "emoji": "🪿", "audio": "audio/pl/words/pl-s-acute-08.mp3" }
       ]
     },
     {
       "id": "pl-sz",
-      "char": "Sz sz",
-      "name": "esze",
+      "char": "sz",
+      "name": "Sze",
       "romanization": "sz",
-      "ipa": "/ʃ/",
-      "memoryTrick": "The digraph 'sz' = 'sh'.",
+      "ipa": "/ʂ/",
+      "letterAudio": "audio/pl/letters/pl-sz.mp3",
+      "memoryTrick": "A hard 'sh' like English 'shoe' — retroflex, with your tongue curled back. The harder, bolder cousin of 'ś'. Think of a stern librarian: 'Shhh!'",
       "words": [
-        {
-          "text": "szkoła",
-          "roman": "shkowa",
-          "meaning": "school",
-          "emoji": "🏫"
-        },
-        {
-          "text": "mysz",
-          "roman": "mysh",
-          "meaning": "mouse",
-          "emoji": "🐭"
-        }
+        { "text": "szkoła", "roman": "szkoła", "meaning": "school", "emoji": "🏫", "audio": "audio/pl/words/pl-sz-01.mp3" },
+        { "text": "szafa", "roman": "szafa", "meaning": "wardrobe", "emoji": "🚪", "audio": "audio/pl/words/pl-sz-02.mp3" },
+        { "text": "szklanka", "roman": "szklanka", "meaning": "glass", "emoji": "🥛", "audio": "audio/pl/words/pl-sz-03.mp3" },
+        { "text": "szyja", "roman": "szyja", "meaning": "neck", "emoji": "🧣", "audio": "audio/pl/words/pl-sz-04.mp3" },
+        { "text": "sznur", "roman": "sznur", "meaning": "rope", "emoji": "🪢", "audio": "audio/pl/words/pl-sz-05.mp3" },
+        { "text": "szpital", "roman": "szpital", "meaning": "hospital", "emoji": "🏥", "audio": "audio/pl/words/pl-sz-06.mp3" },
+        { "text": "szczotka", "roman": "szczotka", "meaning": "brush", "emoji": "🪥", "audio": "audio/pl/words/pl-sz-07.mp3" },
+        { "text": "sześć", "roman": "sześć", "meaning": "six", "emoji": "6️⃣", "audio": "audio/pl/words/pl-sz-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-t",
+      "char": "t",
+      "name": "Te",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/pl/letters/pl-t.mp3",
+      "memoryTrick": "Like English 't' in 'top' but dental — tongue touches the back of your upper teeth, not the roof of your mouth. No puff of air either.",
+      "words": [
+        { "text": "tata", "roman": "tata", "meaning": "dad", "emoji": "👨", "audio": "audio/pl/words/pl-t-01.mp3" },
+        { "text": "trawa", "roman": "trawa", "meaning": "grass", "emoji": "🌿", "audio": "audio/pl/words/pl-t-02.mp3" },
+        { "text": "telefon", "roman": "telefon", "meaning": "phone", "emoji": "📱", "audio": "audio/pl/words/pl-t-03.mp3" },
+        { "text": "talerz", "roman": "talerz", "meaning": "plate", "emoji": "🍽️", "audio": "audio/pl/words/pl-t-04.mp3" },
+        { "text": "termometr", "roman": "termometr", "meaning": "thermometer", "emoji": "🌡️", "audio": "audio/pl/words/pl-t-05.mp3" },
+        { "text": "truskawka", "roman": "truskawka", "meaning": "strawberry", "emoji": "🍓", "audio": "audio/pl/words/pl-t-06.mp3" },
+        { "text": "tramwaj", "roman": "tramwaj", "meaning": "tram", "emoji": "🚋", "audio": "audio/pl/words/pl-t-07.mp3" },
+        { "text": "topór", "roman": "topór", "meaning": "axe", "emoji": "🪓", "audio": "audio/pl/words/pl-t-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-u",
+      "char": "u",
+      "name": "U",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/pl/letters/pl-u.mp3",
+      "memoryTrick": "Like 'oo' in English 'boot' — a high, round back vowel. Lips tight and rounded as if you're about to whistle.",
+      "words": [
+        { "text": "ucho", "roman": "ucho", "meaning": "ear", "emoji": "👂", "audio": "audio/pl/words/pl-u-01.mp3" },
+        { "text": "ulica", "roman": "ulica", "meaning": "street", "emoji": "🛣️", "audio": "audio/pl/words/pl-u-02.mp3" },
+        { "text": "usta", "roman": "usta", "meaning": "lips", "emoji": "👄", "audio": "audio/pl/words/pl-u-03.mp3" },
+        { "text": "uczeń", "roman": "uczeń", "meaning": "student", "emoji": "🎒", "audio": "audio/pl/words/pl-u-04.mp3" },
+        { "text": "ubranie", "roman": "ubranie", "meaning": "clothing", "emoji": "👕", "audio": "audio/pl/words/pl-u-05.mp3" },
+        { "text": "uśmiech", "roman": "uśmiech", "meaning": "smile", "emoji": "😊", "audio": "audio/pl/words/pl-u-06.mp3" },
+        { "text": "uwaga", "roman": "uwaga", "meaning": "attention", "emoji": "⚠️", "audio": "audio/pl/words/pl-u-07.mp3" },
+        { "text": "urlop", "roman": "urlop", "meaning": "vacation", "emoji": "🏖️", "audio": "audio/pl/words/pl-u-08.mp3" }
       ]
     },
     {
       "id": "pl-w",
-      "char": "W w",
-      "name": "wu",
+      "char": "w",
+      "name": "Wu",
       "romanization": "w",
       "ipa": "/v/",
-      "memoryTrick": "In Polish, 'w' says 'v'.",
+      "letterAudio": "audio/pl/letters/pl-w.mp3",
+      "memoryTrick": "Polish 'w' sounds like English 'v' in 'van' — NOT like English 'w'. This is the number-one trap for learners. 'W' in Polish means 'v' sound, always.",
       "words": [
-        {
-          "text": "woda",
-          "roman": "voda",
-          "meaning": "water",
-          "emoji": "💧"
-        },
-        {
-          "text": "wino",
-          "roman": "vino",
-          "meaning": "wine",
-          "emoji": "🍷"
-        }
+        { "text": "woda", "roman": "woda", "meaning": "water", "emoji": "💧", "audio": "audio/pl/words/pl-w-01.mp3" },
+        { "text": "wiatr", "roman": "wiatr", "meaning": "wind", "emoji": "💨", "audio": "audio/pl/words/pl-w-02.mp3" },
+        { "text": "wieś", "roman": "wieś", "meaning": "village", "emoji": "🏘️", "audio": "audio/pl/words/pl-w-03.mp3" },
+        { "text": "widelec", "roman": "widelec", "meaning": "fork", "emoji": "🍴", "audio": "audio/pl/words/pl-w-04.mp3" },
+        { "text": "wiosna", "roman": "wiosna", "meaning": "spring", "emoji": "🌸", "audio": "audio/pl/words/pl-w-05.mp3" },
+        { "text": "wilk", "roman": "wilk", "meaning": "wolf", "emoji": "🐺", "audio": "audio/pl/words/pl-w-06.mp3" },
+        { "text": "wielbłąd", "roman": "wielbłąd", "meaning": "camel", "emoji": "🐪", "audio": "audio/pl/words/pl-w-07.mp3" },
+        { "text": "włosy", "roman": "włosy", "meaning": "hair", "emoji": "💇", "audio": "audio/pl/words/pl-w-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-y",
+      "char": "y",
+      "name": "Y",
+      "romanization": "y",
+      "ipa": "/ɨ/",
+      "letterAudio": "audio/pl/letters/pl-y.mp3",
+      "memoryTrick": "A unique sound — like the 'i' in 'bit' but with your tongue further back, almost like you're saying 'ee' but with a frown. No English exact match, but think of a grumpy 'ehhh'.",
+      "words": [
+        { "text": "ryba", "roman": "ryba", "meaning": "fish", "emoji": "🐟", "audio": "audio/pl/words/pl-y-01.mp3" },
+        { "text": "syn", "roman": "syn", "meaning": "son", "emoji": "👦", "audio": "audio/pl/words/pl-y-02.mp3" },
+        { "text": "mysz", "roman": "mysz", "meaning": "mouse", "emoji": "🐭", "audio": "audio/pl/words/pl-y-03.mp3" },
+        { "text": "dym", "roman": "dym", "meaning": "smoke", "emoji": "💨", "audio": "audio/pl/words/pl-y-04.mp3" },
+        { "text": "tygrys", "roman": "tygrys", "meaning": "tiger", "emoji": "🐯", "audio": "audio/pl/words/pl-y-05.mp3" },
+        { "text": "mydło", "roman": "mydło", "meaning": "soap", "emoji": "🧼", "audio": "audio/pl/words/pl-y-06.mp3" },
+        { "text": "cytryna", "roman": "cytryna", "meaning": "lemon", "emoji": "🍋", "audio": "audio/pl/words/pl-y-07.mp3" },
+        { "text": "scyzoryk", "roman": "scyzoryk", "meaning": "pocket knife", "emoji": "🔪", "audio": "audio/pl/words/pl-y-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-z",
+      "char": "z",
+      "name": "Zet",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/pl/letters/pl-z.mp3",
+      "memoryTrick": "Like English 'z' in 'zebra' — voiced, buzzing. Unlike English 's', Polish 'z' keeps its buzz even at the end of words. Keep the vocal cords vibrating.",
+      "words": [
+        { "text": "ząb", "roman": "ząb", "meaning": "tooth", "emoji": "🦷", "audio": "audio/pl/words/pl-z-01.mp3" },
+        { "text": "zamek", "roman": "zamek", "meaning": "castle", "emoji": "🏰", "audio": "audio/pl/words/pl-z-02.mp3" },
+        { "text": "zegar", "roman": "zegar", "meaning": "clock", "emoji": "🕰️", "audio": "audio/pl/words/pl-z-03.mp3" },
+        { "text": "zima", "roman": "zima", "meaning": "winter", "emoji": "⛄", "audio": "audio/pl/words/pl-z-04.mp3" },
+        { "text": "zupa", "roman": "zupa", "meaning": "soup", "emoji": "🍜", "audio": "audio/pl/words/pl-z-05.mp3" },
+        { "text": "zielony", "roman": "zielony", "meaning": "green", "emoji": "🟢", "audio": "audio/pl/words/pl-z-06.mp3" },
+        { "text": "złoto", "roman": "złoto", "meaning": "gold", "emoji": "🪙", "audio": "audio/pl/words/pl-z-07.mp3" },
+        { "text": "zwierzę", "roman": "zwierzę", "meaning": "animal", "emoji": "🐾", "audio": "audio/pl/words/pl-z-08.mp3" }
+      ]
+    },
+    {
+      "id": "pl-z-acute",
+      "char": "ź",
+      "name": "Zie",
+      "romanization": "ź",
+      "ipa": "/ʑ/",
+      "letterAudio": "audio/pl/letters/pl-z-acute.mp3",
+      "memoryTrick": "A soft, palatal 'zh' — like the 'g' in 'mirage' but lighter. Tongue flat against your hard palate, buzzing gently. Think of a contented cat purring: 'źźźź'.",
+      "words": [
+        { "text": "źródło", "roman": "źródło", "meaning": "source", "emoji": "⛲", "audio": "audio/pl/words/pl-z-acute-01.mp3" },
+        { "text": "źrebak", "roman": "źrebak", "meaning": "foal", "emoji": "🐴", "audio": "audio/pl/words/pl-z-acute-02.mp3" },
+        { "text": "źle", "roman": "źle", "meaning": "badly", "emoji": "👎", "audio": "audio/pl/words/pl-z-acute-03.mp3" },
+        { "text": "źdźbło", "roman": "źdźbło", "meaning": "blade of grass", "emoji": "🌿", "audio": "audio/pl/words/pl-z-acute-04.mp3" },
+        { "text": "goździk", "roman": "goździk", "meaning": "carnation", "emoji": "🌸", "audio": "audio/pl/words/pl-z-acute-05.mp3" },
+        { "text": "wyraźnie", "roman": "wyraźnie", "meaning": "clearly", "emoji": "👁️", "audio": "audio/pl/words/pl-z-acute-06.mp3" }
+      ]
+    },
+    {
+      "id": "pl-z-dot",
+      "char": "ż",
+      "name": "Że",
+      "romanization": "ż",
+      "ipa": "/ʐ/",
+      "letterAudio": "audio/pl/letters/pl-z-dot.mp3",
+      "memoryTrick": "Like the 's' in 'pleasure' or the 'g' in 'genre' — a hard, retroflex 'zh'. Tongue curled back. The dot overhead says 'buzz harder!' Think 'Doctor Zhivago'.",
+      "words": [
+        { "text": "żaba", "roman": "żaba", "meaning": "frog", "emoji": "🐸", "audio": "audio/pl/words/pl-z-dot-01.mp3" },
+        { "text": "żółw", "roman": "żółw", "meaning": "turtle", "emoji": "🐢", "audio": "audio/pl/words/pl-z-dot-02.mp3" },
+        { "text": "życie", "roman": "życie", "meaning": "life", "emoji": "🧬", "audio": "audio/pl/words/pl-z-dot-03.mp3" },
+        { "text": "żona", "roman": "żona", "meaning": "wife", "emoji": "👩", "audio": "audio/pl/words/pl-z-dot-04.mp3" },
+        { "text": "żagiel", "roman": "żagiel", "meaning": "sail", "emoji": "⛵", "audio": "audio/pl/words/pl-z-dot-05.mp3" },
+        { "text": "żuraw", "roman": "żuraw", "meaning": "crane", "emoji": "🐦", "audio": "audio/pl/words/pl-z-dot-06.mp3" },
+        { "text": "książka", "roman": "książka", "meaning": "book", "emoji": "📖", "audio": "audio/pl/words/pl-z-dot-07.mp3" },
+        { "text": "łyżka", "roman": "łyżka", "meaning": "spoon", "emoji": "🥄", "audio": "audio/pl/words/pl-z-dot-08.mp3" }
       ]
     }
   ]

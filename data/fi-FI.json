@@ -2,138 +2,559 @@
   "language": "Finnish",
   "code": "fi-FI",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
-      "id": "fi-a-uml",
-      "char": "Ä ä",
-      "name": "ä",
-      "romanization": "ä",
-      "ipa": "/æ/",
-      "memoryTrick": "An open 'a' as in 'cat' — its own letter, not an accent.",
+      "id": "fi-a",
+      "char": "a",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/ɑ/",
+      "letterAudio": "audio/fi/letters/fi-a.mp3",
+      "memoryTrick": "Like the 'a' in 'father' — open your mouth wide and say 'ah'. Finnish a is always this open back sound, never like the 'a' in 'cat'.",
       "words": [
-        {
-          "text": "äiti",
-          "roman": "äiti",
-          "meaning": "mother",
-          "emoji": "👩"
-        },
-        {
-          "text": "pää",
-          "roman": "pää",
-          "meaning": "head",
-          "emoji": "🗣️"
-        }
+        { "text": "aamu", "roman": "aamu", "meaning": "morning", "emoji": "🌅", "audio": "audio/fi/words/fi-a-01.mp3" },
+        { "text": "aalto", "roman": "aalto", "meaning": "wave", "emoji": "🌊", "audio": "audio/fi/words/fi-a-02.mp3" },
+        { "text": "apina", "roman": "apina", "meaning": "monkey", "emoji": "🐒", "audio": "audio/fi/words/fi-a-03.mp3" },
+        { "text": "aurinko", "roman": "aurinko", "meaning": "sun", "emoji": "☀️", "audio": "audio/fi/words/fi-a-04.mp3" },
+        { "text": "aika", "roman": "aika", "meaning": "time", "emoji": "⏰", "audio": "audio/fi/words/fi-a-05.mp3" },
+        { "text": "avain", "roman": "avain", "meaning": "key", "emoji": "🔑", "audio": "audio/fi/words/fi-a-06.mp3" },
+        { "text": "ankka", "roman": "ankka", "meaning": "duck", "emoji": "🦆", "audio": "audio/fi/words/fi-a-07.mp3" },
+        { "text": "aita", "roman": "aita", "meaning": "fence", "audio": "audio/fi/words/fi-a-08.mp3" },
+        { "text": "asema", "roman": "asema", "meaning": "station", "emoji": "🚉", "audio": "audio/fi/words/fi-a-09.mp3" },
+        { "text": "aasi", "roman": "aasi", "meaning": "donkey", "audio": "audio/fi/words/fi-a-10.mp3" },
+        { "text": "ahven", "roman": "ahven", "meaning": "perch (fish)", "emoji": "🐟", "audio": "audio/fi/words/fi-a-11.mp3" },
+        { "text": "avaruus", "roman": "avaruus", "meaning": "space (outer)", "emoji": "🚀", "audio": "audio/fi/words/fi-a-12.mp3" }
       ]
     },
     {
-      "id": "fi-o-uml",
-      "char": "Ö ö",
-      "name": "ö",
-      "romanization": "ö",
-      "ipa": "/ø/",
-      "memoryTrick": "Round your lips, say 'e'.",
+      "id": "fi-b",
+      "char": "b",
+      "name": "b",
+      "romanization": "b",
+      "ipa": "/b/",
+      "letterAudio": "audio/fi/letters/fi-b.mp3",
+      "memoryTrick": "Like English 'b' in 'ball'. Rare in native Finnish words — it appears mostly in loanwords. Pronounce it cleanly without aspiration.",
       "words": [
-        {
-          "text": "yö",
-          "roman": "yö",
-          "meaning": "night",
-          "emoji": "🌙"
-        },
-        {
-          "text": "työ",
-          "roman": "työ",
-          "meaning": "work",
-          "emoji": "💼"
-        }
+        { "text": "banaani", "roman": "banaani", "meaning": "banana", "emoji": "🍌", "audio": "audio/fi/words/fi-b-01.mp3" },
+        { "text": "bussi", "roman": "bussi", "meaning": "bus", "emoji": "🚌", "audio": "audio/fi/words/fi-b-02.mp3" },
+        { "text": "baari", "roman": "baari", "meaning": "bar", "emoji": "🍸", "audio": "audio/fi/words/fi-b-03.mp3" },
+        { "text": "bensa", "roman": "bensa", "meaning": "gasoline", "emoji": "⛽", "audio": "audio/fi/words/fi-b-04.mp3" },
+        { "text": "blogi", "roman": "blogi", "meaning": "blog", "emoji": "📝", "audio": "audio/fi/words/fi-b-05.mp3" },
+        { "text": "bändi", "roman": "bändi", "meaning": "band (music)", "emoji": "🎸", "audio": "audio/fi/words/fi-b-06.mp3" }
       ]
     },
     {
-      "id": "fi-y",
-      "char": "Y y",
-      "name": "y",
-      "romanization": "y",
-      "ipa": "/y/",
-      "memoryTrick": "Round lips for 'oo', say 'ee'.",
+      "id": "fi-c",
+      "char": "c",
+      "name": "c",
+      "romanization": "c",
+      "ipa": "/k/ or /s/",
+      "letterAudio": "audio/fi/letters/fi-c.mp3",
+      "memoryTrick": "Very rare in Finnish — appears only in loanwords. Usually pronounced like 'k' or 's' depending on the source language. Not used in native Finnish words at all.",
       "words": [
-        {
-          "text": "yksi",
-          "roman": "yksi",
-          "meaning": "one",
-          "emoji": "1️⃣"
-        },
-        {
-          "text": "kyy",
-          "roman": "kyy",
-          "meaning": "viper",
-          "emoji": "🐍"
-        }
+        { "text": "chili", "roman": "chili", "meaning": "chili", "emoji": "🌶️", "audio": "audio/fi/words/fi-c-01.mp3" },
+        { "text": "celsius", "roman": "celsius", "meaning": "Celsius", "emoji": "🌡️", "audio": "audio/fi/words/fi-c-02.mp3" },
+        { "text": "cappuccino", "roman": "cappuccino", "meaning": "cappuccino", "emoji": "☕", "audio": "audio/fi/words/fi-c-03.mp3" }
       ]
     },
     {
-      "id": "fi-k",
-      "char": "K k",
-      "name": "koo",
-      "romanization": "k",
-      "ipa": "/k/",
-      "memoryTrick": "A plain, unaspirated 'k'.",
+      "id": "fi-d",
+      "char": "d",
+      "name": "d",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/fi/letters/fi-d.mp3",
+      "memoryTrick": "Like English 'd' in 'dog'. The tip of your tongue touches just behind your upper teeth. Historically rare in native words but now fully part of Finnish.",
       "words": [
-        {
-          "text": "kala",
-          "roman": "kala",
-          "meaning": "fish",
-          "emoji": "🐟"
-        },
-        {
-          "text": "kuu",
-          "roman": "kuu",
-          "meaning": "moon",
-          "emoji": "🌙"
-        }
+        { "text": "dekkari", "roman": "dekkari", "meaning": "detective novel", "emoji": "📚", "audio": "audio/fi/words/fi-d-01.mp3" },
+        { "text": "data", "roman": "data", "meaning": "data", "emoji": "💾", "audio": "audio/fi/words/fi-d-02.mp3" },
+        { "text": "dokumentti", "roman": "dokumentti", "meaning": "document", "emoji": "📄", "audio": "audio/fi/words/fi-d-03.mp3" },
+        { "text": "diplomaatti", "roman": "diplomaatti", "meaning": "diplomat", "audio": "audio/fi/words/fi-d-04.mp3" },
+        { "text": "dinosaurus", "roman": "dinosaurus", "meaning": "dinosaur", "emoji": "🦕", "audio": "audio/fi/words/fi-d-05.mp3" },
+        { "text": "domino", "roman": "domino", "meaning": "domino", "audio": "audio/fi/words/fi-d-06.mp3" },
+        { "text": "dollari", "roman": "dollari", "meaning": "dollar", "emoji": "💵", "audio": "audio/fi/words/fi-d-07.mp3" }
       ]
     },
     {
-      "id": "fi-aa",
-      "char": "Aa aa",
-      "name": "pitkä a",
-      "romanization": "aa",
-      "ipa": "/ɑː/",
-      "memoryTrick": "Doubling a vowel makes it long — and can change the meaning!",
+      "id": "fi-e",
+      "char": "e",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/e/",
+      "letterAudio": "audio/fi/letters/fi-e.mp3",
+      "memoryTrick": "Like the 'e' in 'bed' or 'let' — a clean mid-front vowel. Never silent at the end of words; Finnish pronounces every letter.",
       "words": [
-        {
-          "text": "maa",
-          "roman": "maa",
-          "meaning": "land / earth",
-          "emoji": "🌍"
-        },
-        {
-          "text": "saari",
-          "roman": "saari",
-          "meaning": "island",
-          "emoji": "🏝️"
-        }
+        { "text": "elämä", "roman": "elämä", "meaning": "life", "emoji": "❤️", "audio": "audio/fi/words/fi-e-01.mp3" },
+        { "text": "eilen", "roman": "eilen", "meaning": "yesterday", "audio": "audio/fi/words/fi-e-02.mp3" },
+        { "text": "eläin", "roman": "eläin", "meaning": "animal", "emoji": "🐾", "audio": "audio/fi/words/fi-e-03.mp3" },
+        { "text": "etana", "roman": "etana", "meaning": "snail", "emoji": "🐌", "audio": "audio/fi/words/fi-e-04.mp3" },
+        { "text": "elefantti", "roman": "elefantti", "meaning": "elephant", "emoji": "🐘", "audio": "audio/fi/words/fi-e-05.mp3" },
+        { "text": "enkeli", "roman": "enkeli", "meaning": "angel", "emoji": "👼", "audio": "audio/fi/words/fi-e-06.mp3" },
+        { "text": "etelä", "roman": "etelä", "meaning": "south", "emoji": "🧭", "audio": "audio/fi/words/fi-e-07.mp3" },
+        { "text": "energia", "roman": "energia", "meaning": "energy", "emoji": "⚡", "audio": "audio/fi/words/fi-e-08.mp3" },
+        { "text": "esine", "roman": "esine", "meaning": "object / thing", "audio": "audio/fi/words/fi-e-09.mp3" },
+        { "text": "ensi", "roman": "ensi", "meaning": "next (first)", "audio": "audio/fi/words/fi-e-10.mp3" }
+      ]
+    },
+    {
+      "id": "fi-f",
+      "char": "f",
+      "name": "f",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/fi/letters/fi-f.mp3",
+      "memoryTrick": "Like English 'f' in 'fish'. Rare in native Finnish words — mostly in loanwords. Some older speakers may pronounce it closer to 'v'.",
+      "words": [
+        { "text": "fasaani", "roman": "fasaani", "meaning": "pheasant", "emoji": "🐦", "audio": "audio/fi/words/fi-f-01.mp3" },
+        { "text": "filmi", "roman": "filmi", "meaning": "film / movie", "emoji": "🎬", "audio": "audio/fi/words/fi-f-02.mp3" },
+        { "text": "fakta", "roman": "fakta", "meaning": "fact", "audio": "audio/fi/words/fi-f-03.mp3" },
+        { "text": "farkut", "roman": "farkut", "meaning": "jeans", "emoji": "👖", "audio": "audio/fi/words/fi-f-04.mp3" },
+        { "text": "filosofia", "roman": "filosofia", "meaning": "philosophy", "audio": "audio/fi/words/fi-f-05.mp3" },
+        { "text": "fysiikka", "roman": "fysiikka", "meaning": "physics", "audio": "audio/fi/words/fi-f-06.mp3" }
+      ]
+    },
+    {
+      "id": "fi-g",
+      "char": "g",
+      "name": "g",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "letterAudio": "audio/fi/letters/fi-g.mp3",
+      "memoryTrick": "Always hard like 'g' in 'go', never soft like 'g' in 'gem'. Rare in native words — appears mostly in loanwords and the 'ng' cluster.",
+      "words": [
+        { "text": "gorilla", "roman": "gorilla", "meaning": "gorilla", "emoji": "🦍", "audio": "audio/fi/words/fi-g-01.mp3" },
+        { "text": "geeni", "roman": "geeni", "meaning": "gene", "emoji": "🧬", "audio": "audio/fi/words/fi-g-02.mp3" },
+        { "text": "galleria", "roman": "galleria", "meaning": "gallery", "emoji": "🖼️", "audio": "audio/fi/words/fi-g-03.mp3" },
+        { "text": "grilli", "roman": "grilli", "meaning": "grill / barbecue", "audio": "audio/fi/words/fi-g-04.mp3" },
+        { "text": "golf", "roman": "golf", "meaning": "golf", "emoji": "⛳", "audio": "audio/fi/words/fi-g-05.mp3" },
+        { "text": "geologia", "roman": "geologia", "meaning": "geology", "audio": "audio/fi/words/fi-g-06.mp3" }
+      ]
+    },
+    {
+      "id": "fi-h",
+      "char": "h",
+      "name": "h",
+      "romanization": "h",
+      "ipa": "/h/",
+      "letterAudio": "audio/fi/letters/fi-h.mp3",
+      "memoryTrick": "A soft breathy sound like English 'h' in 'hat'. Unlike English, Finnish h is always pronounced — even before consonants, as in 'lehti' (leaf).",
+      "words": [
+        { "text": "hevonen", "roman": "hevonen", "meaning": "horse", "emoji": "🐴", "audio": "audio/fi/words/fi-h-01.mp3" },
+        { "text": "hattu", "roman": "hattu", "meaning": "hat", "emoji": "🎩", "audio": "audio/fi/words/fi-h-02.mp3" },
+        { "text": "hyvä", "roman": "hyvä", "meaning": "good", "emoji": "👍", "audio": "audio/fi/words/fi-h-03.mp3" },
+        { "text": "hiiri", "roman": "hiiri", "meaning": "mouse", "emoji": "🐭", "audio": "audio/fi/words/fi-h-04.mp3" },
+        { "text": "hammas", "roman": "hammas", "meaning": "tooth", "emoji": "🦷", "audio": "audio/fi/words/fi-h-05.mp3" },
+        { "text": "huone", "roman": "huone", "meaning": "room", "audio": "audio/fi/words/fi-h-06.mp3" },
+        { "text": "hiekka", "roman": "hiekka", "meaning": "sand", "emoji": "🏖️", "audio": "audio/fi/words/fi-h-07.mp3" },
+        { "text": "hunaja", "roman": "hunaja", "meaning": "honey", "emoji": "🍯", "audio": "audio/fi/words/fi-h-08.mp3" },
+        { "text": "hylje", "roman": "hylje", "meaning": "seal (animal)", "emoji": "🦭", "audio": "audio/fi/words/fi-h-09.mp3" },
+        { "text": "hauki", "roman": "hauki", "meaning": "pike (fish)", "emoji": "🐟", "audio": "audio/fi/words/fi-h-10.mp3" }
+      ]
+    },
+    {
+      "id": "fi-i",
+      "char": "i",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/fi/letters/fi-i.mp3",
+      "memoryTrick": "Like the 'ee' in 'see' but shorter — a clean, tense front vowel. Never like the 'i' in 'bit'. Keep your tongue high and forward.",
+      "words": [
+        { "text": "iso", "roman": "iso", "meaning": "big / large", "emoji": "🐘", "audio": "audio/fi/words/fi-i-01.mp3" },
+        { "text": "ilta", "roman": "ilta", "meaning": "evening", "emoji": "🌆", "audio": "audio/fi/words/fi-i-02.mp3" },
+        { "text": "ihminen", "roman": "ihminen", "meaning": "human / person", "emoji": "👤", "audio": "audio/fi/words/fi-i-03.mp3" },
+        { "text": "ikkuna", "roman": "ikkuna", "meaning": "window", "emoji": "🪟", "audio": "audio/fi/words/fi-i-04.mp3" },
+        { "text": "ilo", "roman": "ilo", "meaning": "joy", "emoji": "😊", "audio": "audio/fi/words/fi-i-05.mp3" },
+        { "text": "ilma", "roman": "ilma", "meaning": "air / weather", "emoji": "🌤️", "audio": "audio/fi/words/fi-i-06.mp3" },
+        { "text": "itkeä", "roman": "itkeä", "meaning": "to cry", "emoji": "😢", "audio": "audio/fi/words/fi-i-07.mp3" },
+        { "text": "ikä", "roman": "ikä", "meaning": "age", "audio": "audio/fi/words/fi-i-08.mp3" },
+        { "text": "istua", "roman": "istua", "meaning": "to sit", "audio": "audio/fi/words/fi-i-09.mp3" },
+        { "text": "irti", "roman": "irti", "meaning": "loose / detached", "audio": "audio/fi/words/fi-i-10.mp3" }
       ]
     },
     {
       "id": "fi-j",
-      "char": "J j",
-      "name": "jii",
+      "char": "j",
+      "name": "j",
       "romanization": "j",
       "ipa": "/j/",
-      "memoryTrick": "Says 'y' as in 'yes'.",
+      "letterAudio": "audio/fi/letters/fi-j.mp3",
+      "memoryTrick": "Always like English 'y' in 'yes', never like the 'j' in 'jump'. Think of it as the consonant version of 'i'. The Finnish word 'joo' (yeah) sounds like 'yo'.",
       "words": [
-        {
-          "text": "ja",
-          "roman": "ja",
-          "meaning": "and",
-          "emoji": "➕"
-        },
-        {
-          "text": "jää",
-          "roman": "jää",
-          "meaning": "ice",
-          "emoji": "🧊"
-        }
+        { "text": "järvi", "roman": "järvi", "meaning": "lake", "emoji": "🏞️", "audio": "audio/fi/words/fi-j-01.mp3" },
+        { "text": "juna", "roman": "juna", "meaning": "train", "emoji": "🚂", "audio": "audio/fi/words/fi-j-02.mp3" },
+        { "text": "jalka", "roman": "jalka", "meaning": "foot / leg", "emoji": "🦶", "audio": "audio/fi/words/fi-j-03.mp3" },
+        { "text": "joki", "roman": "joki", "meaning": "river", "audio": "audio/fi/words/fi-j-04.mp3" },
+        { "text": "joulu", "roman": "joulu", "meaning": "Christmas", "emoji": "🎄", "audio": "audio/fi/words/fi-j-05.mp3" },
+        { "text": "jää", "roman": "jää", "meaning": "ice", "emoji": "🧊", "audio": "audio/fi/words/fi-j-06.mp3" },
+        { "text": "jänis", "roman": "jänis", "meaning": "hare / rabbit", "emoji": "🐰", "audio": "audio/fi/words/fi-j-07.mp3" },
+        { "text": "juusto", "roman": "juusto", "meaning": "cheese", "emoji": "🧀", "audio": "audio/fi/words/fi-j-08.mp3" },
+        { "text": "juhla", "roman": "juhla", "meaning": "party / celebration", "emoji": "🎉", "audio": "audio/fi/words/fi-j-09.mp3" },
+        { "text": "jano", "roman": "jano", "meaning": "thirst", "emoji": "🥤", "audio": "audio/fi/words/fi-j-10.mp3" }
+      ]
+    },
+    {
+      "id": "fi-k",
+      "char": "k",
+      "name": "k",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/fi/letters/fi-k.mp3",
+      "memoryTrick": "Like English 'k' in 'kite' but without the puff of air. Hold your hand in front of your mouth — you should feel almost no breath when saying a Finnish k.",
+      "words": [
+        { "text": "kala", "roman": "kala", "meaning": "fish", "emoji": "🐟", "audio": "audio/fi/words/fi-k-01.mp3" },
+        { "text": "kissa", "roman": "kissa", "meaning": "cat", "emoji": "🐱", "audio": "audio/fi/words/fi-k-02.mp3" },
+        { "text": "koulu", "roman": "koulu", "meaning": "school", "emoji": "🏫", "audio": "audio/fi/words/fi-k-03.mp3" },
+        { "text": "koti", "roman": "koti", "meaning": "home", "emoji": "🏠", "audio": "audio/fi/words/fi-k-04.mp3" },
+        { "text": "kirja", "roman": "kirja", "meaning": "book", "emoji": "📖", "audio": "audio/fi/words/fi-k-05.mp3" },
+        { "text": "kukka", "roman": "kukka", "meaning": "flower", "emoji": "🌸", "audio": "audio/fi/words/fi-k-06.mp3" },
+        { "text": "koira", "roman": "koira", "meaning": "dog", "emoji": "🐕", "audio": "audio/fi/words/fi-k-07.mp3" },
+        { "text": "kuu", "roman": "kuu", "meaning": "moon", "emoji": "🌙", "audio": "audio/fi/words/fi-k-08.mp3" },
+        { "text": "käsi", "roman": "käsi", "meaning": "hand", "emoji": "✋", "audio": "audio/fi/words/fi-k-09.mp3" },
+        { "text": "kesä", "roman": "kesä", "meaning": "summer", "emoji": "☀️", "audio": "audio/fi/words/fi-k-10.mp3" },
+        { "text": "kynä", "roman": "kynä", "meaning": "pen / pencil", "emoji": "🖊️", "audio": "audio/fi/words/fi-k-11.mp3" },
+        { "text": "kello", "roman": "kello", "meaning": "clock / bell", "emoji": "🕐", "audio": "audio/fi/words/fi-k-12.mp3" },
+        { "text": "kuningas", "roman": "kuningas", "meaning": "king", "emoji": "👑", "audio": "audio/fi/words/fi-k-13.mp3" },
+        { "text": "kaunis", "roman": "kaunis", "meaning": "beautiful", "audio": "audio/fi/words/fi-k-14.mp3" }
+      ]
+    },
+    {
+      "id": "fi-l",
+      "char": "l",
+      "name": "l",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/fi/letters/fi-l.mp3",
+      "memoryTrick": "Like English 'l' in 'light' — a clean, clear l. Keep the tip of your tongue right behind your upper teeth. Not the dark 'l' of English 'ball'.",
+      "words": [
+        { "text": "lintu", "roman": "lintu", "meaning": "bird", "emoji": "🐦", "audio": "audio/fi/words/fi-l-01.mp3" },
+        { "text": "lapsi", "roman": "lapsi", "meaning": "child", "emoji": "👶", "audio": "audio/fi/words/fi-l-02.mp3" },
+        { "text": "lumi", "roman": "lumi", "meaning": "snow", "emoji": "❄️", "audio": "audio/fi/words/fi-l-03.mp3" },
+        { "text": "laiva", "roman": "laiva", "meaning": "ship", "emoji": "🚢", "audio": "audio/fi/words/fi-l-04.mp3" },
+        { "text": "lusikka", "roman": "lusikka", "meaning": "spoon", "emoji": "🥄", "audio": "audio/fi/words/fi-l-05.mp3" },
+        { "text": "leipä", "roman": "leipä", "meaning": "bread", "emoji": "🍞", "audio": "audio/fi/words/fi-l-06.mp3" },
+        { "text": "liha", "roman": "liha", "meaning": "meat", "emoji": "🥩", "audio": "audio/fi/words/fi-l-07.mp3" },
+        { "text": "lasi", "roman": "lasi", "meaning": "glass", "emoji": "🥛", "audio": "audio/fi/words/fi-l-08.mp3" },
+        { "text": "laulu", "roman": "laulu", "meaning": "song / singing", "emoji": "🎵", "audio": "audio/fi/words/fi-l-09.mp3" },
+        { "text": "lentää", "roman": "lentää", "meaning": "to fly", "emoji": "✈️", "audio": "audio/fi/words/fi-l-10.mp3" }
+      ]
+    },
+    {
+      "id": "fi-m",
+      "char": "m",
+      "name": "m",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/fi/letters/fi-m.mp3",
+      "memoryTrick": "Like English 'm' in 'mother' — press your lips together and hum. Finnish m is straightforward and identical to the English sound.",
+      "words": [
+        { "text": "metsä", "roman": "metsä", "meaning": "forest", "emoji": "🌲", "audio": "audio/fi/words/fi-m-01.mp3" },
+        { "text": "maito", "roman": "maito", "meaning": "milk", "emoji": "🥛", "audio": "audio/fi/words/fi-m-02.mp3" },
+        { "text": "meri", "roman": "meri", "meaning": "sea", "emoji": "🌊", "audio": "audio/fi/words/fi-m-03.mp3" },
+        { "text": "maa", "roman": "maa", "meaning": "earth / land / country", "emoji": "🌍", "audio": "audio/fi/words/fi-m-04.mp3" },
+        { "text": "muna", "roman": "muna", "meaning": "egg", "emoji": "🥚", "audio": "audio/fi/words/fi-m-05.mp3" },
+        { "text": "myrsky", "roman": "myrsky", "meaning": "storm", "emoji": "⛈️", "audio": "audio/fi/words/fi-m-06.mp3" },
+        { "text": "mies", "roman": "mies", "meaning": "man", "emoji": "👨", "audio": "audio/fi/words/fi-m-07.mp3" },
+        { "text": "mehiläinen", "roman": "mehiläinen", "meaning": "bee", "emoji": "🐝", "audio": "audio/fi/words/fi-m-08.mp3" },
+        { "text": "musiikki", "roman": "musiikki", "meaning": "music", "emoji": "🎵", "audio": "audio/fi/words/fi-m-09.mp3" },
+        { "text": "matka", "roman": "matka", "meaning": "journey / trip", "emoji": "🧳", "audio": "audio/fi/words/fi-m-10.mp3" },
+        { "text": "muurahainen", "roman": "muurahainen", "meaning": "ant", "emoji": "🐜", "audio": "audio/fi/words/fi-m-11.mp3" }
+      ]
+    },
+    {
+      "id": "fi-n",
+      "char": "n",
+      "name": "n",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/fi/letters/fi-n.mp3",
+      "memoryTrick": "Like English 'n' in 'nose'. Tongue tip behind upper teeth. When followed by k, it becomes the 'ng' sound as in English 'sing' — think of 'Helsinki'.",
+      "words": [
+        { "text": "nainen", "roman": "nainen", "meaning": "woman", "emoji": "👩", "audio": "audio/fi/words/fi-n-01.mp3" },
+        { "text": "nimi", "roman": "nimi", "meaning": "name", "emoji": "📛", "audio": "audio/fi/words/fi-n-02.mp3" },
+        { "text": "nalle", "roman": "nalle", "meaning": "teddy bear", "emoji": "🧸", "audio": "audio/fi/words/fi-n-03.mp3" },
+        { "text": "nenä", "roman": "nenä", "meaning": "nose", "emoji": "👃", "audio": "audio/fi/words/fi-n-04.mp3" },
+        { "text": "nuoli", "roman": "nuoli", "meaning": "arrow", "emoji": "🏹", "audio": "audio/fi/words/fi-n-05.mp3" },
+        { "text": "nopea", "roman": "nopea", "meaning": "fast", "emoji": "💨", "audio": "audio/fi/words/fi-n-06.mp3" },
+        { "text": "nauru", "roman": "nauru", "meaning": "laughter", "emoji": "😂", "audio": "audio/fi/words/fi-n-07.mp3" },
+        { "text": "nuori", "roman": "nuori", "meaning": "young", "emoji": "🧒", "audio": "audio/fi/words/fi-n-08.mp3" },
+        { "text": "neljä", "roman": "neljä", "meaning": "four", "emoji": "4️⃣", "audio": "audio/fi/words/fi-n-09.mp3" },
+        { "text": "noita", "roman": "noita", "meaning": "witch", "emoji": "🧙", "audio": "audio/fi/words/fi-n-10.mp3" }
+      ]
+    },
+    {
+      "id": "fi-o",
+      "char": "o",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/o/",
+      "letterAudio": "audio/fi/letters/fi-o.mp3",
+      "memoryTrick": "Like the 'o' in 'or' or 'port' — a pure mid-back rounded vowel. Keep your lips rounded and don't let it glide into a diphthong (no 'ow' sound).",
+      "words": [
+        { "text": "ovi", "roman": "ovi", "meaning": "door", "emoji": "🚪", "audio": "audio/fi/words/fi-o-01.mp3" },
+        { "text": "omena", "roman": "omena", "meaning": "apple", "emoji": "🍎", "audio": "audio/fi/words/fi-o-02.mp3" },
+        { "text": "olut", "roman": "olut", "meaning": "beer", "emoji": "🍺", "audio": "audio/fi/words/fi-o-03.mp3" },
+        { "text": "onni", "roman": "onni", "meaning": "happiness / luck", "emoji": "🍀", "audio": "audio/fi/words/fi-o-04.mp3" },
+        { "text": "opettaja", "roman": "opettaja", "meaning": "teacher", "emoji": "👩‍🏫", "audio": "audio/fi/words/fi-o-05.mp3" },
+        { "text": "orava", "roman": "orava", "meaning": "squirrel", "emoji": "🐿️", "audio": "audio/fi/words/fi-o-06.mp3" },
+        { "text": "ohra", "roman": "ohra", "meaning": "barley", "emoji": "🌾", "audio": "audio/fi/words/fi-o-07.mp3" },
+        { "text": "olkapää", "roman": "olkapää", "meaning": "shoulder", "audio": "audio/fi/words/fi-o-08.mp3" },
+        { "text": "osoite", "roman": "osoite", "meaning": "address", "emoji": "📍", "audio": "audio/fi/words/fi-o-09.mp3" },
+        { "text": "otsa", "roman": "otsa", "meaning": "forehead", "audio": "audio/fi/words/fi-o-10.mp3" }
+      ]
+    },
+    {
+      "id": "fi-p",
+      "char": "p",
+      "name": "p",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/fi/letters/fi-p.mp3",
+      "memoryTrick": "Like English 'p' in 'spot' — unaspirated, so no puff of air. If you hold a tissue in front of your mouth saying 'pull', it shouldn't move for Finnish p.",
+      "words": [
+        { "text": "puu", "roman": "puu", "meaning": "tree / wood", "emoji": "🌳", "audio": "audio/fi/words/fi-p-01.mp3" },
+        { "text": "päivä", "roman": "päivä", "meaning": "day", "emoji": "📅", "audio": "audio/fi/words/fi-p-02.mp3" },
+        { "text": "poika", "roman": "poika", "meaning": "boy", "emoji": "👦", "audio": "audio/fi/words/fi-p-03.mp3" },
+        { "text": "punainen", "roman": "punainen", "meaning": "red", "emoji": "🔴", "audio": "audio/fi/words/fi-p-04.mp3" },
+        { "text": "pieni", "roman": "pieni", "meaning": "small", "audio": "audio/fi/words/fi-p-05.mp3" },
+        { "text": "pöytä", "roman": "pöytä", "meaning": "table", "audio": "audio/fi/words/fi-p-06.mp3" },
+        { "text": "pilvi", "roman": "pilvi", "meaning": "cloud", "emoji": "☁️", "audio": "audio/fi/words/fi-p-07.mp3" },
+        { "text": "poro", "roman": "poro", "meaning": "reindeer", "emoji": "🦌", "audio": "audio/fi/words/fi-p-08.mp3" },
+        { "text": "pyörä", "roman": "pyörä", "meaning": "bicycle", "emoji": "🚲", "audio": "audio/fi/words/fi-p-09.mp3" },
+        { "text": "pallo", "roman": "pallo", "meaning": "ball", "emoji": "⚽", "audio": "audio/fi/words/fi-p-10.mp3" },
+        { "text": "paperi", "roman": "paperi", "meaning": "paper", "emoji": "📝", "audio": "audio/fi/words/fi-p-11.mp3" },
+        { "text": "peili", "roman": "peili", "meaning": "mirror", "emoji": "🪞", "audio": "audio/fi/words/fi-p-12.mp3" }
+      ]
+    },
+    {
+      "id": "fi-q",
+      "char": "q",
+      "name": "q",
+      "romanization": "q",
+      "ipa": "/k/",
+      "letterAudio": "audio/fi/letters/fi-q.mp3",
+      "memoryTrick": "Extremely rare in Finnish — appears only in foreign names and borrowings. Pronounced like 'k'. In native Finnish words, the 'kv' sound is always spelled with k+v.",
+      "words": [
+        { "text": "Qatar", "roman": "Qatar", "meaning": "Qatar", "emoji": "🇶🇦", "audio": "audio/fi/words/fi-q-01.mp3" },
+        { "text": "Quebec", "roman": "Quebec", "meaning": "Quebec", "audio": "audio/fi/words/fi-q-02.mp3" }
+      ]
+    },
+    {
+      "id": "fi-r",
+      "char": "r",
+      "name": "r",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/fi/letters/fi-r.mp3",
+      "memoryTrick": "A rolled/trilled r like in Spanish 'perro'. The tip of your tongue vibrates against the ridge behind your upper teeth. Every r is trilled in Finnish — no exceptions.",
+      "words": [
+        { "text": "ruoka", "roman": "ruoka", "meaning": "food", "emoji": "🍽️", "audio": "audio/fi/words/fi-r-01.mp3" },
+        { "text": "rakkaus", "roman": "rakkaus", "meaning": "love", "emoji": "❤️", "audio": "audio/fi/words/fi-r-02.mp3" },
+        { "text": "ranta", "roman": "ranta", "meaning": "beach", "emoji": "🏖️", "audio": "audio/fi/words/fi-r-03.mp3" },
+        { "text": "raha", "roman": "raha", "meaning": "money", "emoji": "💰", "audio": "audio/fi/words/fi-r-04.mp3" },
+        { "text": "reppu", "roman": "reppu", "meaning": "backpack", "emoji": "🎒", "audio": "audio/fi/words/fi-r-05.mp3" },
+        { "text": "ruusu", "roman": "ruusu", "meaning": "rose", "emoji": "🌹", "audio": "audio/fi/words/fi-r-06.mp3" },
+        { "text": "rauta", "roman": "rauta", "meaning": "iron", "audio": "audio/fi/words/fi-r-07.mp3" },
+        { "text": "radio", "roman": "radio", "meaning": "radio", "emoji": "📻", "audio": "audio/fi/words/fi-r-08.mp3" },
+        { "text": "riisi", "roman": "riisi", "meaning": "rice", "emoji": "🍚", "audio": "audio/fi/words/fi-r-09.mp3" },
+        { "text": "risti", "roman": "risti", "meaning": "cross", "emoji": "✝️", "audio": "audio/fi/words/fi-r-10.mp3" }
+      ]
+    },
+    {
+      "id": "fi-s",
+      "char": "s",
+      "name": "s",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/fi/letters/fi-s.mp3",
+      "memoryTrick": "Always a crisp, sharp 's' like in 'sing' — never voiced like 'z' in 'rose'. Finnish s is always unvoiced, even between vowels as in 'kissa' (cat).",
+      "words": [
+        { "text": "Suomi", "roman": "Suomi", "meaning": "Finland", "emoji": "🇫🇮", "audio": "audio/fi/words/fi-s-01.mp3" },
+        { "text": "sisko", "roman": "sisko", "meaning": "sister", "emoji": "👧", "audio": "audio/fi/words/fi-s-02.mp3" },
+        { "text": "sade", "roman": "sade", "meaning": "rain", "emoji": "🌧️", "audio": "audio/fi/words/fi-s-03.mp3" },
+        { "text": "sininen", "roman": "sininen", "meaning": "blue", "emoji": "🔵", "audio": "audio/fi/words/fi-s-04.mp3" },
+        { "text": "sieni", "roman": "sieni", "meaning": "mushroom", "emoji": "🍄", "audio": "audio/fi/words/fi-s-05.mp3" },
+        { "text": "sauna", "roman": "sauna", "meaning": "sauna", "emoji": "🧖", "audio": "audio/fi/words/fi-s-06.mp3" },
+        { "text": "susi", "roman": "susi", "meaning": "wolf", "emoji": "🐺", "audio": "audio/fi/words/fi-s-07.mp3" },
+        { "text": "silta", "roman": "silta", "meaning": "bridge", "emoji": "🌉", "audio": "audio/fi/words/fi-s-08.mp3" },
+        { "text": "sydän", "roman": "sydän", "meaning": "heart", "emoji": "❤️", "audio": "audio/fi/words/fi-s-09.mp3" },
+        { "text": "sänky", "roman": "sänky", "meaning": "bed", "emoji": "🛏️", "audio": "audio/fi/words/fi-s-10.mp3" },
+        { "text": "sipuli", "roman": "sipuli", "meaning": "onion", "emoji": "🧅", "audio": "audio/fi/words/fi-s-11.mp3" },
+        { "text": "sata", "roman": "sata", "meaning": "hundred", "emoji": "💯", "audio": "audio/fi/words/fi-s-12.mp3" }
+      ]
+    },
+    {
+      "id": "fi-t",
+      "char": "t",
+      "name": "t",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/fi/letters/fi-t.mp3",
+      "memoryTrick": "Like English 't' in 'stop' — no puff of air. Tongue tip touches just behind your upper teeth (more dental than English t). Unaspirated, like Spanish or French t.",
+      "words": [
+        { "text": "talo", "roman": "talo", "meaning": "house", "emoji": "🏠", "audio": "audio/fi/words/fi-t-01.mp3" },
+        { "text": "tähti", "roman": "tähti", "meaning": "star", "emoji": "⭐", "audio": "audio/fi/words/fi-t-02.mp3" },
+        { "text": "tyttö", "roman": "tyttö", "meaning": "girl", "emoji": "👧", "audio": "audio/fi/words/fi-t-03.mp3" },
+        { "text": "tuli", "roman": "tuli", "meaning": "fire", "emoji": "🔥", "audio": "audio/fi/words/fi-t-04.mp3" },
+        { "text": "tuoli", "roman": "tuoli", "meaning": "chair", "emoji": "🪑", "audio": "audio/fi/words/fi-t-05.mp3" },
+        { "text": "tie", "roman": "tie", "meaning": "road", "emoji": "🛣️", "audio": "audio/fi/words/fi-t-06.mp3" },
+        { "text": "taivas", "roman": "taivas", "meaning": "sky / heaven", "emoji": "☁️", "audio": "audio/fi/words/fi-t-07.mp3" },
+        { "text": "tunti", "roman": "tunti", "meaning": "hour", "emoji": "⏱️", "audio": "audio/fi/words/fi-t-08.mp3" },
+        { "text": "tanssi", "roman": "tanssi", "meaning": "dance", "emoji": "💃", "audio": "audio/fi/words/fi-t-09.mp3" },
+        { "text": "tarina", "roman": "tarina", "meaning": "story", "emoji": "📖", "audio": "audio/fi/words/fi-t-10.mp3" },
+        { "text": "tammi", "roman": "tammi", "meaning": "oak", "emoji": "🌳", "audio": "audio/fi/words/fi-t-11.mp3" }
+      ]
+    },
+    {
+      "id": "fi-u",
+      "char": "u",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/fi/letters/fi-u.mp3",
+      "memoryTrick": "Like the 'oo' in 'boot' but shorter and with tightly rounded lips. A pure vowel — don't let it glide. Finnish u is always this sound, never like English 'u' in 'cup'.",
+      "words": [
+        { "text": "uusi", "roman": "uusi", "meaning": "new", "emoji": "✨", "audio": "audio/fi/words/fi-u-01.mp3" },
+        { "text": "uni", "roman": "uni", "meaning": "dream / sleep", "emoji": "💤", "audio": "audio/fi/words/fi-u-02.mp3" },
+        { "text": "ukkonen", "roman": "ukkonen", "meaning": "thunder", "emoji": "⚡", "audio": "audio/fi/words/fi-u-03.mp3" },
+        { "text": "uima", "roman": "uima", "meaning": "swimming", "emoji": "🏊", "audio": "audio/fi/words/fi-u-04.mp3" },
+        { "text": "usva", "roman": "usva", "meaning": "mist / fog", "emoji": "🌫️", "audio": "audio/fi/words/fi-u-05.mp3" },
+        { "text": "uuni", "roman": "uuni", "meaning": "oven", "emoji": "🔥", "audio": "audio/fi/words/fi-u-06.mp3" },
+        { "text": "ulos", "roman": "ulos", "meaning": "out / outside", "audio": "audio/fi/words/fi-u-07.mp3" },
+        { "text": "uros", "roman": "uros", "meaning": "male (animal)", "audio": "audio/fi/words/fi-u-08.mp3" },
+        { "text": "usko", "roman": "usko", "meaning": "faith / belief", "audio": "audio/fi/words/fi-u-09.mp3" },
+        { "text": "ura", "roman": "ura", "meaning": "career / track", "audio": "audio/fi/words/fi-u-10.mp3" }
+      ]
+    },
+    {
+      "id": "fi-v",
+      "char": "v",
+      "name": "v",
+      "romanization": "v",
+      "ipa": "/ʋ/",
+      "letterAudio": "audio/fi/letters/fi-v.mp3",
+      "memoryTrick": "A soft v — somewhere between English 'v' and 'w'. Don't bite your lower lip like in English 'very'. Instead, bring your upper teeth close to your lower lip without pressing hard.",
+      "words": [
+        { "text": "vesi", "roman": "vesi", "meaning": "water", "emoji": "💧", "audio": "audio/fi/words/fi-v-01.mp3" },
+        { "text": "vuori", "roman": "vuori", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/fi/words/fi-v-02.mp3" },
+        { "text": "valo", "roman": "valo", "meaning": "light", "emoji": "💡", "audio": "audio/fi/words/fi-v-03.mp3" },
+        { "text": "veli", "roman": "veli", "meaning": "brother", "emoji": "👨", "audio": "audio/fi/words/fi-v-04.mp3" },
+        { "text": "vauva", "roman": "vauva", "meaning": "baby", "emoji": "👶", "audio": "audio/fi/words/fi-v-05.mp3" },
+        { "text": "vene", "roman": "vene", "meaning": "boat", "emoji": "🛶", "audio": "audio/fi/words/fi-v-06.mp3" },
+        { "text": "väri", "roman": "väri", "meaning": "color", "emoji": "🎨", "audio": "audio/fi/words/fi-v-07.mp3" },
+        { "text": "valas", "roman": "valas", "meaning": "whale", "emoji": "🐋", "audio": "audio/fi/words/fi-v-08.mp3" },
+        { "text": "voima", "roman": "voima", "meaning": "power / strength", "emoji": "💪", "audio": "audio/fi/words/fi-v-09.mp3" },
+        { "text": "vanha", "roman": "vanha", "meaning": "old", "emoji": "👴", "audio": "audio/fi/words/fi-v-10.mp3" }
+      ]
+    },
+    {
+      "id": "fi-w",
+      "char": "w",
+      "name": "w",
+      "romanization": "w",
+      "ipa": "/ʋ/",
+      "letterAudio": "audio/fi/letters/fi-w.mp3",
+      "memoryTrick": "Extremely rare in Finnish — used only in loanwords and foreign names. Pronounced like Finnish 'v' (a soft v/w sound). In older texts, w was sometimes used instead of v.",
+      "words": [
+        { "text": "web", "roman": "web", "meaning": "web / internet", "emoji": "🌐", "audio": "audio/fi/words/fi-w-01.mp3" },
+        { "text": "wifi", "roman": "wifi", "meaning": "Wi-Fi", "emoji": "📶", "audio": "audio/fi/words/fi-w-02.mp3" },
+        { "text": "WC", "roman": "WC", "meaning": "restroom / toilet", "emoji": "🚻", "audio": "audio/fi/words/fi-w-03.mp3" }
+      ]
+    },
+    {
+      "id": "fi-x",
+      "char": "x",
+      "name": "x",
+      "romanization": "x",
+      "ipa": "/ks/",
+      "letterAudio": "audio/fi/letters/fi-x.mp3",
+      "memoryTrick": "Very rare in Finnish. Pronounced like 'ks'. In native words, this sound is always spelled 'ks'. X appears only in foreign borrowings and names.",
+      "words": [
+        { "text": "xylitoli", "roman": "xylitoli", "meaning": "xylitol (sweetener)", "emoji": "🦷", "audio": "audio/fi/words/fi-x-01.mp3" }
+      ]
+    },
+    {
+      "id": "fi-y",
+      "char": "y",
+      "name": "y",
+      "romanization": "y",
+      "ipa": "/y/",
+      "letterAudio": "audio/fi/letters/fi-y.mp3",
+      "memoryTrick": "Like French 'u' in 'tu' or German 'ü' — say 'ee' (as in 'see') and then round your lips without moving your tongue. Never like English 'y' in 'yes'; that sound is Finnish j.",
+      "words": [
+        { "text": "yö", "roman": "yö", "meaning": "night", "emoji": "🌙", "audio": "audio/fi/words/fi-y-01.mp3" },
+        { "text": "ystävä", "roman": "ystävä", "meaning": "friend", "emoji": "🤝", "audio": "audio/fi/words/fi-y-02.mp3" },
+        { "text": "yksi", "roman": "yksi", "meaning": "one", "emoji": "1️⃣", "audio": "audio/fi/words/fi-y-03.mp3" },
+        { "text": "yli", "roman": "yli", "meaning": "over / across", "audio": "audio/fi/words/fi-y-04.mp3" },
+        { "text": "ympyrä", "roman": "ympyrä", "meaning": "circle", "emoji": "⭕", "audio": "audio/fi/words/fi-y-05.mp3" },
+        { "text": "ydin", "roman": "ydin", "meaning": "core / nucleus", "audio": "audio/fi/words/fi-y-06.mp3" },
+        { "text": "ylpeä", "roman": "ylpeä", "meaning": "proud", "audio": "audio/fi/words/fi-y-07.mp3" },
+        { "text": "yritys", "roman": "yritys", "meaning": "company / attempt", "emoji": "🏢", "audio": "audio/fi/words/fi-y-08.mp3" },
+        { "text": "yhdeksän", "roman": "yhdeksän", "meaning": "nine", "emoji": "9️⃣", "audio": "audio/fi/words/fi-y-09.mp3" },
+        { "text": "yliopisto", "roman": "yliopisto", "meaning": "university", "emoji": "🎓", "audio": "audio/fi/words/fi-y-10.mp3" }
+      ]
+    },
+    {
+      "id": "fi-z",
+      "char": "z",
+      "name": "z",
+      "romanization": "z",
+      "ipa": "/ts/",
+      "letterAudio": "audio/fi/letters/fi-z.mp3",
+      "memoryTrick": "Very rare in Finnish — used in loanwords and foreign names. Usually pronounced like 'ts' as in 'cats'. In some borrowings it may sound closer to English 'z'.",
+      "words": [
+        { "text": "zen", "roman": "zen", "meaning": "Zen", "emoji": "🧘", "audio": "audio/fi/words/fi-z-01.mp3" },
+        { "text": "zombie", "roman": "zombie", "meaning": "zombie", "emoji": "🧟", "audio": "audio/fi/words/fi-z-02.mp3" },
+        { "text": "zoom", "roman": "zoom", "meaning": "zoom", "emoji": "🔍", "audio": "audio/fi/words/fi-z-03.mp3" }
+      ]
+    },
+    {
+      "id": "fi-a-ring",
+      "char": "å",
+      "name": "å (Swedish o)",
+      "romanization": "å",
+      "ipa": "/oː/",
+      "letterAudio": "audio/fi/letters/fi-a-ring.mp3",
+      "memoryTrick": "Called the 'Swedish o' in Finland. Pronounced like a long Finnish 'o' as in 'door'. Appears only in Swedish names and place-names in Finland, like Åland.",
+      "words": [
+        { "text": "Åland", "roman": "Åland", "meaning": "Åland (islands)", "emoji": "🏝️", "audio": "audio/fi/words/fi-a-ring-01.mp3" }
+      ]
+    },
+    {
+      "id": "fi-a-umlaut",
+      "char": "ä",
+      "name": "ä (a with diaeresis)",
+      "romanization": "ä",
+      "ipa": "/æ/",
+      "letterAudio": "audio/fi/letters/fi-a-umlaut.mp3",
+      "memoryTrick": "Like the 'a' in English 'cat' or 'hat'. Spread your lips wide, open your mouth, and keep the sound bright and front. Ä is one of the most common vowels in Finnish.",
+      "words": [
+        { "text": "äiti", "roman": "äiti", "meaning": "mother", "emoji": "👩", "audio": "audio/fi/words/fi-a-umlaut-01.mp3" },
+        { "text": "ääni", "roman": "ääni", "meaning": "sound / voice", "emoji": "🔊", "audio": "audio/fi/words/fi-a-umlaut-02.mp3" },
+        { "text": "ämpäri", "roman": "ämpäri", "meaning": "bucket", "emoji": "🪣", "audio": "audio/fi/words/fi-a-umlaut-03.mp3" },
+        { "text": "äly", "roman": "äly", "meaning": "intelligence / wit", "emoji": "🧠", "audio": "audio/fi/words/fi-a-umlaut-04.mp3" },
+        { "text": "älä", "roman": "älä", "meaning": "don't (imperative)", "audio": "audio/fi/words/fi-a-umlaut-05.mp3" },
+        { "text": "äkkiä", "roman": "äkkiä", "meaning": "suddenly / quickly", "emoji": "💨", "audio": "audio/fi/words/fi-a-umlaut-06.mp3" },
+        { "text": "äänestää", "roman": "äänestää", "meaning": "to vote", "emoji": "🗳️", "audio": "audio/fi/words/fi-a-umlaut-07.mp3" },
+        { "text": "äsken", "roman": "äsken", "meaning": "just now / a moment ago", "audio": "audio/fi/words/fi-a-umlaut-08.mp3" },
+        { "text": "ärsyttää", "roman": "ärsyttää", "meaning": "to irritate / annoy", "audio": "audio/fi/words/fi-a-umlaut-09.mp3" },
+        { "text": "ällöttävä", "roman": "ällöttävä", "meaning": "disgusting", "audio": "audio/fi/words/fi-a-umlaut-10.mp3" }
+      ]
+    },
+    {
+      "id": "fi-o-umlaut",
+      "char": "ö",
+      "name": "ö (o with diaeresis)",
+      "romanization": "ö",
+      "ipa": "/ø/",
+      "letterAudio": "audio/fi/letters/fi-o-umlaut.mp3",
+      "memoryTrick": "Like the 'i' in 'bird' or German 'ö' in 'schön'. Say 'eh' (as in 'bed') and then round your lips tightly without moving your tongue. Feels like ä with rounded lips.",
+      "words": [
+        { "text": "yö", "roman": "yö", "meaning": "night", "emoji": "🌙", "audio": "audio/fi/words/fi-o-umlaut-01.mp3" },
+        { "text": "ötökkä", "roman": "ötökkä", "meaning": "bug / insect", "emoji": "🐛", "audio": "audio/fi/words/fi-o-umlaut-02.mp3" },
+        { "text": "öljy", "roman": "öljy", "meaning": "oil", "emoji": "🛢️", "audio": "audio/fi/words/fi-o-umlaut-03.mp3" },
+        { "text": "öinen", "roman": "öinen", "meaning": "nocturnal", "emoji": "🦉", "audio": "audio/fi/words/fi-o-umlaut-04.mp3" },
+        { "text": "öisin", "roman": "öisin", "meaning": "at night / by night", "audio": "audio/fi/words/fi-o-umlaut-05.mp3" }
       ]
     }
   ]

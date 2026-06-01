@@ -2,7 +2,6 @@
   "language": "Tamil",
   "code": "ta-IN",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
       "id": "ta-a",
@@ -10,20 +9,19 @@
       "name": "a",
       "romanization": "a",
       "ipa": "/ʌ/",
-      "memoryTrick": "The first vowel — a short 'a'.",
+      "letterAudio": "audio/ta/letters/ta-a.mp3",
+      "memoryTrick": "Like the 'a' in 'about' or 'sofa'. Keep it short and relaxed — don't stretch it out.",
       "words": [
-        {
-          "text": "அம்மா",
-          "roman": "ammā",
-          "meaning": "mother",
-          "emoji": "👩"
-        },
-        {
-          "text": "அரசன்",
-          "roman": "arasan",
-          "meaning": "king",
-          "emoji": "👑"
-        }
+        { "text": "அம்மா", "roman": "ammā", "meaning": "mother", "emoji": "👩", "audio": "audio/ta/words/ta-a-01.mp3" },
+        { "text": "அப்பா", "roman": "appā", "meaning": "father", "emoji": "👨", "audio": "audio/ta/words/ta-a-02.mp3" },
+        { "text": "அக்கா", "roman": "akkā", "meaning": "elder sister", "emoji": "👧", "audio": "audio/ta/words/ta-a-03.mp3" },
+        { "text": "அண்ணா", "roman": "aṇṇā", "meaning": "elder brother", "emoji": "👦", "audio": "audio/ta/words/ta-a-04.mp3" },
+        { "text": "அரிசி", "roman": "arici", "meaning": "rice", "emoji": "🍚", "audio": "audio/ta/words/ta-a-05.mp3" },
+        { "text": "அழகு", "roman": "aḻaku", "meaning": "beauty", "audio": "audio/ta/words/ta-a-06.mp3" },
+        { "text": "அன்பு", "roman": "aṉpu", "meaning": "love / affection", "emoji": "❤️", "audio": "audio/ta/words/ta-a-07.mp3" },
+        { "text": "அறிவு", "roman": "aṟivu", "meaning": "knowledge / wisdom", "audio": "audio/ta/words/ta-a-08.mp3" },
+        { "text": "அலை", "roman": "alai", "meaning": "wave", "emoji": "🌊", "audio": "audio/ta/words/ta-a-09.mp3" },
+        { "text": "அடை", "roman": "aṭai", "meaning": "a type of savoury pancake", "audio": "audio/ta/words/ta-a-10.mp3" }
       ]
     },
     {
@@ -31,110 +29,745 @@
       "char": "ஆ",
       "name": "ā",
       "romanization": "ā",
-      "ipa": "/aː/",
-      "memoryTrick": "A long 'aa'.",
+      "ipa": "/ɑː/",
+      "letterAudio": "audio/ta/letters/ta-aa.mp3",
+      "memoryTrick": "Like the 'a' in 'father' — a long, open sound. Hold it twice as long as short 'a'.",
       "words": [
-        {
-          "text": "ஆடு",
-          "roman": "āḍu",
-          "meaning": "goat",
-          "emoji": "🐐"
-        },
-        {
-          "text": "ஆமை",
-          "roman": "āmai",
-          "meaning": "turtle",
-          "emoji": "🐢"
-        }
+        { "text": "ஆடு", "roman": "āṭu", "meaning": "goat", "emoji": "🐐", "audio": "audio/ta/words/ta-aa-01.mp3" },
+        { "text": "ஆறு", "roman": "āṟu", "meaning": "river", "emoji": "🏞️", "audio": "audio/ta/words/ta-aa-02.mp3" },
+        { "text": "ஆம்", "roman": "ām", "meaning": "yes", "emoji": "👍", "audio": "audio/ta/words/ta-aa-03.mp3" },
+        { "text": "ஆசை", "roman": "ācai", "meaning": "desire / wish", "audio": "audio/ta/words/ta-aa-04.mp3" },
+        { "text": "ஆழம்", "roman": "āḻam", "meaning": "depth", "audio": "audio/ta/words/ta-aa-05.mp3" },
+        { "text": "ஆண்", "roman": "āṇ", "meaning": "male / man", "emoji": "♂️", "audio": "audio/ta/words/ta-aa-06.mp3" },
+        { "text": "ஆவி", "roman": "āvi", "meaning": "steam / vapour", "emoji": "♨️", "audio": "audio/ta/words/ta-aa-07.mp3" },
+        { "text": "ஆலை", "roman": "ālai", "meaning": "mill / factory", "audio": "audio/ta/words/ta-aa-08.mp3" },
+        { "text": "ஆயுதம்", "roman": "āyutam", "meaning": "weapon", "audio": "audio/ta/words/ta-aa-09.mp3" },
+        { "text": "ஆட்டம்", "roman": "āṭṭam", "meaning": "game / dance", "audio": "audio/ta/words/ta-aa-10.mp3" }
+      ]
+    },
+    {
+      "id": "ta-i",
+      "char": "இ",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/ta/letters/ta-i.mp3",
+      "memoryTrick": "Like the 'i' in 'bit' or 'pin'. Short and crisp — not like 'eye'.",
+      "words": [
+        { "text": "இலை", "roman": "ilai", "meaning": "leaf", "emoji": "🍃", "audio": "audio/ta/words/ta-i-01.mp3" },
+        { "text": "இனிப்பு", "roman": "iṉippu", "meaning": "sweetness / sweet", "audio": "audio/ta/words/ta-i-02.mp3" },
+        { "text": "இட்லி", "roman": "iṭli", "meaning": "idli (steamed rice cake)", "audio": "audio/ta/words/ta-i-03.mp3" },
+        { "text": "இசை", "roman": "icai", "meaning": "music", "emoji": "🎵", "audio": "audio/ta/words/ta-i-04.mp3" },
+        { "text": "இரவு", "roman": "iravu", "meaning": "night", "emoji": "🌙", "audio": "audio/ta/words/ta-i-05.mp3" },
+        { "text": "இதழ்", "roman": "itaḻ", "meaning": "petal / lip", "audio": "audio/ta/words/ta-i-06.mp3" },
+        { "text": "இமை", "roman": "imai", "meaning": "eyelash / eyelid", "audio": "audio/ta/words/ta-i-07.mp3" },
+        { "text": "இரும்பு", "roman": "irumpu", "meaning": "iron (metal)", "audio": "audio/ta/words/ta-i-08.mp3" },
+        { "text": "இளம்", "roman": "iḷam", "meaning": "young / tender", "audio": "audio/ta/words/ta-i-09.mp3" },
+        { "text": "இறை", "roman": "iṟai", "meaning": "god / divine", "audio": "audio/ta/words/ta-i-10.mp3" }
+      ]
+    },
+    {
+      "id": "ta-ii",
+      "char": "ஈ",
+      "name": "ī",
+      "romanization": "ī",
+      "ipa": "/iː/",
+      "letterAudio": "audio/ta/letters/ta-ii.mp3",
+      "memoryTrick": "Like the 'ee' in 'see' or 'bee'. A long, smiling 'i' — hold it for a full beat.",
+      "words": [
+        { "text": "ஈ", "roman": "ī", "meaning": "fly (insect)", "emoji": "🪰", "audio": "audio/ta/words/ta-ii-01.mp3" },
+        { "text": "ஈரம்", "roman": "īram", "meaning": "moisture / wetness", "emoji": "💧", "audio": "audio/ta/words/ta-ii-02.mp3" },
+        { "text": "ஈசல்", "roman": "īcal", "meaning": "winged termite", "audio": "audio/ta/words/ta-ii-03.mp3" },
+        { "text": "ஈட்டி", "roman": "īṭṭi", "meaning": "spear / javelin", "audio": "audio/ta/words/ta-ii-04.mp3" },
+        { "text": "ஈகை", "roman": "īkai", "meaning": "generosity / giving", "audio": "audio/ta/words/ta-ii-05.mp3" },
+        { "text": "ஈனுதல்", "roman": "īṉutal", "meaning": "giving birth (of animals)", "audio": "audio/ta/words/ta-ii-06.mp3" }
+      ]
+    },
+    {
+      "id": "ta-u",
+      "char": "உ",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/ta/letters/ta-u.mp3",
+      "memoryTrick": "Like the 'u' in 'put' or 'foot'. Round your lips but keep it short.",
+      "words": [
+        { "text": "உணவு", "roman": "uṇavu", "meaning": "food / meal", "emoji": "🍽️", "audio": "audio/ta/words/ta-u-01.mp3" },
+        { "text": "உலகம்", "roman": "ulakam", "meaning": "world", "emoji": "🌍", "audio": "audio/ta/words/ta-u-02.mp3" },
+        { "text": "உடல்", "roman": "uṭal", "meaning": "body", "audio": "audio/ta/words/ta-u-03.mp3" },
+        { "text": "உப்பு", "roman": "uppu", "meaning": "salt", "emoji": "🧂", "audio": "audio/ta/words/ta-u-04.mp3" },
+        { "text": "உறவு", "roman": "uṟavu", "meaning": "relationship / relative", "audio": "audio/ta/words/ta-u-05.mp3" },
+        { "text": "உண்மை", "roman": "uṇmai", "meaning": "truth", "audio": "audio/ta/words/ta-u-06.mp3" },
+        { "text": "உயிர்", "roman": "uyir", "meaning": "life / soul", "audio": "audio/ta/words/ta-u-07.mp3" },
+        { "text": "உதடு", "roman": "utaṭu", "meaning": "lip", "audio": "audio/ta/words/ta-u-08.mp3" },
+        { "text": "உள்ளம்", "roman": "uḷḷam", "meaning": "heart / mind", "audio": "audio/ta/words/ta-u-09.mp3" },
+        { "text": "உழைப்பு", "roman": "uḻaippu", "meaning": "hard work / labour", "audio": "audio/ta/words/ta-u-10.mp3" }
+      ]
+    },
+    {
+      "id": "ta-uu",
+      "char": "ஊ",
+      "name": "ū",
+      "romanization": "ū",
+      "ipa": "/uː/",
+      "letterAudio": "audio/ta/letters/ta-uu.mp3",
+      "memoryTrick": "Like the 'oo' in 'moon' or 'food'. A long rounded 'u' — hold it for a full beat.",
+      "words": [
+        { "text": "ஊர்", "roman": "ūr", "meaning": "town / village", "emoji": "🏘️", "audio": "audio/ta/words/ta-uu-01.mp3" },
+        { "text": "ஊசி", "roman": "ūci", "meaning": "needle", "audio": "audio/ta/words/ta-uu-02.mp3" },
+        { "text": "ஊஞ்சல்", "roman": "ūñcal", "meaning": "swing", "audio": "audio/ta/words/ta-uu-03.mp3" },
+        { "text": "ஊற்று", "roman": "ūṟṟu", "meaning": "spring / fountain", "emoji": "⛲", "audio": "audio/ta/words/ta-uu-04.mp3" },
+        { "text": "ஊமை", "roman": "ūmai", "meaning": "mute / speechless", "audio": "audio/ta/words/ta-uu-05.mp3" },
+        { "text": "ஊக்கம்", "roman": "ūkkam", "meaning": "enthusiasm / motivation", "audio": "audio/ta/words/ta-uu-06.mp3" },
+        { "text": "ஊதல்", "roman": "ūtal", "meaning": "whistling / blowing", "audio": "audio/ta/words/ta-uu-07.mp3" }
+      ]
+    },
+    {
+      "id": "ta-e",
+      "char": "எ",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/e/",
+      "letterAudio": "audio/ta/letters/ta-e.mp3",
+      "memoryTrick": "Like the 'e' in 'bet' or 'red'. Short, open 'e' — not drawn out.",
+      "words": [
+        { "text": "எலி", "roman": "eli", "meaning": "rat / mouse", "emoji": "🐀", "audio": "audio/ta/words/ta-e-01.mp3" },
+        { "text": "எண்", "roman": "eṇ", "meaning": "number / eight", "audio": "audio/ta/words/ta-e-02.mp3" },
+        { "text": "எழுத்து", "roman": "eḻuttu", "meaning": "letter / writing", "audio": "audio/ta/words/ta-e-03.mp3" },
+        { "text": "எண்ணெய்", "roman": "eṇṇey", "meaning": "oil", "audio": "audio/ta/words/ta-e-04.mp3" },
+        { "text": "எறும்பு", "roman": "eṟumpu", "meaning": "ant", "emoji": "🐜", "audio": "audio/ta/words/ta-e-05.mp3" },
+        { "text": "எந்திரம்", "roman": "entiram", "meaning": "machine", "audio": "audio/ta/words/ta-e-06.mp3" },
+        { "text": "எச்சில்", "roman": "eccil", "meaning": "saliva / leftover food", "audio": "audio/ta/words/ta-e-07.mp3" },
+        { "text": "எடை", "roman": "eṭai", "meaning": "weight", "audio": "audio/ta/words/ta-e-08.mp3" }
+      ]
+    },
+    {
+      "id": "ta-ee",
+      "char": "ஏ",
+      "name": "ē",
+      "romanization": "ē",
+      "ipa": "/eː/",
+      "letterAudio": "audio/ta/letters/ta-ee.mp3",
+      "memoryTrick": "Like the 'ay' in 'say' or 'day' — but without the glide. A pure, long 'e' sound.",
+      "words": [
+        { "text": "ஏடு", "roman": "ēṭu", "meaning": "palm-leaf manuscript / page", "audio": "audio/ta/words/ta-ee-01.mp3" },
+        { "text": "ஏரி", "roman": "ēri", "meaning": "lake / tank", "emoji": "🏞️", "audio": "audio/ta/words/ta-ee-02.mp3" },
+        { "text": "ஏணி", "roman": "ēṇi", "meaning": "ladder", "emoji": "🪜", "audio": "audio/ta/words/ta-ee-03.mp3" },
+        { "text": "ஏழை", "roman": "ēḻai", "meaning": "poor person", "audio": "audio/ta/words/ta-ee-04.mp3" },
+        { "text": "ஏமாற்று", "roman": "ēmāṟṟu", "meaning": "deception / cheating", "audio": "audio/ta/words/ta-ee-05.mp3" },
+        { "text": "ஏக்கம்", "roman": "ēkkam", "meaning": "longing / yearning", "audio": "audio/ta/words/ta-ee-06.mp3" },
+        { "text": "ஏவல்", "roman": "ēval", "meaning": "command / errand", "audio": "audio/ta/words/ta-ee-07.mp3" }
+      ]
+    },
+    {
+      "id": "ta-ai",
+      "char": "ஐ",
+      "name": "ai",
+      "romanization": "ai",
+      "ipa": "/ʌɪ/",
+      "letterAudio": "audio/ta/letters/ta-ai.mp3",
+      "memoryTrick": "Like the 'i' in 'like' or 'my'. A diphthong — start with 'a' and glide toward 'i'.",
+      "words": [
+        { "text": "ஐந்து", "roman": "aintu", "meaning": "five", "emoji": "5️⃣", "audio": "audio/ta/words/ta-ai-01.mp3" },
+        { "text": "ஐயம்", "roman": "aiyam", "meaning": "doubt / suspicion", "audio": "audio/ta/words/ta-ai-02.mp3" },
+        { "text": "ஐம்பது", "roman": "aimpatu", "meaning": "fifty", "audio": "audio/ta/words/ta-ai-03.mp3" },
+        { "text": "ஐநூறு", "roman": "ainūṟu", "meaning": "five hundred", "audio": "audio/ta/words/ta-ai-04.mp3" },
+        { "text": "ஐயோ", "roman": "aiyō", "meaning": "alas! / oh no!", "audio": "audio/ta/words/ta-ai-05.mp3" }
+      ]
+    },
+    {
+      "id": "ta-o",
+      "char": "ஒ",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/o/",
+      "letterAudio": "audio/ta/letters/ta-o.mp3",
+      "memoryTrick": "Like the 'o' in 'hot' or 'not'. Short, open — round your lips briefly.",
+      "words": [
+        { "text": "ஒளி", "roman": "oḷi", "meaning": "light", "emoji": "💡", "audio": "audio/ta/words/ta-o-01.mp3" },
+        { "text": "ஒலி", "roman": "oli", "meaning": "sound", "emoji": "🔊", "audio": "audio/ta/words/ta-o-02.mp3" },
+        { "text": "ஒன்று", "roman": "oṉṟu", "meaning": "one", "emoji": "1️⃣", "audio": "audio/ta/words/ta-o-03.mp3" },
+        { "text": "ஒட்டகம்", "roman": "oṭṭakam", "meaning": "camel", "emoji": "🐪", "audio": "audio/ta/words/ta-o-04.mp3" },
+        { "text": "ஒருவர்", "roman": "oruvar", "meaning": "one person", "audio": "audio/ta/words/ta-o-05.mp3" },
+        { "text": "ஒப்பந்தம்", "roman": "oppantam", "meaning": "contract / agreement", "audio": "audio/ta/words/ta-o-06.mp3" },
+        { "text": "ஒழுக்கம்", "roman": "oḻukkam", "meaning": "discipline / conduct", "audio": "audio/ta/words/ta-o-07.mp3" },
+        { "text": "ஒற்றுமை", "roman": "oṟṟumai", "meaning": "unity", "audio": "audio/ta/words/ta-o-08.mp3" }
+      ]
+    },
+    {
+      "id": "ta-oo",
+      "char": "ஓ",
+      "name": "ō",
+      "romanization": "ō",
+      "ipa": "/oː/",
+      "letterAudio": "audio/ta/letters/ta-oo.mp3",
+      "memoryTrick": "Like the 'o' in 'go' or 'home' — but without the 'w' glide at the end. A pure, long 'o'.",
+      "words": [
+        { "text": "ஓடு", "roman": "ōṭu", "meaning": "tile / shell / run!", "audio": "audio/ta/words/ta-oo-01.mp3" },
+        { "text": "ஓசை", "roman": "ōcai", "meaning": "sound / noise", "audio": "audio/ta/words/ta-oo-02.mp3" },
+        { "text": "ஓலை", "roman": "ōlai", "meaning": "palm leaf", "emoji": "🌴", "audio": "audio/ta/words/ta-oo-03.mp3" },
+        { "text": "ஓவியம்", "roman": "ōviyam", "meaning": "painting / art", "emoji": "🎨", "audio": "audio/ta/words/ta-oo-04.mp3" },
+        { "text": "ஓய்வு", "roman": "ōyvu", "meaning": "rest / retirement", "audio": "audio/ta/words/ta-oo-05.mp3" },
+        { "text": "ஓந்தி", "roman": "ōnti", "meaning": "chameleon", "emoji": "🦎", "audio": "audio/ta/words/ta-oo-06.mp3" },
+        { "text": "ஓட்டல்", "roman": "ōṭṭal", "meaning": "hotel", "audio": "audio/ta/words/ta-oo-07.mp3" }
+      ]
+    },
+    {
+      "id": "ta-au",
+      "char": "ஔ",
+      "name": "au",
+      "romanization": "au",
+      "ipa": "/ʌʊ/",
+      "letterAudio": "audio/ta/letters/ta-au.mp3",
+      "memoryTrick": "Like the 'ow' in 'now' or 'how'. Start with 'a' and round toward 'u' — a rare but important vowel.",
+      "words": [
+        { "text": "ஔவை", "roman": "auvai", "meaning": "revered woman / poetess", "audio": "audio/ta/words/ta-au-01.mp3" },
+        { "text": "ஔடதம்", "roman": "auṭatam", "meaning": "medicine / remedy", "audio": "audio/ta/words/ta-au-02.mp3" },
+        { "text": "ஔவியம்", "roman": "auviyam", "meaning": "envy / jealousy", "audio": "audio/ta/words/ta-au-03.mp3" }
       ]
     },
     {
       "id": "ta-ka",
       "char": "க",
       "name": "ka",
-      "romanization": "k",
+      "romanization": "ka",
       "ipa": "/k/",
-      "memoryTrick": "One letter covers k/g sounds depending on position.",
+      "letterAudio": "audio/ta/letters/ta-ka.mp3",
+      "memoryTrick": "Like 'k' in 'kite'. Between vowels it softens to a 'g'-like sound, but the letter is always 'ka'.",
       "words": [
-        {
-          "text": "கடல்",
-          "roman": "kadal",
-          "meaning": "sea",
-          "emoji": "🌊"
-        },
-        {
-          "text": "கை",
-          "roman": "kai",
-          "meaning": "hand",
-          "emoji": "✋"
-        }
+        { "text": "கடல்", "roman": "kaṭal", "meaning": "sea / ocean", "emoji": "🌊", "audio": "audio/ta/words/ta-ka-01.mp3" },
+        { "text": "கண்", "roman": "kaṇ", "meaning": "eye", "emoji": "👁️", "audio": "audio/ta/words/ta-ka-02.mp3" },
+        { "text": "காற்று", "roman": "kāṟṟu", "meaning": "wind / air", "emoji": "💨", "audio": "audio/ta/words/ta-ka-03.mp3" },
+        { "text": "காது", "roman": "kātu", "meaning": "ear", "emoji": "👂", "audio": "audio/ta/words/ta-ka-04.mp3" },
+        { "text": "கால்", "roman": "kāl", "meaning": "leg / foot", "emoji": "🦶", "audio": "audio/ta/words/ta-ka-05.mp3" },
+        { "text": "கை", "roman": "kai", "meaning": "hand", "emoji": "🖐️", "audio": "audio/ta/words/ta-ka-06.mp3" },
+        { "text": "கனவு", "roman": "kaṉavu", "meaning": "dream", "emoji": "💭", "audio": "audio/ta/words/ta-ka-07.mp3" },
+        { "text": "குரங்கு", "roman": "kuraṅku", "meaning": "monkey", "emoji": "🐒", "audio": "audio/ta/words/ta-ka-08.mp3" },
+        { "text": "கத்தி", "roman": "katti", "meaning": "knife", "emoji": "🔪", "audio": "audio/ta/words/ta-ka-09.mp3" },
+        { "text": "குடை", "roman": "kuṭai", "meaning": "umbrella", "emoji": "☂️", "audio": "audio/ta/words/ta-ka-10.mp3" },
+        { "text": "குழந்தை", "roman": "kuḻantai", "meaning": "child / baby", "emoji": "👶", "audio": "audio/ta/words/ta-ka-11.mp3" },
+        { "text": "கதவு", "roman": "katavu", "meaning": "door", "emoji": "🚪", "audio": "audio/ta/words/ta-ka-12.mp3" }
+      ]
+    },
+    {
+      "id": "ta-nga",
+      "char": "ங",
+      "name": "ṅa",
+      "romanization": "ṅa",
+      "ipa": "/ŋ/",
+      "letterAudio": "audio/ta/letters/ta-nga.mp3",
+      "memoryTrick": "Like 'ng' in 'sing' or 'ring'. This sound never starts a word in Tamil — it appears in the middle or end.",
+      "words": [
+        { "text": "தங்கம்", "roman": "taṅkam", "meaning": "gold", "audio": "audio/ta/words/ta-nga-01.mp3" },
+        { "text": "சிங்கம்", "roman": "ciṅkam", "meaning": "lion", "emoji": "🦁", "audio": "audio/ta/words/ta-nga-02.mp3" },
+        { "text": "பொங்கல்", "roman": "poṅkal", "meaning": "Pongal (harvest festival / dish)", "audio": "audio/ta/words/ta-nga-03.mp3" },
+        { "text": "அங்கம்", "roman": "aṅkam", "meaning": "body part / limb", "audio": "audio/ta/words/ta-nga-04.mp3" },
+        { "text": "மங்களம்", "roman": "maṅkaḷam", "meaning": "auspiciousness / blessing", "audio": "audio/ta/words/ta-nga-05.mp3" }
       ]
     },
     {
       "id": "ta-ca",
       "char": "ச",
       "name": "ca",
-      "romanization": "c",
-      "ipa": "/tʃ/",
-      "memoryTrick": "Says 'ch' or 's' depending on position.",
+      "romanization": "ca",
+      "ipa": "/t͡ʃ/",
+      "letterAudio": "audio/ta/letters/ta-ca.mp3",
+      "memoryTrick": "Like 'ch' in 'chair' or 'church'. Also pronounced like 's' in some positions — a versatile consonant.",
       "words": [
-        {
-          "text": "சட்டை",
-          "roman": "caṭṭai",
-          "meaning": "shirt",
-          "emoji": "👕"
-        },
-        {
-          "text": "சாவி",
-          "roman": "sāvi",
-          "meaning": "key",
-          "emoji": "🔑"
-        }
+        { "text": "சூரியன்", "roman": "cūriyaṉ", "meaning": "sun", "emoji": "☀️", "audio": "audio/ta/words/ta-ca-01.mp3" },
+        { "text": "சந்திரன்", "roman": "cantiraṉ", "meaning": "moon", "emoji": "🌙", "audio": "audio/ta/words/ta-ca-02.mp3" },
+        { "text": "சாலை", "roman": "cālai", "meaning": "road", "emoji": "🛣️", "audio": "audio/ta/words/ta-ca-03.mp3" },
+        { "text": "சர்க்கரை", "roman": "carkkarai", "meaning": "sugar", "audio": "audio/ta/words/ta-ca-04.mp3" },
+        { "text": "செடி", "roman": "ceṭi", "meaning": "plant / shrub", "emoji": "🌱", "audio": "audio/ta/words/ta-ca-05.mp3" },
+        { "text": "சுட்டி", "roman": "cuṭṭi", "meaning": "pointer / mark on forehead", "audio": "audio/ta/words/ta-ca-06.mp3" },
+        { "text": "சிறகு", "roman": "ciṟaku", "meaning": "wing", "audio": "audio/ta/words/ta-ca-07.mp3" },
+        { "text": "சமையல்", "roman": "camaiyal", "meaning": "cooking", "audio": "audio/ta/words/ta-ca-08.mp3" },
+        { "text": "சேவல்", "roman": "cēval", "meaning": "rooster", "emoji": "🐓", "audio": "audio/ta/words/ta-ca-09.mp3" },
+        { "text": "சட்டை", "roman": "caṭṭai", "meaning": "shirt", "emoji": "👕", "audio": "audio/ta/words/ta-ca-10.mp3" }
       ]
     },
     {
-      "id": "ta-na",
+      "id": "ta-nya",
+      "char": "ஞ",
+      "name": "ña",
+      "romanization": "ña",
+      "ipa": "/ɲ/",
+      "letterAudio": "audio/ta/letters/ta-nya.mp3",
+      "memoryTrick": "Like 'ny' in 'canyon' or Spanish 'ñ' in 'señor'. Rare at word-start — usually found in the middle of words.",
+      "words": [
+        { "text": "ஞாயிறு", "roman": "ñāyiṟu", "meaning": "Sunday / sun", "emoji": "☀️", "audio": "audio/ta/words/ta-nya-01.mp3" },
+        { "text": "ஞானம்", "roman": "ñāṉam", "meaning": "wisdom / knowledge", "audio": "audio/ta/words/ta-nya-02.mp3" },
+        { "text": "ஞாபகம்", "roman": "ñāpakam", "meaning": "memory / remembrance", "audio": "audio/ta/words/ta-nya-03.mp3" },
+        { "text": "ஞமலி", "roman": "ñamali", "meaning": "dog (classical)", "audio": "audio/ta/words/ta-nya-04.mp3" },
+        { "text": "மஞ்சள்", "roman": "mañcaḷ", "meaning": "yellow / turmeric", "audio": "audio/ta/words/ta-nya-05.mp3" },
+        { "text": "அஞ்சல்", "roman": "añcal", "meaning": "post / mail", "emoji": "📮", "audio": "audio/ta/words/ta-nya-06.mp3" }
+      ]
+    },
+    {
+      "id": "ta-tta",
+      "char": "ட",
+      "name": "ṭa",
+      "romanization": "ṭa",
+      "ipa": "/ʈ/",
+      "letterAudio": "audio/ta/letters/ta-tta.mp3",
+      "memoryTrick": "A retroflex 't' — curl your tongue tip back to touch the roof of your mouth. Harder and deeper than English 't'. Sounds like the 't' in 'stop' said with an Indian accent.",
+      "words": [
+        { "text": "டமாரம்", "roman": "ṭamāram", "meaning": "drum", "emoji": "🥁", "audio": "audio/ta/words/ta-tta-01.mp3" },
+        { "text": "டிக்கெட்", "roman": "ṭikkeṭ", "meaning": "ticket", "emoji": "🎫", "audio": "audio/ta/words/ta-tta-02.mp3" },
+        { "text": "வீடு", "roman": "vīṭu", "meaning": "house", "emoji": "🏠", "audio": "audio/ta/words/ta-tta-03.mp3" },
+        { "text": "படம்", "roman": "paṭam", "meaning": "picture / film", "audio": "audio/ta/words/ta-tta-04.mp3" },
+        { "text": "காடு", "roman": "kāṭu", "meaning": "forest", "emoji": "🌳", "audio": "audio/ta/words/ta-tta-05.mp3" },
+        { "text": "வண்டி", "roman": "vaṇṭi", "meaning": "vehicle / cart", "audio": "audio/ta/words/ta-tta-06.mp3" }
+      ]
+    },
+    {
+      "id": "ta-nna-retro",
+      "char": "ண",
+      "name": "ṇa",
+      "romanization": "ṇa",
+      "ipa": "/ɳ/",
+      "letterAudio": "audio/ta/letters/ta-nna-retro.mp3",
+      "memoryTrick": "A retroflex 'n' — curl your tongue back like for ṭa, but let air flow through your nose. Deeper and heavier than regular 'n'.",
+      "words": [
+        { "text": "கண்", "roman": "kaṇ", "meaning": "eye", "emoji": "👁️", "audio": "audio/ta/words/ta-nna-retro-01.mp3" },
+        { "text": "மண்", "roman": "maṇ", "meaning": "soil / earth", "audio": "audio/ta/words/ta-nna-retro-02.mp3" },
+        { "text": "வண்ணம்", "roman": "vaṇṇam", "meaning": "colour", "emoji": "🎨", "audio": "audio/ta/words/ta-nna-retro-03.mp3" },
+        { "text": "அணில்", "roman": "aṇil", "meaning": "squirrel", "emoji": "🐿️", "audio": "audio/ta/words/ta-nna-retro-04.mp3" },
+        { "text": "தண்ணீர்", "roman": "taṇṇīr", "meaning": "water", "emoji": "💧", "audio": "audio/ta/words/ta-nna-retro-05.mp3" },
+        { "text": "கணக்கு", "roman": "kaṇakku", "meaning": "maths / account", "audio": "audio/ta/words/ta-nna-retro-06.mp3" },
+        { "text": "அண்ணா", "roman": "aṇṇā", "meaning": "elder brother", "emoji": "👦", "audio": "audio/ta/words/ta-nna-retro-07.mp3" }
+      ]
+    },
+    {
+      "id": "ta-tha",
+      "char": "த",
+      "name": "ta",
+      "romanization": "ta",
+      "ipa": "/t̪/",
+      "letterAudio": "audio/ta/letters/ta-tha.mp3",
+      "memoryTrick": "A dental 't' — put your tongue tip against the back of your upper teeth. Softer than English 't'. Like the 'th' in 'thin' but without the hiss.",
+      "words": [
+        { "text": "தலை", "roman": "talai", "meaning": "head", "audio": "audio/ta/words/ta-tha-01.mp3" },
+        { "text": "தாய்", "roman": "tāy", "meaning": "mother", "emoji": "👩", "audio": "audio/ta/words/ta-tha-02.mp3" },
+        { "text": "தங்கை", "roman": "taṅkai", "meaning": "younger sister", "emoji": "👧", "audio": "audio/ta/words/ta-tha-03.mp3" },
+        { "text": "தம்பி", "roman": "tampi", "meaning": "younger brother", "emoji": "👦", "audio": "audio/ta/words/ta-tha-04.mp3" },
+        { "text": "தேன்", "roman": "tēṉ", "meaning": "honey", "emoji": "🍯", "audio": "audio/ta/words/ta-tha-05.mp3" },
+        { "text": "தண்ணீர்", "roman": "taṇṇīr", "meaning": "water", "emoji": "💧", "audio": "audio/ta/words/ta-tha-06.mp3" },
+        { "text": "தீ", "roman": "tī", "meaning": "fire", "emoji": "🔥", "audio": "audio/ta/words/ta-tha-07.mp3" },
+        { "text": "தூக்கம்", "roman": "tūkkam", "meaning": "sleep", "emoji": "😴", "audio": "audio/ta/words/ta-tha-08.mp3" },
+        { "text": "தொலைபேசி", "roman": "tolaipēci", "meaning": "telephone", "emoji": "📞", "audio": "audio/ta/words/ta-tha-09.mp3" },
+        { "text": "திறவுகோல்", "roman": "tiṟavukōl", "meaning": "key", "emoji": "🔑", "audio": "audio/ta/words/ta-tha-10.mp3" }
+      ]
+    },
+    {
+      "id": "ta-na-dental",
       "char": "ந",
       "name": "na",
-      "romanization": "n",
-      "ipa": "/n/",
-      "memoryTrick": "A dental 'n'.",
+      "romanization": "na",
+      "ipa": "/n̪/",
+      "letterAudio": "audio/ta/letters/ta-na-dental.mp3",
+      "memoryTrick": "A dental 'n' — tongue against the back of your upper teeth, like the 'n' in 'tenth'. Softer than English 'n'.",
       "words": [
-        {
-          "text": "நாய்",
-          "roman": "nāy",
-          "meaning": "dog",
-          "emoji": "🐕"
-        },
-        {
-          "text": "நிலா",
-          "roman": "nilā",
-          "meaning": "moon",
-          "emoji": "🌙"
-        }
+        { "text": "நாய்", "roman": "nāy", "meaning": "dog", "emoji": "🐕", "audio": "audio/ta/words/ta-na-dental-01.mp3" },
+        { "text": "நதி", "roman": "nati", "meaning": "river", "emoji": "🏞️", "audio": "audio/ta/words/ta-na-dental-02.mp3" },
+        { "text": "நிலா", "roman": "nilā", "meaning": "moon", "emoji": "🌙", "audio": "audio/ta/words/ta-na-dental-03.mp3" },
+        { "text": "நெருப்பு", "roman": "neruppu", "meaning": "fire", "emoji": "🔥", "audio": "audio/ta/words/ta-na-dental-04.mp3" },
+        { "text": "நட்சத்திரம்", "roman": "naṭcattiram", "meaning": "star", "emoji": "⭐", "audio": "audio/ta/words/ta-na-dental-05.mp3" },
+        { "text": "நண்பன்", "roman": "naṇpaṉ", "meaning": "friend (male)", "audio": "audio/ta/words/ta-na-dental-06.mp3" },
+        { "text": "நூல்", "roman": "nūl", "meaning": "book / thread", "emoji": "📖", "audio": "audio/ta/words/ta-na-dental-07.mp3" },
+        { "text": "நல்ல", "roman": "nalla", "meaning": "good", "emoji": "👍", "audio": "audio/ta/words/ta-na-dental-08.mp3" },
+        { "text": "நாளை", "roman": "nāḷai", "meaning": "tomorrow", "audio": "audio/ta/words/ta-na-dental-09.mp3" },
+        { "text": "நடை", "roman": "naṭai", "meaning": "walk / gait", "audio": "audio/ta/words/ta-na-dental-10.mp3" }
+      ]
+    },
+    {
+      "id": "ta-pa",
+      "char": "ப",
+      "name": "pa",
+      "romanization": "pa",
+      "ipa": "/p/",
+      "letterAudio": "audio/ta/letters/ta-pa.mp3",
+      "memoryTrick": "Like 'p' in 'pen' or 'spot'. Between vowels it can soften to a 'b'-like sound, but the letter is always 'pa'.",
+      "words": [
+        { "text": "பூ", "roman": "pū", "meaning": "flower", "emoji": "🌸", "audio": "audio/ta/words/ta-pa-01.mp3" },
+        { "text": "பால்", "roman": "pāl", "meaning": "milk", "emoji": "🥛", "audio": "audio/ta/words/ta-pa-02.mp3" },
+        { "text": "பழம்", "roman": "paḻam", "meaning": "fruit", "emoji": "🍎", "audio": "audio/ta/words/ta-pa-03.mp3" },
+        { "text": "பருந்து", "roman": "paruntu", "meaning": "eagle / kite (bird)", "emoji": "🦅", "audio": "audio/ta/words/ta-pa-04.mp3" },
+        { "text": "புலி", "roman": "puli", "meaning": "tiger", "emoji": "🐅", "audio": "audio/ta/words/ta-pa-05.mp3" },
+        { "text": "பாடம்", "roman": "pāṭam", "meaning": "lesson", "audio": "audio/ta/words/ta-pa-06.mp3" },
+        { "text": "புத்தகம்", "roman": "puttakam", "meaning": "book", "emoji": "📖", "audio": "audio/ta/words/ta-pa-07.mp3" },
+        { "text": "பறவை", "roman": "paṟavai", "meaning": "bird", "emoji": "🐦", "audio": "audio/ta/words/ta-pa-08.mp3" },
+        { "text": "பசு", "roman": "pacu", "meaning": "cow", "emoji": "🐄", "audio": "audio/ta/words/ta-pa-09.mp3" },
+        { "text": "பள்ளி", "roman": "paḷḷi", "meaning": "school", "emoji": "🏫", "audio": "audio/ta/words/ta-pa-10.mp3" }
       ]
     },
     {
       "id": "ta-ma",
       "char": "ம",
       "name": "ma",
-      "romanization": "m",
+      "romanization": "ma",
       "ipa": "/m/",
-      "memoryTrick": "Says 'm'.",
+      "letterAudio": "audio/ta/letters/ta-ma.mp3",
+      "memoryTrick": "Like 'm' in 'mother' or 'mango'. Simple and familiar — one of the easiest Tamil letters to remember.",
       "words": [
-        {
-          "text": "மரம்",
-          "roman": "maram",
-          "meaning": "tree",
-          "emoji": "🌳"
-        },
-        {
-          "text": "மீன்",
-          "roman": "mīn",
-          "meaning": "fish",
-          "emoji": "🐟"
-        }
+        { "text": "மரம்", "roman": "maram", "meaning": "tree", "emoji": "🌳", "audio": "audio/ta/words/ta-ma-01.mp3" },
+        { "text": "மீன்", "roman": "mīṉ", "meaning": "fish", "emoji": "🐟", "audio": "audio/ta/words/ta-ma-02.mp3" },
+        { "text": "மழை", "roman": "maḻai", "meaning": "rain", "emoji": "🌧️", "audio": "audio/ta/words/ta-ma-03.mp3" },
+        { "text": "மலை", "roman": "malai", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/ta/words/ta-ma-04.mp3" },
+        { "text": "மண்", "roman": "maṇ", "meaning": "soil / earth", "audio": "audio/ta/words/ta-ma-05.mp3" },
+        { "text": "மகன்", "roman": "makaṉ", "meaning": "son", "emoji": "👦", "audio": "audio/ta/words/ta-ma-06.mp3" },
+        { "text": "மகள்", "roman": "makaḷ", "meaning": "daughter", "emoji": "👧", "audio": "audio/ta/words/ta-ma-07.mp3" },
+        { "text": "மஞ்சள்", "roman": "mañcaḷ", "meaning": "yellow / turmeric", "audio": "audio/ta/words/ta-ma-08.mp3" },
+        { "text": "மூக்கு", "roman": "mūkku", "meaning": "nose", "emoji": "👃", "audio": "audio/ta/words/ta-ma-09.mp3" },
+        { "text": "மாலை", "roman": "mālai", "meaning": "garland / evening", "audio": "audio/ta/words/ta-ma-10.mp3" },
+        { "text": "மேகம்", "roman": "mēkam", "meaning": "cloud", "emoji": "☁️", "audio": "audio/ta/words/ta-ma-11.mp3" },
+        { "text": "மான்குட்டி", "roman": "māṉkuṭṭi", "meaning": "fawn / baby deer", "audio": "audio/ta/words/ta-ma-12.mp3" }
       ]
+    },
+    {
+      "id": "ta-ya",
+      "char": "ய",
+      "name": "ya",
+      "romanization": "ya",
+      "ipa": "/j/",
+      "letterAudio": "audio/ta/letters/ta-ya.mp3",
+      "memoryTrick": "Like 'y' in 'yes' or 'yellow'. A glide consonant — your tongue moves toward the roof of your mouth.",
+      "words": [
+        { "text": "யானை", "roman": "yāṉai", "meaning": "elephant", "emoji": "🐘", "audio": "audio/ta/words/ta-ya-01.mp3" },
+        { "text": "யாரு", "roman": "yāru", "meaning": "who", "audio": "audio/ta/words/ta-ya-02.mp3" },
+        { "text": "யுத்தம்", "roman": "yuttam", "meaning": "war / battle", "audio": "audio/ta/words/ta-ya-03.mp3" },
+        { "text": "யோசனை", "roman": "yōcaṉai", "meaning": "thought / idea", "emoji": "💡", "audio": "audio/ta/words/ta-ya-04.mp3" },
+        { "text": "யாழ்", "roman": "yāḻ", "meaning": "yazh (ancient Tamil harp)", "audio": "audio/ta/words/ta-ya-05.mp3" },
+        { "text": "வெயில்", "roman": "veyil", "meaning": "sunlight / heat", "emoji": "☀️", "audio": "audio/ta/words/ta-ya-06.mp3" },
+        { "text": "உயிர்", "roman": "uyir", "meaning": "life / soul", "audio": "audio/ta/words/ta-ya-07.mp3" }
+      ]
+    },
+    {
+      "id": "ta-ra",
+      "char": "ர",
+      "name": "ra",
+      "romanization": "ra",
+      "ipa": "/ɾ/",
+      "letterAudio": "audio/ta/letters/ta-ra.mp3",
+      "memoryTrick": "A quick tap of the tongue behind the upper teeth — like the 'tt' in American 'butter' or Spanish 'r' in 'pero'. Not rolled.",
+      "words": [
+        { "text": "ராஜா", "roman": "rājā", "meaning": "king", "emoji": "👑", "audio": "audio/ta/words/ta-ra-01.mp3" },
+        { "text": "ராணி", "roman": "rāṇi", "meaning": "queen", "emoji": "👸", "audio": "audio/ta/words/ta-ra-02.mp3" },
+        { "text": "ரத்தம்", "roman": "rattam", "meaning": "blood", "audio": "audio/ta/words/ta-ra-03.mp3" },
+        { "text": "ரொட்டி", "roman": "roṭṭi", "meaning": "bread / roti", "emoji": "🍞", "audio": "audio/ta/words/ta-ra-04.mp3" },
+        { "text": "ரயில்", "roman": "rayil", "meaning": "train / rail", "emoji": "🚂", "audio": "audio/ta/words/ta-ra-05.mp3" },
+        { "text": "இரவு", "roman": "iravu", "meaning": "night", "emoji": "🌙", "audio": "audio/ta/words/ta-ra-06.mp3" },
+        { "text": "தெரு", "roman": "teru", "meaning": "street", "audio": "audio/ta/words/ta-ra-07.mp3" },
+        { "text": "அரிசி", "roman": "arici", "meaning": "rice", "emoji": "🍚", "audio": "audio/ta/words/ta-ra-08.mp3" }
+      ]
+    },
+    {
+      "id": "ta-la",
+      "char": "ல",
+      "name": "la",
+      "romanization": "la",
+      "ipa": "/l/",
+      "letterAudio": "audio/ta/letters/ta-la.mp3",
+      "memoryTrick": "Like 'l' in 'light' or 'lamp'. A clear, front 'l' — your tongue touches behind your upper teeth.",
+      "words": [
+        { "text": "இலை", "roman": "ilai", "meaning": "leaf", "emoji": "🍃", "audio": "audio/ta/words/ta-la-01.mp3" },
+        { "text": "கல்", "roman": "kal", "meaning": "stone / rock", "emoji": "🪨", "audio": "audio/ta/words/ta-la-02.mp3" },
+        { "text": "பல்", "roman": "pal", "meaning": "tooth", "emoji": "🦷", "audio": "audio/ta/words/ta-la-03.mp3" },
+        { "text": "சொல்", "roman": "col", "meaning": "word", "audio": "audio/ta/words/ta-la-04.mp3" },
+        { "text": "நிலா", "roman": "nilā", "meaning": "moon", "emoji": "🌙", "audio": "audio/ta/words/ta-la-05.mp3" },
+        { "text": "காலை", "roman": "kālai", "meaning": "morning", "emoji": "🌅", "audio": "audio/ta/words/ta-la-06.mp3" },
+        { "text": "உலகம்", "roman": "ulakam", "meaning": "world", "emoji": "🌍", "audio": "audio/ta/words/ta-la-07.mp3" },
+        { "text": "அழகு", "roman": "aḻaku", "meaning": "beauty", "audio": "audio/ta/words/ta-la-08.mp3" }
+      ]
+    },
+    {
+      "id": "ta-va",
+      "char": "வ",
+      "name": "va",
+      "romanization": "va",
+      "ipa": "/ʋ/",
+      "letterAudio": "audio/ta/letters/ta-va.mp3",
+      "memoryTrick": "Between English 'v' and 'w' — bring your lips close together without fully touching. Like a soft 'v' or a rounded 'w'.",
+      "words": [
+        { "text": "வீடு", "roman": "vīṭu", "meaning": "house", "emoji": "🏠", "audio": "audio/ta/words/ta-va-01.mp3" },
+        { "text": "வானம்", "roman": "vāṉam", "meaning": "sky", "emoji": "☁️", "audio": "audio/ta/words/ta-va-02.mp3" },
+        { "text": "வழி", "roman": "vaḻi", "meaning": "path / way", "audio": "audio/ta/words/ta-va-03.mp3" },
+        { "text": "வாய்", "roman": "vāy", "meaning": "mouth", "emoji": "👄", "audio": "audio/ta/words/ta-va-04.mp3" },
+        { "text": "வெள்ளி", "roman": "veḷḷi", "meaning": "silver / Friday / Venus", "audio": "audio/ta/words/ta-va-05.mp3" },
+        { "text": "வேர்", "roman": "vēr", "meaning": "root", "audio": "audio/ta/words/ta-va-06.mp3" },
+        { "text": "விருந்து", "roman": "viruntu", "meaning": "feast / banquet", "audio": "audio/ta/words/ta-va-07.mp3" },
+        { "text": "வேலை", "roman": "vēlai", "meaning": "work / job", "audio": "audio/ta/words/ta-va-08.mp3" },
+        { "text": "வியாழன்", "roman": "viyāḻaṉ", "meaning": "Thursday / Jupiter", "audio": "audio/ta/words/ta-va-09.mp3" },
+        { "text": "விலங்கு", "roman": "vilaṅku", "meaning": "animal", "emoji": "🐾", "audio": "audio/ta/words/ta-va-10.mp3" }
+      ]
+    },
+    {
+      "id": "ta-zha",
+      "char": "ழ",
+      "name": "ḻa",
+      "romanization": "ḻa",
+      "ipa": "/ɻ/",
+      "letterAudio": "audio/ta/letters/ta-zha.mp3",
+      "memoryTrick": "The signature sound of Tamil! Curl your tongue far back in your mouth and let air flow around the sides — a retroflex approximant with no English equivalent. It is the most distinctive sound in the language.",
+      "words": [
+        { "text": "மழை", "roman": "maḻai", "meaning": "rain", "emoji": "🌧️", "audio": "audio/ta/words/ta-zha-01.mp3" },
+        { "text": "பழம்", "roman": "paḻam", "meaning": "fruit", "emoji": "🍎", "audio": "audio/ta/words/ta-zha-02.mp3" },
+        { "text": "வழி", "roman": "vaḻi", "meaning": "path / way", "audio": "audio/ta/words/ta-zha-03.mp3" },
+        { "text": "அழகு", "roman": "aḻaku", "meaning": "beauty", "audio": "audio/ta/words/ta-zha-04.mp3" },
+        { "text": "தமிழ்", "roman": "tamiḻ", "meaning": "Tamil (the language itself)", "audio": "audio/ta/words/ta-zha-05.mp3" },
+        { "text": "ஆழம்", "roman": "āḻam", "meaning": "depth", "audio": "audio/ta/words/ta-zha-06.mp3" },
+        { "text": "ஏழு", "roman": "ēḻu", "meaning": "seven", "audio": "audio/ta/words/ta-zha-07.mp3" },
+        { "text": "பழைய", "roman": "paḻaiya", "meaning": "old / ancient", "audio": "audio/ta/words/ta-zha-08.mp3" },
+        { "text": "வாழை", "roman": "vāḻai", "meaning": "banana plant", "audio": "audio/ta/words/ta-zha-09.mp3" },
+        { "text": "வாழ்க்கை", "roman": "vāḻkkai", "meaning": "life / livelihood", "audio": "audio/ta/words/ta-zha-10.mp3" }
+      ]
+    },
+    {
+      "id": "ta-lla",
+      "char": "ள",
+      "name": "ḷa",
+      "romanization": "ḷa",
+      "ipa": "/ɭ/",
+      "letterAudio": "audio/ta/letters/ta-lla.mp3",
+      "memoryTrick": "A retroflex 'l' — curl your tongue back like for ṭa, but let air flow around the sides. Deeper and heavier than the regular 'la'. Similar to some Swedish or Norwegian retroflex L sounds.",
+      "words": [
+        { "text": "மகள்", "roman": "makaḷ", "meaning": "daughter", "emoji": "👧", "audio": "audio/ta/words/ta-lla-01.mp3" },
+        { "text": "உள்ளம்", "roman": "uḷḷam", "meaning": "heart / mind", "audio": "audio/ta/words/ta-lla-02.mp3" },
+        { "text": "பள்ளி", "roman": "paḷḷi", "meaning": "school", "emoji": "🏫", "audio": "audio/ta/words/ta-lla-03.mp3" },
+        { "text": "நாளை", "roman": "nāḷai", "meaning": "tomorrow", "audio": "audio/ta/words/ta-lla-04.mp3" },
+        { "text": "குளம்", "roman": "kuḷam", "meaning": "pond / tank", "audio": "audio/ta/words/ta-lla-05.mp3" },
+        { "text": "வெள்ளி", "roman": "veḷḷi", "meaning": "silver / Friday", "audio": "audio/ta/words/ta-lla-06.mp3" },
+        { "text": "முளை", "roman": "muḷai", "meaning": "sprout / shoot", "emoji": "🌱", "audio": "audio/ta/words/ta-lla-07.mp3" },
+        { "text": "இளம்", "roman": "iḷam", "meaning": "young / tender", "audio": "audio/ta/words/ta-lla-08.mp3" }
+      ]
+    },
+    {
+      "id": "ta-rra",
+      "char": "ற",
+      "name": "ṟa",
+      "romanization": "ṟa",
+      "ipa": "/r/",
+      "letterAudio": "audio/ta/letters/ta-rra.mp3",
+      "memoryTrick": "A rolled or trilled 'r' — like the Scottish 'r' or Spanish 'rr' in 'perro'. Your tongue tip vibrates against the ridge behind your upper teeth. Stronger than the tapped ra (ர).",
+      "words": [
+        { "text": "ஆறு", "roman": "āṟu", "meaning": "river / six", "emoji": "🏞️", "audio": "audio/ta/words/ta-rra-01.mp3" },
+        { "text": "மாற்றம்", "roman": "māṟṟam", "meaning": "change", "audio": "audio/ta/words/ta-rra-02.mp3" },
+        { "text": "காற்று", "roman": "kāṟṟu", "meaning": "wind / air", "emoji": "💨", "audio": "audio/ta/words/ta-rra-03.mp3" },
+        { "text": "உறவு", "roman": "uṟavu", "meaning": "relationship / relative", "audio": "audio/ta/words/ta-rra-04.mp3" },
+        { "text": "சிறகு", "roman": "ciṟaku", "meaning": "wing", "audio": "audio/ta/words/ta-rra-05.mp3" },
+        { "text": "அறிவு", "roman": "aṟivu", "meaning": "knowledge / wisdom", "audio": "audio/ta/words/ta-rra-06.mp3" },
+        { "text": "முறை", "roman": "muṟai", "meaning": "method / turn / manner", "audio": "audio/ta/words/ta-rra-07.mp3" },
+        { "text": "சுற்றம்", "roman": "cuṟṟam", "meaning": "family / relatives", "audio": "audio/ta/words/ta-rra-08.mp3" }
+      ]
+    },
+    {
+      "id": "ta-na-alv",
+      "char": "ன",
+      "name": "ṉa",
+      "romanization": "ṉa",
+      "ipa": "/n/",
+      "letterAudio": "audio/ta/letters/ta-na-alv.mp3",
+      "memoryTrick": "An alveolar 'n' — your tongue touches the ridge behind your upper teeth, just like English 'n' in 'noon'. One of three 'n' sounds in Tamil — this is the closest to the English one.",
+      "words": [
+        { "text": "தேன்", "roman": "tēṉ", "meaning": "honey", "emoji": "🍯", "audio": "audio/ta/words/ta-na-alv-01.mp3" },
+        { "text": "மீன்", "roman": "mīṉ", "meaning": "fish", "emoji": "🐟", "audio": "audio/ta/words/ta-na-alv-02.mp3" },
+        { "text": "கனவு", "roman": "kaṉavu", "meaning": "dream", "emoji": "💭", "audio": "audio/ta/words/ta-na-alv-03.mp3" },
+        { "text": "தினம்", "roman": "tiṉam", "meaning": "day / daily", "audio": "audio/ta/words/ta-na-alv-04.mp3" },
+        { "text": "வானம்", "roman": "vāṉam", "meaning": "sky", "emoji": "☁️", "audio": "audio/ta/words/ta-na-alv-05.mp3" },
+        { "text": "ஊன்றுகோல்", "roman": "ūṉṟukōl", "meaning": "walking stick", "audio": "audio/ta/words/ta-na-alv-06.mp3" },
+        { "text": "வனம்", "roman": "vaṉam", "meaning": "forest", "emoji": "🌳", "audio": "audio/ta/words/ta-na-alv-07.mp3" },
+        { "text": "மனம்", "roman": "maṉam", "meaning": "mind / heart", "audio": "audio/ta/words/ta-na-alv-08.mp3" }
+      ]
+    },
+    {
+      "id": "ta-aytham",
+      "char": "ஃ",
+      "name": "āytam",
+      "romanization": "ḵ / h (varies)",
+      "ipa": "/x/",
+      "letterAudio": "audio/ta/letters/ta-aytham.mp3",
+      "memoryTrick": "A rare special character — like a light 'h' or the 'ch' in Scottish 'loch'. It appears mostly in classical Tamil and a few modern words. Think of it as a breathy marker.",
+      "words": [
+        { "text": "ஃகூ", "roman": "ḵkū", "meaning": "interjection of surprise", "audio": "audio/ta/words/ta-aytham-01.mp3" },
+        { "text": "அஃறிணை", "roman": "aḵṟiṇai", "meaning": "non-human / neuter gender (grammar)", "audio": "audio/ta/words/ta-aytham-02.mp3" },
+        { "text": "எஃகு", "roman": "eḵku", "meaning": "steel / weapon (classical)", "audio": "audio/ta/words/ta-aytham-03.mp3" }
+      ]
+    },
+    {
+      "id": "ta-ja",
+      "char": "ஜ",
+      "name": "ja",
+      "romanization": "ja",
+      "ipa": "/d͡ʒ/",
+      "letterAudio": "audio/ta/letters/ta-ja.mp3",
+      "memoryTrick": "A Grantha letter used for loanwords. Like 'j' in 'jump' or 'jam'. Borrowed to write Sanskrit and English words in Tamil.",
+      "words": [
+        { "text": "ஜன்னல்", "roman": "jaṉṉal", "meaning": "window", "audio": "audio/ta/words/ta-ja-01.mp3" },
+        { "text": "ஜூஸ்", "roman": "jūs", "meaning": "juice", "emoji": "🧃", "audio": "audio/ta/words/ta-ja-02.mp3" },
+        { "text": "ஜோதிடம்", "roman": "jōtiṭam", "meaning": "astrology", "audio": "audio/ta/words/ta-ja-03.mp3" },
+        { "text": "ஜெபம்", "roman": "jepam", "meaning": "prayer", "audio": "audio/ta/words/ta-ja-04.mp3" },
+        { "text": "ஜோடி", "roman": "jōṭi", "meaning": "pair / couple", "audio": "audio/ta/words/ta-ja-05.mp3" },
+        { "text": "ஜெயில்", "roman": "jeyil", "meaning": "jail / prison", "audio": "audio/ta/words/ta-ja-06.mp3" }
+      ]
+    },
+    {
+      "id": "ta-sha",
+      "char": "ஷ",
+      "name": "ṣa",
+      "romanization": "ṣa",
+      "ipa": "/ʂ/",
+      "letterAudio": "audio/ta/letters/ta-sha.mp3",
+      "memoryTrick": "A Grantha letter — a retroflex 'sh' sound. Like 'sh' in 'ship' but with your tongue curled back. Used mainly in Sanskrit-derived words.",
+      "words": [
+        { "text": "பாஷை", "roman": "pāṣai", "meaning": "language / dialect", "audio": "audio/ta/words/ta-sha-01.mp3" },
+        { "text": "ஷர்ட்", "roman": "ṣarṭ", "meaning": "shirt", "emoji": "👕", "audio": "audio/ta/words/ta-sha-02.mp3" },
+        { "text": "விஷம்", "roman": "viṣam", "meaning": "poison", "audio": "audio/ta/words/ta-sha-03.mp3" },
+        { "text": "ஷண்முகம்", "roman": "ṣaṇmukam", "meaning": "six-faced (epithet of Murugan)", "audio": "audio/ta/words/ta-sha-04.mp3" },
+        { "text": "கஷ்டம்", "roman": "kaṣṭam", "meaning": "difficulty / hardship", "audio": "audio/ta/words/ta-sha-05.mp3" },
+        { "text": "ஆஷா", "roman": "āṣā", "meaning": "hope / desire (literary)", "audio": "audio/ta/words/ta-sha-06.mp3" }
+      ]
+    },
+    {
+      "id": "ta-sa",
+      "char": "ஸ",
+      "name": "sa",
+      "romanization": "sa",
+      "ipa": "/s/",
+      "letterAudio": "audio/ta/letters/ta-sa.mp3",
+      "memoryTrick": "A Grantha letter for the pure 's' sound. Like 's' in 'sun' or 'see'. Unlike the native ச (which can sound like 'ch'), this is always a clear 's'. Used for Sanskrit and English loanwords.",
+      "words": [
+        { "text": "ஸ்திரீ", "roman": "stirī", "meaning": "woman / lady", "emoji": "👩", "audio": "audio/ta/words/ta-sa-01.mp3" },
+        { "text": "புஸ்தகம்", "roman": "pustakam", "meaning": "book", "emoji": "📖", "audio": "audio/ta/words/ta-sa-02.mp3" },
+        { "text": "ஸ்கூல்", "roman": "skūl", "meaning": "school", "emoji": "🏫", "audio": "audio/ta/words/ta-sa-03.mp3" },
+        { "text": "ஸ்டேஷன்", "roman": "sṭēṣaṉ", "meaning": "station", "emoji": "🚉", "audio": "audio/ta/words/ta-sa-04.mp3" },
+        { "text": "ஸ்தலம்", "roman": "stalam", "meaning": "place / sacred site", "audio": "audio/ta/words/ta-sa-05.mp3" },
+        { "text": "ஸ்வாமி", "roman": "svāmi", "meaning": "lord / master / swami", "audio": "audio/ta/words/ta-sa-06.mp3" }
+      ]
+    },
+    {
+      "id": "ta-ha",
+      "char": "ஹ",
+      "name": "ha",
+      "romanization": "ha",
+      "ipa": "/ɦ/",
+      "letterAudio": "audio/ta/letters/ta-ha.mp3",
+      "memoryTrick": "A Grantha letter — like 'h' in 'hello' or 'house'. Softer and more breathy than a forceful English 'h'. Used in loanwords from Sanskrit and English.",
+      "words": [
+        { "text": "ஹலோ", "roman": "halō", "meaning": "hello", "emoji": "👋", "audio": "audio/ta/words/ta-ha-01.mp3" },
+        { "text": "ஹோட்டல்", "roman": "hōṭṭal", "meaning": "hotel / restaurant", "audio": "audio/ta/words/ta-ha-02.mp3" },
+        { "text": "ஹார்ட்", "roman": "hārṭ", "meaning": "heart", "emoji": "❤️", "audio": "audio/ta/words/ta-ha-03.mp3" },
+        { "text": "ஹனுமான்", "roman": "haṉumāṉ", "meaning": "Hanuman (Hindu deity)", "audio": "audio/ta/words/ta-ha-04.mp3" },
+        { "text": "ஹிமாலயம்", "roman": "himālayam", "meaning": "Himalayas", "emoji": "🏔️", "audio": "audio/ta/words/ta-ha-05.mp3" },
+        { "text": "ஹாஸ்பிடல்", "roman": "hāspiṭal", "meaning": "hospital", "emoji": "🏥", "audio": "audio/ta/words/ta-ha-06.mp3" }
+      ]
+    },
+    {
+      "id": "ta-vs-aa",
+      "char": "ா",
+      "name": "ā vowel sign (kombu)",
+      "romanization": "ā (combines with consonants to form the long 'a' vowel)",
+      "ipa": "/ɑː/",
+      "letterAudio": "audio/ta/letters/ta-vs-aa.mp3",
+      "memoryTrick": "This diacritic mark turns the inherent 'a' of any consonant into a long 'ā'. For example, க (ka) + ா = கா (kā). It is written as a vertical extension on the right side of the consonant."
+    },
+    {
+      "id": "ta-vs-i",
+      "char": "ி",
+      "name": "i vowel sign",
+      "romanization": "i (combines with consonants to form the short 'i' vowel)",
+      "ipa": "/i/",
+      "letterAudio": "audio/ta/letters/ta-vs-i.mp3",
+      "memoryTrick": "This diacritic changes the vowel to short 'i'. For example, க (ka) + ி = கி (ki). It is written as a hook-like curl above and to the right of the consonant."
+    },
+    {
+      "id": "ta-vs-ii",
+      "char": "ீ",
+      "name": "ī vowel sign",
+      "romanization": "ī (combines with consonants to form the long 'ī' vowel)",
+      "ipa": "/iː/",
+      "letterAudio": "audio/ta/letters/ta-vs-ii.mp3",
+      "memoryTrick": "This diacritic extends the hook further to make the long 'ī'. For example, க (ka) + ீ = கீ (kī). Notice how it is a longer version of the short 'i' sign."
+    },
+    {
+      "id": "ta-vs-u",
+      "char": "ு",
+      "name": "u vowel sign",
+      "romanization": "u (combines with consonants to form the short 'u' vowel)",
+      "ipa": "/u/",
+      "letterAudio": "audio/ta/letters/ta-vs-u.mp3",
+      "memoryTrick": "This diacritic changes the vowel to short 'u'. For example, க (ka) + ு = கு (ku). It is written as a small curl below and to the right of the consonant."
+    },
+    {
+      "id": "ta-vs-uu",
+      "char": "ூ",
+      "name": "ū vowel sign",
+      "romanization": "ū (combines with consonants to form the long 'ū' vowel)",
+      "ipa": "/uː/",
+      "letterAudio": "audio/ta/letters/ta-vs-uu.mp3",
+      "memoryTrick": "This diacritic makes the long 'ū' — an extended version of the short 'u' sign. For example, க (ka) + ூ = கூ (kū). The extra curl makes it longer."
+    },
+    {
+      "id": "ta-vs-e",
+      "char": "ெ",
+      "name": "e vowel sign",
+      "romanization": "e (combines with consonants to form the short 'e' vowel)",
+      "ipa": "/e/",
+      "letterAudio": "audio/ta/letters/ta-vs-e.mp3",
+      "memoryTrick": "This diacritic changes the vowel to short 'e'. For example, க (ka) + ெ = கெ (ke). Note how this sign goes to the LEFT of the consonant — one of the few signs that precedes the letter it modifies."
+    },
+    {
+      "id": "ta-vs-ee",
+      "char": "ே",
+      "name": "ē vowel sign",
+      "romanization": "ē (combines with consonants to form the long 'ē' vowel)",
+      "ipa": "/eː/",
+      "letterAudio": "audio/ta/letters/ta-vs-ee.mp3",
+      "memoryTrick": "This diacritic makes the long 'ē'. For example, க (ka) + ே = கே (kē). Like the short 'e' sign, this also goes to the LEFT of the consonant — it looks like a question mark without the dot."
+    },
+    {
+      "id": "ta-vs-ai",
+      "char": "ை",
+      "name": "ai vowel sign",
+      "romanization": "ai (combines with consonants to form the 'ai' diphthong)",
+      "ipa": "/ʌɪ/",
+      "letterAudio": "audio/ta/letters/ta-vs-ai.mp3",
+      "memoryTrick": "This diacritic creates the 'ai' diphthong. For example, க (ka) + ை = கை (kai). It is a two-part sign — one part goes left of the consonant, the other goes right."
+    },
+    {
+      "id": "ta-vs-o",
+      "char": "ொ",
+      "name": "o vowel sign",
+      "romanization": "o (combines with consonants to form the short 'o' vowel)",
+      "ipa": "/o/",
+      "letterAudio": "audio/ta/letters/ta-vs-o.mp3",
+      "memoryTrick": "This diacritic changes the vowel to short 'o'. For example, க (ka) + ொ = கொ (ko). It is a two-part sign that wraps around the consonant — part goes left, part goes right."
+    },
+    {
+      "id": "ta-vs-oo",
+      "char": "ோ",
+      "name": "ō vowel sign",
+      "romanization": "ō (combines with consonants to form the long 'ō' vowel)",
+      "ipa": "/oː/",
+      "letterAudio": "audio/ta/letters/ta-vs-oo.mp3",
+      "memoryTrick": "This diacritic makes the long 'ō'. For example, க (ka) + ோ = கோ (kō). Like the short 'o' sign, it wraps around the consonant — the left part is the 'ē' sign and the right part is the 'ā' sign."
+    },
+    {
+      "id": "ta-vs-au",
+      "char": "ௌ",
+      "name": "au vowel sign",
+      "romanization": "au (combines with consonants to form the 'au' diphthong)",
+      "ipa": "/ʌʊ/",
+      "letterAudio": "audio/ta/letters/ta-vs-au.mp3",
+      "memoryTrick": "This diacritic creates the rare 'au' diphthong. For example, க (ka) + ௌ = கௌ (kau). It wraps around the consonant — combining a left-side 'e' sign with a right-side 'au/la' curl."
+    },
+    {
+      "id": "ta-pulli",
+      "char": "்",
+      "name": "puḷḷi (virama)",
+      "romanization": "virama — removes the inherent vowel 'a', leaving the bare consonant",
+      "ipa": "no sound of its own; it suppresses the inherent vowel",
+      "letterAudio": "audio/ta/letters/ta-pulli.mp3",
+      "memoryTrick": "The puḷḷi is a dot placed above a consonant to cancel its built-in 'a' vowel. For example, க = 'ka', but க் = just 'k'. Every consonant carries an invisible 'a' unless the puḷḷi says otherwise."
     }
   ]
 }

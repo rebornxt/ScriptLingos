@@ -260,7 +260,7 @@
       "glyph": "Ω",
       "direction": "ltr",
       "status": "ready",
-      "draft": false,
+      "draft": true,
       "file": "data/el-GR.json",
       "speakers": "13M",
       "share": "0.16%",

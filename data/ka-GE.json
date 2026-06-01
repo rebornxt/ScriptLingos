@@ -2,138 +2,685 @@
   "language": "Georgian",
   "code": "ka-GE",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
-      "id": "ka-an",
+      "id": "ka-ani",
       "char": "ა",
-      "name": "an",
+      "name": "ani",
       "romanization": "a",
-      "ipa": "/a/",
-      "memoryTrick": "The first letter — a round 'ah'; Georgian has no capital letters.",
+      "ipa": "/ɑ/",
+      "letterAudio": "audio/ka/letters/ka-ani.mp3",
+      "memoryTrick": "Ani looks like a little house with an arched roof and a pillar on the right. Think of saying 'Ah!' when you see your dream home — that's the open /ɑ/ sound.",
       "words": [
-        {
-          "text": "ახალი",
-          "roman": "akhali",
-          "meaning": "new",
-          "emoji": "✨"
-        },
-        {
-          "text": "არა",
-          "roman": "ara",
-          "meaning": "no",
-          "emoji": "🚫"
-        }
+        { "text": "ათი", "roman": "ati", "meaning": "ten", "emoji": "🔟", "audio": "audio/ka/words/ka-ani-01.mp3" },
+        { "text": "აქ", "roman": "ak", "meaning": "here", "audio": "audio/ka/words/ka-ani-02.mp3" },
+        { "text": "ანა", "roman": "ana", "meaning": "Ana (name)", "audio": "audio/ka/words/ka-ani-03.mp3" },
+        { "text": "ახალი", "roman": "akhali", "meaning": "new", "emoji": "🆕", "audio": "audio/ka/words/ka-ani-04.mp3" },
+        { "text": "ანბანი", "roman": "anbani", "meaning": "alphabet", "emoji": "🔤", "audio": "audio/ka/words/ka-ani-05.mp3" },
+        { "text": "ამინდი", "roman": "amindi", "meaning": "weather", "emoji": "🌤️", "audio": "audio/ka/words/ka-ani-06.mp3" },
+        { "text": "ალუბალი", "roman": "alubali", "meaning": "cherry", "emoji": "🍒", "audio": "audio/ka/words/ka-ani-07.mp3" },
+        { "text": "ანანასი", "roman": "ananasi", "meaning": "pineapple", "emoji": "🍍", "audio": "audio/ka/words/ka-ani-08.mp3" },
+        { "text": "ადამიანი", "roman": "adamiani", "meaning": "person", "emoji": "🧑", "audio": "audio/ka/words/ka-ani-09.mp3" },
+        { "text": "აბრეშუმი", "roman": "abreshumi", "meaning": "silk", "audio": "audio/ka/words/ka-ani-10.mp3" }
       ]
     },
     {
-      "id": "ka-ban",
+      "id": "ka-bani",
       "char": "ბ",
-      "name": "ban",
+      "name": "bani",
       "romanization": "b",
       "ipa": "/b/",
-      "memoryTrick": "Says 'b'.",
+      "letterAudio": "audio/ka/letters/ka-bani.mp3",
+      "memoryTrick": "Bani looks like a backwards number 6 with a little foot. Think of a bouncing ball going 'b-b-b' — bani starts with the same b sound as English 'ball'.",
       "words": [
-        {
-          "text": "ბავშვი",
-          "roman": "bavshvi",
-          "meaning": "child",
-          "emoji": "🧒"
-        },
-        {
-          "text": "ბურთი",
-          "roman": "burti",
-          "meaning": "ball",
-          "emoji": "⚽"
-        }
+        { "text": "ბავშვი", "roman": "bavshvi", "meaning": "child", "emoji": "👶", "audio": "audio/ka/words/ka-bani-01.mp3" },
+        { "text": "ბაღი", "roman": "baghi", "meaning": "garden", "emoji": "🏡", "audio": "audio/ka/words/ka-bani-02.mp3" },
+        { "text": "ბურთი", "roman": "burti", "meaning": "ball", "emoji": "⚽", "audio": "audio/ka/words/ka-bani-03.mp3" },
+        { "text": "ბაზარი", "roman": "bazari", "meaning": "market", "emoji": "🏪", "audio": "audio/ka/words/ka-bani-04.mp3" },
+        { "text": "ბინა", "roman": "bina", "meaning": "apartment", "emoji": "🏢", "audio": "audio/ka/words/ka-bani-05.mp3" },
+        { "text": "ბუ", "roman": "bu", "meaning": "owl", "emoji": "🦉", "audio": "audio/ka/words/ka-bani-06.mp3" },
+        { "text": "ბებია", "roman": "bebia", "meaning": "grandmother", "emoji": "👵", "audio": "audio/ka/words/ka-bani-07.mp3" },
+        { "text": "ბედნიერი", "roman": "bednieri", "meaning": "happy", "emoji": "😊", "audio": "audio/ka/words/ka-bani-08.mp3" },
+        { "text": "ბოსტანი", "roman": "bostani", "meaning": "vegetable patch", "audio": "audio/ka/words/ka-bani-09.mp3" },
+        { "text": "ბუნება", "roman": "buneba", "meaning": "nature", "emoji": "🌿", "audio": "audio/ka/words/ka-bani-10.mp3" }
       ]
     },
     {
-      "id": "ka-gan",
+      "id": "ka-gani",
       "char": "გ",
-      "name": "gan",
+      "name": "gani",
       "romanization": "g",
       "ipa": "/ɡ/",
-      "memoryTrick": "A hard 'g'.",
+      "letterAudio": "audio/ka/letters/ka-gani.mp3",
+      "memoryTrick": "Gani looks like a curly spiral curling inward. Think of a galaxy swirling around — 'g' as in 'go' and 'galaxy'.",
       "words": [
-        {
-          "text": "გული",
-          "roman": "guli",
-          "meaning": "heart",
-          "emoji": "❤️"
-        },
-        {
-          "text": "გზა",
-          "roman": "gza",
-          "meaning": "road",
-          "emoji": "🛣️"
-        }
+        { "text": "გული", "roman": "guli", "meaning": "heart", "emoji": "❤️", "audio": "audio/ka/words/ka-gani-01.mp3" },
+        { "text": "გზა", "roman": "gza", "meaning": "road", "emoji": "🛣️", "audio": "audio/ka/words/ka-gani-02.mp3" },
+        { "text": "გოგო", "roman": "gogo", "meaning": "girl", "emoji": "👧", "audio": "audio/ka/words/ka-gani-03.mp3" },
+        { "text": "გემი", "roman": "gemi", "meaning": "ship", "emoji": "🚢", "audio": "audio/ka/words/ka-gani-04.mp3" },
+        { "text": "გველი", "roman": "gveli", "meaning": "snake", "emoji": "🐍", "audio": "audio/ka/words/ka-gani-05.mp3" },
+        { "text": "გრძელი", "roman": "grdzeli", "meaning": "long", "audio": "audio/ka/words/ka-gani-06.mp3" },
+        { "text": "გაზაფხული", "roman": "gazapkhuli", "meaning": "spring (season)", "emoji": "🌸", "audio": "audio/ka/words/ka-gani-07.mp3" },
+        { "text": "გვირაბი", "roman": "gvirabi", "meaning": "tunnel", "audio": "audio/ka/words/ka-gani-08.mp3" },
+        { "text": "გემრიელი", "roman": "gemrieli", "meaning": "delicious", "emoji": "😋", "audio": "audio/ka/words/ka-gani-09.mp3" },
+        { "text": "გმირი", "roman": "gmiri", "meaning": "hero", "emoji": "🦸", "audio": "audio/ka/words/ka-gani-10.mp3" }
       ]
     },
     {
-      "id": "ka-don",
+      "id": "ka-doni",
       "char": "დ",
-      "name": "don",
+      "name": "doni",
       "romanization": "d",
       "ipa": "/d/",
-      "memoryTrick": "Says 'd'.",
+      "letterAudio": "audio/ka/letters/ka-doni.mp3",
+      "memoryTrick": "Doni looks like a little staircase with a door underneath. Think of a 'door' opening — the d sound is just like English 'd' in 'door'.",
       "words": [
-        {
-          "text": "დედა",
-          "roman": "deda",
-          "meaning": "mother",
-          "emoji": "👩"
-        },
-        {
-          "text": "დღე",
-          "roman": "dghe",
-          "meaning": "day",
-          "emoji": "📅"
-        }
+        { "text": "დედა", "roman": "deda", "meaning": "mother", "emoji": "👩", "audio": "audio/ka/words/ka-doni-01.mp3" },
+        { "text": "დროშა", "roman": "drosha", "meaning": "flag", "emoji": "🚩", "audio": "audio/ka/words/ka-doni-02.mp3" },
+        { "text": "დათვი", "roman": "datvi", "meaning": "bear", "emoji": "🐻", "audio": "audio/ka/words/ka-doni-03.mp3" },
+        { "text": "დილა", "roman": "dila", "meaning": "morning", "emoji": "🌅", "audio": "audio/ka/words/ka-doni-04.mp3" },
+        { "text": "დღე", "roman": "dghe", "meaning": "day", "emoji": "☀️", "audio": "audio/ka/words/ka-doni-05.mp3" },
+        { "text": "დიდი", "roman": "didi", "meaning": "big", "audio": "audio/ka/words/ka-doni-06.mp3" },
+        { "text": "დანა", "roman": "dana", "meaning": "knife", "emoji": "🔪", "audio": "audio/ka/words/ka-doni-07.mp3" },
+        { "text": "დუმილი", "roman": "dumili", "meaning": "silence", "emoji": "🤫", "audio": "audio/ka/words/ka-doni-08.mp3" },
+        { "text": "დასაწყისი", "roman": "dasatsqisi", "meaning": "beginning", "audio": "audio/ka/words/ka-doni-09.mp3" },
+        { "text": "დედამიწა", "roman": "dedamitsa", "meaning": "Earth", "emoji": "🌍", "audio": "audio/ka/words/ka-doni-10.mp3" }
       ]
     },
     {
-      "id": "ka-en",
+      "id": "ka-eni",
       "char": "ე",
-      "name": "en",
+      "name": "eni",
       "romanization": "e",
       "ipa": "/ɛ/",
-      "memoryTrick": "Says 'eh' as in 'bed'.",
+      "letterAudio": "audio/ka/letters/ka-eni.mp3",
+      "memoryTrick": "Eni looks like a sideways number 3, or a cursive lowercase 'e' turned on its side. Sounds like the 'e' in 'elephant' or 'egg' — a crisp /ɛ/ sound.",
       "words": [
-        {
-          "text": "ეზო",
-          "roman": "ezo",
-          "meaning": "yard",
-          "emoji": "🏡"
-        },
-        {
-          "text": "ერთი",
-          "roman": "erti",
-          "meaning": "one",
-          "emoji": "1️⃣"
-        }
+        { "text": "ენა", "roman": "ena", "meaning": "language", "audio": "audio/ka/words/ka-eni-01.mp3" },
+        { "text": "ეზო", "roman": "ezo", "meaning": "courtyard", "emoji": "🏘️", "audio": "audio/ka/words/ka-eni-02.mp3" },
+        { "text": "ექიმი", "roman": "ekimi", "meaning": "doctor", "emoji": "🩺", "audio": "audio/ka/words/ka-eni-03.mp3" },
+        { "text": "ერთი", "roman": "erti", "meaning": "one", "emoji": "1️⃣", "audio": "audio/ka/words/ka-eni-04.mp3" },
+        { "text": "ელვა", "roman": "elva", "meaning": "lightning", "emoji": "⚡", "audio": "audio/ka/words/ka-eni-05.mp3" },
+        { "text": "ერთობა", "roman": "ertoba", "meaning": "unity", "emoji": "🤝", "audio": "audio/ka/words/ka-eni-06.mp3" },
+        { "text": "ესტუმარი", "roman": "estumari", "meaning": "guest", "emoji": "🧳", "audio": "audio/ka/words/ka-eni-07.mp3" },
+        { "text": "ევროპა", "roman": "evropa", "meaning": "Europe", "emoji": "🇪🇺", "audio": "audio/ka/words/ka-eni-08.mp3" },
+        { "text": "ელჩი", "roman": "elchi", "meaning": "ambassador", "audio": "audio/ka/words/ka-eni-09.mp3" },
+        { "text": "ეჭვი", "roman": "echvi", "meaning": "doubt", "audio": "audio/ka/words/ka-eni-10.mp3" }
       ]
     },
     {
-      "id": "ka-kan",
+      "id": "ka-vini",
+      "char": "ვ",
+      "name": "vini",
+      "romanization": "v",
+      "ipa": "/v/",
+      "letterAudio": "audio/ka/letters/ka-vini.mp3",
+      "memoryTrick": "Vini looks like an uppercase 'R' but rounded. Think of a violin playing its first note — 'v' just like the 'v' in 'violin' and 'vine'.",
+      "words": [
+        { "text": "ვაშლი", "roman": "vashli", "meaning": "apple", "emoji": "🍎", "audio": "audio/ka/words/ka-vini-01.mp3" },
+        { "text": "ვარდი", "roman": "vardi", "meaning": "rose", "emoji": "🌹", "audio": "audio/ka/words/ka-vini-02.mp3" },
+        { "text": "ვეფხვი", "roman": "vepkhvi", "meaning": "tiger", "emoji": "🐯", "audio": "audio/ka/words/ka-vini-03.mp3" },
+        { "text": "ვერცხლი", "roman": "vertskhli", "meaning": "silver", "audio": "audio/ka/words/ka-vini-04.mp3" },
+        { "text": "ვაჟი", "roman": "vazhi", "meaning": "son", "emoji": "👦", "audio": "audio/ka/words/ka-vini-05.mp3" },
+        { "text": "ვაზი", "roman": "vazi", "meaning": "grapevine", "emoji": "🍇", "audio": "audio/ka/words/ka-vini-06.mp3" },
+        { "text": "ვირი", "roman": "viri", "meaning": "donkey", "emoji": "🐴", "audio": "audio/ka/words/ka-vini-07.mp3" },
+        { "text": "ვულკანი", "roman": "vulkani", "meaning": "volcano", "emoji": "🌋", "audio": "audio/ka/words/ka-vini-08.mp3" },
+        { "text": "ვარსკვლავი", "roman": "varskvlavi", "meaning": "star", "emoji": "⭐", "audio": "audio/ka/words/ka-vini-09.mp3" },
+        { "text": "ვაგონი", "roman": "vagoni", "meaning": "train car", "emoji": "🚃", "audio": "audio/ka/words/ka-vini-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-zeni",
+      "char": "ზ",
+      "name": "zeni",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/ka/letters/ka-zeni.mp3",
+      "memoryTrick": "Zeni looks like a zigzag flash. Think of a buzzing bee making a 'zzzz' sound — same voiced z as in 'zebra' and 'buzz'.",
+      "words": [
+        { "text": "ზღვა", "roman": "zghva", "meaning": "sea", "emoji": "🌊", "audio": "audio/ka/words/ka-zeni-01.mp3" },
+        { "text": "ზამთარი", "roman": "zamtari", "meaning": "winter", "emoji": "❄️", "audio": "audio/ka/words/ka-zeni-02.mp3" },
+        { "text": "ზეთი", "roman": "zeti", "meaning": "oil", "emoji": "🫒", "audio": "audio/ka/words/ka-zeni-03.mp3" },
+        { "text": "ზარი", "roman": "zari", "meaning": "bell", "emoji": "🔔", "audio": "audio/ka/words/ka-zeni-04.mp3" },
+        { "text": "ზურგი", "roman": "zurgi", "meaning": "back (body)", "audio": "audio/ka/words/ka-zeni-05.mp3" },
+        { "text": "ზაფხული", "roman": "zapkhuli", "meaning": "summer", "emoji": "☀️", "audio": "audio/ka/words/ka-zeni-06.mp3" },
+        { "text": "ზარმაცი", "roman": "zarmatsi", "meaning": "lazy", "audio": "audio/ka/words/ka-zeni-07.mp3" },
+        { "text": "ზღაპარი", "roman": "zghapari", "meaning": "fairy tale", "emoji": "📖", "audio": "audio/ka/words/ka-zeni-08.mp3" },
+        { "text": "ზის", "roman": "zis", "meaning": "sits", "audio": "audio/ka/words/ka-zeni-09.mp3" }
+      ]
+    },
+    {
+      "id": "ka-tani",
+      "char": "თ",
+      "name": "tani",
+      "romanization": "t",
+      "ipa": "/tʰ/",
+      "letterAudio": "audio/ka/letters/ka-tani.mp3",
+      "memoryTrick": "Tani looks like a lowercase 'm' with a roof. It's an aspirated t — say 'top' and feel the puff of air. That puff of breath is what makes this different from the ejective ტ.",
+      "words": [
+        { "text": "თაფლი", "roman": "tapli", "meaning": "honey", "emoji": "🍯", "audio": "audio/ka/words/ka-tani-01.mp3" },
+        { "text": "თოვლი", "roman": "tovli", "meaning": "snow", "emoji": "🌨️", "audio": "audio/ka/words/ka-tani-02.mp3" },
+        { "text": "თვალი", "roman": "tvali", "meaning": "eye", "emoji": "👁️", "audio": "audio/ka/words/ka-tani-03.mp3" },
+        { "text": "თავი", "roman": "tavi", "meaning": "head", "audio": "audio/ka/words/ka-tani-04.mp3" },
+        { "text": "თხა", "roman": "tkha", "meaning": "goat", "emoji": "🐐", "audio": "audio/ka/words/ka-tani-05.mp3" },
+        { "text": "თბილი", "roman": "tbili", "meaning": "warm", "audio": "audio/ka/words/ka-tani-06.mp3" },
+        { "text": "თითი", "roman": "titi", "meaning": "finger", "emoji": "👆", "audio": "audio/ka/words/ka-tani-07.mp3" },
+        { "text": "თეთრი", "roman": "tetri", "meaning": "white", "emoji": "⬜", "audio": "audio/ka/words/ka-tani-08.mp3" },
+        { "text": "თვითმფრინავი", "roman": "tvitmprinavi", "meaning": "airplane", "emoji": "✈️", "audio": "audio/ka/words/ka-tani-09.mp3" },
+        { "text": "თმა", "roman": "tma", "meaning": "hair", "emoji": "💇", "audio": "audio/ka/words/ka-tani-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-ini",
+      "char": "ი",
+      "name": "ini",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/ka/letters/ka-ini.mp3",
+      "memoryTrick": "Ini looks like a tiny vertical snake or a candle with a flame. It makes the same 'ee' sound as 'i' in 'ski' or 'machine' — a pure /i/ vowel.",
+      "words": [
+        { "text": "ია", "roman": "ia", "meaning": "violet (flower)", "emoji": "🌺", "audio": "audio/ka/words/ka-ini-01.mp3" },
+        { "text": "იხვი", "roman": "ikhvi", "meaning": "duck", "emoji": "🦆", "audio": "audio/ka/words/ka-ini-02.mp3" },
+        { "text": "ირემი", "roman": "iremi", "meaning": "deer", "emoji": "🦌", "audio": "audio/ka/words/ka-ini-03.mp3" },
+        { "text": "ისარი", "roman": "isari", "meaning": "arrow", "emoji": "🏹", "audio": "audio/ka/words/ka-ini-04.mp3" },
+        { "text": "იატაკი", "roman": "iataki", "meaning": "floor", "audio": "audio/ka/words/ka-ini-05.mp3" },
+        { "text": "ისევ", "roman": "isev", "meaning": "again", "emoji": "🔄", "audio": "audio/ka/words/ka-ini-06.mp3" },
+        { "text": "იმედი", "roman": "imedi", "meaning": "hope", "emoji": "🙏", "audio": "audio/ka/words/ka-ini-07.mp3" },
+        { "text": "იგავი", "roman": "igavi", "meaning": "parable", "audio": "audio/ka/words/ka-ini-08.mp3" },
+        { "text": "ივლისი", "roman": "ivlisi", "meaning": "July", "emoji": "📅", "audio": "audio/ka/words/ka-ini-09.mp3" },
+        { "text": "ინდაური", "roman": "indauri", "meaning": "turkey (bird)", "emoji": "🦃", "audio": "audio/ka/words/ka-ini-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-kani-ejective",
+      "char": "კ",
+      "name": "k'ani",
+      "romanization": "k'",
+      "ipa": "/k'/",
+      "letterAudio": "audio/ka/letters/ka-kani-ejective.mp3",
+      "memoryTrick": "K'ani looks a bit like a ladle with a handle on the left. This is an ejective — push air out from your throat, not your lungs. Say 'k' as if you're holding your breath and popping it out sharply.",
+      "words": [
+        { "text": "კაცი", "roman": "k'atsi", "meaning": "man", "emoji": "👨", "audio": "audio/ka/words/ka-kani-ejective-01.mp3" },
+        { "text": "კარი", "roman": "k'ari", "meaning": "door", "emoji": "🚪", "audio": "audio/ka/words/ka-kani-ejective-02.mp3" },
+        { "text": "კბილი", "roman": "k'bili", "meaning": "tooth", "emoji": "🦷", "audio": "audio/ka/words/ka-kani-ejective-03.mp3" },
+        { "text": "კვერცხი", "roman": "k'vertskhi", "meaning": "egg", "emoji": "🥚", "audio": "audio/ka/words/ka-kani-ejective-04.mp3" },
+        { "text": "კატა", "roman": "k'ata", "meaning": "cat", "emoji": "🐱", "audio": "audio/ka/words/ka-kani-ejective-05.mp3" },
+        { "text": "კედელი", "roman": "k'edeli", "meaning": "wall", "emoji": "🧱", "audio": "audio/ka/words/ka-kani-ejective-06.mp3" },
+        { "text": "კოვზი", "roman": "k'ovzi", "meaning": "spoon", "emoji": "🥄", "audio": "audio/ka/words/ka-kani-ejective-07.mp3" },
+        { "text": "კუნძული", "roman": "k'undzuli", "meaning": "island", "emoji": "🏝️", "audio": "audio/ka/words/ka-kani-ejective-08.mp3" },
+        { "text": "კუდი", "roman": "k'udi", "meaning": "tail", "audio": "audio/ka/words/ka-kani-ejective-09.mp3" },
+        { "text": "კოცნა", "roman": "k'otsna", "meaning": "kiss", "emoji": "💋", "audio": "audio/ka/words/ka-kani-ejective-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-lasi",
+      "char": "ლ",
+      "name": "lasi",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/ka/letters/ka-lasi.mp3",
+      "memoryTrick": "Lasi looks a bit like a hook or an upside-down question mark. Think of a lion's tail curling — 'l' as in 'lion' and 'lazy'.",
+      "words": [
+        { "text": "ლომი", "roman": "lomi", "meaning": "lion", "emoji": "🦁", "audio": "audio/ka/words/ka-lasi-01.mp3" },
+        { "text": "ლუდი", "roman": "ludi", "meaning": "beer", "emoji": "🍺", "audio": "audio/ka/words/ka-lasi-02.mp3" },
+        { "text": "ლამაზი", "roman": "lamazi", "meaning": "beautiful", "emoji": "✨", "audio": "audio/ka/words/ka-lasi-03.mp3" },
+        { "text": "ლექსი", "roman": "leksi", "meaning": "poem", "emoji": "📝", "audio": "audio/ka/words/ka-lasi-04.mp3" },
+        { "text": "ლურჯი", "roman": "lurji", "meaning": "blue", "emoji": "🔵", "audio": "audio/ka/words/ka-lasi-05.mp3" },
+        { "text": "ლობიო", "roman": "lobio", "meaning": "beans", "emoji": "🫘", "audio": "audio/ka/words/ka-lasi-06.mp3" },
+        { "text": "ლიმონი", "roman": "limoni", "meaning": "lemon", "emoji": "🍋", "audio": "audio/ka/words/ka-lasi-07.mp3" },
+        { "text": "ლაშქარი", "roman": "lashkari", "meaning": "army, host", "audio": "audio/ka/words/ka-lasi-08.mp3" },
+        { "text": "ლოცვა", "roman": "lotsva", "meaning": "prayer", "emoji": "🙏", "audio": "audio/ka/words/ka-lasi-09.mp3" },
+        { "text": "ლეღვი", "roman": "leghvi", "meaning": "fig", "emoji": "🫐", "audio": "audio/ka/words/ka-lasi-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-mani",
+      "char": "მ",
+      "name": "mani",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/ka/letters/ka-mani.mp3",
+      "memoryTrick": "Mani looks like a mountain with a valley in the middle — two peaks joined at the base. 'M' as in 'mountain' and 'mother', same bilabial nasal sound.",
+      "words": [
+        { "text": "მამა", "roman": "mama", "meaning": "father", "emoji": "👨", "audio": "audio/ka/words/ka-mani-01.mp3" },
+        { "text": "მზე", "roman": "mze", "meaning": "sun", "emoji": "☀️", "audio": "audio/ka/words/ka-mani-02.mp3" },
+        { "text": "მთვარე", "roman": "mtvare", "meaning": "moon", "emoji": "🌙", "audio": "audio/ka/words/ka-mani-03.mp3" },
+        { "text": "მდინარე", "roman": "mdinare", "meaning": "river", "emoji": "🏞️", "audio": "audio/ka/words/ka-mani-04.mp3" },
+        { "text": "მეგობარი", "roman": "megobari", "meaning": "friend", "emoji": "🤗", "audio": "audio/ka/words/ka-mani-05.mp3" },
+        { "text": "მაგიდა", "roman": "magida", "meaning": "table", "audio": "audio/ka/words/ka-mani-06.mp3" },
+        { "text": "მარწყვი", "roman": "martsqvi", "meaning": "strawberry", "emoji": "🍓", "audio": "audio/ka/words/ka-mani-07.mp3" },
+        { "text": "მგელი", "roman": "mgeli", "meaning": "wolf", "emoji": "🐺", "audio": "audio/ka/words/ka-mani-08.mp3" },
+        { "text": "მკლავი", "roman": "mklavi", "meaning": "arm", "emoji": "💪", "audio": "audio/ka/words/ka-mani-09.mp3" },
+        { "text": "მწვანე", "roman": "mtsvane", "meaning": "green", "emoji": "🟢", "audio": "audio/ka/words/ka-mani-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-nari",
+      "char": "ნ",
+      "name": "nari",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/ka/letters/ka-nari.mp3",
+      "memoryTrick": "Nari looks like a little bridge or a nose. Think of saying 'no' while pinching your nose — the same /n/ sound as English 'nose' and 'no'.",
+      "words": [
+        { "text": "ნათურა", "roman": "natura", "meaning": "lamp", "emoji": "💡", "audio": "audio/ka/words/ka-nari-01.mp3" },
+        { "text": "ნიავი", "roman": "niavi", "meaning": "breeze", "emoji": "🌬️", "audio": "audio/ka/words/ka-nari-02.mp3" },
+        { "text": "ნუში", "roman": "nushi", "meaning": "almond", "emoji": "🥜", "audio": "audio/ka/words/ka-nari-03.mp3" },
+        { "text": "ნისლი", "roman": "nisli", "meaning": "fog", "emoji": "🌫️", "audio": "audio/ka/words/ka-nari-04.mp3" },
+        { "text": "ნავი", "roman": "navi", "meaning": "boat", "emoji": "⛵", "audio": "audio/ka/words/ka-nari-05.mp3" },
+        { "text": "ნახევარი", "roman": "nakhevari", "meaning": "half", "audio": "audio/ka/words/ka-nari-06.mp3" },
+        { "text": "ნიორი", "roman": "niori", "meaning": "garlic", "emoji": "🧄", "audio": "audio/ka/words/ka-nari-07.mp3" },
+        { "text": "ნაყინი", "roman": "naqini", "meaning": "ice cream", "emoji": "🍦", "audio": "audio/ka/words/ka-nari-08.mp3" },
+        { "text": "ნემსი", "roman": "nemsi", "meaning": "needle", "audio": "audio/ka/words/ka-nari-09.mp3" },
+        { "text": "ნაბიჯი", "roman": "nabiji", "meaning": "step", "emoji": "👣", "audio": "audio/ka/words/ka-nari-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-oni",
+      "char": "ო",
+      "name": "oni",
+      "romanization": "o",
+      "ipa": "/ɔ/",
+      "letterAudio": "audio/ka/letters/ka-oni.mp3",
+      "memoryTrick": "Oni looks like a perfect circle or ring. Think of saying 'Oh!' in surprise — it's the round /ɔ/ sound, like the 'o' in 'or' or 'organ'.",
+      "words": [
+        { "text": "ოთახი", "roman": "otakhi", "meaning": "room", "audio": "audio/ka/words/ka-oni-01.mp3" },
+        { "text": "ოჯახი", "roman": "ojakhi", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/ka/words/ka-oni-02.mp3" },
+        { "text": "ოქრო", "roman": "okro", "meaning": "gold", "emoji": "🥇", "audio": "audio/ka/words/ka-oni-03.mp3" },
+        { "text": "ომი", "roman": "omi", "meaning": "war", "audio": "audio/ka/words/ka-oni-04.mp3" },
+        { "text": "ორშაბათი", "roman": "orshabati", "meaning": "Monday", "emoji": "📅", "audio": "audio/ka/words/ka-oni-05.mp3" },
+        { "text": "ოცნება", "roman": "otsneba", "meaning": "dream", "emoji": "💭", "audio": "audio/ka/words/ka-oni-06.mp3" },
+        { "text": "ორი", "roman": "ori", "meaning": "two", "emoji": "2️⃣", "audio": "audio/ka/words/ka-oni-07.mp3" },
+        { "text": "ოკეანე", "roman": "okeane", "meaning": "ocean", "emoji": "🌊", "audio": "audio/ka/words/ka-oni-08.mp3" },
+        { "text": "ოთხი", "roman": "otkhi", "meaning": "four", "emoji": "4️⃣", "audio": "audio/ka/words/ka-oni-09.mp3" },
+        { "text": "ორცხობილა", "roman": "ortskhobila", "meaning": "biscuit", "emoji": "🍪", "audio": "audio/ka/words/ka-oni-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-pari-ejective",
+      "char": "პ",
+      "name": "p'ari",
+      "romanization": "p'",
+      "ipa": "/p'/",
+      "letterAudio": "audio/ka/letters/ka-pari-ejective.mp3",
+      "memoryTrick": "P'ari looks like an open gate with a crossbar. It's an ejective p — close your throat and pop the 'p' out sharply, with no puff of air. Almost like the p in 'spin' but even tighter.",
+      "words": [
+        { "text": "პური", "roman": "p'uri", "meaning": "bread", "emoji": "🍞", "audio": "audio/ka/words/ka-pari-ejective-01.mp3" },
+        { "text": "პეპელა", "roman": "p'epela", "meaning": "butterfly", "emoji": "🦋", "audio": "audio/ka/words/ka-pari-ejective-02.mp3" },
+        { "text": "პატარა", "roman": "p'atara", "meaning": "small", "audio": "audio/ka/words/ka-pari-ejective-03.mp3" },
+        { "text": "პირი", "roman": "p'iri", "meaning": "mouth, face", "emoji": "👄", "audio": "audio/ka/words/ka-pari-ejective-04.mp3" },
+        { "text": "პოეტი", "roman": "p'oeti", "meaning": "poet", "emoji": "✍️", "audio": "audio/ka/words/ka-pari-ejective-05.mp3" },
+        { "text": "პასუხი", "roman": "p'asukhi", "meaning": "answer", "audio": "audio/ka/words/ka-pari-ejective-06.mp3" },
+        { "text": "პირსახოცი", "roman": "p'irsakhotsi", "meaning": "towel", "audio": "audio/ka/words/ka-pari-ejective-07.mp3" },
+        { "text": "პოლკა", "roman": "p'olka", "meaning": "polka", "emoji": "💃", "audio": "audio/ka/words/ka-pari-ejective-08.mp3" }
+      ]
+    },
+    {
+      "id": "ka-zhani",
+      "char": "ჟ",
+      "name": "zhani",
+      "romanization": "zh",
+      "ipa": "/ʒ/",
+      "letterAudio": "audio/ka/letters/ka-zhani.mp3",
+      "memoryTrick": "Zhani looks like a little teapot with a lid. It makes the 'zh' sound — like the 's' in 'measure' or 'pleasure', or the French 'j' in 'je'. Think of the buzzing pleasure of a warm cup of tea.",
+      "words": [
+        { "text": "ჟოლო", "roman": "zholo", "meaning": "raspberry", "emoji": "🫐", "audio": "audio/ka/words/ka-zhani-01.mp3" },
+        { "text": "ჟურნალი", "roman": "zhurnali", "meaning": "magazine", "emoji": "📰", "audio": "audio/ka/words/ka-zhani-02.mp3" },
+        { "text": "ჟანგი", "roman": "zhangi", "meaning": "rust", "audio": "audio/ka/words/ka-zhani-03.mp3" },
+        { "text": "ჟირაფი", "roman": "zhirafi", "meaning": "giraffe", "emoji": "🦒", "audio": "audio/ka/words/ka-zhani-04.mp3" },
+        { "text": "ჟესტი", "roman": "zhesti", "meaning": "gesture", "emoji": "🖐️", "audio": "audio/ka/words/ka-zhani-05.mp3" },
+        { "text": "ჟღერა", "roman": "zhghera", "meaning": "ringing, sounding", "emoji": "🔊", "audio": "audio/ka/words/ka-zhani-06.mp3" },
+        { "text": "ჟინი", "roman": "zhini", "meaning": "zeal, fervor", "audio": "audio/ka/words/ka-zhani-07.mp3" }
+      ]
+    },
+    {
+      "id": "ka-raei",
+      "char": "რ",
+      "name": "raei",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/ka/letters/ka-raei.mp3",
+      "memoryTrick": "Raei looks like a lowercase 'h' with a little curl at the bottom. It's a rolled or tapped r — like the 'r' in Spanish 'pero' or the quick tap in 'butter' said quickly in American English.",
+      "words": [
+        { "text": "რა", "roman": "ra", "meaning": "what", "audio": "audio/ka/words/ka-raei-01.mp3" },
+        { "text": "რძე", "roman": "rdze", "meaning": "milk", "emoji": "🥛", "audio": "audio/ka/words/ka-raei-02.mp3" },
+        { "text": "რკინა", "roman": "rkina", "meaning": "iron", "audio": "audio/ka/words/ka-raei-03.mp3" },
+        { "text": "რვა", "roman": "rva", "meaning": "eight", "emoji": "8️⃣", "audio": "audio/ka/words/ka-raei-04.mp3" },
+        { "text": "რწყილი", "roman": "rtsqili", "meaning": "flea", "audio": "audio/ka/words/ka-raei-05.mp3" },
+        { "text": "რბილი", "roman": "rbili", "meaning": "soft", "audio": "audio/ka/words/ka-raei-06.mp3" },
+        { "text": "რესტორანი", "roman": "restorani", "meaning": "restaurant", "emoji": "🍽️", "audio": "audio/ka/words/ka-raei-07.mp3" },
+        { "text": "რიცხვი", "roman": "ritskhvi", "meaning": "number", "emoji": "🔢", "audio": "audio/ka/words/ka-raei-08.mp3" },
+        { "text": "რომელი", "roman": "romeli", "meaning": "which", "audio": "audio/ka/words/ka-raei-09.mp3" },
+        { "text": "რადიო", "roman": "radio", "meaning": "radio", "emoji": "📻", "audio": "audio/ka/words/ka-raei-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-sani",
+      "char": "ს",
+      "name": "sani",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/ka/letters/ka-sani.mp3",
+      "memoryTrick": "Sani looks like a smooth, wavy ribbon with three curves. Think of a snake slithering with a hissing 'ssss' — same voiceless s as in 'snake' and 'sun'.",
+      "words": [
+        { "text": "სახლი", "roman": "sakhli", "meaning": "house", "emoji": "🏠", "audio": "audio/ka/words/ka-sani-01.mp3" },
+        { "text": "სკამი", "roman": "skami", "meaning": "chair", "emoji": "🪑", "audio": "audio/ka/words/ka-sani-02.mp3" },
+        { "text": "სამი", "roman": "sami", "meaning": "three", "emoji": "3️⃣", "audio": "audio/ka/words/ka-sani-03.mp3" },
+        { "text": "სოკო", "roman": "soko", "meaning": "mushroom", "emoji": "🍄", "audio": "audio/ka/words/ka-sani-04.mp3" },
+        { "text": "საქართველო", "roman": "sakartvelo", "meaning": "Georgia (country)", "emoji": "🇬🇪", "audio": "audio/ka/words/ka-sani-05.mp3" },
+        { "text": "სიყვარული", "roman": "siqvaruli", "meaning": "love", "emoji": "💕", "audio": "audio/ka/words/ka-sani-06.mp3" },
+        { "text": "საღამო", "roman": "saghamo", "meaning": "evening", "emoji": "🌆", "audio": "audio/ka/words/ka-sani-07.mp3" },
+        { "text": "სასმელი", "roman": "sasmeli", "meaning": "drink", "emoji": "🥤", "audio": "audio/ka/words/ka-sani-08.mp3" },
+        { "text": "სთვლის", "roman": "stvlis", "meaning": "counts", "audio": "audio/ka/words/ka-sani-09.mp3" },
+        { "text": "სიმღერა", "roman": "simghera", "meaning": "song", "emoji": "🎵", "audio": "audio/ka/words/ka-sani-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-tari-ejective",
+      "char": "ტ",
+      "name": "t'ari",
+      "romanization": "t'",
+      "ipa": "/t'/",
+      "letterAudio": "audio/ka/letters/ka-tari-ejective.mp3",
+      "memoryTrick": "T'ari looks like a little curved hook or a shepherd's crook. This is an ejective t — close your throat, trap the air, and release the 't' sharply without a puff. Like the t in 'stop' but much tighter.",
+      "words": [
+        { "text": "ტყე", "roman": "tqe", "meaning": "forest", "emoji": "🌲", "audio": "audio/ka/words/ka-tari-ejective-01.mp3" },
+        { "text": "ტბა", "roman": "tba", "meaning": "lake", "emoji": "🏞️", "audio": "audio/ka/words/ka-tari-ejective-02.mp3" },
+        { "text": "ტელეფონი", "roman": "teleponi", "meaning": "telephone", "emoji": "📞", "audio": "audio/ka/words/ka-tari-ejective-03.mp3" },
+        { "text": "ტაქსი", "roman": "taksi", "meaning": "taxi", "emoji": "🚕", "audio": "audio/ka/words/ka-tari-ejective-04.mp3" },
+        { "text": "ტკბილი", "roman": "tkbili", "meaning": "sweet", "emoji": "🍬", "audio": "audio/ka/words/ka-tari-ejective-05.mp3" },
+        { "text": "ტაძარი", "roman": "tadzari", "meaning": "cathedral, temple", "emoji": "⛪", "audio": "audio/ka/words/ka-tari-ejective-06.mp3" },
+        { "text": "ტუჩი", "roman": "tuchi", "meaning": "lip", "emoji": "👄", "audio": "audio/ka/words/ka-tari-ejective-07.mp3" },
+        { "text": "ტანსაცმელი", "roman": "tansatsmeli", "meaning": "clothing", "emoji": "👕", "audio": "audio/ka/words/ka-tari-ejective-08.mp3" },
+        { "text": "ტომარა", "roman": "tomara", "meaning": "sack, bag", "audio": "audio/ka/words/ka-tari-ejective-09.mp3" },
+        { "text": "ტალღა", "roman": "talgha", "meaning": "wave", "emoji": "🌊", "audio": "audio/ka/words/ka-tari-ejective-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-uni",
+      "char": "უ",
+      "name": "uni",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/ka/letters/ka-uni.mp3",
+      "memoryTrick": "Uni looks like an upside-down 'U' with a little tail, or a horseshoe. Think of an owl going 'oooh' — it's the same /u/ sound as in 'boot' and 'moon'.",
+      "words": [
+        { "text": "ურო", "roman": "uro", "meaning": "hammer", "emoji": "🔨", "audio": "audio/ka/words/ka-uni-01.mp3" },
+        { "text": "ულვაში", "roman": "ulvashi", "meaning": "moustache", "audio": "audio/ka/words/ka-uni-02.mp3" },
+        { "text": "უკან", "roman": "ukan", "meaning": "behind, back", "audio": "audio/ka/words/ka-uni-03.mp3" },
+        { "text": "უთო", "roman": "uto", "meaning": "clothes iron", "audio": "audio/ka/words/ka-uni-04.mp3" },
+        { "text": "უფროსი", "roman": "uprosi", "meaning": "boss, elder", "emoji": "👔", "audio": "audio/ka/words/ka-uni-05.mp3" },
+        { "text": "უნივერსიტეტი", "roman": "universiteti", "meaning": "university", "emoji": "🎓", "audio": "audio/ka/words/ka-uni-06.mp3" },
+        { "text": "ულამაზესი", "roman": "ulamazesi", "meaning": "most beautiful", "emoji": "🌟", "audio": "audio/ka/words/ka-uni-07.mp3" },
+        { "text": "უცხო", "roman": "utskho", "meaning": "foreign, strange", "audio": "audio/ka/words/ka-uni-08.mp3" },
+        { "text": "უღელი", "roman": "ugheli", "meaning": "yoke", "audio": "audio/ka/words/ka-uni-09.mp3" }
+      ]
+    },
+    {
+      "id": "ka-pari-aspirated",
+      "char": "ფ",
+      "name": "pari",
+      "romanization": "p",
+      "ipa": "/pʰ/",
+      "letterAudio": "audio/ka/letters/ka-pari-aspirated.mp3",
+      "memoryTrick": "Pari looks like an open book or a tent with flaps. It's an aspirated p — say 'pill' and feel the puff of air on your palm. That puff is what separates this from the ejective პ.",
+      "words": [
+        { "text": "ფანჯარა", "roman": "panjara", "meaning": "window", "emoji": "🪟", "audio": "audio/ka/words/ka-pari-aspirated-01.mp3" },
+        { "text": "ფრინველი", "roman": "prinveli", "meaning": "bird", "emoji": "🐦", "audio": "audio/ka/words/ka-pari-aspirated-02.mp3" },
+        { "text": "ფეხი", "roman": "pekhi", "meaning": "leg, foot", "emoji": "🦶", "audio": "audio/ka/words/ka-pari-aspirated-03.mp3" },
+        { "text": "ფული", "roman": "puli", "meaning": "money", "emoji": "💰", "audio": "audio/ka/words/ka-pari-aspirated-04.mp3" },
+        { "text": "ფოთოლი", "roman": "potoli", "meaning": "leaf", "emoji": "🍃", "audio": "audio/ka/words/ka-pari-aspirated-05.mp3" },
+        { "text": "ფერი", "roman": "peri", "meaning": "color", "emoji": "🎨", "audio": "audio/ka/words/ka-pari-aspirated-06.mp3" },
+        { "text": "ფიქრი", "roman": "pikri", "meaning": "thought", "emoji": "🤔", "audio": "audio/ka/words/ka-pari-aspirated-07.mp3" },
+        { "text": "ფრთა", "roman": "prta", "meaning": "wing", "emoji": "🪽", "audio": "audio/ka/words/ka-pari-aspirated-08.mp3" },
+        { "text": "ფუტკარი", "roman": "putkari", "meaning": "bee", "emoji": "🐝", "audio": "audio/ka/words/ka-pari-aspirated-09.mp3" },
+        { "text": "ფოსტა", "roman": "posta", "meaning": "mail, post", "emoji": "📬", "audio": "audio/ka/words/ka-pari-aspirated-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-kani-aspirated",
       "char": "ქ",
-      "name": "kan",
+      "name": "kani",
       "romanization": "k",
       "ipa": "/kʰ/",
-      "memoryTrick": "An aspirated 'k' with a puff of air.",
+      "letterAudio": "audio/ka/letters/ka-kani-aspirated.mp3",
+      "memoryTrick": "Kani looks like a little boat with a sail. It's an aspirated k — say 'kite' and feel the puff of air. That breathy puff distinguishes this from the ejective კ.",
       "words": [
-        {
-          "text": "ქალი",
-          "roman": "kali",
-          "meaning": "woman",
-          "emoji": "👩"
-        },
-        {
-          "text": "ქარი",
-          "roman": "kari",
-          "meaning": "wind",
-          "emoji": "💨"
-        }
+        { "text": "ქარი", "roman": "kari", "meaning": "wind", "emoji": "💨", "audio": "audio/ka/words/ka-kani-aspirated-01.mp3" },
+        { "text": "ქვა", "roman": "kva", "meaning": "stone", "emoji": "🪨", "audio": "audio/ka/words/ka-kani-aspirated-02.mp3" },
+        { "text": "ქუდი", "roman": "kudi", "meaning": "hat", "emoji": "🧢", "audio": "audio/ka/words/ka-kani-aspirated-03.mp3" },
+        { "text": "ქალაქი", "roman": "kalaki", "meaning": "city", "emoji": "🏙️", "audio": "audio/ka/words/ka-kani-aspirated-04.mp3" },
+        { "text": "ქუჩა", "roman": "kucha", "meaning": "street", "emoji": "🛣️", "audio": "audio/ka/words/ka-kani-aspirated-05.mp3" },
+        { "text": "ქვეყანა", "roman": "kveqana", "meaning": "country", "emoji": "🌍", "audio": "audio/ka/words/ka-kani-aspirated-06.mp3" },
+        { "text": "ქალი", "roman": "kali", "meaning": "woman", "emoji": "👩", "audio": "audio/ka/words/ka-kani-aspirated-07.mp3" },
+        { "text": "ქართული", "roman": "kartuli", "meaning": "Georgian (language)", "audio": "audio/ka/words/ka-kani-aspirated-08.mp3" },
+        { "text": "ქიშმიში", "roman": "kishmishi", "meaning": "raisin", "emoji": "🍇", "audio": "audio/ka/words/ka-kani-aspirated-09.mp3" },
+        { "text": "ქაღალდი", "roman": "kaghaldi", "meaning": "paper", "emoji": "📄", "audio": "audio/ka/words/ka-kani-aspirated-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-ghani",
+      "char": "ღ",
+      "name": "ghani",
+      "romanization": "gh",
+      "ipa": "/ɣ/",
+      "letterAudio": "audio/ka/letters/ka-ghani.mp3",
+      "memoryTrick": "Ghani looks like a wide-open mouth. The sound is a voiced rasp deep in the throat, like the French 'r' in 'Paris' or a gentle gargle — vibrate your vocal cords while making a friction sound at the back of your mouth.",
+      "words": [
+        { "text": "ღამე", "roman": "ghame", "meaning": "night", "emoji": "🌙", "audio": "audio/ka/words/ka-ghani-01.mp3" },
+        { "text": "ღვინო", "roman": "ghvino", "meaning": "wine", "emoji": "🍷", "audio": "audio/ka/words/ka-ghani-02.mp3" },
+        { "text": "ღიმილი", "roman": "ghimili", "meaning": "smile", "emoji": "😊", "audio": "audio/ka/words/ka-ghani-03.mp3" },
+        { "text": "ღრუბელი", "roman": "ghrubeli", "meaning": "cloud", "emoji": "☁️", "audio": "audio/ka/words/ka-ghani-04.mp3" },
+        { "text": "ღმერთი", "roman": "ghmerti", "meaning": "god", "audio": "audio/ka/words/ka-ghani-05.mp3" },
+        { "text": "ღილაკი", "roman": "ghilaki", "meaning": "button", "emoji": "🔘", "audio": "audio/ka/words/ka-ghani-06.mp3" },
+        { "text": "ღორი", "roman": "ghori", "meaning": "pig", "emoji": "🐷", "audio": "audio/ka/words/ka-ghani-07.mp3" },
+        { "text": "ღუმელი", "roman": "ghumeli", "meaning": "oven", "audio": "audio/ka/words/ka-ghani-08.mp3" },
+        { "text": "ღია", "roman": "ghia", "meaning": "open", "audio": "audio/ka/words/ka-ghani-09.mp3" },
+        { "text": "ღირსება", "roman": "ghirseba", "meaning": "dignity", "audio": "audio/ka/words/ka-ghani-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-qari",
+      "char": "ყ",
+      "name": "q'ari",
+      "romanization": "q'",
+      "ipa": "/q'/",
+      "letterAudio": "audio/ka/letters/ka-qari.mp3",
+      "memoryTrick": "Q'ari looks like a hook reaching down into the throat. This is an ejective uvular stop — make a k sound way back where your uvula is, then eject it sharply without breath. Like a deep popping sound.",
+      "words": [
+        { "text": "ყვავილი", "roman": "qvavili", "meaning": "flower", "emoji": "🌸", "audio": "audio/ka/words/ka-qari-01.mp3" },
+        { "text": "ყური", "roman": "quri", "meaning": "ear", "emoji": "👂", "audio": "audio/ka/words/ka-qari-02.mp3" },
+        { "text": "ყინული", "roman": "qinuli", "meaning": "ice", "emoji": "🧊", "audio": "audio/ka/words/ka-qari-03.mp3" },
+        { "text": "ყელი", "roman": "qeli", "meaning": "throat, neck", "audio": "audio/ka/words/ka-qari-04.mp3" },
+        { "text": "ყუთი", "roman": "quti", "meaning": "box", "emoji": "📦", "audio": "audio/ka/words/ka-qari-05.mp3" },
+        { "text": "ყურძენი", "roman": "qurdzeni", "meaning": "grape", "emoji": "🍇", "audio": "audio/ka/words/ka-qari-06.mp3" },
+        { "text": "ყავა", "roman": "qava", "meaning": "coffee", "emoji": "☕", "audio": "audio/ka/words/ka-qari-07.mp3" },
+        { "text": "ყანჩა", "roman": "qancha", "meaning": "heron", "audio": "audio/ka/words/ka-qari-08.mp3" },
+        { "text": "ყაბაყი", "roman": "qabaqi", "meaning": "zucchini", "emoji": "🥒", "audio": "audio/ka/words/ka-qari-09.mp3" },
+        { "text": "ყველი", "roman": "qveli", "meaning": "cheese", "emoji": "🧀", "audio": "audio/ka/words/ka-qari-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-shini",
+      "char": "შ",
+      "name": "shini",
+      "romanization": "sh",
+      "ipa": "/ʃ/",
+      "letterAudio": "audio/ka/letters/ka-shini.mp3",
+      "memoryTrick": "Shini looks like a little staircase going up. Think of someone putting a finger to their lips and saying 'shhh' — it's the same /ʃ/ sound as English 'shoe' and 'ship'.",
+      "words": [
+        { "text": "შაქარი", "roman": "shakari", "meaning": "sugar", "audio": "audio/ka/words/ka-shini-01.mp3" },
+        { "text": "შვიდი", "roman": "shvidi", "meaning": "seven", "emoji": "7️⃣", "audio": "audio/ka/words/ka-shini-02.mp3" },
+        { "text": "შუქი", "roman": "shuki", "meaning": "light", "emoji": "💡", "audio": "audio/ka/words/ka-shini-03.mp3" },
+        { "text": "შობა", "roman": "shoba", "meaning": "Christmas", "emoji": "🎄", "audio": "audio/ka/words/ka-shini-04.mp3" },
+        { "text": "შარფი", "roman": "sharpi", "meaning": "scarf", "emoji": "🧣", "audio": "audio/ka/words/ka-shini-05.mp3" },
+        { "text": "შიში", "roman": "shishi", "meaning": "fear", "emoji": "😨", "audio": "audio/ka/words/ka-shini-06.mp3" },
+        { "text": "შვილი", "roman": "shvili", "meaning": "child (offspring)", "emoji": "👶", "audio": "audio/ka/words/ka-shini-07.mp3" },
+        { "text": "შოკოლადი", "roman": "shokoladi", "meaning": "chocolate", "emoji": "🍫", "audio": "audio/ka/words/ka-shini-08.mp3" },
+        { "text": "შაბათი", "roman": "shabati", "meaning": "Saturday", "emoji": "📅", "audio": "audio/ka/words/ka-shini-09.mp3" },
+        { "text": "შესასვლელი", "roman": "shesasvleli", "meaning": "entrance", "emoji": "🚪", "audio": "audio/ka/words/ka-shini-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-chini",
+      "char": "ჩ",
+      "name": "chini",
+      "romanization": "ch",
+      "ipa": "/t͡ʃʰ/",
+      "letterAudio": "audio/ka/letters/ka-chini.mp3",
+      "memoryTrick": "Chini looks like a little chair with a curved back. It's an aspirated 'ch' — say 'chair' with the puff of air. That breathiness is what makes it different from the ejective ჭ.",
+      "words": [
+        { "text": "ჩიტი", "roman": "chiti", "meaning": "bird", "emoji": "🐦", "audio": "audio/ka/words/ka-chini-01.mp3" },
+        { "text": "ჩაი", "roman": "chai", "meaning": "tea", "emoji": "🍵", "audio": "audio/ka/words/ka-chini-02.mp3" },
+        { "text": "ჩანთა", "roman": "chanta", "meaning": "bag", "emoji": "👜", "audio": "audio/ka/words/ka-chini-03.mp3" },
+        { "text": "ჩრდილი", "roman": "chrdili", "meaning": "shadow", "audio": "audio/ka/words/ka-chini-04.mp3" },
+        { "text": "ჩუმი", "roman": "chumi", "meaning": "quiet", "emoji": "🤫", "audio": "audio/ka/words/ka-chini-05.mp3" },
+        { "text": "ჩქარი", "roman": "chkari", "meaning": "fast", "emoji": "💨", "audio": "audio/ka/words/ka-chini-06.mp3" },
+        { "text": "ჩემი", "roman": "chemi", "meaning": "my", "audio": "audio/ka/words/ka-chini-07.mp3" },
+        { "text": "ჩარჩო", "roman": "charcho", "meaning": "frame", "emoji": "🖼️", "audio": "audio/ka/words/ka-chini-08.mp3" },
+        { "text": "ჩანჩქერი", "roman": "chanchkeri", "meaning": "waterfall", "emoji": "💧", "audio": "audio/ka/words/ka-chini-09.mp3" },
+        { "text": "ჩლიქი", "roman": "chliki", "meaning": "hoof", "audio": "audio/ka/words/ka-chini-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-tsani",
+      "char": "ც",
+      "name": "tsani",
+      "romanization": "ts",
+      "ipa": "/t͡sʰ/",
+      "letterAudio": "audio/ka/letters/ka-tsani.mp3",
+      "memoryTrick": "Tsani looks like a little curled ribbon hanging down. It's an aspirated 'ts' — like the 'ts' in 'cats' followed by a puff of air. Your tongue taps behind your teeth with extra breath.",
+      "words": [
+        { "text": "ცა", "roman": "tsa", "meaning": "sky", "emoji": "☁️", "audio": "audio/ka/words/ka-tsani-01.mp3" },
+        { "text": "ცეცხლი", "roman": "tsetskhli", "meaning": "fire", "emoji": "🔥", "audio": "audio/ka/words/ka-tsani-02.mp3" },
+        { "text": "ცხვირი", "roman": "tskhviri", "meaning": "nose", "emoji": "👃", "audio": "audio/ka/words/ka-tsani-03.mp3" },
+        { "text": "ცხენი", "roman": "tskheni", "meaning": "horse", "emoji": "🐴", "audio": "audio/ka/words/ka-tsani-04.mp3" },
+        { "text": "ციფრი", "roman": "tsipri", "meaning": "digit", "emoji": "🔢", "audio": "audio/ka/words/ka-tsani-05.mp3" },
+        { "text": "ცივი", "roman": "tsivi", "meaning": "cold", "emoji": "🥶", "audio": "audio/ka/words/ka-tsani-06.mp3" },
+        { "text": "ცხელი", "roman": "tskheli", "meaning": "hot", "emoji": "🥵", "audio": "audio/ka/words/ka-tsani-07.mp3" },
+        { "text": "ცრემლი", "roman": "tsremli", "meaning": "tear (crying)", "emoji": "😢", "audio": "audio/ka/words/ka-tsani-08.mp3" },
+        { "text": "ცუდი", "roman": "tsudi", "meaning": "bad", "audio": "audio/ka/words/ka-tsani-09.mp3" },
+        { "text": "ცოცხალი", "roman": "tsotskhali", "meaning": "alive", "emoji": "🌱", "audio": "audio/ka/words/ka-tsani-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-dzili",
+      "char": "ძ",
+      "name": "dzili",
+      "romanization": "dz",
+      "ipa": "/d͡z/",
+      "letterAudio": "audio/ka/letters/ka-dzili.mp3",
+      "memoryTrick": "Dzili looks like a coiled spring or a zigzag. It's the voiced 'dz' — like the 'ds' in 'kids' but said as one sound. Vibrate your vocal cords as you make the ts sound.",
+      "words": [
+        { "text": "ძმა", "roman": "dzma", "meaning": "brother", "emoji": "👦", "audio": "audio/ka/words/ka-dzili-01.mp3" },
+        { "text": "ძაღლი", "roman": "dzaghli", "meaning": "dog", "emoji": "🐕", "audio": "audio/ka/words/ka-dzili-02.mp3" },
+        { "text": "ძვალი", "roman": "dzvali", "meaning": "bone", "emoji": "🦴", "audio": "audio/ka/words/ka-dzili-03.mp3" },
+        { "text": "ძილი", "roman": "dzili", "meaning": "sleep", "emoji": "😴", "audio": "audio/ka/words/ka-dzili-04.mp3" },
+        { "text": "ძველი", "roman": "dzveli", "meaning": "old (thing)", "audio": "audio/ka/words/ka-dzili-05.mp3" },
+        { "text": "ძალა", "roman": "dzala", "meaning": "strength", "emoji": "💪", "audio": "audio/ka/words/ka-dzili-06.mp3" },
+        { "text": "ძეგლი", "roman": "dzegli", "meaning": "monument", "emoji": "🏛️", "audio": "audio/ka/words/ka-dzili-07.mp3" },
+        { "text": "ძმარი", "roman": "dzmari", "meaning": "vinegar", "audio": "audio/ka/words/ka-dzili-08.mp3" },
+        { "text": "ძუძუ", "roman": "dzudzu", "meaning": "breast", "audio": "audio/ka/words/ka-dzili-09.mp3" }
+      ]
+    },
+    {
+      "id": "ka-tsili",
+      "char": "წ",
+      "name": "ts'ili",
+      "romanization": "ts'",
+      "ipa": "/t͡s'/",
+      "letterAudio": "audio/ka/letters/ka-tsili.mp3",
+      "memoryTrick": "Ts'ili looks like a little fountain or a hand reaching up. This is an ejective 'ts' — close your throat, trap the air, and release the ts sound sharply with no breath. It pops.",
+      "words": [
+        { "text": "წყალი", "roman": "tsqali", "meaning": "water", "emoji": "💧", "audio": "audio/ka/words/ka-tsili-01.mp3" },
+        { "text": "წელი", "roman": "tseli", "meaning": "year, waist", "emoji": "📅", "audio": "audio/ka/words/ka-tsili-02.mp3" },
+        { "text": "წიგნი", "roman": "tsigni", "meaning": "book", "emoji": "📚", "audio": "audio/ka/words/ka-tsili-03.mp3" },
+        { "text": "წრე", "roman": "tsre", "meaning": "circle", "emoji": "⭕", "audio": "audio/ka/words/ka-tsili-04.mp3" },
+        { "text": "წამი", "roman": "tsami", "meaning": "second (time)", "emoji": "⏱️", "audio": "audio/ka/words/ka-tsili-05.mp3" },
+        { "text": "წვიმა", "roman": "tsvima", "meaning": "rain", "emoji": "🌧️", "audio": "audio/ka/words/ka-tsili-06.mp3" },
+        { "text": "წინდა", "roman": "tsinda", "meaning": "sock", "emoji": "🧦", "audio": "audio/ka/words/ka-tsili-07.mp3" },
+        { "text": "წითელი", "roman": "tsiteli", "meaning": "red", "emoji": "🔴", "audio": "audio/ka/words/ka-tsili-08.mp3" },
+        { "text": "წვერი", "roman": "tsveri", "meaning": "beard", "emoji": "🧔", "audio": "audio/ka/words/ka-tsili-09.mp3" },
+        { "text": "წესი", "roman": "tsesi", "meaning": "rule, custom", "audio": "audio/ka/words/ka-tsili-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-chari",
+      "char": "ჭ",
+      "name": "ch'ari",
+      "romanization": "ch'",
+      "ipa": "/t͡ʃ'/",
+      "letterAudio": "audio/ka/letters/ka-chari.mp3",
+      "memoryTrick": "Ch'ari looks like a little hook or a whisk. This is an ejective 'ch' — trap air in your throat and pop out the ch sound sharply. Like the 'ch' in 'church' but with no breathy puff.",
+      "words": [
+        { "text": "ჭია", "roman": "chia", "meaning": "worm", "emoji": "🪱", "audio": "audio/ka/words/ka-chari-01.mp3" },
+        { "text": "ჭიქა", "roman": "chika", "meaning": "glass (drinking)", "emoji": "🥛", "audio": "audio/ka/words/ka-chari-02.mp3" },
+        { "text": "ჭურჭელი", "roman": "churcheli", "meaning": "dishes, crockery", "emoji": "🍽️", "audio": "audio/ka/words/ka-chari-03.mp3" },
+        { "text": "ჭაბუკი", "roman": "chabuki", "meaning": "youth, lad", "audio": "audio/ka/words/ka-chari-04.mp3" },
+        { "text": "ჭკვიანი", "roman": "chkviani", "meaning": "smart, clever", "emoji": "🧠", "audio": "audio/ka/words/ka-chari-05.mp3" },
+        { "text": "ჭერი", "roman": "cheri", "meaning": "ceiling", "audio": "audio/ka/words/ka-chari-06.mp3" },
+        { "text": "ჭიშკარი", "roman": "chishkari", "meaning": "gate", "emoji": "🚪", "audio": "audio/ka/words/ka-chari-07.mp3" },
+        { "text": "ჭარხალი", "roman": "charkhali", "meaning": "beet", "emoji": "🫒", "audio": "audio/ka/words/ka-chari-08.mp3" }
+      ]
+    },
+    {
+      "id": "ka-khani",
+      "char": "ხ",
+      "name": "khani",
+      "romanization": "kh",
+      "ipa": "/χ/",
+      "letterAudio": "audio/ka/letters/ka-khani.mp3",
+      "memoryTrick": "Khani looks like a little slide or a waterfall cascading down. Make the 'ch' sound in German 'Bach' or Scottish 'loch' — a rough, throaty rasp like clearing your throat softly.",
+      "words": [
+        { "text": "ხე", "roman": "khe", "meaning": "tree", "emoji": "🌳", "audio": "audio/ka/words/ka-khani-01.mp3" },
+        { "text": "ხილი", "roman": "khili", "meaning": "fruit", "emoji": "🍎", "audio": "audio/ka/words/ka-khani-02.mp3" },
+        { "text": "ხორცი", "roman": "khortsi", "meaning": "meat", "emoji": "🥩", "audio": "audio/ka/words/ka-khani-03.mp3" },
+        { "text": "ხუთი", "roman": "khuti", "meaning": "five", "emoji": "5️⃣", "audio": "audio/ka/words/ka-khani-04.mp3" },
+        { "text": "ხატი", "roman": "khati", "meaning": "icon, picture", "emoji": "🖼️", "audio": "audio/ka/words/ka-khani-05.mp3" },
+        { "text": "ხიდი", "roman": "khidi", "meaning": "bridge", "emoji": "🌉", "audio": "audio/ka/words/ka-khani-06.mp3" },
+        { "text": "ხალხი", "roman": "khalkhi", "meaning": "people", "emoji": "👥", "audio": "audio/ka/words/ka-khani-07.mp3" },
+        { "text": "ხვალ", "roman": "khval", "meaning": "tomorrow", "emoji": "📅", "audio": "audio/ka/words/ka-khani-08.mp3" },
+        { "text": "ხარისხი", "roman": "khariskhi", "meaning": "quality, degree", "audio": "audio/ka/words/ka-khani-09.mp3" },
+        { "text": "ხელოვნება", "roman": "khelovneba", "meaning": "art", "emoji": "🎨", "audio": "audio/ka/words/ka-khani-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-jani",
+      "char": "ჯ",
+      "name": "jani",
+      "romanization": "j",
+      "ipa": "/d͡ʒ/",
+      "letterAudio": "audio/ka/letters/ka-jani.mp3",
+      "memoryTrick": "Jani looks like a little jug or a hook with a loop. It's the voiced 'j' — just like the 'j' in English 'jump' or 'judge'. Say 'juice' and you've got it.",
+      "words": [
+        { "text": "ჯარი", "roman": "jari", "meaning": "army", "emoji": "🪖", "audio": "audio/ka/words/ka-jani-01.mp3" },
+        { "text": "ჯილდო", "roman": "jildo", "meaning": "prize, award", "emoji": "🏆", "audio": "audio/ka/words/ka-jani-02.mp3" },
+        { "text": "ჯაჭვი", "roman": "jachvi", "meaning": "chain", "emoji": "⛓️", "audio": "audio/ka/words/ka-jani-03.mp3" },
+        { "text": "ჯიბე", "roman": "jibe", "meaning": "pocket", "audio": "audio/ka/words/ka-jani-04.mp3" },
+        { "text": "ჯანმრთელობა", "roman": "janmrteloba", "meaning": "health", "emoji": "❤️", "audio": "audio/ka/words/ka-jani-05.mp3" },
+        { "text": "ჯვარი", "roman": "jvari", "meaning": "cross", "emoji": "✝️", "audio": "audio/ka/words/ka-jani-06.mp3" },
+        { "text": "ჯადოსნური", "roman": "jadosnuri", "meaning": "magical", "emoji": "🪄", "audio": "audio/ka/words/ka-jani-07.mp3" },
+        { "text": "ჯოხი", "roman": "jokhi", "meaning": "stick", "audio": "audio/ka/words/ka-jani-08.mp3" },
+        { "text": "ჯგუფი", "roman": "jgupi", "meaning": "group", "emoji": "👥", "audio": "audio/ka/words/ka-jani-09.mp3" },
+        { "text": "ჯუნგლი", "roman": "jungli", "meaning": "jungle", "emoji": "🌴", "audio": "audio/ka/words/ka-jani-10.mp3" }
+      ]
+    },
+    {
+      "id": "ka-haei",
+      "char": "ჰ",
+      "name": "haei",
+      "romanization": "h",
+      "ipa": "/h/",
+      "letterAudio": "audio/ka/letters/ka-haei.mp3",
+      "memoryTrick": "Haei looks like a simple arch or a little breath rising up. It's a gentle 'h' — just like the 'h' in English 'hello' or 'happy', a soft puff of air through an open throat.",
+      "words": [
+        { "text": "ჰაერი", "roman": "haeri", "meaning": "air", "emoji": "🌬️", "audio": "audio/ka/words/ka-haei-01.mp3" },
+        { "text": "ჰერო", "roman": "hero", "meaning": "hero", "emoji": "🦸", "audio": "audio/ka/words/ka-haei-02.mp3" },
+        { "text": "ჰარმონია", "roman": "harmonia", "meaning": "harmony", "audio": "audio/ka/words/ka-haei-03.mp3" },
+        { "text": "ჰალსტუხი", "roman": "halstukhi", "meaning": "necktie", "emoji": "👔", "audio": "audio/ka/words/ka-haei-04.mp3" },
+        { "text": "ჰიმნი", "roman": "himni", "meaning": "anthem", "emoji": "🎶", "audio": "audio/ka/words/ka-haei-05.mp3" },
+        { "text": "ჰოკეი", "roman": "hokei", "meaning": "hockey", "emoji": "🏒", "audio": "audio/ka/words/ka-haei-06.mp3" },
+        { "text": "ჰუმანური", "roman": "humanuri", "meaning": "humane", "audio": "audio/ka/words/ka-haei-07.mp3" }
       ]
     }
   ]

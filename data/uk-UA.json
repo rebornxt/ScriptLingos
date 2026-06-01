@@ -2,139 +2,700 @@
   "language": "Ukrainian",
   "code": "uk-UA",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
       "id": "uk-a",
-      "char": "А а",
+      "char": "А",
       "name": "a",
       "romanization": "a",
-      "ipa": "/a/",
-      "memoryTrick": "Looks and sounds like Latin A — 'ah'.",
+      "ipa": "/ɑ/",
+      "letterAudio": "audio/uk/letters/uk-a.mp3",
+      "memoryTrick": "Like the 'a' in 'father' — open wide and let it out. А is the first letter, bold and clear.",
       "words": [
-        {
-          "text": "автобус",
-          "roman": "avtobus",
-          "meaning": "bus",
-          "emoji": "🚌"
-        },
-        {
-          "text": "акула",
-          "roman": "akula",
-          "meaning": "shark",
-          "emoji": "🦈"
-        }
+        {"text": "автобус", "roman": "avtóbus", "meaning": "bus", "emoji": "🚌", "audio": "audio/uk/words/uk-a-01.mp3"},
+        {"text": "апельсин", "roman": "apeljsýn", "meaning": "orange (fruit)", "emoji": "🍊", "audio": "audio/uk/words/uk-a-02.mp3"},
+        {"text": "аптека", "roman": "aptéka", "meaning": "pharmacy", "emoji": "💊", "audio": "audio/uk/words/uk-a-03.mp3"},
+        {"text": "адреса", "roman": "adrésa", "meaning": "address", "emoji": "📍", "audio": "audio/uk/words/uk-a-04.mp3"},
+        {"text": "автор", "roman": "ávtor", "meaning": "author", "emoji": "✍️", "audio": "audio/uk/words/uk-a-05.mp3"},
+        {"text": "актор", "roman": "aktór", "meaning": "actor", "emoji": "🎭", "audio": "audio/uk/words/uk-a-06.mp3"},
+        {"text": "армія", "roman": "ármija", "meaning": "army", "audio": "audio/uk/words/uk-a-07.mp3"},
+        {"text": "ангел", "roman": "ánhel", "meaning": "angel", "emoji": "👼", "audio": "audio/uk/words/uk-a-08.mp3"},
+        {"text": "акула", "roman": "akúla", "meaning": "shark", "emoji": "🦈", "audio": "audio/uk/words/uk-a-09.mp3"},
+        {"text": "ананас", "roman": "ananás", "meaning": "pineapple", "emoji": "🍍", "audio": "audio/uk/words/uk-a-10.mp3"}
       ]
     },
     {
-      "id": "uk-b",
-      "char": "Б б",
+      "id": "uk-be",
+      "char": "Б",
       "name": "be",
       "romanization": "b",
       "ipa": "/b/",
-      "memoryTrick": "Says 'b' — don't confuse it with В.",
+      "letterAudio": "audio/uk/letters/uk-be.mp3",
+      "memoryTrick": "Б is a bold 'b' sound, like the first puff in 'ball'. The upper loop looks like a balloon ready to burst.",
       "words": [
-        {
-          "text": "банан",
-          "roman": "banan",
-          "meaning": "banana",
-          "emoji": "🍌"
-        },
-        {
-          "text": "брат",
-          "roman": "brat",
-          "meaning": "brother",
-          "emoji": "👦"
-        }
+        {"text": "банан", "roman": "banán", "meaning": "banana", "emoji": "🍌", "audio": "audio/uk/words/uk-be-01.mp3"},
+        {"text": "брат", "roman": "brat", "meaning": "brother", "emoji": "👨", "audio": "audio/uk/words/uk-be-02.mp3"},
+        {"text": "бабуся", "roman": "babúsja", "meaning": "grandmother", "emoji": "👵", "audio": "audio/uk/words/uk-be-03.mp3"},
+        {"text": "бібліотека", "roman": "bibliotéka", "meaning": "library", "emoji": "📚", "audio": "audio/uk/words/uk-be-04.mp3"},
+        {"text": "білий", "roman": "bílyj", "meaning": "white", "emoji": "⬜", "audio": "audio/uk/words/uk-be-05.mp3"},
+        {"text": "батько", "roman": "bátjko", "meaning": "father", "emoji": "👨", "audio": "audio/uk/words/uk-be-06.mp3"},
+        {"text": "будинок", "roman": "budýnok", "meaning": "house, building", "emoji": "🏠", "audio": "audio/uk/words/uk-be-07.mp3"},
+        {"text": "береза", "roman": "beréza", "meaning": "birch tree", "audio": "audio/uk/words/uk-be-08.mp3"},
+        {"text": "білка", "roman": "bílka", "meaning": "squirrel", "emoji": "🐿️", "audio": "audio/uk/words/uk-be-09.mp3"},
+        {"text": "боротьба", "roman": "borotjbá", "meaning": "struggle, fight", "audio": "audio/uk/words/uk-be-10.mp3"}
       ]
     },
     {
-      "id": "uk-v",
-      "char": "В в",
+      "id": "uk-ve",
+      "char": "В",
       "name": "ve",
       "romanization": "v",
       "ipa": "/ʋ/",
-      "memoryTrick": "Looks like 'B' but says 'v'.",
+      "letterAudio": "audio/uk/letters/uk-ve.mp3",
+      "memoryTrick": "В looks like a 'B' but sounds like 'v' — think 'В is for Victory, not for Bee'. A soft sound between English v and w.",
       "words": [
-        {
-          "text": "вода",
-          "roman": "voda",
-          "meaning": "water",
-          "emoji": "💧"
-        },
-        {
-          "text": "вікно",
-          "roman": "vikno",
-          "meaning": "window",
-          "emoji": "🪟"
-        }
+        {"text": "вода", "roman": "vodá", "meaning": "water", "emoji": "💧", "audio": "audio/uk/words/uk-ve-01.mp3"},
+        {"text": "вікно", "roman": "viknó", "meaning": "window", "emoji": "🪟", "audio": "audio/uk/words/uk-ve-02.mp3"},
+        {"text": "вулиця", "roman": "vúlytsja", "meaning": "street", "emoji": "🛣️", "audio": "audio/uk/words/uk-ve-03.mp3"},
+        {"text": "вовк", "roman": "vovk", "meaning": "wolf", "emoji": "🐺", "audio": "audio/uk/words/uk-ve-04.mp3"},
+        {"text": "весна", "roman": "vesná", "meaning": "spring (season)", "emoji": "🌸", "audio": "audio/uk/words/uk-ve-05.mp3"},
+        {"text": "ведмідь", "roman": "vedmídj", "meaning": "bear", "emoji": "🐻", "audio": "audio/uk/words/uk-ve-06.mp3"},
+        {"text": "вишня", "roman": "výshnja", "meaning": "cherry", "emoji": "🍒", "audio": "audio/uk/words/uk-ve-07.mp3"},
+        {"text": "вчитель", "roman": "vchýtelj", "meaning": "teacher", "emoji": "👨‍🏫", "audio": "audio/uk/words/uk-ve-08.mp3"},
+        {"text": "вітер", "roman": "víter", "meaning": "wind", "emoji": "💨", "audio": "audio/uk/words/uk-ve-09.mp3"},
+        {"text": "вогонь", "roman": "vohónj", "meaning": "fire", "emoji": "🔥", "audio": "audio/uk/words/uk-ve-10.mp3"}
       ]
     },
     {
-      "id": "uk-h",
-      "char": "Г г",
+      "id": "uk-he",
+      "char": "Г",
       "name": "he",
       "romanization": "h",
       "ipa": "/ɦ/",
-      "memoryTrick": "Ukrainian Г is a soft, breathy 'h'.",
+      "letterAudio": "audio/uk/letters/uk-he.mp3",
+      "memoryTrick": "Г is a breathy, voiced 'h' — like the 'h' in 'ahead', not the hard 'h' of 'hat'. Let your vocal cords buzz gently.",
       "words": [
-        {
-          "text": "гора",
-          "roman": "hora",
-          "meaning": "mountain",
-          "emoji": "⛰️"
-        },
-        {
-          "text": "голова",
-          "roman": "holova",
-          "meaning": "head",
-          "emoji": "🗣️"
-        }
+        {"text": "голова", "roman": "holová", "meaning": "head", "audio": "audio/uk/words/uk-he-01.mp3"},
+        {"text": "гора", "roman": "horá", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/uk/words/uk-he-02.mp3"},
+        {"text": "гриб", "roman": "hryb", "meaning": "mushroom", "emoji": "🍄", "audio": "audio/uk/words/uk-he-03.mp3"},
+        {"text": "газета", "roman": "hazéta", "meaning": "newspaper", "emoji": "📰", "audio": "audio/uk/words/uk-he-04.mp3"},
+        {"text": "герой", "roman": "herój", "meaning": "hero", "emoji": "🦸", "audio": "audio/uk/words/uk-he-05.mp3"},
+        {"text": "голос", "roman": "hólos", "meaning": "voice", "emoji": "🗣️", "audio": "audio/uk/words/uk-he-06.mp3"},
+        {"text": "гра", "roman": "hra", "meaning": "game", "emoji": "🎮", "audio": "audio/uk/words/uk-he-07.mp3"},
+        {"text": "гроші", "roman": "hróshi", "meaning": "money", "emoji": "💰", "audio": "audio/uk/words/uk-he-08.mp3"},
+        {"text": "гість", "roman": "histj", "meaning": "guest", "audio": "audio/uk/words/uk-he-09.mp3"},
+        {"text": "година", "roman": "hodýna", "meaning": "hour", "emoji": "⏰", "audio": "audio/uk/words/uk-he-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-ge",
+      "char": "Ґ",
+      "name": "ge",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "letterAudio": "audio/uk/letters/uk-ge.mp3",
+      "memoryTrick": "Ґ is just Г with an upturned hook — and it's the hard 'g' in 'go'. Think 'hook up for the hard G'.",
+      "words": [
+        {"text": "ґанок", "roman": "gánok", "meaning": "porch", "audio": "audio/uk/words/uk-ge-01.mp3"},
+        {"text": "ґудзик", "roman": "gúdzyk", "meaning": "button", "emoji": "🔘", "audio": "audio/uk/words/uk-ge-02.mp3"},
+        {"text": "ґрунт", "roman": "grunt", "meaning": "soil, ground", "emoji": "🌱", "audio": "audio/uk/words/uk-ge-03.mp3"},
+        {"text": "ґава", "roman": "gáva", "meaning": "crow", "emoji": "🐦", "audio": "audio/uk/words/uk-ge-04.mp3"},
+        {"text": "ґрати", "roman": "gráty", "meaning": "bars, grating", "audio": "audio/uk/words/uk-ge-05.mp3"},
+        {"text": "дзиґа", "roman": "dzýga", "meaning": "spinning top", "audio": "audio/uk/words/uk-ge-06.mp3"},
+        {"text": "ґазда", "roman": "gázda", "meaning": "host, landlord", "audio": "audio/uk/words/uk-ge-07.mp3"},
+        {"text": "ґніт", "roman": "gnit", "meaning": "wick", "audio": "audio/uk/words/uk-ge-08.mp3"},
+        {"text": "аґрус", "roman": "ágrus", "meaning": "gooseberry", "audio": "audio/uk/words/uk-ge-09.mp3"},
+        {"text": "ґуля", "roman": "gúlja", "meaning": "bump, lump", "audio": "audio/uk/words/uk-ge-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-de",
+      "char": "Д",
+      "name": "de",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/uk/letters/uk-de.mp3",
+      "memoryTrick": "Д looks like a little house on stilts — and 'd' for 'дім' (dim, home). The sound is the same 'd' as in 'dog'.",
+      "words": [
+        {"text": "дім", "roman": "dim", "meaning": "home, house", "emoji": "🏠", "audio": "audio/uk/words/uk-de-01.mp3"},
+        {"text": "дерево", "roman": "dérevo", "meaning": "tree", "emoji": "🌳", "audio": "audio/uk/words/uk-de-02.mp3"},
+        {"text": "день", "roman": "denj", "meaning": "day", "emoji": "☀️", "audio": "audio/uk/words/uk-de-03.mp3"},
+        {"text": "дощ", "roman": "doshch", "meaning": "rain", "emoji": "🌧️", "audio": "audio/uk/words/uk-de-04.mp3"},
+        {"text": "друг", "roman": "druh", "meaning": "friend", "emoji": "👫", "audio": "audio/uk/words/uk-de-05.mp3"},
+        {"text": "дорога", "roman": "doróha", "meaning": "road", "emoji": "🛤️", "audio": "audio/uk/words/uk-de-06.mp3"},
+        {"text": "двері", "roman": "dvéri", "meaning": "door", "emoji": "🚪", "audio": "audio/uk/words/uk-de-07.mp3"},
+        {"text": "дитина", "roman": "dytýna", "meaning": "child", "emoji": "👶", "audio": "audio/uk/words/uk-de-08.mp3"},
+        {"text": "дошка", "roman": "dóshka", "meaning": "board, blackboard", "audio": "audio/uk/words/uk-de-09.mp3"},
+        {"text": "допомога", "roman": "dopomóha", "meaning": "help", "emoji": "🆘", "audio": "audio/uk/words/uk-de-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-e",
+      "char": "Е",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/uk/letters/uk-e.mp3",
+      "memoryTrick": "Е is the open 'e' as in 'let' or 'bed'. Not the 'ee' sound — keep it short and crisp.",
+      "words": [
+        {"text": "екран", "roman": "ekrán", "meaning": "screen", "emoji": "🖥️", "audio": "audio/uk/words/uk-e-01.mp3"},
+        {"text": "екскурсія", "roman": "ekskúrsija", "meaning": "excursion, tour", "audio": "audio/uk/words/uk-e-02.mp3"},
+        {"text": "електрика", "roman": "elektrýka", "meaning": "electricity", "emoji": "⚡", "audio": "audio/uk/words/uk-e-03.mp3"},
+        {"text": "етап", "roman": "etáp", "meaning": "stage, phase", "audio": "audio/uk/words/uk-e-04.mp3"},
+        {"text": "енергія", "roman": "enérhija", "meaning": "energy", "emoji": "🔋", "audio": "audio/uk/words/uk-e-05.mp3"},
+        {"text": "екзамен", "roman": "ekzámen", "meaning": "exam", "emoji": "📝", "audio": "audio/uk/words/uk-e-06.mp3"},
+        {"text": "економія", "roman": "ekonómija", "meaning": "savings, economy", "audio": "audio/uk/words/uk-e-07.mp3"},
+        {"text": "ефір", "roman": "efír", "meaning": "ether, airwaves", "audio": "audio/uk/words/uk-e-08.mp3"}
+      ]
+    },
+    {
+      "id": "uk-ye",
+      "char": "Є",
+      "name": "ye",
+      "romanization": "je",
+      "ipa": "/jɛ/",
+      "letterAudio": "audio/uk/letters/uk-ye.mp3",
+      "memoryTrick": "Є looks like a backwards E with a little hat — and it says 'ye' as in 'yes'. Think 'Є = Yeah!'",
+      "words": [
+        {"text": "єдиний", "roman": "jedýnyj", "meaning": "only, united", "audio": "audio/uk/words/uk-ye-01.mp3"},
+        {"text": "Європа", "roman": "Jevrópa", "meaning": "Europe", "emoji": "🌍", "audio": "audio/uk/words/uk-ye-02.mp3"},
+        {"text": "єнот", "roman": "jenót", "meaning": "raccoon", "emoji": "🦝", "audio": "audio/uk/words/uk-ye-03.mp3"},
+        {"text": "єпископ", "roman": "jepýskop", "meaning": "bishop", "audio": "audio/uk/words/uk-ye-04.mp3"},
+        {"text": "єврей", "roman": "jevréj", "meaning": "Jewish person", "audio": "audio/uk/words/uk-ye-05.mp3"},
+        {"text": "Єгипет", "roman": "Jehýpet", "meaning": "Egypt", "emoji": "🇪🇬", "audio": "audio/uk/words/uk-ye-06.mp3"},
+        {"text": "єднання", "roman": "jednánnja", "meaning": "unity", "audio": "audio/uk/words/uk-ye-07.mp3"},
+        {"text": "євровибір", "roman": "jevrovýbir", "meaning": "European choice", "audio": "audio/uk/words/uk-ye-08.mp3"}
+      ]
+    },
+    {
+      "id": "uk-zhe",
+      "char": "Ж",
+      "name": "zhe",
+      "romanization": "zh",
+      "ipa": "/ʒ/",
+      "letterAudio": "audio/uk/letters/uk-zhe.mp3",
+      "memoryTrick": "Ж looks like a beetle with legs spread — and buzzes like the 's' in 'pleasure'. A buzzy, voiced sh-sound.",
+      "words": [
+        {"text": "жаба", "roman": "zhába", "meaning": "frog, toad", "emoji": "🐸", "audio": "audio/uk/words/uk-zhe-01.mp3"},
+        {"text": "життя", "roman": "zhyttjá", "meaning": "life", "emoji": "❤️", "audio": "audio/uk/words/uk-zhe-02.mp3"},
+        {"text": "жовтий", "roman": "zhóvtyj", "meaning": "yellow", "emoji": "🟡", "audio": "audio/uk/words/uk-zhe-03.mp3"},
+        {"text": "журнал", "roman": "zhurnál", "meaning": "magazine", "emoji": "📓", "audio": "audio/uk/words/uk-zhe-04.mp3"},
+        {"text": "жарт", "roman": "zhart", "meaning": "joke", "emoji": "😄", "audio": "audio/uk/words/uk-zhe-05.mp3"},
+        {"text": "жінка", "roman": "zhínka", "meaning": "woman", "emoji": "👩", "audio": "audio/uk/words/uk-zhe-06.mp3"},
+        {"text": "жук", "roman": "zhuk", "meaning": "beetle", "emoji": "🪲", "audio": "audio/uk/words/uk-zhe-07.mp3"},
+        {"text": "залізо", "roman": "zalízo", "meaning": "iron (metal)", "audio": "audio/uk/words/uk-zhe-08.mp3"}
+      ]
+    },
+    {
+      "id": "uk-ze",
+      "char": "З",
+      "name": "ze",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/uk/letters/uk-ze.mp3",
+      "memoryTrick": "З looks like the number 3 and buzzes like a bee — the voiced 'z' in 'zoo'. Three curves, all buzzing.",
+      "words": [
+        {"text": "земля", "roman": "zemljá", "meaning": "earth, land", "emoji": "🌍", "audio": "audio/uk/words/uk-ze-01.mp3"},
+        {"text": "зошит", "roman": "zóshyt", "meaning": "notebook", "emoji": "📓", "audio": "audio/uk/words/uk-ze-02.mp3"},
+        {"text": "зірка", "roman": "zírka", "meaning": "star", "emoji": "⭐", "audio": "audio/uk/words/uk-ze-03.mp3"},
+        {"text": "зуб", "roman": "zub", "meaning": "tooth", "emoji": "🦷", "audio": "audio/uk/words/uk-ze-04.mp3"},
+        {"text": "здоров'я", "roman": "zdoróvja", "meaning": "health", "emoji": "💪", "audio": "audio/uk/words/uk-ze-05.mp3"},
+        {"text": "замок", "roman": "zámok", "meaning": "castle", "emoji": "🏰", "audio": "audio/uk/words/uk-ze-06.mp3"},
+        {"text": "зустріч", "roman": "zústritch", "meaning": "meeting", "audio": "audio/uk/words/uk-ze-07.mp3"},
+        {"text": "зелень", "roman": "zélenj", "meaning": "greenery, green", "emoji": "🥬", "audio": "audio/uk/words/uk-ze-08.mp3"},
+        {"text": "заєць", "roman": "zájetsj", "meaning": "hare", "emoji": "🐰", "audio": "audio/uk/words/uk-ze-09.mp3"},
+        {"text": "зонт", "roman": "zont", "meaning": "umbrella", "emoji": "☂️", "audio": "audio/uk/words/uk-ze-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-y",
+      "char": "И",
+      "name": "y",
+      "romanization": "y",
+      "ipa": "/ɪ/",
+      "letterAudio": "audio/uk/letters/uk-y.mp3",
+      "memoryTrick": "И is the tricky 'i' as in 'bit' or 'sit' — NOT 'ee'. Push your tongue slightly back. Think 'И is the i in it'.",
+      "words": [
+        {"text": "сир", "roman": "syr", "meaning": "cheese", "emoji": "🧀", "audio": "audio/uk/words/uk-y-01.mp3"},
+        {"text": "риба", "roman": "rýba", "meaning": "fish", "emoji": "🐟", "audio": "audio/uk/words/uk-y-02.mp3"},
+        {"text": "миша", "roman": "mýsha", "meaning": "mouse", "emoji": "🐭", "audio": "audio/uk/words/uk-y-03.mp3"},
+        {"text": "син", "roman": "syn", "meaning": "son", "emoji": "👦", "audio": "audio/uk/words/uk-y-04.mp3"},
+        {"text": "тигр", "roman": "tyhr", "meaning": "tiger", "emoji": "🐯", "audio": "audio/uk/words/uk-y-05.mp3"},
+        {"text": "лист", "roman": "lyst", "meaning": "letter; leaf", "emoji": "📨", "audio": "audio/uk/words/uk-y-06.mp3"},
+        {"text": "вибір", "roman": "výbir", "meaning": "choice", "audio": "audio/uk/words/uk-y-07.mp3"},
+        {"text": "мир", "roman": "myr", "meaning": "peace", "emoji": "☮️", "audio": "audio/uk/words/uk-y-08.mp3"},
+        {"text": "дим", "roman": "dym", "meaning": "smoke", "emoji": "💨", "audio": "audio/uk/words/uk-y-09.mp3"},
+        {"text": "вишня", "roman": "výshnja", "meaning": "cherry", "emoji": "🍒", "audio": "audio/uk/words/uk-y-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-i",
+      "char": "І",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/uk/letters/uk-i.mp3",
+      "memoryTrick": "І looks like a single vertical line — and it's the pure 'ee' sound as in 'meet'. A single stroke, a single clean vowel.",
+      "words": [
+        {"text": "ім'я", "roman": "imjá", "meaning": "name", "emoji": "📛", "audio": "audio/uk/words/uk-i-01.mp3"},
+        {"text": "іграшка", "roman": "íhrashka", "meaning": "toy", "emoji": "🧸", "audio": "audio/uk/words/uk-i-02.mp3"},
+        {"text": "інструмент", "roman": "instrumént", "meaning": "tool, instrument", "emoji": "🔧", "audio": "audio/uk/words/uk-i-03.mp3"},
+        {"text": "іній", "roman": "ínij", "meaning": "frost", "audio": "audio/uk/words/uk-i-04.mp3"},
+        {"text": "істина", "roman": "ístyna", "meaning": "truth", "audio": "audio/uk/words/uk-i-05.mp3"},
+        {"text": "інженер", "roman": "inzhenér", "meaning": "engineer", "emoji": "👷", "audio": "audio/uk/words/uk-i-06.mp3"},
+        {"text": "історія", "roman": "istórija", "meaning": "history, story", "emoji": "📖", "audio": "audio/uk/words/uk-i-07.mp3"},
+        {"text": "ідея", "roman": "idéja", "meaning": "idea", "emoji": "💡", "audio": "audio/uk/words/uk-i-08.mp3"}
       ]
     },
     {
       "id": "uk-yi",
-      "char": "Ї ї",
+      "char": "Ї",
       "name": "yi",
-      "romanization": "yi",
+      "romanization": "ji",
       "ipa": "/ji/",
-      "memoryTrick": "Uniquely Ukrainian — it says 'yi'.",
+      "letterAudio": "audio/uk/letters/uk-yi.mp3",
+      "memoryTrick": "Ї is like І with two little dots — and it says 'yee' as in 'yeast'. The dots are like two eyes saying 'yee!'.",
       "words": [
-        {
-          "text": "їжак",
-          "roman": "yizhak",
-          "meaning": "hedgehog",
-          "emoji": "🦔"
-        },
-        {
-          "text": "їжа",
-          "roman": "yizha",
-          "meaning": "food",
-          "emoji": "🍽️"
-        }
+        {"text": "їжак", "roman": "jizhák", "meaning": "hedgehog", "emoji": "🦔", "audio": "audio/uk/words/uk-yi-01.mp3"},
+        {"text": "їжа", "roman": "jízhа", "meaning": "food", "emoji": "🍽️", "audio": "audio/uk/words/uk-yi-02.mp3"},
+        {"text": "їзда", "roman": "jizdá", "meaning": "ride, driving", "emoji": "🚗", "audio": "audio/uk/words/uk-yi-03.mp3"},
+        {"text": "їхати", "roman": "jíkhaty", "meaning": "to go (by vehicle)", "emoji": "🚙", "audio": "audio/uk/words/uk-yi-04.mp3"},
+        {"text": "їдальня", "roman": "jidálnja", "meaning": "dining room", "audio": "audio/uk/words/uk-yi-05.mp3"},
+        {"text": "Україна", "roman": "Ukrajína", "meaning": "Ukraine", "emoji": "🇺🇦", "audio": "audio/uk/words/uk-yi-06.mp3"},
+        {"text": "їстівний", "roman": "jistivnýj", "meaning": "edible", "audio": "audio/uk/words/uk-yi-07.mp3"},
+        {"text": "країна", "roman": "krajína", "meaning": "country", "emoji": "🗺️", "audio": "audio/uk/words/uk-yi-08.mp3"}
       ]
     },
     {
-      "id": "uk-d",
-      "char": "Д д",
-      "name": "de",
-      "romanization": "d",
-      "ipa": "/d/",
-      "memoryTrick": "Says 'd'.",
+      "id": "uk-yot",
+      "char": "Й",
+      "name": "yot (short i)",
+      "romanization": "j",
+      "ipa": "/j/",
+      "letterAudio": "audio/uk/letters/uk-yot.mp3",
+      "memoryTrick": "Й is И with a little hat — a quick 'y' glide like the 'y' in 'yes' or 'boy'. Think 'short and hat-wearing'.",
       "words": [
-        {
-          "text": "дім",
-          "roman": "dim",
-          "meaning": "home",
-          "emoji": "🏠"
-        },
-        {
-          "text": "день",
-          "roman": "den",
-          "meaning": "day",
-          "emoji": "📅"
-        }
+        {"text": "йогурт", "roman": "johúrt", "meaning": "yogurt", "audio": "audio/uk/words/uk-yot-01.mp3"},
+        {"text": "ймовірно", "roman": "jmovírno", "meaning": "probably", "audio": "audio/uk/words/uk-yot-02.mp3"},
+        {"text": "йод", "roman": "jod", "meaning": "iodine", "audio": "audio/uk/words/uk-yot-03.mp3"},
+        {"text": "йога", "roman": "jóha", "meaning": "yoga", "emoji": "🧘", "audio": "audio/uk/words/uk-yot-04.mp3"},
+        {"text": "край", "roman": "kraj", "meaning": "edge, region", "audio": "audio/uk/words/uk-yot-05.mp3"},
+        {"text": "чай", "roman": "chaj", "meaning": "tea", "emoji": "🍵", "audio": "audio/uk/words/uk-yot-06.mp3"},
+        {"text": "музей", "roman": "muzéj", "meaning": "museum", "emoji": "🏛️", "audio": "audio/uk/words/uk-yot-07.mp3"},
+        {"text": "гай", "roman": "haj", "meaning": "grove", "emoji": "🌳", "audio": "audio/uk/words/uk-yot-08.mp3"},
+        {"text": "трамвай", "roman": "tramváj", "meaning": "tram", "emoji": "🚊", "audio": "audio/uk/words/uk-yot-09.mp3"},
+        {"text": "герой", "roman": "herój", "meaning": "hero", "emoji": "🦸", "audio": "audio/uk/words/uk-yot-10.mp3"}
       ]
+    },
+    {
+      "id": "uk-ka",
+      "char": "К",
+      "name": "ka",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/uk/letters/uk-ka.mp3",
+      "memoryTrick": "К is the crisp 'k' as in 'kite'. Unaspirated — less breathy than English K. Sharp and clean.",
+      "words": [
+        {"text": "кіт", "roman": "kit", "meaning": "cat", "emoji": "🐱", "audio": "audio/uk/words/uk-ka-01.mp3"},
+        {"text": "книга", "roman": "knýha", "meaning": "book", "emoji": "📖", "audio": "audio/uk/words/uk-ka-02.mp3"},
+        {"text": "кава", "roman": "káva", "meaning": "coffee", "emoji": "☕", "audio": "audio/uk/words/uk-ka-03.mp3"},
+        {"text": "кімната", "roman": "kimnáta", "meaning": "room", "audio": "audio/uk/words/uk-ka-04.mp3"},
+        {"text": "квиток", "roman": "kvytók", "meaning": "ticket", "emoji": "🎫", "audio": "audio/uk/words/uk-ka-05.mp3"},
+        {"text": "ключ", "roman": "kljuch", "meaning": "key", "emoji": "🔑", "audio": "audio/uk/words/uk-ka-06.mp3"},
+        {"text": "квітка", "roman": "kvítka", "meaning": "flower", "emoji": "🌸", "audio": "audio/uk/words/uk-ka-07.mp3"},
+        {"text": "козак", "roman": "kozák", "meaning": "Cossack", "audio": "audio/uk/words/uk-ka-08.mp3"},
+        {"text": "карта", "roman": "kárta", "meaning": "map", "emoji": "🗺️", "audio": "audio/uk/words/uk-ka-09.mp3"},
+        {"text": "колір", "roman": "kólir", "meaning": "color", "emoji": "🎨", "audio": "audio/uk/words/uk-ka-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-el",
+      "char": "Л",
+      "name": "el",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/uk/letters/uk-el.mp3",
+      "memoryTrick": "Л looks like a little tent — and it's a clear 'l' as in 'lamp'. In Ukrainian it can sound soft (like 'million') or hard (like 'lamp').",
+      "words": [
+        {"text": "ліс", "roman": "lis", "meaning": "forest", "emoji": "🌲", "audio": "audio/uk/words/uk-el-01.mp3"},
+        {"text": "людина", "roman": "ljudýna", "meaning": "person, human", "emoji": "🧑", "audio": "audio/uk/words/uk-el-02.mp3"},
+        {"text": "любов", "roman": "ljubóv", "meaning": "love", "emoji": "❤️", "audio": "audio/uk/words/uk-el-03.mp3"},
+        {"text": "літо", "roman": "líto", "meaning": "summer", "emoji": "☀️", "audio": "audio/uk/words/uk-el-04.mp3"},
+        {"text": "ліжко", "roman": "lízhko", "meaning": "bed", "emoji": "🛏️", "audio": "audio/uk/words/uk-el-05.mp3"},
+        {"text": "лампа", "roman": "lámpa", "meaning": "lamp", "emoji": "💡", "audio": "audio/uk/words/uk-el-06.mp3"},
+        {"text": "лимон", "roman": "lymón", "meaning": "lemon", "emoji": "🍋", "audio": "audio/uk/words/uk-el-07.mp3"},
+        {"text": "лікар", "roman": "líkar", "meaning": "doctor", "emoji": "👨‍⚕️", "audio": "audio/uk/words/uk-el-08.mp3"},
+        {"text": "ластівка", "roman": "lástivka", "meaning": "swallow (bird)", "emoji": "🐦", "audio": "audio/uk/words/uk-el-09.mp3"},
+        {"text": "літак", "roman": "liták", "meaning": "airplane", "emoji": "✈️", "audio": "audio/uk/words/uk-el-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-em",
+      "char": "М",
+      "name": "em",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/uk/letters/uk-em.mp3",
+      "memoryTrick": "М is the steady 'm' as in 'mother'. Hum it — lips together, just like in English.",
+      "words": [
+        {"text": "мати", "roman": "máty", "meaning": "mother", "emoji": "👩", "audio": "audio/uk/words/uk-em-01.mp3"},
+        {"text": "море", "roman": "móre", "meaning": "sea", "emoji": "🌊", "audio": "audio/uk/words/uk-em-02.mp3"},
+        {"text": "місто", "roman": "místo", "meaning": "city", "emoji": "🏙️", "audio": "audio/uk/words/uk-em-03.mp3"},
+        {"text": "мова", "roman": "móva", "meaning": "language", "audio": "audio/uk/words/uk-em-04.mp3"},
+        {"text": "молоко", "roman": "molokó", "meaning": "milk", "emoji": "🥛", "audio": "audio/uk/words/uk-em-05.mp3"},
+        {"text": "місяць", "roman": "mísjatsj", "meaning": "month; moon", "emoji": "🌙", "audio": "audio/uk/words/uk-em-06.mp3"},
+        {"text": "музика", "roman": "múzyka", "meaning": "music", "emoji": "🎵", "audio": "audio/uk/words/uk-em-07.mp3"},
+        {"text": "мрія", "roman": "mríja", "meaning": "dream", "emoji": "💭", "audio": "audio/uk/words/uk-em-08.mp3"},
+        {"text": "міст", "roman": "mist", "meaning": "bridge", "emoji": "🌉", "audio": "audio/uk/words/uk-em-09.mp3"},
+        {"text": "мед", "roman": "med", "meaning": "honey", "emoji": "🍯", "audio": "audio/uk/words/uk-em-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-en-cyr",
+      "char": "Н",
+      "name": "en",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/uk/letters/uk-en-cyr.mp3",
+      "memoryTrick": "Н looks like an 'H' but sounds like 'n' — don't be fooled! Think 'Н = No, not H'. It's the Cyrillic n.",
+      "words": [
+        {"text": "ніс", "roman": "nis", "meaning": "nose", "emoji": "👃", "audio": "audio/uk/words/uk-en-cyr-01.mp3"},
+        {"text": "ніч", "roman": "nich", "meaning": "night", "emoji": "🌙", "audio": "audio/uk/words/uk-en-cyr-02.mp3"},
+        {"text": "небо", "roman": "nébo", "meaning": "sky", "emoji": "🌌", "audio": "audio/uk/words/uk-en-cyr-03.mp3"},
+        {"text": "нога", "roman": "nohá", "meaning": "leg, foot", "emoji": "🦶", "audio": "audio/uk/words/uk-en-cyr-04.mp3"},
+        {"text": "народ", "roman": "naród", "meaning": "people, nation", "audio": "audio/uk/words/uk-en-cyr-05.mp3"},
+        {"text": "номер", "roman": "nómer", "meaning": "number", "emoji": "🔢", "audio": "audio/uk/words/uk-en-cyr-06.mp3"},
+        {"text": "наука", "roman": "naúka", "meaning": "science", "emoji": "🔬", "audio": "audio/uk/words/uk-en-cyr-07.mp3"},
+        {"text": "надія", "roman": "nadíja", "meaning": "hope", "audio": "audio/uk/words/uk-en-cyr-08.mp3"},
+        {"text": "новий", "roman": "novýj", "meaning": "new", "emoji": "🆕", "audio": "audio/uk/words/uk-en-cyr-09.mp3"},
+        {"text": "ніж", "roman": "nizh", "meaning": "knife", "emoji": "🔪", "audio": "audio/uk/words/uk-en-cyr-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-o",
+      "char": "О",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/ɔ/",
+      "letterAudio": "audio/uk/letters/uk-o.mp3",
+      "memoryTrick": "О is a round, open 'o' like the 'o' in 'or' — never a diphthong. Keep it pure and round.",
+      "words": [
+        {"text": "око", "roman": "óko", "meaning": "eye", "emoji": "👁️", "audio": "audio/uk/words/uk-o-01.mp3"},
+        {"text": "осінь", "roman": "ósinj", "meaning": "autumn", "emoji": "🍂", "audio": "audio/uk/words/uk-o-02.mp3"},
+        {"text": "обід", "roman": "obíd", "meaning": "lunch, dinner", "emoji": "🍽️", "audio": "audio/uk/words/uk-o-03.mp3"},
+        {"text": "одяг", "roman": "ódjah", "meaning": "clothing", "emoji": "👕", "audio": "audio/uk/words/uk-o-04.mp3"},
+        {"text": "овочі", "roman": "óvochi", "meaning": "vegetables", "emoji": "🥕", "audio": "audio/uk/words/uk-o-05.mp3"},
+        {"text": "озеро", "roman": "ózero", "meaning": "lake", "audio": "audio/uk/words/uk-o-06.mp3"},
+        {"text": "острів", "roman": "óstriv", "meaning": "island", "emoji": "🏝️", "audio": "audio/uk/words/uk-o-07.mp3"},
+        {"text": "освіта", "roman": "osvíta", "meaning": "education", "emoji": "🎓", "audio": "audio/uk/words/uk-o-08.mp3"},
+        {"text": "олень", "roman": "ólenj", "meaning": "deer", "emoji": "🦌", "audio": "audio/uk/words/uk-o-09.mp3"},
+        {"text": "орел", "roman": "orél", "meaning": "eagle", "emoji": "🦅", "audio": "audio/uk/words/uk-o-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-pe",
+      "char": "П",
+      "name": "pe",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/uk/letters/uk-pe.mp3",
+      "memoryTrick": "П looks like a doorway — and it's the unaspirated 'p' as in 'spot' (not the breathy 'p' of 'pot'). Think 'П = Portal'.",
+      "words": [
+        {"text": "пес", "roman": "pes", "meaning": "dog", "emoji": "🐕", "audio": "audio/uk/words/uk-pe-01.mp3"},
+        {"text": "папір", "roman": "papír", "meaning": "paper", "emoji": "📄", "audio": "audio/uk/words/uk-pe-02.mp3"},
+        {"text": "потяг", "roman": "pótjah", "meaning": "train", "emoji": "🚂", "audio": "audio/uk/words/uk-pe-03.mp3"},
+        {"text": "пісня", "roman": "písnja", "meaning": "song", "emoji": "🎶", "audio": "audio/uk/words/uk-pe-04.mp3"},
+        {"text": "поле", "roman": "póle", "meaning": "field", "emoji": "🌾", "audio": "audio/uk/words/uk-pe-05.mp3"},
+        {"text": "повітря", "roman": "povítrja", "meaning": "air", "emoji": "💨", "audio": "audio/uk/words/uk-pe-06.mp3"},
+        {"text": "птах", "roman": "ptakh", "meaning": "bird", "emoji": "🐦", "audio": "audio/uk/words/uk-pe-07.mp3"},
+        {"text": "подарунок", "roman": "podarúnok", "meaning": "gift", "emoji": "🎁", "audio": "audio/uk/words/uk-pe-08.mp3"},
+        {"text": "пам'ять", "roman": "pámjatj", "meaning": "memory", "emoji": "🧠", "audio": "audio/uk/words/uk-pe-09.mp3"},
+        {"text": "півень", "roman": "pívenj", "meaning": "rooster", "emoji": "🐓", "audio": "audio/uk/words/uk-pe-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-er",
+      "char": "Р",
+      "name": "er",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/uk/letters/uk-er.mp3",
+      "memoryTrick": "Р looks like a 'P' but rolls like an 'r' — a trilled tongue-tip tap, like a purring cat. Not the English R.",
+      "words": [
+        {"text": "риба", "roman": "rýba", "meaning": "fish", "emoji": "🐟", "audio": "audio/uk/words/uk-er-01.mp3"},
+        {"text": "розум", "roman": "rózum", "meaning": "mind, intelligence", "emoji": "🧠", "audio": "audio/uk/words/uk-er-02.mp3"},
+        {"text": "родина", "roman": "ródyna", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/uk/words/uk-er-03.mp3"},
+        {"text": "ріка", "roman": "riká", "meaning": "river", "emoji": "🏞️", "audio": "audio/uk/words/uk-er-04.mp3"},
+        {"text": "ручка", "roman": "rúchka", "meaning": "pen", "emoji": "🖊️", "audio": "audio/uk/words/uk-er-05.mp3"},
+        {"text": "робота", "roman": "robóta", "meaning": "work", "emoji": "💼", "audio": "audio/uk/words/uk-er-06.mp3"},
+        {"text": "ранок", "roman": "ránok", "meaning": "morning", "emoji": "🌅", "audio": "audio/uk/words/uk-er-07.mp3"},
+        {"text": "рука", "roman": "ruká", "meaning": "hand, arm", "emoji": "✋", "audio": "audio/uk/words/uk-er-08.mp3"},
+        {"text": "рослина", "roman": "roslýna", "meaning": "plant", "emoji": "🌱", "audio": "audio/uk/words/uk-er-09.mp3"},
+        {"text": "радість", "roman": "rádistj", "meaning": "joy", "emoji": "😊", "audio": "audio/uk/words/uk-er-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-es",
+      "char": "С",
+      "name": "es",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/uk/letters/uk-es.mp3",
+      "memoryTrick": "С is the hissing 's' as in 'sun'. A clean, sharp sibilant — like a snake's hiss.",
+      "words": [
+        {"text": "сонце", "roman": "sóntse", "meaning": "sun", "emoji": "☀️", "audio": "audio/uk/words/uk-es-01.mp3"},
+        {"text": "слово", "roman": "slóvo", "meaning": "word", "audio": "audio/uk/words/uk-es-02.mp3"},
+        {"text": "серце", "roman": "sértse", "meaning": "heart", "emoji": "❤️", "audio": "audio/uk/words/uk-es-03.mp3"},
+        {"text": "село", "roman": "seló", "meaning": "village", "emoji": "🏘️", "audio": "audio/uk/words/uk-es-04.mp3"},
+        {"text": "сніг", "roman": "snih", "meaning": "snow", "emoji": "❄️", "audio": "audio/uk/words/uk-es-05.mp3"},
+        {"text": "собака", "roman": "sobáka", "meaning": "dog", "emoji": "🐕", "audio": "audio/uk/words/uk-es-06.mp3"},
+        {"text": "свобода", "roman": "svobóda", "meaning": "freedom", "emoji": "🕊️", "audio": "audio/uk/words/uk-es-07.mp3"},
+        {"text": "сад", "roman": "sad", "meaning": "garden, orchard", "emoji": "🌳", "audio": "audio/uk/words/uk-es-08.mp3"},
+        {"text": "сіль", "roman": "silj", "meaning": "salt", "emoji": "🧂", "audio": "audio/uk/words/uk-es-09.mp3"},
+        {"text": "сестра", "roman": "sestrá", "meaning": "sister", "emoji": "👩", "audio": "audio/uk/words/uk-es-10.mp3"},
+        {"text": "стіл", "roman": "stil", "meaning": "table", "audio": "audio/uk/words/uk-es-11.mp3"},
+        {"text": "світ", "roman": "svit", "meaning": "world", "emoji": "🌍", "audio": "audio/uk/words/uk-es-12.mp3"}
+      ]
+    },
+    {
+      "id": "uk-te",
+      "char": "Т",
+      "name": "te",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/uk/letters/uk-te.mp3",
+      "memoryTrick": "Т looks like a capital T — and it's an unaspirated 't', like the 't' in 'stop', not the breathy one in 'top'.",
+      "words": [
+        {"text": "тато", "roman": "táto", "meaning": "dad", "emoji": "👨", "audio": "audio/uk/words/uk-te-01.mp3"},
+        {"text": "телефон", "roman": "telefón", "meaning": "telephone", "emoji": "📱", "audio": "audio/uk/words/uk-te-02.mp3"},
+        {"text": "трава", "roman": "travá", "meaning": "grass", "emoji": "🌿", "audio": "audio/uk/words/uk-te-03.mp3"},
+        {"text": "тіло", "roman": "tílo", "meaning": "body", "audio": "audio/uk/words/uk-te-04.mp3"},
+        {"text": "тиждень", "roman": "týzhdenj", "meaning": "week", "emoji": "📅", "audio": "audio/uk/words/uk-te-05.mp3"},
+        {"text": "торт", "roman": "tort", "meaning": "cake", "emoji": "🎂", "audio": "audio/uk/words/uk-te-06.mp3"},
+        {"text": "темрява", "roman": "temrjáva", "meaning": "darkness", "audio": "audio/uk/words/uk-te-07.mp3"},
+        {"text": "тварина", "roman": "tvarýna", "meaning": "animal", "emoji": "🐾", "audio": "audio/uk/words/uk-te-08.mp3"},
+        {"text": "тінь", "roman": "tinj", "meaning": "shadow, shade", "audio": "audio/uk/words/uk-te-09.mp3"},
+        {"text": "теплий", "roman": "téplyj", "meaning": "warm", "emoji": "🌡️", "audio": "audio/uk/words/uk-te-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-u",
+      "char": "У",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/uk/letters/uk-u.mp3",
+      "memoryTrick": "У is a deep 'oo' as in 'boot' — round your lips tightly. Think 'У = Ooh!'",
+      "words": [
+        {"text": "учень", "roman": "úchenj", "meaning": "pupil, student", "emoji": "👨‍🎓", "audio": "audio/uk/words/uk-u-01.mp3"},
+        {"text": "усмішка", "roman": "úsmishka", "meaning": "smile", "emoji": "😊", "audio": "audio/uk/words/uk-u-02.mp3"},
+        {"text": "урок", "roman": "urók", "meaning": "lesson", "emoji": "📚", "audio": "audio/uk/words/uk-u-03.mp3"},
+        {"text": "успіх", "roman": "úspikh", "meaning": "success", "emoji": "🏆", "audio": "audio/uk/words/uk-u-04.mp3"},
+        {"text": "Україна", "roman": "Ukrajína", "meaning": "Ukraine", "emoji": "🇺🇦", "audio": "audio/uk/words/uk-u-05.mp3"},
+        {"text": "увага", "roman": "uváha", "meaning": "attention", "audio": "audio/uk/words/uk-u-06.mp3"},
+        {"text": "університет", "roman": "universytét", "meaning": "university", "emoji": "🏫", "audio": "audio/uk/words/uk-u-07.mp3"},
+        {"text": "уряд", "roman": "úrjad", "meaning": "government", "emoji": "🏛️", "audio": "audio/uk/words/uk-u-08.mp3"},
+        {"text": "усний", "roman": "úsnyj", "meaning": "oral", "audio": "audio/uk/words/uk-u-09.mp3"},
+        {"text": "узбережжя", "roman": "uzbérezhzhja", "meaning": "coastline", "audio": "audio/uk/words/uk-u-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-ef",
+      "char": "Ф",
+      "name": "ef",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/uk/letters/uk-ef.mp3",
+      "memoryTrick": "Ф looks like a balloon on a string — and it's the breathy 'f' as in 'fish'. Found mostly in loanwords.",
+      "words": [
+        {"text": "фарба", "roman": "fárba", "meaning": "paint, dye", "emoji": "🎨", "audio": "audio/uk/words/uk-ef-01.mp3"},
+        {"text": "фільм", "roman": "filjm", "meaning": "film, movie", "emoji": "🎬", "audio": "audio/uk/words/uk-ef-02.mp3"},
+        {"text": "фото", "roman": "fóto", "meaning": "photo", "emoji": "📷", "audio": "audio/uk/words/uk-ef-03.mp3"},
+        {"text": "футбол", "roman": "futból", "meaning": "football, soccer", "emoji": "⚽", "audio": "audio/uk/words/uk-ef-04.mp3"},
+        {"text": "фізика", "roman": "fízyka", "meaning": "physics", "emoji": "⚛️", "audio": "audio/uk/words/uk-ef-05.mp3"},
+        {"text": "факт", "roman": "fakt", "meaning": "fact", "audio": "audio/uk/words/uk-ef-06.mp3"},
+        {"text": "фрукт", "roman": "frukt", "meaning": "fruit", "emoji": "🍎", "audio": "audio/uk/words/uk-ef-07.mp3"},
+        {"text": "форма", "roman": "fórma", "meaning": "form, shape", "audio": "audio/uk/words/uk-ef-08.mp3"},
+        {"text": "фестиваль", "roman": "festyválj", "meaning": "festival", "emoji": "🎪", "audio": "audio/uk/words/uk-ef-09.mp3"},
+        {"text": "факультет", "roman": "fakuljtét", "meaning": "faculty, department", "emoji": "🏫", "audio": "audio/uk/words/uk-ef-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-kha",
+      "char": "Х",
+      "name": "kha",
+      "romanization": "kh",
+      "ipa": "/x/",
+      "letterAudio": "audio/uk/letters/uk-kha.mp3",
+      "memoryTrick": "Х looks like an 'X' and rasps like the 'ch' in Scottish 'loch' or German 'Bach'. A scratchy voiceless sound from the back of the throat.",
+      "words": [
+        {"text": "хліб", "roman": "khlib", "meaning": "bread", "emoji": "🍞", "audio": "audio/uk/words/uk-kha-01.mp3"},
+        {"text": "хата", "roman": "kháta", "meaning": "house, cottage", "emoji": "🏡", "audio": "audio/uk/words/uk-kha-02.mp3"},
+        {"text": "холодний", "roman": "kholódnyj", "meaning": "cold", "emoji": "🥶", "audio": "audio/uk/words/uk-kha-03.mp3"},
+        {"text": "хвиля", "roman": "khvýlja", "meaning": "wave", "emoji": "🌊", "audio": "audio/uk/words/uk-kha-04.mp3"},
+        {"text": "хлопець", "roman": "khlópetsj", "meaning": "boy", "emoji": "👦", "audio": "audio/uk/words/uk-kha-05.mp3"},
+        {"text": "характер", "roman": "kharákter", "meaning": "character", "audio": "audio/uk/words/uk-kha-06.mp3"},
+        {"text": "хімія", "roman": "khímija", "meaning": "chemistry", "emoji": "🧪", "audio": "audio/uk/words/uk-kha-07.mp3"},
+        {"text": "хмара", "roman": "khmára", "meaning": "cloud", "emoji": "☁️", "audio": "audio/uk/words/uk-kha-08.mp3"},
+        {"text": "хвороба", "roman": "khvoróba", "meaning": "illness", "emoji": "🤒", "audio": "audio/uk/words/uk-kha-09.mp3"},
+        {"text": "художник", "roman": "khudózhnyk", "meaning": "artist", "emoji": "🎨", "audio": "audio/uk/words/uk-kha-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-tse",
+      "char": "Ц",
+      "name": "tse",
+      "romanization": "ts",
+      "ipa": "/t͡s/",
+      "letterAudio": "audio/uk/letters/uk-tse.mp3",
+      "memoryTrick": "Ц is the 'ts' sound as in 'cats' or 'pizza'. A crisp combined consonant — t and s glued together.",
+      "words": [
+        {"text": "церква", "roman": "tsérkva", "meaning": "church", "emoji": "⛪", "audio": "audio/uk/words/uk-tse-01.mp3"},
+        {"text": "цукор", "roman": "tsúkor", "meaning": "sugar", "audio": "audio/uk/words/uk-tse-02.mp3"},
+        {"text": "цибуля", "roman": "tsybúlja", "meaning": "onion", "emoji": "🧅", "audio": "audio/uk/words/uk-tse-03.mp3"},
+        {"text": "цікавий", "roman": "tsikávyj", "meaning": "interesting", "audio": "audio/uk/words/uk-tse-04.mp3"},
+        {"text": "ціна", "roman": "tsiná", "meaning": "price", "emoji": "🏷️", "audio": "audio/uk/words/uk-tse-05.mp3"},
+        {"text": "цвях", "roman": "tsvjakh", "meaning": "nail (metal)", "audio": "audio/uk/words/uk-tse-06.mp3"},
+        {"text": "царина", "roman": "tsáryna", "meaning": "field, domain", "audio": "audio/uk/words/uk-tse-07.mp3"},
+        {"text": "цифра", "roman": "tsýfra", "meaning": "digit, numeral", "emoji": "🔢", "audio": "audio/uk/words/uk-tse-08.mp3"},
+        {"text": "центр", "roman": "tsentr", "meaning": "center", "audio": "audio/uk/words/uk-tse-09.mp3"},
+        {"text": "ціль", "roman": "tsilj", "meaning": "goal, target", "emoji": "🎯", "audio": "audio/uk/words/uk-tse-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-che",
+      "char": "Ч",
+      "name": "che",
+      "romanization": "ch",
+      "ipa": "/t͡ʃ/",
+      "letterAudio": "audio/uk/letters/uk-che.mp3",
+      "memoryTrick": "Ч looks like an upside-down chair — and it's the 'ch' as in 'chair'. In Ukrainian it's always hard, never soft.",
+      "words": [
+        {"text": "чай", "roman": "chaj", "meaning": "tea", "emoji": "🍵", "audio": "audio/uk/words/uk-che-01.mp3"},
+        {"text": "чоловік", "roman": "cholovík", "meaning": "man, husband", "emoji": "👨", "audio": "audio/uk/words/uk-che-02.mp3"},
+        {"text": "число", "roman": "chysló", "meaning": "number, date", "audio": "audio/uk/words/uk-che-03.mp3"},
+        {"text": "черевики", "roman": "cherevýky", "meaning": "shoes", "emoji": "👞", "audio": "audio/uk/words/uk-che-04.mp3"},
+        {"text": "червоний", "roman": "chervónyj", "meaning": "red", "emoji": "🔴", "audio": "audio/uk/words/uk-che-05.mp3"},
+        {"text": "чашка", "roman": "cháshka", "meaning": "cup", "emoji": "☕", "audio": "audio/uk/words/uk-che-06.mp3"},
+        {"text": "читати", "roman": "chytáty", "meaning": "to read", "emoji": "📖", "audio": "audio/uk/words/uk-che-07.mp3"},
+        {"text": "човен", "roman": "chóven", "meaning": "boat", "emoji": "⛵", "audio": "audio/uk/words/uk-che-08.mp3"},
+        {"text": "час", "roman": "chas", "meaning": "time", "emoji": "⏰", "audio": "audio/uk/words/uk-che-09.mp3"},
+        {"text": "честь", "roman": "chestj", "meaning": "honor", "audio": "audio/uk/words/uk-che-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-sha",
+      "char": "Ш",
+      "name": "sha",
+      "romanization": "sh",
+      "ipa": "/ʃ/",
+      "letterAudio": "audio/uk/letters/uk-sha.mp3",
+      "memoryTrick": "Ш is the 'sh' as in 'shush' or 'ship'. In Ukrainian it's always hard — think of saying 'sh' while keeping your tongue flat.",
+      "words": [
+        {"text": "школа", "roman": "shkóla", "meaning": "school", "emoji": "🏫", "audio": "audio/uk/words/uk-sha-01.mp3"},
+        {"text": "шапка", "roman": "shápka", "meaning": "hat, cap", "emoji": "🧢", "audio": "audio/uk/words/uk-sha-02.mp3"},
+        {"text": "шия", "roman": "shýja", "meaning": "neck", "audio": "audio/uk/words/uk-sha-03.mp3"},
+        {"text": "шафа", "roman": "sháfa", "meaning": "wardrobe, cupboard", "audio": "audio/uk/words/uk-sha-04.mp3"},
+        {"text": "шлях", "roman": "shljakh", "meaning": "path, way", "emoji": "🛤️", "audio": "audio/uk/words/uk-sha-05.mp3"},
+        {"text": "шибка", "roman": "shýbka", "meaning": "window pane", "audio": "audio/uk/words/uk-sha-06.mp3"},
+        {"text": "швидкість", "roman": "shvýdkistj", "meaning": "speed", "emoji": "⚡", "audio": "audio/uk/words/uk-sha-07.mp3"},
+        {"text": "шановний", "roman": "shanóvnyj", "meaning": "respected, dear", "audio": "audio/uk/words/uk-sha-08.mp3"},
+        {"text": "шерсть", "roman": "sherstj", "meaning": "wool, fur", "emoji": "🐑", "audio": "audio/uk/words/uk-sha-09.mp3"},
+        {"text": "шум", "roman": "shum", "meaning": "noise", "emoji": "🔊", "audio": "audio/uk/words/uk-sha-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-shcha",
+      "char": "Щ",
+      "name": "shcha",
+      "romanization": "shch",
+      "ipa": "/ʃt͡ʃ/",
+      "letterAudio": "audio/uk/letters/uk-shcha.mp3",
+      "memoryTrick": "Щ is Ш with a little tail — and it's the longer 'shch' as in 'fresh cheese' said quickly. Think 'Ш + Ч = Щ'.",
+      "words": [
+        {"text": "щастя", "roman": "shchástja", "meaning": "happiness", "emoji": "😊", "audio": "audio/uk/words/uk-shcha-01.mp3"},
+        {"text": "щоденник", "roman": "shchodénnyk", "meaning": "diary", "emoji": "📔", "audio": "audio/uk/words/uk-shcha-02.mp3"},
+        {"text": "що", "roman": "shcho", "meaning": "what", "audio": "audio/uk/words/uk-shcha-03.mp3"},
+        {"text": "щедрий", "roman": "shchédryj", "meaning": "generous", "audio": "audio/uk/words/uk-shcha-04.mp3"},
+        {"text": "щирий", "roman": "shchýryj", "meaning": "sincere", "audio": "audio/uk/words/uk-shcha-05.mp3"},
+        {"text": "щока", "roman": "shchoká", "meaning": "cheek", "audio": "audio/uk/words/uk-shcha-06.mp3"},
+        {"text": "щука", "roman": "shchúka", "meaning": "pike (fish)", "emoji": "🐟", "audio": "audio/uk/words/uk-shcha-07.mp3"},
+        {"text": "щит", "roman": "shchyt", "meaning": "shield", "emoji": "🛡️", "audio": "audio/uk/words/uk-shcha-08.mp3"},
+        {"text": "щодня", "roman": "shchodnjá", "meaning": "daily, every day", "emoji": "📅", "audio": "audio/uk/words/uk-shcha-09.mp3"},
+        {"text": "щедрота", "roman": "shchedróta", "meaning": "generosity", "audio": "audio/uk/words/uk-shcha-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-soft-sign",
+      "char": "Ь",
+      "name": "soft sign (myakyi znak)",
+      "romanization": "' (palatalization marker)",
+      "ipa": "/◌ʲ/",
+      "letterAudio": "audio/uk/letters/uk-soft-sign.mp3",
+      "memoryTrick": "Ь makes no sound of its own — it softens the consonant before it, like adding a tiny 'y' whisper. Think 'the letter that whispers y'.",
+      "words": [
+        {"text": "день", "roman": "denj", "meaning": "day", "emoji": "☀️", "audio": "audio/uk/words/uk-soft-sign-01.mp3"},
+        {"text": "сіль", "roman": "silj", "meaning": "salt", "emoji": "🧂", "audio": "audio/uk/words/uk-soft-sign-02.mp3"},
+        {"text": "кінь", "roman": "kinj", "meaning": "horse", "emoji": "🐴", "audio": "audio/uk/words/uk-soft-sign-03.mp3"},
+        {"text": "тінь", "roman": "tinj", "meaning": "shadow", "audio": "audio/uk/words/uk-soft-sign-04.mp3"},
+        {"text": "осінь", "roman": "ósinj", "meaning": "autumn", "emoji": "🍂", "audio": "audio/uk/words/uk-soft-sign-05.mp3"},
+        {"text": "палець", "roman": "páletsj", "meaning": "finger", "emoji": "👆", "audio": "audio/uk/words/uk-soft-sign-06.mp3"},
+        {"text": "молодь", "roman": "mólodj", "meaning": "youth (collective)", "audio": "audio/uk/words/uk-soft-sign-07.mp3"},
+        {"text": "міць", "roman": "mitsj", "meaning": "strength, power", "audio": "audio/uk/words/uk-soft-sign-08.mp3"},
+        {"text": "читань", "roman": "chytánj", "meaning": "readings", "audio": "audio/uk/words/uk-soft-sign-09.mp3"},
+        {"text": "пісень", "roman": "písenj", "meaning": "of songs (gen. pl.)", "audio": "audio/uk/words/uk-soft-sign-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-yu",
+      "char": "Ю",
+      "name": "yu",
+      "romanization": "ju",
+      "ipa": "/ju/",
+      "letterAudio": "audio/uk/letters/uk-yu.mp3",
+      "memoryTrick": "Ю looks like a fancy I-O tied together — and it says 'you' just like the English word! The easiest letter for English speakers.",
+      "words": [
+        {"text": "юнак", "roman": "junák", "meaning": "young man, youth", "emoji": "🧑", "audio": "audio/uk/words/uk-yu-01.mp3"},
+        {"text": "юшка", "roman": "júshka", "meaning": "soup, broth", "emoji": "🍜", "audio": "audio/uk/words/uk-yu-02.mp3"},
+        {"text": "юрист", "roman": "jurýst", "meaning": "lawyer", "emoji": "⚖️", "audio": "audio/uk/words/uk-yu-03.mp3"},
+        {"text": "ювелір", "roman": "juvelír", "meaning": "jeweler", "emoji": "💍", "audio": "audio/uk/words/uk-yu-04.mp3"},
+        {"text": "юність", "roman": "júnistj", "meaning": "youth (period)", "audio": "audio/uk/words/uk-yu-05.mp3"},
+        {"text": "юрба", "roman": "jurbá", "meaning": "crowd", "audio": "audio/uk/words/uk-yu-06.mp3"},
+        {"text": "тюльпан", "roman": "tjuljpán", "meaning": "tulip", "emoji": "🌷", "audio": "audio/uk/words/uk-yu-07.mp3"},
+        {"text": "лютий", "roman": "ljútyj", "meaning": "February; fierce", "audio": "audio/uk/words/uk-yu-08.mp3"},
+        {"text": "бюро", "roman": "bjuró", "meaning": "bureau, office", "audio": "audio/uk/words/uk-yu-09.mp3"},
+        {"text": "пюре", "roman": "pjuré", "meaning": "puree", "audio": "audio/uk/words/uk-yu-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-ya",
+      "char": "Я",
+      "name": "ya",
+      "romanization": "ja",
+      "ipa": "/jɑ/",
+      "letterAudio": "audio/uk/letters/uk-ya.mp3",
+      "memoryTrick": "Я looks like a backwards 'R' — and it says 'ya' as in 'yacht'. It also happens to mean 'I' in Ukrainian, so it's the most personal letter.",
+      "words": [
+        {"text": "яблуко", "roman": "jábluko", "meaning": "apple", "emoji": "🍎", "audio": "audio/uk/words/uk-ya-01.mp3"},
+        {"text": "якір", "roman": "jákir", "meaning": "anchor", "emoji": "⚓", "audio": "audio/uk/words/uk-ya-02.mp3"},
+        {"text": "язик", "roman": "jazýk", "meaning": "tongue; language", "emoji": "👅", "audio": "audio/uk/words/uk-ya-03.mp3"},
+        {"text": "яйце", "roman": "jajcé", "meaning": "egg", "emoji": "🥚", "audio": "audio/uk/words/uk-ya-04.mp3"},
+        {"text": "якість", "roman": "jákistj", "meaning": "quality", "audio": "audio/uk/words/uk-ya-05.mp3"},
+        {"text": "ягода", "roman": "jáhoda", "meaning": "berry", "emoji": "🫐", "audio": "audio/uk/words/uk-ya-06.mp3"},
+        {"text": "ярмарок", "roman": "jármarok", "meaning": "fair (market)", "emoji": "🎪", "audio": "audio/uk/words/uk-ya-07.mp3"},
+        {"text": "яскравий", "roman": "jaskrávyj", "meaning": "bright", "emoji": "✨", "audio": "audio/uk/words/uk-ya-08.mp3"},
+        {"text": "яма", "roman": "jáma", "meaning": "pit, hole", "audio": "audio/uk/words/uk-ya-09.mp3"},
+        {"text": "ялина", "roman": "jalýna", "meaning": "spruce tree", "emoji": "🌲", "audio": "audio/uk/words/uk-ya-10.mp3"}
+      ]
+    },
+    {
+      "id": "uk-apostrophe",
+      "char": "'",
+      "name": "apostrophe",
+      "romanization": "' (hard sign — marks a separation before iotated vowels)",
+      "ipa": "/◌j/",
+      "letterAudio": "audio/uk/letters/uk-apostrophe.mp3",
+      "memoryTrick": "The apostrophe is like a tiny wall — it separates a hard consonant from a following ya, yu, ye, or yi, keeping it from softening. Think 'the wall that keeps consonants hard'."
     }
   ]
 }

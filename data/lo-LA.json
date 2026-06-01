@@ -2,139 +2,744 @@
   "language": "Lao",
   "code": "lo-LA",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
-      "id": "lo-ko",
+      "id": "lo-ko-kai",
       "char": "ກ",
-      "name": "ko kai",
+      "name": "Ko Kai (chicken)",
       "romanization": "k",
       "ipa": "/k/",
-      "memoryTrick": "Shaped like a chair; the first consonant, plain 'k'.",
+      "letterAudio": "audio/lo/letters/lo-ko-kai.mp3",
+      "memoryTrick": "ກ looks like a bent chicken leg — and it's named after the chicken (kai)! The sound is an unaspirated 'k' like the 'g' in 'go' but unvoiced, or the 'k' in 'skate'.",
       "words": [
-        {
-          "text": "ໄກ່",
-          "roman": "kai",
-          "meaning": "chicken",
-          "emoji": "🐔"
-        },
-        {
-          "text": "ກາ",
-          "roman": "kā",
-          "meaning": "crow",
-          "emoji": "🐦"
-        }
+        { "text": "ກິນ", "roman": "kin", "meaning": "to eat", "emoji": "🍽️", "audio": "audio/lo/words/lo-ko-kai-01.mp3" },
+        { "text": "ໄກ່", "roman": "kai", "meaning": "chicken", "emoji": "🐔", "audio": "audio/lo/words/lo-ko-kai-02.mp3" },
+        { "text": "ກ້ວຍ", "roman": "kuay", "meaning": "banana", "emoji": "🍌", "audio": "audio/lo/words/lo-ko-kai-03.mp3" },
+        { "text": "ກະດາດ", "roman": "kadaad", "meaning": "paper", "emoji": "📄", "audio": "audio/lo/words/lo-ko-kai-04.mp3" },
+        { "text": "ກະດູກ", "roman": "kaduuk", "meaning": "bone", "emoji": "🦴", "audio": "audio/lo/words/lo-ko-kai-05.mp3" },
+        { "text": "ກວາງ", "roman": "kwaang", "meaning": "deer", "emoji": "🦌", "audio": "audio/lo/words/lo-ko-kai-06.mp3" },
+        { "text": "ແກງ", "roman": "kaeng", "meaning": "soup", "audio": "audio/lo/words/lo-ko-kai-07.mp3" },
+        { "text": "ກາງ", "roman": "kaang", "meaning": "middle", "audio": "audio/lo/words/lo-ko-kai-08.mp3" },
+        { "text": "ກ່ອນ", "roman": "kɔɔn", "meaning": "before", "audio": "audio/lo/words/lo-ko-kai-09.mp3" },
+        { "text": "ກົກ", "roman": "kok", "meaning": "trunk, base (of tree)", "audio": "audio/lo/words/lo-ko-kai-10.mp3" },
+        { "text": "ກາ", "roman": "kaa", "meaning": "crow", "audio": "audio/lo/words/lo-ko-kai-11.mp3" },
+        { "text": "ເກົ່າ", "roman": "kao", "meaning": "old (of objects)", "audio": "audio/lo/words/lo-ko-kai-12.mp3" }
       ]
     },
     {
-      "id": "lo-kho",
+      "id": "lo-kho-khai",
       "char": "ຂ",
-      "name": "kho khai",
+      "name": "Kho Khai (egg)",
       "romanization": "kh",
       "ipa": "/kʰ/",
-      "memoryTrick": "An aspirated 'k' said with a puff of air.",
+      "letterAudio": "audio/lo/letters/lo-kho-khai.mp3",
+      "memoryTrick": "ຂ has two little bumps like two eggs in a nest — and it's named after the egg (khai)! This is the aspirated 'k' — like the 'k' in 'kite'. Push a puff of air out.",
       "words": [
-        {
-          "text": "ໄຂ່",
-          "roman": "khai",
-          "meaning": "egg",
-          "emoji": "🥚"
-        },
-        {
-          "text": "ຂາ",
-          "roman": "khā",
-          "meaning": "leg",
-          "emoji": "🦵"
-        }
+        { "text": "ຂາ", "roman": "khaa", "meaning": "leg", "emoji": "🦵", "audio": "audio/lo/words/lo-kho-khai-01.mp3" },
+        { "text": "ເຂົ້າ", "roman": "khao", "meaning": "rice", "emoji": "🍚", "audio": "audio/lo/words/lo-kho-khai-02.mp3" },
+        { "text": "ຂຽນ", "roman": "khian", "meaning": "to write", "emoji": "✍️", "audio": "audio/lo/words/lo-kho-khai-03.mp3" },
+        { "text": "ຂາຍ", "roman": "khaai", "meaning": "to sell", "audio": "audio/lo/words/lo-kho-khai-04.mp3" },
+        { "text": "ຂາວ", "roman": "khaau", "meaning": "white", "emoji": "⬜", "audio": "audio/lo/words/lo-kho-khai-05.mp3" },
+        { "text": "ຂີງ", "roman": "khiing", "meaning": "ginger", "audio": "audio/lo/words/lo-kho-khai-06.mp3" },
+        { "text": "ຂອງ", "roman": "khɔɔng", "meaning": "thing, belonging", "audio": "audio/lo/words/lo-kho-khai-07.mp3" },
+        { "text": "ຂົວ", "roman": "khua", "meaning": "bridge", "emoji": "🌉", "audio": "audio/lo/words/lo-kho-khai-08.mp3" },
+        { "text": "ຂໍ", "roman": "khɔɔ", "meaning": "to ask, to request", "audio": "audio/lo/words/lo-kho-khai-09.mp3" }
       ]
     },
     {
-      "id": "lo-ngo",
+      "id": "lo-kho-khwai",
+      "char": "ຄ",
+      "name": "Kho Khwai (water buffalo)",
+      "romanization": "kh",
+      "ipa": "/kʰ/",
+      "letterAudio": "audio/lo/letters/lo-kho-khwai.mp3",
+      "memoryTrick": "ຄ curves like a water buffalo's horn (khwai means buffalo). Same aspirated 'k' sound as ຂ, but this one belongs to the low consonant class — tone rules differ.",
+      "words": [
+        { "text": "ຄົນ", "roman": "khon", "meaning": "person", "emoji": "👤", "audio": "audio/lo/words/lo-kho-khwai-01.mp3" },
+        { "text": "ຄູ", "roman": "khuu", "meaning": "teacher", "emoji": "👩‍🏫", "audio": "audio/lo/words/lo-kho-khwai-02.mp3" },
+        { "text": "ຄຳ", "roman": "kham", "meaning": "word, gold", "audio": "audio/lo/words/lo-kho-khwai-03.mp3" },
+        { "text": "ຄິດ", "roman": "khit", "meaning": "to think", "emoji": "🤔", "audio": "audio/lo/words/lo-kho-khwai-04.mp3" },
+        { "text": "ຄອຍ", "roman": "khɔɔi", "meaning": "to wait", "audio": "audio/lo/words/lo-kho-khwai-05.mp3" },
+        { "text": "ຄົວ", "roman": "khua", "meaning": "kitchen", "audio": "audio/lo/words/lo-kho-khwai-06.mp3" },
+        { "text": "ຄານ", "roman": "khaan", "meaning": "to crawl", "audio": "audio/lo/words/lo-kho-khwai-07.mp3" },
+        { "text": "ຄາງ", "roman": "khaang", "meaning": "chin", "audio": "audio/lo/words/lo-kho-khwai-08.mp3" }
+      ]
+    },
+    {
+      "id": "lo-ngo-ngua",
       "char": "ງ",
-      "name": "ngo ngua",
+      "name": "Ngo Ngua (ox, snake)",
       "romanization": "ng",
       "ipa": "/ŋ/",
-      "memoryTrick": "The 'ng' of 'sing' — Lao can use it at the start of a word.",
+      "letterAudio": "audio/lo/letters/lo-ngo-ngua.mp3",
+      "memoryTrick": "ງ looks like a snake curling around — and ngu means snake! This is the 'ng' sound as in 'siNG' — it can come at the beginning of a syllable in Lao, unlike English.",
       "words": [
-        {
-          "text": "ງົວ",
-          "roman": "ngua",
-          "meaning": "cow",
-          "emoji": "🐄"
-        },
-        {
-          "text": "ເງິນ",
-          "roman": "ngern",
-          "meaning": "money",
-          "emoji": "💰"
-        }
+        { "text": "ງົວ", "roman": "ngua", "meaning": "ox, cow", "emoji": "🐄", "audio": "audio/lo/words/lo-ngo-ngua-01.mp3" },
+        { "text": "ງູ", "roman": "nguu", "meaning": "snake", "emoji": "🐍", "audio": "audio/lo/words/lo-ngo-ngua-02.mp3" },
+        { "text": "ເງິນ", "roman": "ngoen", "meaning": "money, silver", "emoji": "💰", "audio": "audio/lo/words/lo-ngo-ngua-03.mp3" },
+        { "text": "ງາມ", "roman": "ngaam", "meaning": "beautiful", "audio": "audio/lo/words/lo-ngo-ngua-04.mp3" },
+        { "text": "ງ່າຍ", "roman": "ngaai", "meaning": "easy", "audio": "audio/lo/words/lo-ngo-ngua-05.mp3" },
+        { "text": "ງຽບ", "roman": "ngiap", "meaning": "quiet, silent", "emoji": "🤫", "audio": "audio/lo/words/lo-ngo-ngua-06.mp3" }
       ]
     },
     {
-      "id": "lo-do",
+      "id": "lo-cho-chok",
+      "char": "ຈ",
+      "name": "Cho Chok (cup)",
+      "romanization": "ch",
+      "ipa": "/tɕ/",
+      "letterAudio": "audio/lo/letters/lo-cho-chok.mp3",
+      "memoryTrick": "ຈ looks like a cup with a stem — and chok means cup! The sound is like 'ch' in 'cheese' but with the tongue touching the hard palate (no lip rounding).",
+      "words": [
+        { "text": "ຈອກ", "roman": "chɔɔk", "meaning": "cup, glass", "emoji": "🍵", "audio": "audio/lo/words/lo-cho-chok-01.mp3" },
+        { "text": "ຈົດ", "roman": "chot", "meaning": "to note, to jot down", "emoji": "📝", "audio": "audio/lo/words/lo-cho-chok-02.mp3" },
+        { "text": "ຈິດ", "roman": "chit", "meaning": "mind, heart", "audio": "audio/lo/words/lo-cho-chok-03.mp3" },
+        { "text": "ຈູງ", "roman": "chuung", "meaning": "to lead (by the hand)", "audio": "audio/lo/words/lo-cho-chok-04.mp3" },
+        { "text": "ຈານ", "roman": "chaan", "meaning": "plate", "emoji": "🍽️", "audio": "audio/lo/words/lo-cho-chok-05.mp3" },
+        { "text": "ຈັບ", "roman": "chap", "meaning": "to catch, to hold", "audio": "audio/lo/words/lo-cho-chok-06.mp3" },
+        { "text": "ເຈັບ", "roman": "chep", "meaning": "to hurt, painful", "emoji": "🤕", "audio": "audio/lo/words/lo-cho-chok-07.mp3" },
+        { "text": "ຈົມ", "roman": "chom", "meaning": "to sink, to drown", "audio": "audio/lo/words/lo-cho-chok-08.mp3" }
+      ]
+    },
+    {
+      "id": "lo-so-suea",
+      "char": "ສ",
+      "name": "So Suea (tiger)",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/lo/letters/lo-so-suea.mp3",
+      "memoryTrick": "ສ is sleek and sharp like a tiger's tail — sueā means tiger! It's a high-class consonant that makes a crisp 's' sound like 's' in 'sun'.",
+      "words": [
+        { "text": "ເສືອ", "roman": "suea", "meaning": "tiger", "emoji": "🐅", "audio": "audio/lo/words/lo-so-suea-01.mp3" },
+        { "text": "ສາມ", "roman": "saam", "meaning": "three", "emoji": "3️⃣", "audio": "audio/lo/words/lo-so-suea-02.mp3" },
+        { "text": "ສີ", "roman": "sii", "meaning": "color, four", "audio": "audio/lo/words/lo-so-suea-03.mp3" },
+        { "text": "ສວຍ", "roman": "suay", "meaning": "beautiful", "audio": "audio/lo/words/lo-so-suea-04.mp3" },
+        { "text": "ສົ້ມ", "roman": "som", "meaning": "sour, orange (fruit)", "emoji": "🍊", "audio": "audio/lo/words/lo-so-suea-05.mp3" },
+        { "text": "ສອນ", "roman": "sɔɔn", "meaning": "to teach", "audio": "audio/lo/words/lo-so-suea-06.mp3" },
+        { "text": "ສຸກ", "roman": "suk", "meaning": "happiness, cooked", "audio": "audio/lo/words/lo-so-suea-07.mp3" },
+        { "text": "ສຽງ", "roman": "siang", "meaning": "sound, voice", "audio": "audio/lo/words/lo-so-suea-08.mp3" }
+      ]
+    },
+    {
+      "id": "lo-so-sang",
+      "char": "ຊ",
+      "name": "So Sang (elephant)",
+      "romanization": "x / s",
+      "ipa": "/s/",
+      "letterAudio": "audio/lo/letters/lo-so-sang.mp3",
+      "memoryTrick": "ຊ curves like an elephant's trunk reaching down — sang means elephant! It makes the same 's' sound as ສ but belongs to the low consonant class, producing different tones.",
+      "words": [
+        { "text": "ຊ້າງ", "roman": "saang", "meaning": "elephant", "emoji": "🐘", "audio": "audio/lo/words/lo-so-sang-01.mp3" },
+        { "text": "ຊື່", "roman": "suu", "meaning": "name", "audio": "audio/lo/words/lo-so-sang-02.mp3" },
+        { "text": "ຊາ", "roman": "saa", "meaning": "tea", "emoji": "🍵", "audio": "audio/lo/words/lo-so-sang-03.mp3" },
+        { "text": "ຊ່ວຍ", "roman": "suay", "meaning": "to help", "audio": "audio/lo/words/lo-so-sang-04.mp3" },
+        { "text": "ຊ້າ", "roman": "saa", "meaning": "slow", "audio": "audio/lo/words/lo-so-sang-05.mp3" },
+        { "text": "ຊົມ", "roman": "som", "meaning": "to admire", "audio": "audio/lo/words/lo-so-sang-06.mp3" },
+        { "text": "ຊາຍ", "roman": "saai", "meaning": "male, man", "emoji": "👨", "audio": "audio/lo/words/lo-so-sang-07.mp3" },
+        { "text": "ຊັ້ນ", "roman": "san", "meaning": "floor, level, layer", "audio": "audio/lo/words/lo-so-sang-08.mp3" }
+      ]
+    },
+    {
+      "id": "lo-nyo-nyung",
+      "char": "ຍ",
+      "name": "Nyo Nyung (mosquito)",
+      "romanization": "ny / gn / y",
+      "ipa": "/ɲ/",
+      "letterAudio": "audio/lo/letters/lo-nyo-nyung.mp3",
+      "memoryTrick": "ຍ looks like a mosquito with its proboscis — nyung means mosquito! It's the palatal nasal 'ny' like the 'ñ' in Spanish 'señor' or 'ny' in 'canyon'.",
+      "words": [
+        { "text": "ຍຸງ", "roman": "nyung", "meaning": "mosquito", "emoji": "🦟", "audio": "audio/lo/words/lo-nyo-nyung-01.mp3" },
+        { "text": "ຍິງ", "roman": "nying", "meaning": "woman, female", "emoji": "👩", "audio": "audio/lo/words/lo-nyo-nyung-02.mp3" },
+        { "text": "ຍາຍ", "roman": "nyaai", "meaning": "to move (house)", "audio": "audio/lo/words/lo-nyo-nyung-03.mp3" },
+        { "text": "ຍ່າງ", "roman": "nyaang", "meaning": "to walk", "emoji": "🚶", "audio": "audio/lo/words/lo-nyo-nyung-04.mp3" },
+        { "text": "ຍາກ", "roman": "nyaak", "meaning": "difficult", "audio": "audio/lo/words/lo-nyo-nyung-05.mp3" },
+        { "text": "ໃຫຍ່", "roman": "nyai", "meaning": "big, large", "audio": "audio/lo/words/lo-nyo-nyung-06.mp3" },
+        { "text": "ຍາມ", "roman": "nyaam", "meaning": "time, period, guard", "audio": "audio/lo/words/lo-nyo-nyung-07.mp3" },
+        { "text": "ຍອມ", "roman": "nyɔɔm", "meaning": "to yield, to agree", "audio": "audio/lo/words/lo-nyo-nyung-08.mp3" }
+      ]
+    },
+    {
+      "id": "lo-do-dek",
       "char": "ດ",
-      "name": "do dek",
+      "name": "Do Dek (child)",
       "romanization": "d",
       "ipa": "/d/",
-      "memoryTrick": "A neat curl that says 'd'.",
+      "letterAudio": "audio/lo/letters/lo-do-dek.mp3",
+      "memoryTrick": "ດ is round like a child's head (dek means child)! It's a mid-class consonant producing the voiced 'd' sound — like 'd' in 'dog'.",
       "words": [
-        {
-          "text": "ດາວ",
-          "roman": "dāo",
-          "meaning": "star",
-          "emoji": "⭐"
-        },
-        {
-          "text": "ດິນ",
-          "roman": "din",
-          "meaning": "soil",
-          "emoji": "🟫"
-        }
+        { "text": "ເດັກ", "roman": "dek", "meaning": "child", "emoji": "👶", "audio": "audio/lo/words/lo-do-dek-01.mp3" },
+        { "text": "ດີ", "roman": "dii", "meaning": "good", "emoji": "👍", "audio": "audio/lo/words/lo-do-dek-02.mp3" },
+        { "text": "ດິນ", "roman": "din", "meaning": "soil, earth", "emoji": "🌍", "audio": "audio/lo/words/lo-do-dek-03.mp3" },
+        { "text": "ດຳ", "roman": "dam", "meaning": "black", "emoji": "⬛", "audio": "audio/lo/words/lo-do-dek-04.mp3" },
+        { "text": "ດາວ", "roman": "daau", "meaning": "star", "emoji": "⭐", "audio": "audio/lo/words/lo-do-dek-05.mp3" },
+        { "text": "ດົງ", "roman": "dong", "meaning": "forest, jungle", "audio": "audio/lo/words/lo-do-dek-06.mp3" },
+        { "text": "ດູ", "roman": "duu", "meaning": "to look, to watch", "audio": "audio/lo/words/lo-do-dek-07.mp3" },
+        { "text": "ດັງ", "roman": "dang", "meaning": "nose", "emoji": "👃", "audio": "audio/lo/words/lo-do-dek-08.mp3" },
+        { "text": "ດົນ", "roman": "don", "meaning": "for a long time", "audio": "audio/lo/words/lo-do-dek-09.mp3" }
       ]
     },
     {
-      "id": "lo-bo",
+      "id": "lo-to-ta",
+      "char": "ຕ",
+      "name": "To Ta (eye)",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/lo/letters/lo-to-ta.mp3",
+      "memoryTrick": "ຕ is named after the eye (ta). It makes an unaspirated 't' — like the 't' in 'stop' (not 'top' with a puff of air). Mid-class consonant.",
+      "words": [
+        { "text": "ຕາ", "roman": "taa", "meaning": "eye", "emoji": "👁️", "audio": "audio/lo/words/lo-to-ta-01.mp3" },
+        { "text": "ຕູ້", "roman": "tuu", "meaning": "cabinet, cupboard", "audio": "audio/lo/words/lo-to-ta-02.mp3" },
+        { "text": "ຕົ້ນ", "roman": "ton", "meaning": "tree, beginning", "emoji": "🌳", "audio": "audio/lo/words/lo-to-ta-03.mp3" },
+        { "text": "ຕະຫຼາດ", "roman": "talaat", "meaning": "market", "audio": "audio/lo/words/lo-to-ta-04.mp3" },
+        { "text": "ຕຽງ", "roman": "tiang", "meaning": "bed", "emoji": "🛏️", "audio": "audio/lo/words/lo-to-ta-05.mp3" },
+        { "text": "ຕີ", "roman": "tii", "meaning": "to hit, to strike", "audio": "audio/lo/words/lo-to-ta-06.mp3" },
+        { "text": "ຕາຍ", "roman": "taai", "meaning": "to die", "audio": "audio/lo/words/lo-to-ta-07.mp3" }
+      ]
+    },
+    {
+      "id": "lo-tho-thong",
+      "char": "ຖ",
+      "name": "Tho Thong (bag)",
+      "romanization": "th",
+      "ipa": "/tʰ/",
+      "letterAudio": "audio/lo/letters/lo-tho-thong.mp3",
+      "memoryTrick": "ຖ has a little loop like the top of a drawstring bag — thong means bag! This is the aspirated 't' (with a puff of air like 't' in 'top'). High-class consonant.",
+      "words": [
+        { "text": "ຖົງ", "roman": "thong", "meaning": "bag, sack", "emoji": "🛍️", "audio": "audio/lo/words/lo-tho-thong-01.mp3" },
+        { "text": "ຖ້ຳ", "roman": "tham", "meaning": "cave", "audio": "audio/lo/words/lo-tho-thong-02.mp3" },
+        { "text": "ຖິ້ມ", "roman": "thim", "meaning": "to throw away", "audio": "audio/lo/words/lo-tho-thong-03.mp3" },
+        { "text": "ຖາມ", "roman": "thaam", "meaning": "to ask (a question)", "audio": "audio/lo/words/lo-tho-thong-04.mp3" },
+        { "text": "ຖົ່ວ", "roman": "thua", "meaning": "bean, nut", "audio": "audio/lo/words/lo-tho-thong-05.mp3" },
+        { "text": "ຖອດ", "roman": "thɔɔt", "meaning": "to take off, to remove", "audio": "audio/lo/words/lo-tho-thong-06.mp3" }
+      ]
+    },
+    {
+      "id": "lo-tho-thung",
+      "char": "ທ",
+      "name": "Tho Thung (flag)",
+      "romanization": "th",
+      "ipa": "/tʰ/",
+      "letterAudio": "audio/lo/letters/lo-tho-thung.mp3",
+      "memoryTrick": "ທ looks like a flag on a pole — thung means flag! Same aspirated 't' as ຖ, but this one is a low-class consonant, so it creates different tones in words.",
+      "words": [
+        { "text": "ທຸງ", "roman": "thung", "meaning": "flag", "emoji": "🚩", "audio": "audio/lo/words/lo-tho-thung-01.mp3" },
+        { "text": "ທາງ", "roman": "thaang", "meaning": "way, path, road", "emoji": "🛤️", "audio": "audio/lo/words/lo-tho-thung-02.mp3" },
+        { "text": "ທະເລ", "roman": "thalee", "meaning": "sea", "emoji": "🌊", "audio": "audio/lo/words/lo-tho-thung-03.mp3" },
+        { "text": "ທອງ", "roman": "thɔɔng", "meaning": "gold", "audio": "audio/lo/words/lo-tho-thung-04.mp3" },
+        { "text": "ທີ", "roman": "thii", "meaning": "place, at", "audio": "audio/lo/words/lo-tho-thung-05.mp3" },
+        { "text": "ທຳ", "roman": "tham", "meaning": "to do, dharma", "audio": "audio/lo/words/lo-tho-thung-06.mp3" },
+        { "text": "ທ້ອງ", "roman": "thɔɔng", "meaning": "belly, stomach", "audio": "audio/lo/words/lo-tho-thung-07.mp3" },
+        { "text": "ທຽນ", "roman": "thian", "meaning": "candle", "emoji": "🕯️", "audio": "audio/lo/words/lo-tho-thung-08.mp3" }
+      ]
+    },
+    {
+      "id": "lo-no-nok",
+      "char": "ນ",
+      "name": "No Nok (bird)",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/lo/letters/lo-no-nok.mp3",
+      "memoryTrick": "ນ is named after the bird (nok). It's a simple 'n' sound like 'n' in 'nice'. Low-class consonant — a very common letter in everyday Lao.",
+      "words": [
+        { "text": "ນົກ", "roman": "nok", "meaning": "bird", "emoji": "🐦", "audio": "audio/lo/words/lo-no-nok-01.mp3" },
+        { "text": "ນ້ຳ", "roman": "nam", "meaning": "water", "emoji": "💧", "audio": "audio/lo/words/lo-no-nok-02.mp3" },
+        { "text": "ນາ", "roman": "naa", "meaning": "rice field", "audio": "audio/lo/words/lo-no-nok-03.mp3" },
+        { "text": "ນອນ", "roman": "nɔɔn", "meaning": "to sleep", "emoji": "😴", "audio": "audio/lo/words/lo-no-nok-04.mp3" },
+        { "text": "ນັ່ງ", "roman": "nang", "meaning": "to sit", "audio": "audio/lo/words/lo-no-nok-05.mp3" },
+        { "text": "ນີ້", "roman": "nii", "meaning": "this, here", "audio": "audio/lo/words/lo-no-nok-06.mp3" },
+        { "text": "ນ້ອຍ", "roman": "nɔɔi", "meaning": "small, little", "audio": "audio/lo/words/lo-no-nok-07.mp3" },
+        { "text": "ນັບ", "roman": "nap", "meaning": "to count", "audio": "audio/lo/words/lo-no-nok-08.mp3" },
+        { "text": "ນຸ່ງ", "roman": "nung", "meaning": "to wear (lower garment)", "audio": "audio/lo/words/lo-no-nok-09.mp3" }
+      ]
+    },
+    {
+      "id": "lo-bo-be",
       "char": "ບ",
-      "name": "bo bea",
+      "name": "Bo Be (goat)",
       "romanization": "b",
       "ipa": "/b/",
-      "memoryTrick": "Says 'b' as in 'boy'.",
+      "letterAudio": "audio/lo/letters/lo-bo-be.mp3",
+      "memoryTrick": "ບ looks like a goat's ear — be means goat! It's a voiced 'b' like 'b' in 'boy'. Mid-class consonant. Also used as the negative prefix 'bɔɔ' (no/not).",
       "words": [
-        {
-          "text": "ບ້ານ",
-          "roman": "bān",
-          "meaning": "house",
-          "emoji": "🏠"
-        },
-        {
-          "text": "ບໍ່",
-          "roman": "bo",
-          "meaning": "no / not",
-          "emoji": "🚫"
-        }
+        { "text": "ແບ້", "roman": "bɛɛ", "meaning": "goat", "emoji": "🐐", "audio": "audio/lo/words/lo-bo-be-01.mp3" },
+        { "text": "ບ້ານ", "roman": "baan", "meaning": "house, home, village", "emoji": "🏠", "audio": "audio/lo/words/lo-bo-be-02.mp3" },
+        { "text": "ບໍ່", "roman": "bɔɔ", "meaning": "no, not", "audio": "audio/lo/words/lo-bo-be-03.mp3" },
+        { "text": "ບິນ", "roman": "bin", "meaning": "to fly", "emoji": "✈️", "audio": "audio/lo/words/lo-bo-be-04.mp3" },
+        { "text": "ບອກ", "roman": "bɔɔk", "meaning": "to tell, to say", "audio": "audio/lo/words/lo-bo-be-05.mp3" },
+        { "text": "ບຸນ", "roman": "bun", "meaning": "merit, goodness", "audio": "audio/lo/words/lo-bo-be-06.mp3" },
+        { "text": "ບົດ", "roman": "bot", "meaning": "lesson, chapter", "audio": "audio/lo/words/lo-bo-be-07.mp3" }
       ]
     },
     {
-      "id": "lo-mo",
+      "id": "lo-po-pa",
+      "char": "ປ",
+      "name": "Po Pa (fish)",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/lo/letters/lo-po-pa.mp3",
+      "memoryTrick": "ປ is named after the fish (pa). It's an unaspirated 'p' — like the 'p' in 'spin' (not 'pin' with a puff). Mid-class consonant. The loop points up like a fish tail!",
+      "words": [
+        { "text": "ປາ", "roman": "paa", "meaning": "fish", "emoji": "🐟", "audio": "audio/lo/words/lo-po-pa-01.mp3" },
+        { "text": "ປີ", "roman": "pii", "meaning": "year", "emoji": "📅", "audio": "audio/lo/words/lo-po-pa-02.mp3" },
+        { "text": "ປະຕູ", "roman": "patuu", "meaning": "door", "emoji": "🚪", "audio": "audio/lo/words/lo-po-pa-03.mp3" },
+        { "text": "ປ່າ", "roman": "paa", "meaning": "forest, jungle", "audio": "audio/lo/words/lo-po-pa-04.mp3" },
+        { "text": "ປູ", "roman": "puu", "meaning": "crab", "emoji": "🦀", "audio": "audio/lo/words/lo-po-pa-05.mp3" },
+        { "text": "ປົກ", "roman": "pok", "meaning": "to cover, to rule", "audio": "audio/lo/words/lo-po-pa-06.mp3" },
+        { "text": "ປອດ", "roman": "pɔɔt", "meaning": "lungs, safe", "audio": "audio/lo/words/lo-po-pa-07.mp3" }
+      ]
+    },
+    {
+      "id": "lo-pho-phueng",
+      "char": "ຜ",
+      "name": "Pho Phueng (bee)",
+      "romanization": "ph",
+      "ipa": "/pʰ/",
+      "letterAudio": "audio/lo/letters/lo-pho-phueng.mp3",
+      "memoryTrick": "ຜ has a sharp point like a bee's stinger — phueng means bee! This is the aspirated 'p' (with a puff of air like 'p' in 'pin'). High-class consonant.",
+      "words": [
+        { "text": "ເຜິ້ງ", "roman": "phueng", "meaning": "bee", "emoji": "🐝", "audio": "audio/lo/words/lo-pho-phueng-01.mp3" },
+        { "text": "ຜົມ", "roman": "phom", "meaning": "hair", "emoji": "💇", "audio": "audio/lo/words/lo-pho-phueng-02.mp3" },
+        { "text": "ຜ້າ", "roman": "phaa", "meaning": "cloth, fabric", "audio": "audio/lo/words/lo-pho-phueng-03.mp3" },
+        { "text": "ຜັກ", "roman": "phak", "meaning": "vegetable", "emoji": "🥬", "audio": "audio/lo/words/lo-pho-phueng-04.mp3" },
+        { "text": "ຜູ້", "roman": "phuu", "meaning": "person (classifier)", "audio": "audio/lo/words/lo-pho-phueng-05.mp3" },
+        { "text": "ຜິດ", "roman": "phit", "meaning": "wrong, incorrect", "audio": "audio/lo/words/lo-pho-phueng-06.mp3" }
+      ]
+    },
+    {
+      "id": "lo-fo-fon",
+      "char": "ຝ",
+      "name": "Fo Fon (rain)",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/lo/letters/lo-fo-fon.mp3",
+      "memoryTrick": "ຝ has a drooping top like rain falling — fon means rain! It's the 'f' sound like 'f' in 'fun'. High-class consonant.",
+      "words": [
+        { "text": "ຝົນ", "roman": "fon", "meaning": "rain", "emoji": "🌧️", "audio": "audio/lo/words/lo-fo-fon-01.mp3" },
+        { "text": "ຝັນ", "roman": "fan", "meaning": "to dream, dream", "emoji": "💭", "audio": "audio/lo/words/lo-fo-fon-02.mp3" },
+        { "text": "ຝັ່ງ", "roman": "fang", "meaning": "bank, shore, side", "audio": "audio/lo/words/lo-fo-fon-03.mp3" },
+        { "text": "ຝາ", "roman": "faa", "meaning": "wall", "audio": "audio/lo/words/lo-fo-fon-04.mp3" },
+        { "text": "ຝຶກ", "roman": "fuek", "meaning": "to practice, to train", "audio": "audio/lo/words/lo-fo-fon-05.mp3" }
+      ]
+    },
+    {
+      "id": "lo-pho-phu",
+      "char": "ພ",
+      "name": "Pho Phu (mountain)",
+      "romanization": "ph",
+      "ipa": "/pʰ/",
+      "letterAudio": "audio/lo/letters/lo-pho-phu.mp3",
+      "memoryTrick": "ພ has a broad dome like a mountain peak — phu means mountain! Same aspirated 'p' sound as ຜ, but this one is a low-class consonant, producing distinct tones.",
+      "words": [
+        { "text": "ພູ", "roman": "phuu", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/lo/words/lo-pho-phu-01.mp3" },
+        { "text": "ພໍ່", "roman": "phɔɔ", "meaning": "father", "emoji": "👨", "audio": "audio/lo/words/lo-pho-phu-02.mp3" },
+        { "text": "ພີ່", "roman": "phii", "meaning": "older sibling", "audio": "audio/lo/words/lo-pho-phu-03.mp3" },
+        { "text": "ພາສາ", "roman": "phaasaa", "meaning": "language", "audio": "audio/lo/words/lo-pho-phu-04.mp3" },
+        { "text": "ພະ", "roman": "pha", "meaning": "monk (prefix)", "audio": "audio/lo/words/lo-pho-phu-05.mp3" },
+        { "text": "ພັນ", "roman": "phan", "meaning": "thousand", "audio": "audio/lo/words/lo-pho-phu-06.mp3" },
+        { "text": "ພຽງ", "roman": "phiang", "meaning": "just, only", "audio": "audio/lo/words/lo-pho-phu-07.mp3" }
+      ]
+    },
+    {
+      "id": "lo-fo-fai",
+      "char": "ຟ",
+      "name": "Fo Fai (fire)",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/lo/letters/lo-fo-fai.mp3",
+      "memoryTrick": "ຟ has tall flickering lines like flames — fai means fire! Same 'f' sound as ຝ, but this is a low-class consonant. Think of a fire that burns low and steady.",
+      "words": [
+        { "text": "ໄຟ", "roman": "fai", "meaning": "fire", "emoji": "🔥", "audio": "audio/lo/words/lo-fo-fai-01.mp3" },
+        { "text": "ຟ້າ", "roman": "faa", "meaning": "sky", "emoji": "☁️", "audio": "audio/lo/words/lo-fo-fai-02.mp3" },
+        { "text": "ຟັງ", "roman": "fang", "meaning": "to listen", "emoji": "👂", "audio": "audio/lo/words/lo-fo-fai-03.mp3" },
+        { "text": "ຟອນ", "roman": "fɔɔn", "meaning": "to dance", "emoji": "💃", "audio": "audio/lo/words/lo-fo-fai-04.mp3" },
+        { "text": "ຟືນ", "roman": "fuun", "meaning": "firewood", "audio": "audio/lo/words/lo-fo-fai-05.mp3" }
+      ]
+    },
+    {
+      "id": "lo-mo-maeo",
       "char": "ມ",
-      "name": "mo mēo",
+      "name": "Mo Maeo (cat)",
       "romanization": "m",
       "ipa": "/m/",
-      "memoryTrick": "A round-bellied shape that says 'm'.",
+      "letterAudio": "audio/lo/letters/lo-mo-maeo.mp3",
+      "memoryTrick": "ມ has soft rounded curves like a cat's back — maeo means cat! It's the 'm' sound like 'm' in 'moon'. Low-class consonant; a very common letter.",
       "words": [
-        {
-          "text": "ແມວ",
-          "roman": "mēo",
-          "meaning": "cat",
-          "emoji": "🐱"
-        },
-        {
-          "text": "ມື້",
-          "roman": "mu",
-          "meaning": "day",
-          "emoji": "📅"
-        }
+        { "text": "ແມວ", "roman": "mɛɛo", "meaning": "cat", "emoji": "🐱", "audio": "audio/lo/words/lo-mo-maeo-01.mp3" },
+        { "text": "ມາ", "roman": "maa", "meaning": "to come", "audio": "audio/lo/words/lo-mo-maeo-02.mp3" },
+        { "text": "ມື", "roman": "muu", "meaning": "hand", "emoji": "✋", "audio": "audio/lo/words/lo-mo-maeo-03.mp3" },
+        { "text": "ມີ", "roman": "mii", "meaning": "to have", "audio": "audio/lo/words/lo-mo-maeo-04.mp3" },
+        { "text": "ແມ່", "roman": "mɛɛ", "meaning": "mother", "emoji": "👩", "audio": "audio/lo/words/lo-mo-maeo-05.mp3" },
+        { "text": "ມື້", "roman": "muu", "meaning": "day", "audio": "audio/lo/words/lo-mo-maeo-06.mp3" },
+        { "text": "ມອບ", "roman": "mɔɔp", "meaning": "to give, to present", "audio": "audio/lo/words/lo-mo-maeo-07.mp3" },
+        { "text": "ມັນ", "roman": "man", "meaning": "it, its; potato", "audio": "audio/lo/words/lo-mo-maeo-08.mp3" }
       ]
+    },
+    {
+      "id": "lo-yo-ya",
+      "char": "ຢ",
+      "name": "Yo Ya (medicine)",
+      "romanization": "y",
+      "ipa": "/j/",
+      "letterAudio": "audio/lo/letters/lo-yo-ya.mp3",
+      "memoryTrick": "ຢ looks like a mortar for grinding medicine — ya means medicine! It's the 'y' sound like 'y' in 'yes'. Mid-class consonant. Think of it as a smooth, gliding sound.",
+      "words": [
+        { "text": "ຢາ", "roman": "yaa", "meaning": "medicine", "emoji": "💊", "audio": "audio/lo/words/lo-yo-ya-01.mp3" },
+        { "text": "ຢູ່", "roman": "yuu", "meaning": "to be at, to live", "audio": "audio/lo/words/lo-yo-ya-02.mp3" },
+        { "text": "ຢາກ", "roman": "yaak", "meaning": "to want, to desire", "audio": "audio/lo/words/lo-yo-ya-03.mp3" },
+        { "text": "ຢ່າ", "roman": "yaa", "meaning": "don't (imperative)", "audio": "audio/lo/words/lo-yo-ya-04.mp3" },
+        { "text": "ຢືນ", "roman": "yuun", "meaning": "to stand", "emoji": "🧍", "audio": "audio/lo/words/lo-yo-ya-05.mp3" },
+        { "text": "ຢາງ", "roman": "yaang", "meaning": "rubber", "audio": "audio/lo/words/lo-yo-ya-06.mp3" }
+      ]
+    },
+    {
+      "id": "lo-lo-lot",
+      "char": "ຣ",
+      "name": "Lo Lot (vehicle / bell)",
+      "romanization": "r / l",
+      "ipa": "/r/ ~ /l/",
+      "letterAudio": "audio/lo/letters/lo-lo-lot.mp3",
+      "memoryTrick": "ຣ was officially removed in the 1970s but still appears in some words, especially loanwords. It sounds like a rolled 'r' or plain 'l' depending on dialect. Think of it as a vintage letter — rare but still around.",
+      "words": [
+        { "text": "ຣົຖ", "roman": "rot", "meaning": "vehicle, car", "emoji": "🚗", "audio": "audio/lo/words/lo-lo-lot-01.mp3" },
+        { "text": "ຣະຄັງ", "roman": "rakhang", "meaning": "bell", "emoji": "🔔", "audio": "audio/lo/words/lo-lo-lot-02.mp3" },
+        { "text": "ຣາຄາ", "roman": "raakhaa", "meaning": "price, cost", "audio": "audio/lo/words/lo-lo-lot-03.mp3" }
+      ]
+    },
+    {
+      "id": "lo-lo-ling",
+      "char": "ລ",
+      "name": "Lo Ling (monkey)",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/lo/letters/lo-lo-ling.mp3",
+      "memoryTrick": "ລ curves like a monkey's tail — ling means monkey! It's the clear 'l' sound like 'l' in 'love'. Low-class consonant; the standard 'l' letter in modern Lao.",
+      "words": [
+        { "text": "ລີງ", "roman": "liing", "meaning": "monkey", "emoji": "🐒", "audio": "audio/lo/words/lo-lo-ling-01.mp3" },
+        { "text": "ລົດ", "roman": "lot", "meaning": "car, vehicle", "emoji": "🚗", "audio": "audio/lo/words/lo-lo-ling-02.mp3" },
+        { "text": "ລາວ", "roman": "laao", "meaning": "Lao, Laotian", "audio": "audio/lo/words/lo-lo-ling-03.mp3" },
+        { "text": "ລົມ", "roman": "lom", "meaning": "wind", "emoji": "💨", "audio": "audio/lo/words/lo-lo-ling-04.mp3" },
+        { "text": "ລ້າງ", "roman": "laang", "meaning": "to wash", "audio": "audio/lo/words/lo-lo-ling-05.mp3" },
+        { "text": "ລູກ", "roman": "luuk", "meaning": "child, offspring", "audio": "audio/lo/words/lo-lo-ling-06.mp3" },
+        { "text": "ລືມ", "roman": "luum", "meaning": "to forget", "audio": "audio/lo/words/lo-lo-ling-07.mp3" },
+        { "text": "ລຸງ", "roman": "lung", "meaning": "uncle (older)", "audio": "audio/lo/words/lo-lo-ling-08.mp3" },
+        { "text": "ລະດູ", "roman": "laduu", "meaning": "season", "audio": "audio/lo/words/lo-lo-ling-09.mp3" }
+      ]
+    },
+    {
+      "id": "lo-wo-wi",
+      "char": "ວ",
+      "name": "Wo Wi (fan)",
+      "romanization": "w / v",
+      "ipa": "/w/ ~ /ʋ/",
+      "letterAudio": "audio/lo/letters/lo-wo-wi.mp3",
+      "memoryTrick": "ວ looks like a hand fan — wi means fan! It's the 'w' sound like 'w' in 'water'. Low-class consonant. In final position it makes the 'w' offglide (like 'ow' in 'cow').",
+      "words": [
+        { "text": "ວີ", "roman": "wii", "meaning": "fan (hand fan)", "audio": "audio/lo/words/lo-wo-wi-01.mp3" },
+        { "text": "ວັດ", "roman": "wat", "meaning": "temple", "audio": "audio/lo/words/lo-wo-wi-02.mp3" },
+        { "text": "ວັນ", "roman": "wan", "meaning": "day", "emoji": "☀️", "audio": "audio/lo/words/lo-wo-wi-03.mp3" },
+        { "text": "ວຽກ", "roman": "wiak", "meaning": "work, job", "audio": "audio/lo/words/lo-wo-wi-04.mp3" },
+        { "text": "ວົງ", "roman": "wong", "meaning": "circle, group, band", "audio": "audio/lo/words/lo-wo-wi-05.mp3" },
+        { "text": "ວາງ", "roman": "waang", "meaning": "to place, to put", "audio": "audio/lo/words/lo-wo-wi-06.mp3" },
+        { "text": "ວ່າ", "roman": "waa", "meaning": "that (conjunction), to say", "audio": "audio/lo/words/lo-wo-wi-07.mp3" }
+      ]
+    },
+    {
+      "id": "lo-ho-han",
+      "char": "ຫ",
+      "name": "Ho Han (goose)",
+      "romanization": "h",
+      "ipa": "/h/",
+      "letterAudio": "audio/lo/letters/lo-ho-han.mp3",
+      "memoryTrick": "ຫ has a tall neck like a goose — han means goose! It's the 'h' sound like 'h' in 'hello'. High-class consonant. Also used as a prefix to make other consonants high-class (ຫງ, ຫຍ, ຫວ, etc.).",
+      "words": [
+        { "text": "ຫ່ານ", "roman": "haan", "meaning": "goose", "emoji": "🦆", "audio": "audio/lo/words/lo-ho-han-01.mp3" },
+        { "text": "ຫູ", "roman": "huu", "meaning": "ear", "emoji": "👂", "audio": "audio/lo/words/lo-ho-han-02.mp3" },
+        { "text": "ຫິມະ", "roman": "hima", "meaning": "snow", "emoji": "❄️", "audio": "audio/lo/words/lo-ho-han-03.mp3" },
+        { "text": "ຫາຍ", "roman": "haai", "meaning": "to disappear", "audio": "audio/lo/words/lo-ho-han-04.mp3" },
+        { "text": "ຫິວ", "roman": "hiu", "meaning": "hungry", "audio": "audio/lo/words/lo-ho-han-05.mp3" },
+        { "text": "ຫົວ", "roman": "hua", "meaning": "head", "audio": "audio/lo/words/lo-ho-han-06.mp3" },
+        { "text": "ເຫດ", "roman": "heet", "meaning": "reason, cause", "audio": "audio/lo/words/lo-ho-han-07.mp3" },
+        { "text": "ຫຼາຍ", "roman": "laai", "meaning": "many, much", "audio": "audio/lo/words/lo-ho-han-08.mp3" }
+      ]
+    },
+    {
+      "id": "lo-o-o",
+      "char": "ອ",
+      "name": "O O (bowl, frog)",
+      "romanization": "ʼ / —",
+      "ipa": "/ʔ/",
+      "letterAudio": "audio/lo/letters/lo-o-o.mp3",
+      "memoryTrick": "ອ looks like a round bowl — it's named after a bowl (o)! This is the zero consonant, a glottal stop. It carries vowel signs when a syllable starts with a vowel sound. Mid-class consonant.",
+      "words": [
+        { "text": "ອອກ", "roman": "ɔɔk", "meaning": "to go out, to exit", "audio": "audio/lo/words/lo-o-o-01.mp3" },
+        { "text": "ອາຫານ", "roman": "aahaan", "meaning": "food", "emoji": "🍲", "audio": "audio/lo/words/lo-o-o-02.mp3" },
+        { "text": "ອ້າຍ", "roman": "aai", "meaning": "older brother", "emoji": "👦", "audio": "audio/lo/words/lo-o-o-03.mp3" },
+        { "text": "ອ່ານ", "roman": "aan", "meaning": "to read", "emoji": "📖", "audio": "audio/lo/words/lo-o-o-04.mp3" },
+        { "text": "ອາກາດ", "roman": "aakaat", "meaning": "weather, air", "audio": "audio/lo/words/lo-o-o-05.mp3" },
+        { "text": "ອຸ່ນ", "roman": "un", "meaning": "warm", "audio": "audio/lo/words/lo-o-o-06.mp3" },
+        { "text": "ອີກ", "roman": "iik", "meaning": "again, more", "audio": "audio/lo/words/lo-o-o-07.mp3" },
+        { "text": "ອາບ", "roman": "aap", "meaning": "to bathe", "audio": "audio/lo/words/lo-o-o-08.mp3" }
+      ]
+    },
+    {
+      "id": "lo-ho-huan",
+      "char": "ຮ",
+      "name": "Ho Huan (house, boat)",
+      "romanization": "h",
+      "ipa": "/h/",
+      "letterAudio": "audio/lo/letters/lo-ho-huan.mp3",
+      "memoryTrick": "ຮ looks like a house with a roof — huean means house! Same 'h' sound as ຫ, but this one is a low-class consonant, creating lower tones. Think of a low house on the riverbank.",
+      "words": [
+        { "text": "ເຮືອນ", "roman": "huean", "meaning": "house", "emoji": "🏠", "audio": "audio/lo/words/lo-ho-huan-01.mp3" },
+        { "text": "ເຮືອ", "roman": "huea", "meaning": "boat", "emoji": "⛵", "audio": "audio/lo/words/lo-ho-huan-02.mp3" },
+        { "text": "ຮັກ", "roman": "hak", "meaning": "love", "emoji": "❤️", "audio": "audio/lo/words/lo-ho-huan-03.mp3" },
+        { "text": "ຮ້ານ", "roman": "haan", "meaning": "shop, store", "emoji": "🏪", "audio": "audio/lo/words/lo-ho-huan-04.mp3" },
+        { "text": "ຮຽນ", "roman": "hian", "meaning": "to learn, to study", "emoji": "📚", "audio": "audio/lo/words/lo-ho-huan-05.mp3" },
+        { "text": "ຮູ້", "roman": "huu", "meaning": "to know", "audio": "audio/lo/words/lo-ho-huan-06.mp3" },
+        { "text": "ຮ້ອງ", "roman": "hɔɔng", "meaning": "to sing, to cry out", "audio": "audio/lo/words/lo-ho-huan-07.mp3" },
+        { "text": "ຮອດ", "roman": "hɔɔt", "meaning": "to arrive, until", "audio": "audio/lo/words/lo-ho-huan-08.mp3" }
+      ]
+    },
+    {
+      "id": "lo-no-ho-no",
+      "char": "ໜ",
+      "name": "Ho No (ligature of ho + no)",
+      "romanization": "n (high class)",
+      "ipa": "/n/",
+      "letterAudio": "audio/lo/letters/lo-no-ho-no.mp3",
+      "memoryTrick": "ໜ is a single-character ligature combining ຫ (high-class marker) + ນ (no). It makes the same 'n' sound as ນ but behaves as a high-class consonant for tone rules. A compact letter!",
+      "words": [
+        { "text": "ໜຶ່ງ", "roman": "nueng", "meaning": "one", "emoji": "1️⃣", "audio": "audio/lo/words/lo-no-ho-no-01.mp3" },
+        { "text": "ໜັງ", "roman": "nang", "meaning": "leather, skin", "audio": "audio/lo/words/lo-no-ho-no-02.mp3" },
+        { "text": "ໜ້າ", "roman": "naa", "meaning": "face, page, front", "audio": "audio/lo/words/lo-no-ho-no-03.mp3" },
+        { "text": "ໜາວ", "roman": "naau", "meaning": "cold (weather)", "emoji": "🥶", "audio": "audio/lo/words/lo-no-ho-no-04.mp3" },
+        { "text": "ໜີ", "roman": "nii", "meaning": "to flee, to escape", "audio": "audio/lo/words/lo-no-ho-no-05.mp3" },
+        { "text": "ໜຽວ", "roman": "niao", "meaning": "sticky", "audio": "audio/lo/words/lo-no-ho-no-06.mp3" }
+      ]
+    },
+    {
+      "id": "lo-mo-ho-mo",
+      "char": "ໝ",
+      "name": "Ho Mo (ligature of ho + mo)",
+      "romanization": "m (high class)",
+      "ipa": "/m/",
+      "letterAudio": "audio/lo/letters/lo-mo-ho-mo.mp3",
+      "memoryTrick": "ໝ is a single-character ligature combining ຫ + ມ. Same 'm' sound as ມ but a high-class consonant. Very common — you'll see it in the word for 'dog' (ໝາ)!",
+      "words": [
+        { "text": "ໝາ", "roman": "maa", "meaning": "dog", "emoji": "🐕", "audio": "audio/lo/words/lo-mo-ho-mo-01.mp3" },
+        { "text": "ໝູ່", "roman": "muu", "meaning": "friend, group", "audio": "audio/lo/words/lo-mo-ho-mo-02.mp3" },
+        { "text": "ໝີ", "roman": "mii", "meaning": "bear", "emoji": "🐻", "audio": "audio/lo/words/lo-mo-ho-mo-03.mp3" },
+        { "text": "ໝາກ", "roman": "maak", "meaning": "fruit, betel nut", "audio": "audio/lo/words/lo-mo-ho-mo-04.mp3" },
+        { "text": "ໝໍ້", "roman": "mɔɔ", "meaning": "pot, cooking pot", "audio": "audio/lo/words/lo-mo-ho-mo-05.mp3" },
+        { "text": "ໝົດ", "roman": "mot", "meaning": "all, finished, exhausted", "audio": "audio/lo/words/lo-mo-ho-mo-06.mp3" },
+        { "text": "ໝື່ນ", "roman": "muun", "meaning": "ten thousand", "audio": "audio/lo/words/lo-mo-ho-mo-07.mp3" }
+      ]
+    },
+    {
+      "id": "lo-vowel-a",
+      "char": "◌ະ",
+      "name": "Sara A (short a)",
+      "romanization": "a",
+      "ipa": "/aʔ/, /a/",
+      "letterAudio": "audio/lo/letters/lo-vowel-a.mp3",
+      "memoryTrick": "Written to the RIGHT of the consonant. A quick, short 'a' like 'a' in 'about'. In closed syllables it marks a short vowel before the final consonant. The medial form ◌ັ◌ is called Mai Kan."
+    },
+    {
+      "id": "lo-vowel-aa",
+      "char": "◌າ",
+      "name": "Sara Aa (long a)",
+      "romanization": "aa",
+      "ipa": "/aː/",
+      "letterAudio": "audio/lo/letters/lo-vowel-aa.mp3",
+      "memoryTrick": "Written to the RIGHT of the consonant. A long, open 'ahh' like 'a' in 'father'. One of the most common vowels — you'll see it everywhere, like in ປາ (fish)."
+    },
+    {
+      "id": "lo-vowel-i",
+      "char": "◌ິ",
+      "name": "Sara I (short i)",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/lo/letters/lo-vowel-i.mp3",
+      "memoryTrick": "Written ABOVE the consonant. A short 'i' like 'i' in 'sit'. The little hook above the letter makes a quick, clipped sound."
+    },
+    {
+      "id": "lo-vowel-ii",
+      "char": "◌ີ",
+      "name": "Sara Ii (long i)",
+      "romanization": "ii",
+      "ipa": "/iː/",
+      "letterAudio": "audio/lo/letters/lo-vowel-ii.mp3",
+      "memoryTrick": "Written ABOVE the consonant. A long 'ee' like 'ee' in 'see'. The taller mark above the letter stretches the sound out — like in ດີ (good)."
+    },
+    {
+      "id": "lo-vowel-ue",
+      "char": "◌ຶ",
+      "name": "Sara Ue (short ɯ)",
+      "romanization": "ue",
+      "ipa": "/ɯ/",
+      "letterAudio": "audio/lo/letters/lo-vowel-ue.mp3",
+      "memoryTrick": "Written ABOVE the consonant. A short unrounded 'eu' sound — purse your lips like saying 'oo' but say 'ee' instead. No English equivalent; closest is a grunt-like vowel."
+    },
+    {
+      "id": "lo-vowel-uee",
+      "char": "◌ື",
+      "name": "Sara Uee (long ɯ)",
+      "romanization": "uee",
+      "ipa": "/ɯː/",
+      "letterAudio": "audio/lo/letters/lo-vowel-uee.mp3",
+      "memoryTrick": "Written ABOVE the consonant. The long version of the unrounded 'eu'. Hold the sound twice as long. Think of the sound in ມື (hand) — a deeper, stretched 'eu'."
+    },
+    {
+      "id": "lo-vowel-u",
+      "char": "◌ຸ",
+      "name": "Sara U (short u)",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/lo/letters/lo-vowel-u.mp3",
+      "memoryTrick": "Written BELOW the consonant — it dips down like a little cup! A short 'u' like 'u' in 'put'. Quick, rounded-lip sound beneath the letter."
+    },
+    {
+      "id": "lo-vowel-uu",
+      "char": "◌ູ",
+      "name": "Sara Uu (long u)",
+      "romanization": "uu",
+      "ipa": "/uː/",
+      "letterAudio": "audio/lo/letters/lo-vowel-uu.mp3",
+      "memoryTrick": "Written BELOW the consonant with a longer tail. A long 'oo' like 'oo' in 'moon'. The elongated tail suggests holding the sound — like in ປູ (crab)."
+    },
+    {
+      "id": "lo-vowel-e",
+      "char": "ເ◌",
+      "name": "Sara E (long e)",
+      "romanization": "ee",
+      "ipa": "/eː/",
+      "letterAudio": "audio/lo/letters/lo-vowel-e.mp3",
+      "memoryTrick": "Written BEFORE the consonant (even though it's pronounced after!). A long 'ay' like 'ay' in 'say' without the glide. Surprising but common — the vowel sign sits to the left."
+    },
+    {
+      "id": "lo-vowel-ae",
+      "char": "ແ◌",
+      "name": "Sara Ae (long ɛ)",
+      "romanization": "ae",
+      "ipa": "/ɛː/",
+      "letterAudio": "audio/lo/letters/lo-vowel-ae.mp3",
+      "memoryTrick": "Written BEFORE the consonant. A long 'eh' like 'e' in 'bed' but held longer. Think of ແມ່ (mother) — the open, flat 'ae' sound."
+    },
+    {
+      "id": "lo-vowel-o",
+      "char": "ໂ◌",
+      "name": "Sara O (long o)",
+      "romanization": "oo",
+      "ipa": "/oː/",
+      "letterAudio": "audio/lo/letters/lo-vowel-o.mp3",
+      "memoryTrick": "Written BEFORE the consonant. A long 'oh' like 'o' in 'go' without the w-glide. Pure, round 'o' — like in ໂຮງ (building)."
+    },
+    {
+      "id": "lo-vowel-ai-muan",
+      "char": "ໃ◌",
+      "name": "Sara Ai Mai Muan (rolled stem)",
+      "romanization": "ai",
+      "ipa": "/aj/",
+      "letterAudio": "audio/lo/letters/lo-vowel-ai-muan.mp3",
+      "memoryTrick": "Written BEFORE the consonant. Mai Muan means 'rolled stem' — the loop is rolled inward. Makes the 'ai' diphthong like 'eye' or 'Thai'. Used in ໃຈ (heart)."
+    },
+    {
+      "id": "lo-vowel-ai-mai",
+      "char": "ໄ◌",
+      "name": "Sara Ai Mai Mai (unwound stem)",
+      "romanization": "ai",
+      "ipa": "/aj/",
+      "letterAudio": "audio/lo/letters/lo-vowel-ai-mai.mp3",
+      "memoryTrick": "Written BEFORE the consonant. Mai Mai means 'unwound stem' — the loop points outward. Same 'ai' sound as ໃ. More common than ໃ; used in ໄກ່ (chicken)."
+    },
+    {
+      "id": "lo-nikkhahit",
+      "char": "◌ໍ",
+      "name": "Nikkhahit (long open-o marker)",
+      "romanization": "ɔɔ",
+      "ipa": "/ɔː/",
+      "letterAudio": "audio/lo/letters/lo-nikkhahit.mp3",
+      "memoryTrick": "A small circle written ABOVE the consonant. It marks the long 'aw' sound like 'aw' in 'law'. Originally from Pali, it's used in everyday Lao words like ພໍ່ (father)."
+    },
+    {
+      "id": "lo-mai-kan",
+      "char": "◌ັ",
+      "name": "Mai Kan (shortener / ear stem)",
+      "romanization": "(shortens vowel)",
+      "letterAudio": "audio/lo/letters/lo-mai-kan.mp3",
+      "memoryTrick": "A small mark ABOVE the consonant that shortens a vowel or marks a closed syllable. Called 'ear stem' for its shape. Essential for distinguishing short-vowel words like ຈັບ (to catch)."
+    },
+    {
+      "id": "lo-mai-kong",
+      "char": "◌ົ",
+      "name": "Mai Kong (straight stem)",
+      "romanization": "(used in o-combinations)",
+      "letterAudio": "audio/lo/letters/lo-mai-kong.mp3",
+      "memoryTrick": "A small mark ABOVE the consonant used in vowel combinations to create the 'o' sound. Called 'straight stem'. You'll see it in words like ຄົນ (person) where it combines with the consonant to make /khon/."
+    },
+    {
+      "id": "lo-tone-mai-ek",
+      "char": "◌່",
+      "name": "Mai Ek (tone mark 1)",
+      "romanization": "(tone: high-falling on mid/high class, low on low class)",
+      "letterAudio": "audio/lo/letters/lo-tone-mai-ek.mp3",
+      "memoryTrick": "Written ABOVE the consonant. Mai Ek produces a high-falling tone with mid and high consonants. Think 'ék' — the voice starts high and drops. Most commonly used tone mark in Lao."
+    },
+    {
+      "id": "lo-tone-mai-tho",
+      "char": "◌້",
+      "name": "Mai Tho (tone mark 2)",
+      "romanization": "(tone: low on mid/high, falling on low class)",
+      "letterAudio": "audio/lo/letters/lo-tone-mai-tho.mp3",
+      "memoryTrick": "Written ABOVE the consonant with a longer curl than Mai Ek. Mai Tho produces a low tone with mid/high class consonants. The curling tail suggests the voice curling downward."
+    },
+    {
+      "id": "lo-tone-mai-ti",
+      "char": "◌໊",
+      "name": "Mai Ti (tone mark 3)",
+      "romanization": "(tone: high-rising)",
+      "letterAudio": "audio/lo/letters/lo-tone-mai-ti.mp3",
+      "memoryTrick": "Written ABOVE the consonant. Mai Ti is rare in modern Lao — used mainly in Pali/Sanskrit loanwords and some dialects. Produces a high-rising tone."
+    },
+    {
+      "id": "lo-tone-mai-catawa",
+      "char": "◌໋",
+      "name": "Mai Catawa (tone mark 4)",
+      "romanization": "(tone: high-mid level)",
+      "letterAudio": "audio/lo/letters/lo-tone-mai-catawa.mp3",
+      "memoryTrick": "Written ABOVE the consonant. Mai Catawa is very rare — mostly in archaic or borrowed words. Named after the high-mid level tone it produces. The plus-shape suggests levelness."
+    },
+    {
+      "id": "lo-kola",
+      "char": "ໆ",
+      "name": "Ko La (repetition mark)",
+      "romanization": "(indicates repetition)",
+      "letterAudio": "audio/lo/letters/lo-kola.mp3",
+      "memoryTrick": "This little zigzag means 'repeat the previous word!' Like writing 'hello hello' as 'hello ໆ'. Similar to Thai ๆ (mai yamok). It saves space and looks like a double-check mark."
+    },
+    {
+      "id": "lo-cancellation",
+      "char": "◌໌",
+      "name": "Cancellation Mark (karan)",
+      "romanization": "(marks a silent letter)",
+      "letterAudio": "audio/lo/letters/lo-cancellation.mp3",
+      "memoryTrick": "Placed ABOVE a consonant to silence it — the letter is written but NOT pronounced. Used mainly in Pali, Sanskrit, and French loanwords where a written consonant has no sound in Lao."
+    },
+    {
+      "id": "lo-ellipsis",
+      "char": "ຯ",
+      "name": "Lao Ellipsis (etc. mark)",
+      "romanization": "(indicates etcetera / abbreviation)",
+      "letterAudio": "audio/lo/letters/lo-ellipsis.mp3",
+      "memoryTrick": "Used to indicate 'and so on' or an abbreviation — like '…' or 'etc.' in English. In formal Lao writing, you'll see ຯລຯ as shorthand for ແລະອື່ນໆ (and others)."
+    },
+    {
+      "id": "lo-semivowel-lo",
+      "char": "◌ຼ",
+      "name": "Semivowel Sign Lo (ligature marker)",
+      "romanization": "(combines with ຫ to make high-class l)",
+      "letterAudio": "audio/lo/letters/lo-semivowel-lo.mp3",
+      "memoryTrick": "A tiny curl placed BELOW ຫ to create the ຫຼ ligature — producing a high-class version of the 'l' sound. Think of it as a little helper that changes the tone of the following consonant."
     }
   ]
 }

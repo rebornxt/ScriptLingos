@@ -2,138 +2,586 @@
   "language": "Malay",
   "code": "ms-MY",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
       "id": "ms-a",
-      "char": "A a",
-      "name": "a",
+      "char": "a",
+      "name": "e",
       "romanization": "a",
       "ipa": "/a/",
-      "memoryTrick": "An open 'ah'.",
+      "letterAudio": "audio/ms/letters/ms-a.mp3",
+      "memoryTrick": "Like the 'a' in 'father' — open and clear. Imagine saying 'ah' at the doctor's office.",
       "words": [
-        {
-          "text": "air",
-          "roman": "air",
-          "meaning": "water",
-          "emoji": "💧"
-        },
-        {
-          "text": "ayam",
-          "roman": "ayam",
-          "meaning": "chicken",
-          "emoji": "🐔"
-        }
+        { "text": "api", "roman": "api", "meaning": "fire", "emoji": "🔥", "audio": "audio/ms/words/ms-a-01.mp3" },
+        { "text": "air", "roman": "air", "meaning": "water", "emoji": "💧", "audio": "audio/ms/words/ms-a-02.mp3" },
+        { "text": "ayam", "roman": "ayam", "meaning": "chicken", "emoji": "🐔", "audio": "audio/ms/words/ms-a-03.mp3" },
+        { "text": "anak", "roman": "anak", "meaning": "child", "emoji": "👶", "audio": "audio/ms/words/ms-a-04.mp3" },
+        { "text": "angin", "roman": "angin", "meaning": "wind", "emoji": "💨", "audio": "audio/ms/words/ms-a-05.mp3" },
+        { "text": "awan", "roman": "awan", "meaning": "cloud", "emoji": "☁️", "audio": "audio/ms/words/ms-a-06.mp3" },
+        { "text": "anjing", "roman": "anjing", "meaning": "dog", "emoji": "🐕", "audio": "audio/ms/words/ms-a-07.mp3" },
+        { "text": "asam", "roman": "asam", "meaning": "tamarind", "emoji": "🍋", "audio": "audio/ms/words/ms-a-08.mp3" },
+        { "text": "arnab", "roman": "arnab", "meaning": "rabbit", "emoji": "🐰", "audio": "audio/ms/words/ms-a-09.mp3" },
+        { "text": "abang", "roman": "abang", "meaning": "older brother", "emoji": "👦", "audio": "audio/ms/words/ms-a-10.mp3" },
+        { "text": "adik", "roman": "adik", "meaning": "younger sibling", "emoji": "🧒", "audio": "audio/ms/words/ms-a-11.mp3" },
+        { "text": "ais", "roman": "ais", "meaning": "ice", "emoji": "🧊", "audio": "audio/ms/words/ms-a-12.mp3" }
       ]
     },
     {
       "id": "ms-b",
-      "char": "B b",
+      "char": "b",
       "name": "bi",
       "romanization": "b",
       "ipa": "/b/",
-      "memoryTrick": "Same 'b' as in English.",
+      "letterAudio": "audio/ms/letters/ms-b.mp3",
+      "memoryTrick": "Same 'b' as in English 'book' — but at the end of a Malay word it's unreleased, like a soft stop.",
       "words": [
-        {
-          "text": "buku",
-          "roman": "buku",
-          "meaning": "book",
-          "emoji": "📖"
-        },
-        {
-          "text": "bunga",
-          "roman": "bunga",
-          "meaning": "flower",
-          "emoji": "🌸"
-        }
+        { "text": "buku", "roman": "buku", "meaning": "book", "emoji": "📖", "audio": "audio/ms/words/ms-b-01.mp3" },
+        { "text": "bola", "roman": "bola", "meaning": "ball", "emoji": "⚽", "audio": "audio/ms/words/ms-b-02.mp3" },
+        { "text": "bulan", "roman": "bulan", "meaning": "moon", "emoji": "🌙", "audio": "audio/ms/words/ms-b-03.mp3" },
+        { "text": "bunga", "roman": "bunga", "meaning": "flower", "emoji": "🌸", "audio": "audio/ms/words/ms-b-04.mp3" },
+        { "text": "burung", "roman": "burung", "meaning": "bird", "emoji": "🐦", "audio": "audio/ms/words/ms-b-05.mp3" },
+        { "text": "buah", "roman": "buah", "meaning": "fruit", "emoji": "🍎", "audio": "audio/ms/words/ms-b-06.mp3" },
+        { "text": "baju", "roman": "baju", "meaning": "shirt", "emoji": "👕", "audio": "audio/ms/words/ms-b-07.mp3" },
+        { "text": "biru", "roman": "biru", "meaning": "blue", "emoji": "🔵", "audio": "audio/ms/words/ms-b-08.mp3" },
+        { "text": "batu", "roman": "batu", "meaning": "stone", "emoji": "🪨", "audio": "audio/ms/words/ms-b-09.mp3" },
+        { "text": "besar", "roman": "besar", "meaning": "big", "emoji": "🐘", "audio": "audio/ms/words/ms-b-10.mp3" },
+        { "text": "baru", "roman": "baru", "meaning": "new", "emoji": "✨", "audio": "audio/ms/words/ms-b-11.mp3" },
+        { "text": "basah", "roman": "basah", "meaning": "wet", "emoji": "💦", "audio": "audio/ms/words/ms-b-12.mp3" }
       ]
     },
     {
       "id": "ms-c",
-      "char": "C c",
+      "char": "c",
       "name": "si",
       "romanization": "c",
       "ipa": "/tʃ/",
-      "memoryTrick": "In Malay, C always says 'ch' as in 'chair'.",
+      "letterAudio": "audio/ms/letters/ms-c.mp3",
+      "memoryTrick": "Always 'ch' as in 'chicken', never 'k' or 's'. Think of the sound at the start of 'chop' — that's Malay 'c' every time.",
       "words": [
-        {
-          "text": "cinta",
-          "roman": "cinta",
-          "meaning": "love",
-          "emoji": "❤️"
-        },
-        {
-          "text": "cawan",
-          "roman": "cawan",
-          "meaning": "cup",
-          "emoji": "☕"
-        }
+        { "text": "cawan", "roman": "cawan", "meaning": "cup", "emoji": "🍵", "audio": "audio/ms/words/ms-c-01.mp3" },
+        { "text": "cili", "roman": "cili", "meaning": "chili", "emoji": "🌶️", "audio": "audio/ms/words/ms-c-02.mp3" },
+        { "text": "cinta", "roman": "cinta", "meaning": "love", "emoji": "❤️", "audio": "audio/ms/words/ms-c-03.mp3" },
+        { "text": "cermin", "roman": "cermin", "meaning": "mirror", "emoji": "🪞", "audio": "audio/ms/words/ms-c-04.mp3" },
+        { "text": "cantik", "roman": "cantik", "meaning": "beautiful", "emoji": "💖", "audio": "audio/ms/words/ms-c-05.mp3" },
+        { "text": "cepat", "roman": "cepat", "meaning": "fast", "emoji": "⚡", "audio": "audio/ms/words/ms-c-06.mp3" },
+        { "text": "coklat", "roman": "coklat", "meaning": "chocolate", "emoji": "🍫", "audio": "audio/ms/words/ms-c-07.mp3" },
+        { "text": "cuba", "roman": "cuba", "meaning": "to try", "emoji": "🤞", "audio": "audio/ms/words/ms-c-08.mp3" },
+        { "text": "cicak", "roman": "cicak", "meaning": "house lizard", "emoji": "🦎", "audio": "audio/ms/words/ms-c-09.mp3" },
+        { "text": "cuci", "roman": "cuci", "meaning": "to wash", "emoji": "🧼", "audio": "audio/ms/words/ms-c-10.mp3" }
       ]
     },
     {
       "id": "ms-d",
-      "char": "D d",
+      "char": "d",
       "name": "di",
       "romanization": "d",
       "ipa": "/d/",
-      "memoryTrick": "Same 'd'.",
+      "letterAudio": "audio/ms/letters/ms-d.mp3",
+      "memoryTrick": "Same 'd' as in English 'dog' — dental, not retroflex. At the end of a word, soften it without a burst of air.",
       "words": [
-        {
-          "text": "dua",
-          "roman": "dua",
-          "meaning": "two",
-          "emoji": "2️⃣"
-        },
-        {
-          "text": "daun",
-          "roman": "daun",
-          "meaning": "leaf",
-          "emoji": "🍃"
-        }
+        { "text": "daun", "roman": "daun", "meaning": "leaf", "emoji": "🍃", "audio": "audio/ms/words/ms-d-01.mp3" },
+        { "text": "dua", "roman": "dua", "meaning": "two", "emoji": "✌️", "audio": "audio/ms/words/ms-d-02.mp3" },
+        { "text": "duduk", "roman": "duduk", "meaning": "to sit", "emoji": "🪑", "audio": "audio/ms/words/ms-d-03.mp3" },
+        { "text": "daging", "roman": "daging", "meaning": "meat", "emoji": "🥩", "audio": "audio/ms/words/ms-d-04.mp3" },
+        { "text": "darah", "roman": "darah", "meaning": "blood", "emoji": "🩸", "audio": "audio/ms/words/ms-d-05.mp3" },
+        { "text": "dapur", "roman": "dapur", "meaning": "kitchen", "emoji": "🍳", "audio": "audio/ms/words/ms-d-06.mp3" },
+        { "text": "dalam", "roman": "dalam", "meaning": "inside", "emoji": "📥", "audio": "audio/ms/words/ms-d-07.mp3" },
+        { "text": "dinding", "roman": "dinding", "meaning": "wall", "emoji": "🧱", "audio": "audio/ms/words/ms-d-08.mp3" },
+        { "text": "durian", "roman": "durian", "meaning": "durian fruit", "emoji": "🫒", "audio": "audio/ms/words/ms-d-09.mp3" },
+        { "text": "dengar", "roman": "dengar", "meaning": "to hear", "emoji": "👂", "audio": "audio/ms/words/ms-d-10.mp3" },
+        { "text": "depan", "roman": "depan", "meaning": "front", "emoji": "⬆️", "audio": "audio/ms/words/ms-d-11.mp3" }
       ]
     },
     {
-      "id": "ms-ng",
-      "char": "Ng ng",
-      "name": "eng",
-      "romanization": "ng",
-      "ipa": "/ŋ/",
-      "memoryTrick": "The 'ng' digraph as in 'sing'.",
+      "id": "ms-e",
+      "char": "e",
+      "name": "i",
+      "romanization": "e",
+      "ipa": "/e/",
+      "letterAudio": "audio/ms/letters/ms-e.mp3",
+      "memoryTrick": "Two faces: it can be /e/ like 'bed' or the schwa /ə/ like the 'a' in 'about'. Context tells you which — words like 'emas' (gold) use the schwa.",
       "words": [
-        {
-          "text": "orang",
-          "roman": "orang",
-          "meaning": "person",
-          "emoji": "🧍"
-        },
-        {
-          "text": "hidung",
-          "roman": "hidung",
-          "meaning": "nose",
-          "emoji": "👃"
-        }
+        { "text": "emas", "roman": "emas", "meaning": "gold", "emoji": "🥇", "audio": "audio/ms/words/ms-e-01.mp3" },
+        { "text": "ekor", "roman": "ekor", "meaning": "tail", "emoji": "🐒", "audio": "audio/ms/words/ms-e-02.mp3" },
+        { "text": "empat", "roman": "empat", "meaning": "four", "emoji": "4️⃣", "audio": "audio/ms/words/ms-e-03.mp3" },
+        { "text": "enam", "roman": "enam", "meaning": "six", "emoji": "6️⃣", "audio": "audio/ms/words/ms-e-04.mp3" },
+        { "text": "embun", "roman": "embun", "meaning": "dew", "emoji": "💧", "audio": "audio/ms/words/ms-e-05.mp3" },
+        { "text": "elok", "roman": "elok", "meaning": "good, fine", "emoji": "👍", "audio": "audio/ms/words/ms-e-06.mp3" },
+        { "text": "enak", "roman": "enak", "meaning": "delicious", "emoji": "😋", "audio": "audio/ms/words/ms-e-07.mp3" }
+      ]
+    },
+    {
+      "id": "ms-f",
+      "char": "f",
+      "name": "ef",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/ms/letters/ms-f.mp3",
+      "memoryTrick": "Same 'f' as in 'fish' — appears mostly in loanwords from Arabic and English. Many Malay speakers pronounce it the same as 'p'.",
+      "words": [
+        { "text": "filem", "roman": "filem", "meaning": "film, movie", "emoji": "🎬", "audio": "audio/ms/words/ms-f-01.mp3" },
+        { "text": "faham", "roman": "faham", "meaning": "to understand", "emoji": "💡", "audio": "audio/ms/words/ms-f-02.mp3" },
+        { "text": "feri", "roman": "feri", "meaning": "ferry", "emoji": "⛴️", "audio": "audio/ms/words/ms-f-03.mp3" },
+        { "text": "fikir", "roman": "fikir", "meaning": "to think", "emoji": "🤔", "audio": "audio/ms/words/ms-f-04.mp3" },
+        { "text": "fail", "roman": "fail", "meaning": "file", "emoji": "📁", "audio": "audio/ms/words/ms-f-05.mp3" },
+        { "text": "fesyen", "roman": "fesyen", "meaning": "fashion", "emoji": "👗", "audio": "audio/ms/words/ms-f-06.mp3" }
+      ]
+    },
+    {
+      "id": "ms-g",
+      "char": "g",
+      "name": "ji",
+      "romanization": "g",
+      "ipa": "/g/",
+      "letterAudio": "audio/ms/letters/ms-g.mp3",
+      "memoryTrick": "Always hard 'g' as in 'goat', never soft like 'giraffe'. Think of the 'g' in 'garden' — that's the only sound Malay 'g' makes.",
+      "words": [
+        { "text": "gajah", "roman": "gajah", "meaning": "elephant", "emoji": "🐘", "audio": "audio/ms/words/ms-g-01.mp3" },
+        { "text": "gula", "roman": "gula", "meaning": "sugar", "emoji": "🍬", "audio": "audio/ms/words/ms-g-02.mp3" },
+        { "text": "gunung", "roman": "gunung", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/ms/words/ms-g-03.mp3" },
+        { "text": "gigi", "roman": "gigi", "meaning": "tooth", "emoji": "🦷", "audio": "audio/ms/words/ms-g-04.mp3" },
+        { "text": "garam", "roman": "garam", "meaning": "salt", "emoji": "🧂", "audio": "audio/ms/words/ms-g-05.mp3" },
+        { "text": "gelas", "roman": "gelas", "meaning": "glass", "emoji": "🥛", "audio": "audio/ms/words/ms-g-06.mp3" },
+        { "text": "gembira", "roman": "gembira", "meaning": "happy", "emoji": "😊", "audio": "audio/ms/words/ms-g-07.mp3" },
+        { "text": "gambar", "roman": "gambar", "meaning": "picture", "emoji": "🖼️", "audio": "audio/ms/words/ms-g-08.mp3" },
+        { "text": "goreng", "roman": "goreng", "meaning": "to fry", "emoji": "🍳", "audio": "audio/ms/words/ms-g-09.mp3" },
+        { "text": "garfu", "roman": "garfu", "meaning": "fork", "emoji": "🍴", "audio": "audio/ms/words/ms-g-10.mp3" },
+        { "text": "getah", "roman": "getah", "meaning": "rubber, sap", "emoji": "🌳", "audio": "audio/ms/words/ms-g-11.mp3" }
+      ]
+    },
+    {
+      "id": "ms-h",
+      "char": "h",
+      "name": "hec",
+      "romanization": "h",
+      "ipa": "/h/",
+      "letterAudio": "audio/ms/letters/ms-h.mp3",
+      "memoryTrick": "Like English 'h' in 'house' — but in Malay it's always pronounced, even at the end of a word. 'Buah' ends with a soft breath.",
+      "words": [
+        { "text": "hati", "roman": "hati", "meaning": "liver, heart", "emoji": "🫀", "audio": "audio/ms/words/ms-h-01.mp3" },
+        { "text": "hujan", "roman": "hujan", "meaning": "rain", "emoji": "🌧️", "audio": "audio/ms/words/ms-h-02.mp3" },
+        { "text": "hidung", "roman": "hidung", "meaning": "nose", "emoji": "👃", "audio": "audio/ms/words/ms-h-03.mp3" },
+        { "text": "hitam", "roman": "hitam", "meaning": "black", "emoji": "⚫", "audio": "audio/ms/words/ms-h-04.mp3" },
+        { "text": "hijau", "roman": "hijau", "meaning": "green", "emoji": "🟢", "audio": "audio/ms/words/ms-h-05.mp3" },
+        { "text": "hari", "roman": "hari", "meaning": "day", "emoji": "☀️", "audio": "audio/ms/words/ms-h-06.mp3" },
+        { "text": "harimau", "roman": "harimau", "meaning": "tiger", "emoji": "🐅", "audio": "audio/ms/words/ms-h-07.mp3" },
+        { "text": "halia", "roman": "halia", "meaning": "ginger", "emoji": "🫚", "audio": "audio/ms/words/ms-h-08.mp3" },
+        { "text": "hangat", "roman": "hangat", "meaning": "warm", "emoji": "🌡️", "audio": "audio/ms/words/ms-h-09.mp3" }
+      ]
+    },
+    {
+      "id": "ms-i",
+      "char": "i",
+      "name": "ai",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/ms/letters/ms-i.mp3",
+      "memoryTrick": "Like 'ee' in 'see' — a clean, high front vowel. Don't diphthongise it; keep it pure like in 'machine'.",
+      "words": [
+        { "text": "ikan", "roman": "ikan", "meaning": "fish", "emoji": "🐟", "audio": "audio/ms/words/ms-i-01.mp3" },
+        { "text": "ibu", "roman": "ibu", "meaning": "mother", "emoji": "👩", "audio": "audio/ms/words/ms-i-02.mp3" },
+        { "text": "itik", "roman": "itik", "meaning": "duck", "emoji": "🦆", "audio": "audio/ms/words/ms-i-03.mp3" },
+        { "text": "intan", "roman": "intan", "meaning": "diamond", "emoji": "💎", "audio": "audio/ms/words/ms-i-04.mp3" },
+        { "text": "isi", "roman": "isi", "meaning": "content, filling", "emoji": "📦", "audio": "audio/ms/words/ms-i-05.mp3" },
+        { "text": "ikut", "roman": "ikut", "meaning": "to follow", "emoji": "🚶", "audio": "audio/ms/words/ms-i-06.mp3" },
+        { "text": "ipar", "roman": "ipar", "meaning": "in-law", "emoji": "👨‍👩‍👧", "audio": "audio/ms/words/ms-i-07.mp3" }
+      ]
+    },
+    {
+      "id": "ms-j",
+      "char": "j",
+      "name": "je",
+      "romanization": "j",
+      "ipa": "/dʒ/",
+      "letterAudio": "audio/ms/letters/ms-j.mp3",
+      "memoryTrick": "Like 'j' in 'jam' or the 'dg' in 'bridge' — never the French 'j' or Spanish 'j'. Just a regular English-style 'j'.",
+      "words": [
+        { "text": "jalan", "roman": "jalan", "meaning": "road, to walk", "emoji": "🛣️", "audio": "audio/ms/words/ms-j-01.mp3" },
+        { "text": "jari", "roman": "jari", "meaning": "finger", "emoji": "☝️", "audio": "audio/ms/words/ms-j-02.mp3" },
+        { "text": "jam", "roman": "jam", "meaning": "clock, hour", "emoji": "🕐", "audio": "audio/ms/words/ms-j-03.mp3" },
+        { "text": "jambu", "roman": "jambu", "meaning": "guava", "emoji": "🍐", "audio": "audio/ms/words/ms-j-04.mp3" },
+        { "text": "jiran", "roman": "jiran", "meaning": "neighbour", "emoji": "🏘️", "audio": "audio/ms/words/ms-j-05.mp3" },
+        { "text": "jauh", "roman": "jauh", "meaning": "far", "emoji": "📏", "audio": "audio/ms/words/ms-j-06.mp3" },
+        { "text": "jual", "roman": "jual", "meaning": "to sell", "emoji": "🏪", "audio": "audio/ms/words/ms-j-07.mp3" },
+        { "text": "jemput", "roman": "jemput", "meaning": "to invite", "emoji": "📩", "audio": "audio/ms/words/ms-j-08.mp3" },
+        { "text": "jawapan", "roman": "jawapan", "meaning": "answer", "emoji": "💬", "audio": "audio/ms/words/ms-j-09.mp3" },
+        { "text": "jantung", "roman": "jantung", "meaning": "heart (organ)", "emoji": "💗", "audio": "audio/ms/words/ms-j-10.mp3" }
+      ]
+    },
+    {
+      "id": "ms-k",
+      "char": "k",
+      "name": "ke",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/ms/letters/ms-k.mp3",
+      "memoryTrick": "Like 'k' in 'kite' at the start of a syllable, but at the end of a word it becomes a glottal stop — like the catch in 'uh-oh'.",
+      "words": [
+        { "text": "kucing", "roman": "kucing", "meaning": "cat", "emoji": "🐱", "audio": "audio/ms/words/ms-k-01.mp3" },
+        { "text": "kaki", "roman": "kaki", "meaning": "foot, leg", "emoji": "🦶", "audio": "audio/ms/words/ms-k-02.mp3" },
+        { "text": "kunci", "roman": "kunci", "meaning": "key", "emoji": "🔑", "audio": "audio/ms/words/ms-k-03.mp3" },
+        { "text": "kapal", "roman": "kapal", "meaning": "ship", "emoji": "🚢", "audio": "audio/ms/words/ms-k-04.mp3" },
+        { "text": "kopi", "roman": "kopi", "meaning": "coffee", "emoji": "☕", "audio": "audio/ms/words/ms-k-05.mp3" },
+        { "text": "kerusi", "roman": "kerusi", "meaning": "chair", "emoji": "🪑", "audio": "audio/ms/words/ms-k-06.mp3" },
+        { "text": "kecil", "roman": "kecil", "meaning": "small", "emoji": "🔹", "audio": "audio/ms/words/ms-k-07.mp3" },
+        { "text": "kertas", "roman": "kertas", "meaning": "paper", "emoji": "📄", "audio": "audio/ms/words/ms-k-08.mp3" },
+        { "text": "kampung", "roman": "kampung", "meaning": "village", "emoji": "🏡", "audio": "audio/ms/words/ms-k-09.mp3" },
+        { "text": "kawan", "roman": "kawan", "meaning": "friend", "emoji": "👫", "audio": "audio/ms/words/ms-k-10.mp3" },
+        { "text": "kepala", "roman": "kepala", "meaning": "head", "emoji": "🗣️", "audio": "audio/ms/words/ms-k-11.mp3" },
+        { "text": "kamus", "roman": "kamus", "meaning": "dictionary", "emoji": "📚", "audio": "audio/ms/words/ms-k-12.mp3" }
+      ]
+    },
+    {
+      "id": "ms-l",
+      "char": "l",
+      "name": "el",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/ms/letters/ms-l.mp3",
+      "memoryTrick": "Like English 'l' in 'light' — a clear, front-of-the-mouth 'l', never the dark 'l' of 'pool'. Keep it light and crisp.",
+      "words": [
+        { "text": "laut", "roman": "laut", "meaning": "sea", "emoji": "🌊", "audio": "audio/ms/words/ms-l-01.mp3" },
+        { "text": "langit", "roman": "langit", "meaning": "sky", "emoji": "🌤️", "audio": "audio/ms/words/ms-l-02.mp3" },
+        { "text": "lilin", "roman": "lilin", "meaning": "candle", "emoji": "🕯️", "audio": "audio/ms/words/ms-l-03.mp3" },
+        { "text": "lima", "roman": "lima", "meaning": "five", "emoji": "5️⃣", "audio": "audio/ms/words/ms-l-04.mp3" },
+        { "text": "lapan", "roman": "lapan", "meaning": "eight", "emoji": "8️⃣", "audio": "audio/ms/words/ms-l-05.mp3" },
+        { "text": "lelaki", "roman": "lelaki", "meaning": "man, male", "emoji": "👨", "audio": "audio/ms/words/ms-l-06.mp3" },
+        { "text": "lutut", "roman": "lutut", "meaning": "knee", "emoji": "🦵", "audio": "audio/ms/words/ms-l-07.mp3" },
+        { "text": "luar", "roman": "luar", "meaning": "outside", "emoji": "🏞️", "audio": "audio/ms/words/ms-l-08.mp3" },
+        { "text": "lebah", "roman": "lebah", "meaning": "bee", "emoji": "🐝", "audio": "audio/ms/words/ms-l-09.mp3" },
+        { "text": "lauk", "roman": "lauk", "meaning": "dish (food)", "emoji": "🍛", "audio": "audio/ms/words/ms-l-10.mp3" }
+      ]
+    },
+    {
+      "id": "ms-m",
+      "char": "m",
+      "name": "em",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/ms/letters/ms-m.mp3",
+      "memoryTrick": "Same 'm' as in English 'mother' — lips together, hum through your nose. No surprises here.",
+      "words": [
+        { "text": "mata", "roman": "mata", "meaning": "eye", "emoji": "👁️", "audio": "audio/ms/words/ms-m-01.mp3" },
+        { "text": "makan", "roman": "makan", "meaning": "to eat", "emoji": "🍽️", "audio": "audio/ms/words/ms-m-02.mp3" },
+        { "text": "minum", "roman": "minum", "meaning": "to drink", "emoji": "🥤", "audio": "audio/ms/words/ms-m-03.mp3" },
+        { "text": "malam", "roman": "malam", "meaning": "night", "emoji": "🌙", "audio": "audio/ms/words/ms-m-04.mp3" },
+        { "text": "merah", "roman": "merah", "meaning": "red", "emoji": "🔴", "audio": "audio/ms/words/ms-m-05.mp3" },
+        { "text": "mulut", "roman": "mulut", "meaning": "mouth", "emoji": "👄", "audio": "audio/ms/words/ms-m-06.mp3" },
+        { "text": "mandi", "roman": "mandi", "meaning": "to bathe", "emoji": "🛀", "audio": "audio/ms/words/ms-m-07.mp3" },
+        { "text": "meja", "roman": "meja", "meaning": "table", "emoji": "🪑", "audio": "audio/ms/words/ms-m-08.mp3" },
+        { "text": "muda", "roman": "muda", "meaning": "young", "emoji": "🌱", "audio": "audio/ms/words/ms-m-09.mp3" },
+        { "text": "manis", "roman": "manis", "meaning": "sweet", "emoji": "🍯", "audio": "audio/ms/words/ms-m-10.mp3" },
+        { "text": "masak", "roman": "masak", "meaning": "to cook", "emoji": "👨‍🍳", "audio": "audio/ms/words/ms-m-11.mp3" },
+        { "text": "mangga", "roman": "mangga", "meaning": "mango", "emoji": "🥭", "audio": "audio/ms/words/ms-m-12.mp3" }
+      ]
+    },
+    {
+      "id": "ms-n",
+      "char": "n",
+      "name": "en",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/ms/letters/ms-n.mp3",
+      "memoryTrick": "Like English 'n' in 'nose' — tongue tip behind your top teeth. Clean and simple, no nasal vowel tricks.",
+      "words": [
+        { "text": "nasi", "roman": "nasi", "meaning": "cooked rice", "emoji": "🍚", "audio": "audio/ms/words/ms-n-01.mp3" },
+        { "text": "nanas", "roman": "nanas", "meaning": "pineapple", "emoji": "🍍", "audio": "audio/ms/words/ms-n-02.mp3" },
+        { "text": "nama", "roman": "nama", "meaning": "name", "emoji": "📛", "audio": "audio/ms/words/ms-n-03.mp3" },
+        { "text": "naik", "roman": "naik", "meaning": "to go up, to ride", "emoji": "⬆️", "audio": "audio/ms/words/ms-n-04.mp3" },
+        { "text": "nipis", "roman": "nipis", "meaning": "thin", "emoji": "📏", "audio": "audio/ms/words/ms-n-05.mp3" },
+        { "text": "nangka", "roman": "nangka", "meaning": "jackfruit", "emoji": "🫒", "audio": "audio/ms/words/ms-n-06.mp3" },
+        { "text": "nampak", "roman": "nampak", "meaning": "to see", "emoji": "👀", "audio": "audio/ms/words/ms-n-07.mp3" },
+        { "text": "negara", "roman": "negara", "meaning": "country", "emoji": "🇲🇾", "audio": "audio/ms/words/ms-n-08.mp3" },
+        { "text": "nenek", "roman": "nenek", "meaning": "grandmother", "emoji": "👵", "audio": "audio/ms/words/ms-n-09.mp3" },
+        { "text": "nombor", "roman": "nombor", "meaning": "number", "emoji": "🔢", "audio": "audio/ms/words/ms-n-10.mp3" }
+      ]
+    },
+    {
+      "id": "ms-o",
+      "char": "o",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/o/",
+      "letterAudio": "audio/ms/letters/ms-o.mp3",
+      "memoryTrick": "Like 'o' in 'port' — rounded and mid-back. Keep it pure, don't glide into a 'w' sound at the end.",
+      "words": [
+        { "text": "orang", "roman": "orang", "meaning": "person", "emoji": "🧑", "audio": "audio/ms/words/ms-o-01.mp3" },
+        { "text": "otak", "roman": "otak", "meaning": "brain", "emoji": "🧠", "audio": "audio/ms/words/ms-o-02.mp3" },
+        { "text": "obor", "roman": "obor", "meaning": "torch", "emoji": "🔥", "audio": "audio/ms/words/ms-o-03.mp3" },
+        { "text": "oren", "roman": "oren", "meaning": "orange", "emoji": "🍊", "audio": "audio/ms/words/ms-o-04.mp3" },
+        { "text": "ombak", "roman": "ombak", "meaning": "wave", "emoji": "🌊", "audio": "audio/ms/words/ms-o-05.mp3" },
+        { "text": "otot", "roman": "otot", "meaning": "muscle", "emoji": "💪", "audio": "audio/ms/words/ms-o-06.mp3" },
+        { "text": "oleh", "roman": "oleh", "meaning": "by (preposition)", "emoji": "🖊️", "audio": "audio/ms/words/ms-o-07.mp3" }
+      ]
+    },
+    {
+      "id": "ms-p",
+      "char": "p",
+      "name": "pi",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/ms/letters/ms-p.mp3",
+      "memoryTrick": "Like 'p' in 'park' — unaspirated (no puff of air). At the end of a word, close your lips but don't release the air.",
+      "words": [
+        { "text": "pintu", "roman": "pintu", "meaning": "door", "emoji": "🚪", "audio": "audio/ms/words/ms-p-01.mp3" },
+        { "text": "pokok", "roman": "pokok", "meaning": "tree", "emoji": "🌳", "audio": "audio/ms/words/ms-p-02.mp3" },
+        { "text": "panas", "roman": "panas", "meaning": "hot", "emoji": "🥵", "audio": "audio/ms/words/ms-p-03.mp3" },
+        { "text": "panjang", "roman": "panjang", "meaning": "long", "emoji": "📏", "audio": "audio/ms/words/ms-p-04.mp3" },
+        { "text": "pisang", "roman": "pisang", "meaning": "banana", "emoji": "🍌", "audio": "audio/ms/words/ms-p-05.mp3" },
+        { "text": "putih", "roman": "putih", "meaning": "white", "emoji": "⚪", "audio": "audio/ms/words/ms-p-06.mp3" },
+        { "text": "payung", "roman": "payung", "meaning": "umbrella", "emoji": "☂️", "audio": "audio/ms/words/ms-p-07.mp3" },
+        { "text": "pasar", "roman": "pasar", "meaning": "market", "emoji": "🏪", "audio": "audio/ms/words/ms-p-08.mp3" },
+        { "text": "pagi", "roman": "pagi", "meaning": "morning", "emoji": "🌅", "audio": "audio/ms/words/ms-p-09.mp3" },
+        { "text": "petang", "roman": "petang", "meaning": "afternoon", "emoji": "🌇", "audio": "audio/ms/words/ms-p-10.mp3" },
+        { "text": "penuh", "roman": "penuh", "meaning": "full", "emoji": "🈵", "audio": "audio/ms/words/ms-p-11.mp3" },
+        { "text": "pandai", "roman": "pandai", "meaning": "clever", "emoji": "🧠", "audio": "audio/ms/words/ms-p-12.mp3" }
+      ]
+    },
+    {
+      "id": "ms-q",
+      "char": "q",
+      "name": "kiu",
+      "romanization": "q",
+      "ipa": "/q/",
+      "letterAudio": "audio/ms/letters/ms-q.mp3",
+      "memoryTrick": "Rare in Malay, appearing almost only in Arabic loanwords. Pronounced deeper in the throat than 'k' — like a 'k' from the back of your mouth.",
+      "words": [
+        { "text": "Quran", "roman": "Quran", "meaning": "the Quran", "emoji": "📖", "audio": "audio/ms/words/ms-q-01.mp3" },
+        { "text": "qari", "roman": "qari", "meaning": "Quran reciter", "emoji": "🎤", "audio": "audio/ms/words/ms-q-02.mp3" }
+      ]
+    },
+    {
+      "id": "ms-r",
+      "char": "r",
+      "name": "ar",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/ms/letters/ms-r.mp3",
+      "memoryTrick": "A trilled or tapped 'r' like in Spanish 'pero' — flick the tip of your tongue against the roof of your mouth. Never the English bunched 'r'.",
+      "words": [
+        { "text": "rumah", "roman": "rumah", "meaning": "house", "emoji": "🏠", "audio": "audio/ms/words/ms-r-01.mp3" },
+        { "text": "rambut", "roman": "rambut", "meaning": "hair", "emoji": "💇", "audio": "audio/ms/words/ms-r-02.mp3" },
+        { "text": "raja", "roman": "raja", "meaning": "king", "emoji": "👑", "audio": "audio/ms/words/ms-r-03.mp3" },
+        { "text": "roti", "roman": "roti", "meaning": "bread", "emoji": "🍞", "audio": "audio/ms/words/ms-r-04.mp3" },
+        { "text": "rumput", "roman": "rumput", "meaning": "grass", "emoji": "🌿", "audio": "audio/ms/words/ms-r-05.mp3" },
+        { "text": "rendah", "roman": "rendah", "meaning": "low", "emoji": "⬇️", "audio": "audio/ms/words/ms-r-06.mp3" },
+        { "text": "ratus", "roman": "ratus", "meaning": "hundred", "emoji": "💯", "audio": "audio/ms/words/ms-r-07.mp3" },
+        { "text": "rasa", "roman": "rasa", "meaning": "taste, to feel", "emoji": "👅", "audio": "audio/ms/words/ms-r-08.mp3" },
+        { "text": "ringan", "roman": "ringan", "meaning": "light (weight)", "emoji": "🪶", "audio": "audio/ms/words/ms-r-09.mp3" },
+        { "text": "ramai", "roman": "ramai", "meaning": "crowded, many people", "emoji": "👥", "audio": "audio/ms/words/ms-r-10.mp3" }
       ]
     },
     {
       "id": "ms-s",
-      "char": "S s",
+      "char": "s",
       "name": "es",
       "romanization": "s",
       "ipa": "/s/",
-      "memoryTrick": "A plain 's'.",
+      "letterAudio": "audio/ms/letters/ms-s.mp3",
+      "memoryTrick": "Always a sharp 's' as in 'sun', never a 'z' sound. Even between vowels it stays crisp — 'rasa' has two clear 's' sounds.",
       "words": [
-        {
-          "text": "satu",
-          "roman": "satu",
-          "meaning": "one",
-          "emoji": "1️⃣"
-        },
-        {
-          "text": "susu",
-          "roman": "susu",
-          "meaning": "milk",
-          "emoji": "🥛"
-        }
+        { "text": "susu", "roman": "susu", "meaning": "milk", "emoji": "🥛", "audio": "audio/ms/words/ms-s-01.mp3" },
+        { "text": "satu", "roman": "satu", "meaning": "one", "emoji": "1️⃣", "audio": "audio/ms/words/ms-s-02.mp3" },
+        { "text": "sakit", "roman": "sakit", "meaning": "sick, pain", "emoji": "🤒", "audio": "audio/ms/words/ms-s-03.mp3" },
+        { "text": "sekolah", "roman": "sekolah", "meaning": "school", "emoji": "🏫", "audio": "audio/ms/words/ms-s-04.mp3" },
+        { "text": "senyum", "roman": "senyum", "meaning": "smile", "emoji": "😊", "audio": "audio/ms/words/ms-s-05.mp3" },
+        { "text": "siang", "roman": "siang", "meaning": "daytime", "emoji": "☀️", "audio": "audio/ms/words/ms-s-06.mp3" },
+        { "text": "sayur", "roman": "sayur", "meaning": "vegetable", "emoji": "🥬", "audio": "audio/ms/words/ms-s-07.mp3" },
+        { "text": "sapu", "roman": "sapu", "meaning": "to sweep, broom", "emoji": "🧹", "audio": "audio/ms/words/ms-s-08.mp3" },
+        { "text": "sejuk", "roman": "sejuk", "meaning": "cold", "emoji": "🥶", "audio": "audio/ms/words/ms-s-09.mp3" },
+        { "text": "sabun", "roman": "sabun", "meaning": "soap", "emoji": "🧼", "audio": "audio/ms/words/ms-s-10.mp3" },
+        { "text": "semua", "roman": "semua", "meaning": "all", "emoji": "🔄", "audio": "audio/ms/words/ms-s-11.mp3" }
+      ]
+    },
+    {
+      "id": "ms-t",
+      "char": "t",
+      "name": "ti",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/ms/letters/ms-t.mp3",
+      "memoryTrick": "Like 't' in 'stop' — dental (tongue on teeth) and unaspirated. At the end of a word it's unreleased: 'sakit' ends with your tongue on your teeth.",
+      "words": [
+        { "text": "tangan", "roman": "tangan", "meaning": "hand", "emoji": "✋", "audio": "audio/ms/words/ms-t-01.mp3" },
+        { "text": "tiga", "roman": "tiga", "meaning": "three", "emoji": "3️⃣", "audio": "audio/ms/words/ms-t-02.mp3" },
+        { "text": "tidur", "roman": "tidur", "meaning": "to sleep", "emoji": "😴", "audio": "audio/ms/words/ms-t-03.mp3" },
+        { "text": "telinga", "roman": "telinga", "meaning": "ear", "emoji": "👂", "audio": "audio/ms/words/ms-t-04.mp3" },
+        { "text": "tanah", "roman": "tanah", "meaning": "earth, soil", "emoji": "🌍", "audio": "audio/ms/words/ms-t-05.mp3" },
+        { "text": "tujuh", "roman": "tujuh", "meaning": "seven", "emoji": "7️⃣", "audio": "audio/ms/words/ms-t-06.mp3" },
+        { "text": "tahun", "roman": "tahun", "meaning": "year", "emoji": "📅", "audio": "audio/ms/words/ms-t-07.mp3" },
+        { "text": "tikus", "roman": "tikus", "meaning": "mouse, rat", "emoji": "🐭", "audio": "audio/ms/words/ms-t-08.mp3" },
+        { "text": "takut", "roman": "takut", "meaning": "afraid", "emoji": "😨", "audio": "audio/ms/words/ms-t-09.mp3" },
+        { "text": "tulis", "roman": "tulis", "meaning": "to write", "emoji": "✍️", "audio": "audio/ms/words/ms-t-10.mp3" },
+        { "text": "tinggi", "roman": "tinggi", "meaning": "tall, high", "emoji": "🏔️", "audio": "audio/ms/words/ms-t-11.mp3" },
+        { "text": "telur", "roman": "telur", "meaning": "egg", "emoji": "🥚", "audio": "audio/ms/words/ms-t-12.mp3" }
+      ]
+    },
+    {
+      "id": "ms-u",
+      "char": "u",
+      "name": "yu",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/ms/letters/ms-u.mp3",
+      "memoryTrick": "Like 'oo' in 'boot' — a pure, rounded high back vowel. Don't glide into a 'w' sound; keep it steady like in 'flute'.",
+      "words": [
+        { "text": "ular", "roman": "ular", "meaning": "snake", "emoji": "🐍", "audio": "audio/ms/words/ms-u-01.mp3" },
+        { "text": "ubat", "roman": "ubat", "meaning": "medicine", "emoji": "💊", "audio": "audio/ms/words/ms-u-02.mp3" },
+        { "text": "udang", "roman": "udang", "meaning": "prawn", "emoji": "🦐", "audio": "audio/ms/words/ms-u-03.mp3" },
+        { "text": "udara", "roman": "udara", "meaning": "air, atmosphere", "emoji": "🌬️", "audio": "audio/ms/words/ms-u-04.mp3" },
+        { "text": "ubi", "roman": "ubi", "meaning": "tuber, yam", "emoji": "🥔", "audio": "audio/ms/words/ms-u-05.mp3" },
+        { "text": "ukur", "roman": "ukur", "meaning": "to measure", "emoji": "📐", "audio": "audio/ms/words/ms-u-06.mp3" },
+        { "text": "unta", "roman": "unta", "meaning": "camel", "emoji": "🐪", "audio": "audio/ms/words/ms-u-07.mp3" },
+        { "text": "ulat", "roman": "ulat", "meaning": "caterpillar, worm", "emoji": "🐛", "audio": "audio/ms/words/ms-u-08.mp3" }
+      ]
+    },
+    {
+      "id": "ms-v",
+      "char": "v",
+      "name": "vi",
+      "romanization": "v",
+      "ipa": "/v/",
+      "letterAudio": "audio/ms/letters/ms-v.mp3",
+      "memoryTrick": "Appears only in loanwords. Like 'v' in 'van' — but many Malay speakers pronounce it the same as 'f' or even 'p'. Mostly for borrowed words.",
+      "words": [
+        { "text": "van", "roman": "van", "meaning": "van", "emoji": "🚐", "audio": "audio/ms/words/ms-v-01.mp3" },
+        { "text": "visa", "roman": "visa", "meaning": "visa", "emoji": "🛂", "audio": "audio/ms/words/ms-v-02.mp3" },
+        { "text": "video", "roman": "video", "meaning": "video", "emoji": "📹", "audio": "audio/ms/words/ms-v-03.mp3" },
+        { "text": "vokal", "roman": "vokal", "meaning": "vocal, vowel", "emoji": "🗣️", "audio": "audio/ms/words/ms-v-04.mp3" }
+      ]
+    },
+    {
+      "id": "ms-w",
+      "char": "w",
+      "name": "dabel yu",
+      "romanization": "w",
+      "ipa": "/w/",
+      "letterAudio": "audio/ms/letters/ms-w.mp3",
+      "memoryTrick": "Like 'w' in 'water' — round your lips tightly then release. It's a semi-vowel glide, not a full consonant.",
+      "words": [
+        { "text": "warna", "roman": "warna", "meaning": "colour", "emoji": "🎨", "audio": "audio/ms/words/ms-w-01.mp3" },
+        { "text": "wang", "roman": "wang", "meaning": "money", "emoji": "💰", "audio": "audio/ms/words/ms-w-02.mp3" },
+        { "text": "waktu", "roman": "waktu", "meaning": "time", "emoji": "⏰", "audio": "audio/ms/words/ms-w-03.mp3" },
+        { "text": "wajah", "roman": "wajah", "meaning": "face", "emoji": "😊", "audio": "audio/ms/words/ms-w-04.mp3" },
+        { "text": "wangi", "roman": "wangi", "meaning": "fragrant", "emoji": "🌸", "audio": "audio/ms/words/ms-w-05.mp3" },
+        { "text": "wau", "roman": "wau", "meaning": "kite", "emoji": "🪁", "audio": "audio/ms/words/ms-w-06.mp3" },
+        { "text": "warung", "roman": "warung", "meaning": "food stall", "emoji": "🍜", "audio": "audio/ms/words/ms-w-07.mp3" }
+      ]
+    },
+    {
+      "id": "ms-x",
+      "char": "x",
+      "name": "eks",
+      "romanization": "x",
+      "ipa": "/ks/",
+      "letterAudio": "audio/ms/letters/ms-x.mp3",
+      "memoryTrick": "Extremely rare in native Malay. Pronounced 'ks' like the end of 'books'. Only a handful of borrowed words use it.",
+      "words": [
+        { "text": "x-ray", "roman": "x-ray", "meaning": "x-ray", "emoji": "🩻", "audio": "audio/ms/words/ms-x-01.mp3" }
+      ]
+    },
+    {
+      "id": "ms-y",
+      "char": "y",
+      "name": "wai",
+      "romanization": "y",
+      "ipa": "/j/",
+      "letterAudio": "audio/ms/letters/ms-y.mp3",
+      "memoryTrick": "Like 'y' in 'yes' — a palatal glide, the same sound as at the start of 'yellow'. Don't confuse it with 'i'.",
+      "words": [
+        { "text": "yang", "roman": "yang", "meaning": "which, that", "emoji": "👉", "audio": "audio/ms/words/ms-y-01.mp3" },
+        { "text": "yogurt", "roman": "yogurt", "meaning": "yogurt", "emoji": "🍦", "audio": "audio/ms/words/ms-y-02.mp3" },
+        { "text": "yakin", "roman": "yakin", "meaning": "confident, sure", "emoji": "💪", "audio": "audio/ms/words/ms-y-03.mp3" },
+        { "text": "yatim", "roman": "yatim", "meaning": "orphan", "emoji": "🧒", "audio": "audio/ms/words/ms-y-04.mp3" }
+      ]
+    },
+    {
+      "id": "ms-z",
+      "char": "z",
+      "name": "zed",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/ms/letters/ms-z.mp3",
+      "memoryTrick": "Like 'z' in 'zebra' — a voiced 's'. Keep it buzzing through your teeth. Mainly appears in loanwords from Arabic and English.",
+      "words": [
+        { "text": "zamrud", "roman": "zamrud", "meaning": "emerald", "emoji": "💚", "audio": "audio/ms/words/ms-z-01.mp3" },
+        { "text": "zirafah", "roman": "zirafah", "meaning": "giraffe", "emoji": "🦒", "audio": "audio/ms/words/ms-z-02.mp3" },
+        { "text": "zakat", "roman": "zakat", "meaning": "alms, charity", "emoji": "🤲", "audio": "audio/ms/words/ms-z-03.mp3" },
+        { "text": "zoo", "roman": "zoo", "meaning": "zoo", "emoji": "🦁", "audio": "audio/ms/words/ms-z-04.mp3" },
+        { "text": "zip", "roman": "zip", "meaning": "zipper", "emoji": "🤐", "audio": "audio/ms/words/ms-z-05.mp3" }
+      ]
+    },
+    {
+      "id": "ms-ng",
+      "char": "ng",
+      "name": "eng",
+      "romanization": "ng",
+      "ipa": "/ŋ/",
+      "letterAudio": "audio/ms/letters/ms-ng.mp3",
+      "memoryTrick": "Like the 'ng' in 'sing' — but in Malay it can start a word! Try saying 'sing-a' and then drop the 'si': that's the Malay initial 'ng'. Your tongue should touch the soft palate at the back.",
+      "words": [
+        { "text": "nganga", "roman": "nganga", "meaning": "to gape, open-mouthed", "emoji": "😮", "audio": "audio/ms/words/ms-ng-01.mp3" },
+        { "text": "ngeri", "roman": "ngeri", "meaning": "horror, dread", "emoji": "😱", "audio": "audio/ms/words/ms-ng-02.mp3" },
+        { "text": "ngilu", "roman": "ngilu", "meaning": "aching, sore", "emoji": "🦷", "audio": "audio/ms/words/ms-ng-03.mp3" },
+        { "text": "ngarai", "roman": "ngarai", "meaning": "canyon, ravine", "emoji": "🏜️", "audio": "audio/ms/words/ms-ng-04.mp3" },
+        { "text": "ngiau", "roman": "ngiau", "meaning": "meow (cat sound)", "emoji": "🐱", "audio": "audio/ms/words/ms-ng-05.mp3" },
+        { "text": "ngiang", "roman": "ngiang", "meaning": "buzzing, ringing", "emoji": "🦟", "audio": "audio/ms/words/ms-ng-06.mp3" }
+      ]
+    },
+    {
+      "id": "ms-ny",
+      "char": "ny",
+      "name": "enye",
+      "romanization": "ny",
+      "ipa": "/ɲ/",
+      "letterAudio": "audio/ms/letters/ms-ny.mp3",
+      "memoryTrick": "Like the 'ni' in 'onion' or Spanish 'ñ' — press the middle of your tongue against the roof of your mouth. The 'ny' in 'canyon' is a close match.",
+      "words": [
+        { "text": "nyanyi", "roman": "nyanyi", "meaning": "to sing", "emoji": "🎤", "audio": "audio/ms/words/ms-ny-01.mp3" },
+        { "text": "nyamuk", "roman": "nyamuk", "meaning": "mosquito", "emoji": "🦟", "audio": "audio/ms/words/ms-ny-02.mp3" },
+        { "text": "nyala", "roman": "nyala", "meaning": "flame, blaze", "emoji": "🔥", "audio": "audio/ms/words/ms-ny-03.mp3" },
+        { "text": "nyawa", "roman": "nyawa", "meaning": "life, soul", "emoji": "🫀", "audio": "audio/ms/words/ms-ny-04.mp3" },
+        { "text": "nyata", "roman": "nyata", "meaning": "real, evident", "emoji": "✅", "audio": "audio/ms/words/ms-ny-05.mp3" },
+        { "text": "nyiru", "roman": "nyiru", "meaning": "winnowing tray", "emoji": "🧺", "audio": "audio/ms/words/ms-ny-06.mp3" },
+        { "text": "nyonya", "roman": "nyonya", "meaning": "madam, Mrs.", "emoji": "👩", "audio": "audio/ms/words/ms-ny-07.mp3" },
+        { "text": "nyaman", "roman": "nyaman", "meaning": "comfortable, pleasant", "emoji": "😌", "audio": "audio/ms/words/ms-ny-08.mp3" }
+      ]
+    },
+    {
+      "id": "ms-sy",
+      "char": "sy",
+      "name": "esye",
+      "romanization": "sy",
+      "ipa": "/ʃ/",
+      "letterAudio": "audio/ms/letters/ms-sy.mp3",
+      "memoryTrick": "Like 'sh' in 'ship' or 'shoe' — the sound you make to hush someone. Mostly in words of Arabic origin.",
+      "words": [
+        { "text": "syarat", "roman": "syarat", "meaning": "condition, requirement", "emoji": "📋", "audio": "audio/ms/words/ms-sy-01.mp3" },
+        { "text": "syurga", "roman": "syurga", "meaning": "heaven, paradise", "emoji": "🌈", "audio": "audio/ms/words/ms-sy-02.mp3" },
+        { "text": "syukur", "roman": "syukur", "meaning": "gratitude, thanks", "emoji": "🙏", "audio": "audio/ms/words/ms-sy-03.mp3" },
+        { "text": "syair", "roman": "syair", "meaning": "poem, verse", "emoji": "📜", "audio": "audio/ms/words/ms-sy-04.mp3" },
+        { "text": "syarikat", "roman": "syarikat", "meaning": "company", "emoji": "🏢", "audio": "audio/ms/words/ms-sy-05.mp3" },
+        { "text": "syiling", "roman": "syiling", "meaning": "coin", "emoji": "🪙", "audio": "audio/ms/words/ms-sy-06.mp3" },
+        { "text": "syah", "roman": "syah", "meaning": "king (chess), shah", "emoji": "♚", "audio": "audio/ms/words/ms-sy-07.mp3" }
+      ]
+    },
+    {
+      "id": "ms-kh",
+      "char": "kh",
+      "name": "kha",
+      "romanization": "kh",
+      "ipa": "/x/",
+      "letterAudio": "audio/ms/letters/ms-kh.mp3",
+      "memoryTrick": "Like 'ch' in Scottish 'loch' or German 'Bach' — a rough sound from the back of your throat. Not a 'k' sound; let air scrape through.",
+      "words": [
+        { "text": "khabar", "roman": "khabar", "meaning": "news", "emoji": "📰", "audio": "audio/ms/words/ms-kh-01.mp3" },
+        { "text": "khas", "roman": "khas", "meaning": "special", "emoji": "⭐", "audio": "audio/ms/words/ms-kh-02.mp3" },
+        { "text": "khatam", "roman": "khatam", "meaning": "completed, finished", "emoji": "🏁", "audio": "audio/ms/words/ms-kh-03.mp3" },
+        { "text": "khalayak", "roman": "khalayak", "meaning": "audience, public", "emoji": "👥", "audio": "audio/ms/words/ms-kh-04.mp3" },
+        { "text": "khamis", "roman": "khamis", "meaning": "Thursday", "emoji": "📅", "audio": "audio/ms/words/ms-kh-05.mp3" },
+        { "text": "khayal", "roman": "khayal", "meaning": "imagination, fantasy", "emoji": "💭", "audio": "audio/ms/words/ms-kh-06.mp3" },
+        { "text": "khusus", "roman": "khusus", "meaning": "specific, special", "emoji": "🎯", "audio": "audio/ms/words/ms-kh-07.mp3" },
+        { "text": "khat", "roman": "khat", "meaning": "calligraphy", "emoji": "🖋️", "audio": "audio/ms/words/ms-kh-08.mp3" }
       ]
     }
   ]

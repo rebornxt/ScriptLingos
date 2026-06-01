@@ -2,138 +2,627 @@
   "language": "Romanian",
   "code": "ro-RO",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
+      "id": "ro-a",
+      "char": "a",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/ro/letters/ro-a.mp3",
+      "memoryTrick": "Like the 'a' in English 'father' — open, clear, and held a bit longer. Romanian a never sounds like the 'a' in 'cat' or 'cake'.",
+      "words": [
+        {"text": "apă", "roman": "apă", "meaning": "water", "emoji": "💧", "audio": "audio/ro/words/ro-a-01.mp3"},
+        {"text": "ac", "roman": "ac", "meaning": "needle", "emoji": "🪡", "audio": "audio/ro/words/ro-a-02.mp3"},
+        {"text": "acasă", "roman": "acasă", "meaning": "at home", "emoji": "🏠", "audio": "audio/ro/words/ro-a-03.mp3"},
+        {"text": "aer", "roman": "aer", "meaning": "air", "emoji": "💨", "audio": "audio/ro/words/ro-a-04.mp3"},
+        {"text": "alb", "roman": "alb", "meaning": "white", "emoji": "⬜", "audio": "audio/ro/words/ro-a-05.mp3"},
+        {"text": "an", "roman": "an", "meaning": "year", "emoji": "📅", "audio": "audio/ro/words/ro-a-06.mp3"},
+        {"text": "animal", "roman": "animal", "meaning": "animal", "emoji": "🐾", "audio": "audio/ro/words/ro-a-07.mp3"},
+        {"text": "arc", "roman": "arc", "meaning": "bow", "emoji": "🏹", "audio": "audio/ro/words/ro-a-08.mp3"},
+        {"text": "argint", "roman": "argint", "meaning": "silver", "emoji": "🥈", "audio": "audio/ro/words/ro-a-09.mp3"},
+        {"text": "aur", "roman": "aur", "meaning": "gold", "emoji": "🥇", "audio": "audio/ro/words/ro-a-10.mp3"},
+        {"text": "avion", "roman": "avion", "meaning": "airplane", "emoji": "✈️", "audio": "audio/ro/words/ro-a-11.mp3"},
+        {"text": "arbore", "roman": "arbore", "meaning": "tree", "emoji": "🌳", "audio": "audio/ro/words/ro-a-12.mp3"},
+        {"text": "albastru", "roman": "albastru", "meaning": "blue", "emoji": "🔵", "audio": "audio/ro/words/ro-a-13.mp3"}
+      ]
+    },
+    {
       "id": "ro-a-breve",
-      "char": "Ă ă",
-      "name": "ă",
+      "char": "ă",
+      "name": "a-breve",
       "romanization": "ă",
       "ipa": "/ə/",
-      "memoryTrick": "An 'a' with a breve — a neutral 'uh' (schwa).",
+      "letterAudio": "audio/ro/letters/ro-a-breve.mp3",
+      "memoryTrick": "Like the 'a' in English 'about' or 'sofa' — the relaxed, unstressed schwa. Romanian uses this sound constantly; it's the vowel your mouth makes when you're not trying.",
       "words": [
-        {
-          "text": "măr",
-          "roman": "mar",
-          "meaning": "apple",
-          "emoji": "🍎"
-        },
-        {
-          "text": "casă",
-          "roman": "casuh",
-          "meaning": "house",
-          "emoji": "🏠"
-        }
+        {"text": "măr", "roman": "măr", "meaning": "apple", "emoji": "🍎", "audio": "audio/ro/words/ro-a-breve-01.mp3"},
+        {"text": "păr", "roman": "păr", "meaning": "hair", "emoji": "💇", "audio": "audio/ro/words/ro-a-breve-02.mp3"},
+        {"text": "bărbat", "roman": "bărbat", "meaning": "man", "emoji": "👨", "audio": "audio/ro/words/ro-a-breve-03.mp3"},
+        {"text": "văr", "roman": "văr", "meaning": "cousin", "emoji": "👫", "audio": "audio/ro/words/ro-a-breve-04.mp3"},
+        {"text": "săpun", "roman": "săpun", "meaning": "soap", "emoji": "🧼", "audio": "audio/ro/words/ro-a-breve-05.mp3"},
+        {"text": "făină", "roman": "făină", "meaning": "flour", "emoji": "🌾", "audio": "audio/ro/words/ro-a-breve-06.mp3"},
+        {"text": "pădure", "roman": "pădure", "meaning": "forest", "emoji": "🌲", "audio": "audio/ro/words/ro-a-breve-07.mp3"},
+        {"text": "lămâie", "roman": "lămâie", "meaning": "lemon", "emoji": "🍋", "audio": "audio/ro/words/ro-a-breve-08.mp3"},
+        {"text": "stăpân", "roman": "stăpân", "meaning": "master", "emoji": "👑", "audio": "audio/ro/words/ro-a-breve-09.mp3"},
+        {"text": "băiat", "roman": "băiat", "meaning": "boy", "emoji": "👦", "audio": "audio/ro/words/ro-a-breve-10.mp3"},
+        {"text": "bătrân", "roman": "bătrân", "meaning": "old person", "emoji": "👴", "audio": "audio/ro/words/ro-a-breve-11.mp3"},
+        {"text": "păcat", "roman": "păcat", "meaning": "sin", "emoji": "😔", "audio": "audio/ro/words/ro-a-breve-12.mp3"}
       ]
     },
     {
-      "id": "ro-a-circ",
-      "char": "Â â",
-      "name": "â",
+      "id": "ro-a-circumflex",
+      "char": "â",
+      "name": "a-circumflex",
       "romanization": "â",
       "ipa": "/ɨ/",
-      "memoryTrick": "An 'a' with a circumflex — a deep central vowel.",
+      "letterAudio": "audio/ro/letters/ro-a-circumflex.mp3",
+      "memoryTrick": "A close central vowel like Russian 'ы' or Turkish 'ı'. Try saying 'oo' as in 'boot' but with your lips spread into a slight smile — that's the â/î sound.",
       "words": [
-        {
-          "text": "român",
-          "roman": "romeen",
-          "meaning": "Romanian",
-          "emoji": "🇷🇴"
-        },
-        {
-          "text": "mâine",
-          "roman": "mwine",
-          "meaning": "tomorrow",
-          "emoji": "📅"
-        }
+        {"text": "câine", "roman": "câine", "meaning": "dog", "emoji": "🐕", "audio": "audio/ro/words/ro-a-circumflex-01.mp3"},
+        {"text": "mâine", "roman": "mâine", "meaning": "tomorrow", "emoji": "📆", "audio": "audio/ro/words/ro-a-circumflex-02.mp3"},
+        {"text": "pâine", "roman": "pâine", "meaning": "bread", "emoji": "🍞", "audio": "audio/ro/words/ro-a-circumflex-03.mp3"},
+        {"text": "râu", "roman": "râu", "meaning": "river", "emoji": "🏞️", "audio": "audio/ro/words/ro-a-circumflex-04.mp3"},
+        {"text": "grâu", "roman": "grâu", "meaning": "wheat", "emoji": "🌾", "audio": "audio/ro/words/ro-a-circumflex-05.mp3"},
+        {"text": "fântână", "roman": "fântână", "meaning": "well", "emoji": "⛲", "audio": "audio/ro/words/ro-a-circumflex-06.mp3"},
+        {"text": "lână", "roman": "lână", "meaning": "wool", "emoji": "🧶", "audio": "audio/ro/words/ro-a-circumflex-07.mp3"},
+        {"text": "cânta", "roman": "cânta", "meaning": "to sing", "emoji": "🎵", "audio": "audio/ro/words/ro-a-circumflex-08.mp3"},
+        {"text": "câmp", "roman": "câmp", "meaning": "field", "emoji": "🏞️", "audio": "audio/ro/words/ro-a-circumflex-09.mp3"},
+        {"text": "tânăr", "roman": "tânăr", "meaning": "young", "emoji": "🧑", "audio": "audio/ro/words/ro-a-circumflex-10.mp3"},
+        {"text": "stâncă", "roman": "stâncă", "meaning": "rock", "emoji": "🪨", "audio": "audio/ro/words/ro-a-circumflex-11.mp3"},
+        {"text": "cântec", "roman": "cântec", "meaning": "song", "emoji": "🎶", "audio": "audio/ro/words/ro-a-circumflex-12.mp3"}
       ]
     },
     {
-      "id": "ro-i-circ",
-      "char": "Î î",
-      "name": "î",
-      "romanization": "î",
-      "ipa": "/ɨ/",
-      "memoryTrick": "Same sound as â, but used at the edges of a word.",
+      "id": "ro-b",
+      "char": "b",
+      "name": "be",
+      "romanization": "b",
+      "ipa": "/b/",
+      "letterAudio": "audio/ro/letters/ro-b.mp3",
+      "memoryTrick": "Exactly like English 'b' as in 'book'. Firm and voiced — your vocal cords vibrate. Same b you already know.",
       "words": [
-        {
-          "text": "în",
-          "roman": "ăn",
-          "meaning": "in",
-          "emoji": "➡️"
-        },
-        {
-          "text": "înger",
-          "roman": "ănjer",
-          "meaning": "angel",
-          "emoji": "😇"
-        }
-      ]
-    },
-    {
-      "id": "ro-s-comma",
-      "char": "Ș ș",
-      "name": "șe",
-      "romanization": "ș",
-      "ipa": "/ʃ/",
-      "memoryTrick": "An 's' with a comma = 'sh'.",
-      "words": [
-        {
-          "text": "și",
-          "roman": "shi",
-          "meaning": "and",
-          "emoji": "➕"
-        },
-        {
-          "text": "ușă",
-          "roman": "ushuh",
-          "meaning": "door",
-          "emoji": "🚪"
-        }
-      ]
-    },
-    {
-      "id": "ro-t-comma",
-      "char": "Ț ț",
-      "name": "țe",
-      "romanization": "ț",
-      "ipa": "/ts/",
-      "memoryTrick": "A 't' with a comma = 'ts' as in 'cats'.",
-      "words": [
-        {
-          "text": "țară",
-          "roman": "tsaruh",
-          "meaning": "country",
-          "emoji": "🏞️"
-        },
-        {
-          "text": "preț",
-          "roman": "prets",
-          "meaning": "price",
-          "emoji": "🏷️"
-        }
+        {"text": "bine", "roman": "bine", "meaning": "good", "emoji": "👍", "audio": "audio/ro/words/ro-b-01.mp3"},
+        {"text": "băiat", "roman": "băiat", "meaning": "boy", "emoji": "👦", "audio": "audio/ro/words/ro-b-02.mp3"},
+        {"text": "barcă", "roman": "barcă", "meaning": "boat", "emoji": "⛵", "audio": "audio/ro/words/ro-b-03.mp3"},
+        {"text": "bere", "roman": "bere", "meaning": "beer", "emoji": "🍺", "audio": "audio/ro/words/ro-b-04.mp3"},
+        {"text": "bilet", "roman": "bilet", "meaning": "ticket", "emoji": "🎫", "audio": "audio/ro/words/ro-b-05.mp3"},
+        {"text": "biserică", "roman": "biserică", "meaning": "church", "emoji": "⛪", "audio": "audio/ro/words/ro-b-06.mp3"},
+        {"text": "braț", "roman": "braț", "meaning": "arm", "emoji": "💪", "audio": "audio/ro/words/ro-b-07.mp3"},
+        {"text": "bun", "roman": "bun", "meaning": "good", "emoji": "✅", "audio": "audio/ro/words/ro-b-08.mp3"},
+        {"text": "buzunar", "roman": "buzunar", "meaning": "pocket", "emoji": "👖", "audio": "audio/ro/words/ro-b-09.mp3"},
+        {"text": "bucătărie", "roman": "bucătărie", "meaning": "kitchen", "emoji": "🍳", "audio": "audio/ro/words/ro-b-10.mp3"},
+        {"text": "bibliotecă", "roman": "bibliotecă", "meaning": "library", "emoji": "📚", "audio": "audio/ro/words/ro-b-11.mp3"},
+        {"text": "bomboană", "roman": "bomboană", "meaning": "candy", "emoji": "🍬", "audio": "audio/ro/words/ro-b-12.mp3"}
       ]
     },
     {
       "id": "ro-c",
-      "char": "C c",
+      "char": "c",
       "name": "ce",
       "romanization": "c",
-      "ipa": "/tʃ/",
-      "memoryTrick": "Before e or i, 'c' says 'ch'.",
+      "ipa": "/k/",
+      "letterAudio": "audio/ro/letters/ro-c.mp3",
+      "memoryTrick": "Like English 'k' before a, ă, â, o, u (cal, corn) but softens to 'ch' as in 'cheese' before e or i (ceai, cinci). The softening rule is the key to Romanian c.",
       "words": [
-        {
-          "text": "cer",
-          "roman": "cher",
-          "meaning": "sky",
-          "emoji": "☁️"
-        },
-        {
-          "text": "cireașă",
-          "roman": "chireashuh",
-          "meaning": "cherry",
-          "emoji": "🍒"
-        }
+        {"text": "cal", "roman": "cal", "meaning": "horse", "emoji": "🐴", "audio": "audio/ro/words/ro-c-01.mp3"},
+        {"text": "cameră", "roman": "cameră", "meaning": "room", "emoji": "🚪", "audio": "audio/ro/words/ro-c-02.mp3"},
+        {"text": "carte", "roman": "carte", "meaning": "book", "emoji": "📖", "audio": "audio/ro/words/ro-c-03.mp3"},
+        {"text": "casă", "roman": "casă", "meaning": "house", "emoji": "🏡", "audio": "audio/ro/words/ro-c-04.mp3"},
+        {"text": "ceai", "roman": "ceai", "meaning": "tea", "emoji": "🍵", "audio": "audio/ro/words/ro-c-05.mp3"},
+        {"text": "cer", "roman": "cer", "meaning": "sky", "emoji": "☁️", "audio": "audio/ro/words/ro-c-06.mp3"},
+        {"text": "cinci", "roman": "cinci", "meaning": "five", "emoji": "5️⃣", "audio": "audio/ro/words/ro-c-07.mp3"},
+        {"text": "cuvânt", "roman": "cuvânt", "meaning": "word", "emoji": "💬", "audio": "audio/ro/words/ro-c-08.mp3"},
+        {"text": "copac", "roman": "copac", "meaning": "tree", "emoji": "🌳", "audio": "audio/ro/words/ro-c-09.mp3"},
+        {"text": "corp", "roman": "corp", "meaning": "body", "emoji": "🧍", "audio": "audio/ro/words/ro-c-10.mp3"},
+        {"text": "cap", "roman": "cap", "meaning": "head", "emoji": "🗣️", "audio": "audio/ro/words/ro-c-11.mp3"},
+        {"text": "copil", "roman": "copil", "meaning": "child", "emoji": "👶", "audio": "audio/ro/words/ro-c-12.mp3"},
+        {"text": "culoare", "roman": "culoare", "meaning": "color", "emoji": "🎨", "audio": "audio/ro/words/ro-c-13.mp3"},
+        {"text": "cană", "roman": "cană", "meaning": "mug", "emoji": "☕", "audio": "audio/ro/words/ro-c-14.mp3"}
+      ]
+    },
+    {
+      "id": "ro-d",
+      "char": "d",
+      "name": "de",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/ro/letters/ro-d.mp3",
+      "memoryTrick": "Same as English 'd' in 'dog'. Voiced and firm. Unlike some Romance languages, Romanian d never softens to 'th' — it stays a solid d.",
+      "words": [
+        {"text": "da", "roman": "da", "meaning": "yes", "emoji": "✅", "audio": "audio/ro/words/ro-d-01.mp3"},
+        {"text": "dar", "roman": "dar", "meaning": "gift", "emoji": "🎁", "audio": "audio/ro/words/ro-d-02.mp3"},
+        {"text": "deget", "roman": "deget", "meaning": "finger", "emoji": "👆", "audio": "audio/ro/words/ro-d-03.mp3"},
+        {"text": "dimineață", "roman": "dimineață", "meaning": "morning", "emoji": "🌅", "audio": "audio/ro/words/ro-d-04.mp3"},
+        {"text": "doar", "roman": "doar", "meaning": "only", "emoji": "☝️", "audio": "audio/ro/words/ro-d-05.mp3"},
+        {"text": "doi", "roman": "doi", "meaning": "two", "emoji": "2️⃣", "audio": "audio/ro/words/ro-d-06.mp3"},
+        {"text": "dulce", "roman": "dulce", "meaning": "sweet", "emoji": "🍯", "audio": "audio/ro/words/ro-d-07.mp3"},
+        {"text": "după", "roman": "după", "meaning": "after", "emoji": "⏩", "audio": "audio/ro/words/ro-d-08.mp3"},
+        {"text": "dinte", "roman": "dinte", "meaning": "tooth", "emoji": "🦷", "audio": "audio/ro/words/ro-d-09.mp3"},
+        {"text": "drum", "roman": "drum", "meaning": "road", "emoji": "🛣️", "audio": "audio/ro/words/ro-d-10.mp3"},
+        {"text": "drept", "roman": "drept", "meaning": "right", "emoji": "➡️", "audio": "audio/ro/words/ro-d-11.mp3"}
+      ]
+    },
+    {
+      "id": "ro-e",
+      "char": "e",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/e/",
+      "letterAudio": "audio/ro/letters/ro-e.mp3",
+      "memoryTrick": "Like 'e' in English 'bet' — a clean mid-front vowel. At the start of some words (eu, este) it can sound like 'ye', similar to the 'ye' in 'yes'.",
+      "words": [
+        {"text": "el", "roman": "el", "meaning": "he", "emoji": "👨", "audio": "audio/ro/words/ro-e-01.mp3"},
+        {"text": "ea", "roman": "ea", "meaning": "she", "emoji": "👩", "audio": "audio/ro/words/ro-e-02.mp3"},
+        {"text": "elefant", "roman": "elefant", "meaning": "elephant", "emoji": "🐘", "audio": "audio/ro/words/ro-e-03.mp3"},
+        {"text": "elev", "roman": "elev", "meaning": "student", "emoji": "🎒", "audio": "audio/ro/words/ro-e-04.mp3"},
+        {"text": "este", "roman": "este", "meaning": "is", "emoji": "▶️", "audio": "audio/ro/words/ro-e-05.mp3"},
+        {"text": "eu", "roman": "eu", "meaning": "I", "emoji": "🧍", "audio": "audio/ro/words/ro-e-06.mp3"},
+        {"text": "etaj", "roman": "etaj", "meaning": "floor", "emoji": "🏢", "audio": "audio/ro/words/ro-e-07.mp3"},
+        {"text": "ecran", "roman": "ecran", "meaning": "screen", "emoji": "🖥️", "audio": "audio/ro/words/ro-e-08.mp3"},
+        {"text": "echipă", "roman": "echipă", "meaning": "team", "emoji": "👥", "audio": "audio/ro/words/ro-e-09.mp3"}
+      ]
+    },
+    {
+      "id": "ro-f",
+      "char": "f",
+      "name": "ef",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/ro/letters/ro-f.mp3",
+      "memoryTrick": "Same as English 'f' in 'flower'. A voiceless breathy sound, lips to teeth. No surprises — Romanian f is exactly what you expect.",
+      "words": [
+        {"text": "față", "roman": "față", "meaning": "face", "emoji": "😊", "audio": "audio/ro/words/ro-f-01.mp3"},
+        {"text": "fată", "roman": "fată", "meaning": "girl", "emoji": "👧", "audio": "audio/ro/words/ro-f-02.mp3"},
+        {"text": "fereastră", "roman": "fereastră", "meaning": "window", "emoji": "🪟", "audio": "audio/ro/words/ro-f-03.mp3"},
+        {"text": "film", "roman": "film", "meaning": "movie", "emoji": "🎬", "audio": "audio/ro/words/ro-f-04.mp3"},
+        {"text": "floare", "roman": "floare", "meaning": "flower", "emoji": "🌸", "audio": "audio/ro/words/ro-f-05.mp3"},
+        {"text": "foc", "roman": "foc", "meaning": "fire", "emoji": "🔥", "audio": "audio/ro/words/ro-f-06.mp3"},
+        {"text": "frate", "roman": "frate", "meaning": "brother", "emoji": "👦", "audio": "audio/ro/words/ro-f-07.mp3"},
+        {"text": "frig", "roman": "frig", "meaning": "cold", "emoji": "🥶", "audio": "audio/ro/words/ro-f-08.mp3"},
+        {"text": "fruct", "roman": "fruct", "meaning": "fruit", "emoji": "🍎", "audio": "audio/ro/words/ro-f-09.mp3"},
+        {"text": "fum", "roman": "fum", "meaning": "smoke", "emoji": "💨", "audio": "audio/ro/words/ro-f-10.mp3"},
+        {"text": "fier", "roman": "fier", "meaning": "iron", "emoji": "🔩", "audio": "audio/ro/words/ro-f-11.mp3"}
+      ]
+    },
+    {
+      "id": "ro-g",
+      "char": "g",
+      "name": "ge",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "letterAudio": "audio/ro/letters/ro-g.mp3",
+      "memoryTrick": "Hard g as in 'go' before a, ă, â, o, u (gară, gură), but softens to 'j' as in 'gentle' before e or i (geam, ginere). Same pattern as Italian g.",
+      "words": [
+        {"text": "gară", "roman": "gară", "meaning": "station", "emoji": "🚉", "audio": "audio/ro/words/ro-g-01.mp3"},
+        {"text": "geam", "roman": "geam", "meaning": "window", "emoji": "🪟", "audio": "audio/ro/words/ro-g-02.mp3"},
+        {"text": "genunchi", "roman": "genunchi", "meaning": "knee", "emoji": "🦵", "audio": "audio/ro/words/ro-g-03.mp3"},
+        {"text": "gheață", "roman": "gheață", "meaning": "ice", "emoji": "🧊", "audio": "audio/ro/words/ro-g-04.mp3"},
+        {"text": "gură", "roman": "gură", "meaning": "mouth", "emoji": "👄", "audio": "audio/ro/words/ro-g-05.mp3"},
+        {"text": "gust", "roman": "gust", "meaning": "taste", "emoji": "👅", "audio": "audio/ro/words/ro-g-06.mp3"},
+        {"text": "grădină", "roman": "grădină", "meaning": "garden", "emoji": "🌻", "audio": "audio/ro/words/ro-g-07.mp3"},
+        {"text": "găină", "roman": "găină", "meaning": "hen", "emoji": "🐔", "audio": "audio/ro/words/ro-g-08.mp3"},
+        {"text": "galben", "roman": "galben", "meaning": "yellow", "emoji": "🟡", "audio": "audio/ro/words/ro-g-09.mp3"},
+        {"text": "gând", "roman": "gând", "meaning": "thought", "emoji": "💭", "audio": "audio/ro/words/ro-g-10.mp3"},
+        {"text": "ghem", "roman": "ghem", "meaning": "ball of yarn", "emoji": "🧶", "audio": "audio/ro/words/ro-g-11.mp3"}
+      ]
+    },
+    {
+      "id": "ro-h",
+      "char": "h",
+      "name": "haș",
+      "romanization": "h",
+      "ipa": "/h/",
+      "letterAudio": "audio/ro/letters/ro-h.mp3",
+      "memoryTrick": "Like English 'h' in 'hat' — a soft breath. Romanian h is always pronounced, never silent as in some Romance languages (like Spanish).",
+      "words": [
+        {"text": "haină", "roman": "haină", "meaning": "coat", "emoji": "🧥", "audio": "audio/ro/words/ro-h-01.mp3"},
+        {"text": "hârtie", "roman": "hârtie", "meaning": "paper", "emoji": "📄", "audio": "audio/ro/words/ro-h-02.mp3"},
+        {"text": "hotel", "roman": "hotel", "meaning": "hotel", "emoji": "🏨", "audio": "audio/ro/words/ro-h-03.mp3"},
+        {"text": "hartă", "roman": "hartă", "meaning": "map", "emoji": "🗺️", "audio": "audio/ro/words/ro-h-04.mp3"},
+        {"text": "horn", "roman": "horn", "meaning": "chimney", "emoji": "🏭", "audio": "audio/ro/words/ro-h-05.mp3"},
+        {"text": "hrană", "roman": "hrană", "meaning": "food", "emoji": "🍲", "audio": "audio/ro/words/ro-h-06.mp3"}
+      ]
+    },
+    {
+      "id": "ro-i",
+      "char": "i",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/ro/letters/ro-i.mp3",
+      "memoryTrick": "Like 'ee' in English 'see' or 'i' in 'machine'. At the end of words it can be barely whispered — try saying 'lup' and adding the faintest 'ee' whisper.",
+      "words": [
+        {"text": "inel", "roman": "inel", "meaning": "ring", "emoji": "💍", "audio": "audio/ro/words/ro-i-01.mp3"},
+        {"text": "inimă", "roman": "inimă", "meaning": "heart", "emoji": "❤️", "audio": "audio/ro/words/ro-i-02.mp3"},
+        {"text": "iarbă", "roman": "iarbă", "meaning": "grass", "emoji": "🌿", "audio": "audio/ro/words/ro-i-03.mp3"},
+        {"text": "iepure", "roman": "iepure", "meaning": "rabbit", "emoji": "🐰", "audio": "audio/ro/words/ro-i-04.mp3"},
+        {"text": "iarnă", "roman": "iarnă", "meaning": "winter", "emoji": "❄️", "audio": "audio/ro/words/ro-i-05.mp3"},
+        {"text": "ieri", "roman": "ieri", "meaning": "yesterday", "emoji": "📅", "audio": "audio/ro/words/ro-i-06.mp3"},
+        {"text": "ieșire", "roman": "ieșire", "meaning": "exit", "emoji": "🚪", "audio": "audio/ro/words/ro-i-07.mp3"},
+        {"text": "insulă", "roman": "insulă", "meaning": "island", "emoji": "🏝️", "audio": "audio/ro/words/ro-i-08.mp3"},
+        {"text": "idee", "roman": "idee", "meaning": "idea", "emoji": "💡", "audio": "audio/ro/words/ro-i-09.mp3"},
+        {"text": "ieftin", "roman": "ieftin", "meaning": "cheap", "emoji": "💰", "audio": "audio/ro/words/ro-i-10.mp3"}
+      ]
+    },
+    {
+      "id": "ro-i-circumflex",
+      "char": "î",
+      "name": "i-circumflex",
+      "romanization": "î",
+      "ipa": "/ɨ/",
+      "letterAudio": "audio/ro/letters/ro-i-circumflex.mp3",
+      "memoryTrick": "The exact same sound as â — like Russian 'ы' or Turkish 'ı'. Î appears at the start or end of words (înot, coborî), while â appears in the middle. Same sound, different spelling rule.",
+      "words": [
+        {"text": "înger", "roman": "înger", "meaning": "angel", "emoji": "👼", "audio": "audio/ro/words/ro-i-circumflex-01.mp3"},
+        {"text": "înalt", "roman": "înalt", "meaning": "tall", "emoji": "🦒", "audio": "audio/ro/words/ro-i-circumflex-02.mp3"},
+        {"text": "înot", "roman": "înot", "meaning": "swimming", "emoji": "🏊", "audio": "audio/ro/words/ro-i-circumflex-03.mp3"},
+        {"text": "întâi", "roman": "întâi", "meaning": "first", "emoji": "1️⃣", "audio": "audio/ro/words/ro-i-circumflex-04.mp3"},
+        {"text": "începe", "roman": "începe", "meaning": "to start", "emoji": "▶️", "audio": "audio/ro/words/ro-i-circumflex-05.mp3"},
+        {"text": "încet", "roman": "încet", "meaning": "slow", "emoji": "🐢", "audio": "audio/ro/words/ro-i-circumflex-06.mp3"},
+        {"text": "întuneric", "roman": "întuneric", "meaning": "darkness", "emoji": "🌑", "audio": "audio/ro/words/ro-i-circumflex-07.mp3"},
+        {"text": "învăța", "roman": "învăța", "meaning": "to learn", "emoji": "📖", "audio": "audio/ro/words/ro-i-circumflex-08.mp3"},
+        {"text": "împreună", "roman": "împreună", "meaning": "together", "emoji": "🤝", "audio": "audio/ro/words/ro-i-circumflex-09.mp3"},
+        {"text": "întreba", "roman": "întreba", "meaning": "to ask", "emoji": "❓", "audio": "audio/ro/words/ro-i-circumflex-10.mp3"}
+      ]
+    },
+    {
+      "id": "ro-j",
+      "char": "j",
+      "name": "je",
+      "romanization": "j",
+      "ipa": "/ʒ/",
+      "letterAudio": "audio/ro/letters/ro-j.mp3",
+      "memoryTrick": "Like the 's' in English 'pleasure' or the French 'j' in 'je'. A voiced buzzing sound made with the tongue near the roof of your mouth — think of a softer, smoother version of 'zh'.",
+      "words": [
+        {"text": "joc", "roman": "joc", "meaning": "game", "emoji": "🎮", "audio": "audio/ro/words/ro-j-01.mp3"},
+        {"text": "jumătate", "roman": "jumătate", "meaning": "half", "emoji": "🪙", "audio": "audio/ro/words/ro-j-02.mp3"},
+        {"text": "jurnal", "roman": "jurnal", "meaning": "diary", "emoji": "📓", "audio": "audio/ro/words/ro-j-03.mp3"},
+        {"text": "județ", "roman": "județ", "meaning": "county", "emoji": "🏛️", "audio": "audio/ro/words/ro-j-04.mp3"},
+        {"text": "joi", "roman": "joi", "meaning": "Thursday", "emoji": "📅", "audio": "audio/ro/words/ro-j-05.mp3"},
+        {"text": "jos", "roman": "jos", "meaning": "down", "emoji": "⬇️", "audio": "audio/ro/words/ro-j-06.mp3"},
+        {"text": "jucărie", "roman": "jucărie", "meaning": "toy", "emoji": "🧸", "audio": "audio/ro/words/ro-j-07.mp3"},
+        {"text": "jertfă", "roman": "jertfă", "meaning": "sacrifice", "emoji": "🙏", "audio": "audio/ro/words/ro-j-08.mp3"}
+      ]
+    },
+    {
+      "id": "ro-k",
+      "char": "k",
+      "name": "ca",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/ro/letters/ro-k.mp3",
+      "memoryTrick": "Like English 'k' in 'kilo'. K appears only in loanwords in Romanian (mostly from Greek, Turkish, or international terms). Same hard k sound you already know.",
+      "words": [
+        {"text": "kilogram", "roman": "kilogram", "meaning": "kilogram", "emoji": "⚖️", "audio": "audio/ro/words/ro-k-01.mp3"},
+        {"text": "kilometru", "roman": "kilometru", "meaning": "kilometer", "emoji": "📏", "audio": "audio/ro/words/ro-k-02.mp3"},
+        {"text": "ketchup", "roman": "ketchup", "meaning": "ketchup", "audio": "audio/ro/words/ro-k-03.mp3"}
+      ]
+    },
+    {
+      "id": "ro-l",
+      "char": "l",
+      "name": "el",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/ro/letters/ro-l.mp3",
+      "memoryTrick": "Like English 'l' in 'light'. Romanian l is always a clear 'light l', never the dark 'velar l' you hear at the end of English 'ball'.",
+      "words": [
+        {"text": "lapte", "roman": "lapte", "meaning": "milk", "emoji": "🥛", "audio": "audio/ro/words/ro-l-01.mp3"},
+        {"text": "lemn", "roman": "lemn", "meaning": "wood", "emoji": "🪵", "audio": "audio/ro/words/ro-l-02.mp3"},
+        {"text": "lingură", "roman": "lingură", "meaning": "spoon", "emoji": "🥄", "audio": "audio/ro/words/ro-l-03.mp3"},
+        {"text": "loc", "roman": "loc", "meaning": "place", "emoji": "📍", "audio": "audio/ro/words/ro-l-04.mp3"},
+        {"text": "lumină", "roman": "lumină", "meaning": "light", "emoji": "💡", "audio": "audio/ro/words/ro-l-05.mp3"},
+        {"text": "lună", "roman": "lună", "meaning": "moon", "emoji": "🌙", "audio": "audio/ro/words/ro-l-06.mp3"},
+        {"text": "lup", "roman": "lup", "meaning": "wolf", "emoji": "🐺", "audio": "audio/ro/words/ro-l-07.mp3"},
+        {"text": "lac", "roman": "lac", "meaning": "lake", "emoji": "🏞️", "audio": "audio/ro/words/ro-l-08.mp3"},
+        {"text": "lume", "roman": "lume", "meaning": "world", "emoji": "🌍", "audio": "audio/ro/words/ro-l-09.mp3"},
+        {"text": "lung", "roman": "lung", "meaning": "long", "emoji": "📏", "audio": "audio/ro/words/ro-l-10.mp3"}
+      ]
+    },
+    {
+      "id": "ro-m",
+      "char": "m",
+      "name": "em",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/ro/letters/ro-m.mp3",
+      "memoryTrick": "Same as English 'm' in 'mother'. Lips together, voice on. One of the easiest Romanian letters — perfectly familiar.",
+      "words": [
+        {"text": "mână", "roman": "mână", "meaning": "hand", "emoji": "✋", "audio": "audio/ro/words/ro-m-01.mp3"},
+        {"text": "mare", "roman": "mare", "meaning": "sea", "emoji": "🌊", "audio": "audio/ro/words/ro-m-02.mp3"},
+        {"text": "masă", "roman": "masă", "meaning": "table", "emoji": "🪑", "audio": "audio/ro/words/ro-m-03.mp3"},
+        {"text": "măr", "roman": "măr", "meaning": "apple", "emoji": "🍎", "audio": "audio/ro/words/ro-m-04.mp3"},
+        {"text": "mic", "roman": "mic", "meaning": "small", "emoji": "🔹", "audio": "audio/ro/words/ro-m-05.mp3"},
+        {"text": "munte", "roman": "munte", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/ro/words/ro-m-06.mp3"},
+        {"text": "mult", "roman": "mult", "meaning": "much", "emoji": "📊", "audio": "audio/ro/words/ro-m-07.mp3"},
+        {"text": "mamă", "roman": "mamă", "meaning": "mother", "emoji": "👩", "audio": "audio/ro/words/ro-m-08.mp3"},
+        {"text": "mâncare", "roman": "mâncare", "meaning": "food", "emoji": "🍲", "audio": "audio/ro/words/ro-m-09.mp3"},
+        {"text": "minge", "roman": "minge", "meaning": "ball", "emoji": "⚽", "audio": "audio/ro/words/ro-m-10.mp3"},
+        {"text": "mere", "roman": "mere", "meaning": "apples", "emoji": "🍎", "audio": "audio/ro/words/ro-m-11.mp3"},
+        {"text": "moarte", "roman": "moarte", "meaning": "death", "audio": "audio/ro/words/ro-m-12.mp3"}
+      ]
+    },
+    {
+      "id": "ro-n",
+      "char": "n",
+      "name": "en",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/ro/letters/ro-n.mp3",
+      "memoryTrick": "Same as English 'n' in 'nose'. Tongue to the roof of your mouth, voice on — straight from your English muscle memory.",
+      "words": [
+        {"text": "nas", "roman": "nas", "meaning": "nose", "emoji": "👃", "audio": "audio/ro/words/ro-n-01.mp3"},
+        {"text": "noapte", "roman": "noapte", "meaning": "night", "emoji": "🌙", "audio": "audio/ro/words/ro-n-02.mp3"},
+        {"text": "nor", "roman": "nor", "meaning": "cloud", "emoji": "☁️", "audio": "audio/ro/words/ro-n-03.mp3"},
+        {"text": "nou", "roman": "nou", "meaning": "new", "emoji": "🆕", "audio": "audio/ro/words/ro-n-04.mp3"},
+        {"text": "nume", "roman": "nume", "meaning": "name", "emoji": "📛", "audio": "audio/ro/words/ro-n-05.mp3"},
+        {"text": "nisip", "roman": "nisip", "meaning": "sand", "emoji": "🏖️", "audio": "audio/ro/words/ro-n-06.mp3"},
+        {"text": "nouă", "roman": "nouă", "meaning": "nine", "emoji": "9️⃣", "audio": "audio/ro/words/ro-n-07.mp3"},
+        {"text": "nimic", "roman": "nimic", "meaning": "nothing", "emoji": "🫥", "audio": "audio/ro/words/ro-n-08.mp3"},
+        {"text": "negru", "roman": "negru", "meaning": "black", "emoji": "⬛", "audio": "audio/ro/words/ro-n-09.mp3"},
+        {"text": "nea", "roman": "nea", "meaning": "snow", "emoji": "❄️", "audio": "audio/ro/words/ro-n-10.mp3"}
+      ]
+    },
+    {
+      "id": "ro-o",
+      "char": "o",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/o/",
+      "letterAudio": "audio/ro/letters/ro-o.mp3",
+      "memoryTrick": "Like 'o' in English 'or' but without the r-coloring — a pure mid-back rounded vowel. Think of the 'o' in Spanish 'hola' or Italian 'sole'.",
+      "words": [
+        {"text": "ochi", "roman": "ochi", "meaning": "eye", "emoji": "👁️", "audio": "audio/ro/words/ro-o-01.mp3"},
+        {"text": "opt", "roman": "opt", "meaning": "eight", "emoji": "8️⃣", "audio": "audio/ro/words/ro-o-02.mp3"},
+        {"text": "oră", "roman": "oră", "meaning": "hour", "emoji": "🕐", "audio": "audio/ro/words/ro-o-03.mp3"},
+        {"text": "ou", "roman": "ou", "meaning": "egg", "emoji": "🥚", "audio": "audio/ro/words/ro-o-04.mp3"},
+        {"text": "om", "roman": "om", "meaning": "human", "emoji": "🧍", "audio": "audio/ro/words/ro-o-05.mp3"},
+        {"text": "oraș", "roman": "oraș", "meaning": "city", "emoji": "🏙️", "audio": "audio/ro/words/ro-o-06.mp3"},
+        {"text": "oglindă", "roman": "oglindă", "meaning": "mirror", "emoji": "🪞", "audio": "audio/ro/words/ro-o-07.mp3"},
+        {"text": "oaie", "roman": "oaie", "meaning": "sheep", "emoji": "🐑", "audio": "audio/ro/words/ro-o-08.mp3"},
+        {"text": "os", "roman": "os", "meaning": "bone", "emoji": "🦴", "audio": "audio/ro/words/ro-o-09.mp3"},
+        {"text": "obraz", "roman": "obraz", "meaning": "cheek", "emoji": "😊", "audio": "audio/ro/words/ro-o-10.mp3"}
+      ]
+    },
+    {
+      "id": "ro-p",
+      "char": "p",
+      "name": "pe",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/ro/letters/ro-p.mp3",
+      "memoryTrick": "Like English 'p' in 'park'. A clean, unaspirated p — Romanian p has less of that puff of air than English p at the start of words, closer to Spanish or Italian p.",
+      "words": [
+        {"text": "pat", "roman": "pat", "meaning": "bed", "emoji": "🛏️", "audio": "audio/ro/words/ro-p-01.mp3"},
+        {"text": "pește", "roman": "pește", "meaning": "fish", "emoji": "🐟", "audio": "audio/ro/words/ro-p-02.mp3"},
+        {"text": "picior", "roman": "picior", "meaning": "leg", "emoji": "🦵", "audio": "audio/ro/words/ro-p-03.mp3"},
+        {"text": "pisică", "roman": "pisică", "meaning": "cat", "emoji": "🐱", "audio": "audio/ro/words/ro-p-04.mp3"},
+        {"text": "ploaie", "roman": "ploaie", "meaning": "rain", "emoji": "🌧️", "audio": "audio/ro/words/ro-p-05.mp3"},
+        {"text": "pom", "roman": "pom", "meaning": "fruit tree", "emoji": "🌳", "audio": "audio/ro/words/ro-p-06.mp3"},
+        {"text": "prieten", "roman": "prieten", "meaning": "friend", "emoji": "👫", "audio": "audio/ro/words/ro-p-07.mp3"},
+        {"text": "pui", "roman": "pui", "meaning": "chicken", "emoji": "🐤", "audio": "audio/ro/words/ro-p-08.mp3"},
+        {"text": "pieptene", "roman": "pieptene", "meaning": "comb", "emoji": "🪮", "audio": "audio/ro/words/ro-p-09.mp3"},
+        {"text": "patru", "roman": "patru", "meaning": "four", "emoji": "4️⃣", "audio": "audio/ro/words/ro-p-10.mp3"},
+        {"text": "pădure", "roman": "pădure", "meaning": "forest", "emoji": "🌲", "audio": "audio/ro/words/ro-p-11.mp3"},
+        {"text": "pâine", "roman": "pâine", "meaning": "bread", "emoji": "🍞", "audio": "audio/ro/words/ro-p-12.mp3"}
+      ]
+    },
+    {
+      "id": "ro-q",
+      "char": "q",
+      "name": "chiu",
+      "romanization": "q",
+      "ipa": "/k/",
+      "letterAudio": "audio/ro/letters/ro-q.mp3",
+      "memoryTrick": "Appears only in borrowed words, always followed by u. Pronounced like 'k' as in English 'quick'. Extremely rare in native Romanian.",
+      "words": [
+        {"text": "quebec", "roman": "quebec", "meaning": "Quebec", "audio": "audio/ro/words/ro-q-01.mp3"}
+      ]
+    },
+    {
+      "id": "ro-r",
+      "char": "r",
+      "name": "er",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/ro/letters/ro-r.mp3",
+      "memoryTrick": "A rolled or trilled r — like the Spanish 'rr' in 'perro' or Italian 'r' in 'rosso'. Tip of the tongue fluttering against the ridge behind your upper teeth.",
+      "words": [
+        {"text": "râu", "roman": "râu", "meaning": "river", "emoji": "🏞️", "audio": "audio/ro/words/ro-r-01.mp3"},
+        {"text": "roșu", "roman": "roșu", "meaning": "red", "emoji": "🔴", "audio": "audio/ro/words/ro-r-02.mp3"},
+        {"text": "repede", "roman": "repede", "meaning": "fast", "emoji": "🏃", "audio": "audio/ro/words/ro-r-03.mp3"},
+        {"text": "rece", "roman": "rece", "meaning": "cold", "emoji": "🧊", "audio": "audio/ro/words/ro-r-04.mp3"},
+        {"text": "român", "roman": "român", "meaning": "Romanian", "emoji": "🇷🇴", "audio": "audio/ro/words/ro-r-05.mp3"},
+        {"text": "roată", "roman": "roată", "meaning": "wheel", "emoji": "🛞", "audio": "audio/ro/words/ro-r-06.mp3"},
+        {"text": "râs", "roman": "râs", "meaning": "laughter", "emoji": "😂", "audio": "audio/ro/words/ro-r-07.mp3"},
+        {"text": "ramură", "roman": "ramură", "meaning": "branch", "emoji": "🌿", "audio": "audio/ro/words/ro-r-08.mp3"}
+      ]
+    },
+    {
+      "id": "ro-s",
+      "char": "s",
+      "name": "es",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/ro/letters/ro-s.mp3",
+      "memoryTrick": "Like English 's' in 'sun'. Always a clean hissing s, never voiced to z between vowels as in some languages. Romanian s stays s.",
+      "words": [
+        {"text": "sare", "roman": "sare", "meaning": "salt", "emoji": "🧂", "audio": "audio/ro/words/ro-s-01.mp3"},
+        {"text": "soare", "roman": "soare", "meaning": "sun", "emoji": "☀️", "audio": "audio/ro/words/ro-s-02.mp3"},
+        {"text": "scaun", "roman": "scaun", "meaning": "chair", "emoji": "🪑", "audio": "audio/ro/words/ro-s-03.mp3"},
+        {"text": "somn", "roman": "somn", "meaning": "sleep", "emoji": "😴", "audio": "audio/ro/words/ro-s-04.mp3"},
+        {"text": "soră", "roman": "soră", "meaning": "sister", "emoji": "👧", "audio": "audio/ro/words/ro-s-05.mp3"},
+        {"text": "sticlă", "roman": "sticlă", "meaning": "bottle", "emoji": "🍾", "audio": "audio/ro/words/ro-s-06.mp3"},
+        {"text": "stradă", "roman": "stradă", "meaning": "street", "emoji": "🛣️", "audio": "audio/ro/words/ro-s-07.mp3"},
+        {"text": "supă", "roman": "supă", "meaning": "soup", "emoji": "🍜", "audio": "audio/ro/words/ro-s-08.mp3"},
+        {"text": "săptămână", "roman": "săptămână", "meaning": "week", "emoji": "📅", "audio": "audio/ro/words/ro-s-09.mp3"},
+        {"text": "seară", "roman": "seară", "meaning": "evening", "emoji": "🌆", "audio": "audio/ro/words/ro-s-10.mp3"}
+      ]
+    },
+    {
+      "id": "ro-s-comma",
+      "char": "ș",
+      "name": "se-comma",
+      "romanization": "ș",
+      "ipa": "/ʃ/",
+      "letterAudio": "audio/ro/letters/ro-s-comma.mp3",
+      "memoryTrick": "Like 'sh' in English 'sheep' or 'shoe'. The comma below the s turns it from a hiss into a hush. Think of it as a s that's been told to be quiet — ș!",
+      "words": [
+        {"text": "șapte", "roman": "șapte", "meaning": "seven", "emoji": "7️⃣", "audio": "audio/ro/words/ro-s-comma-01.mp3"},
+        {"text": "școală", "roman": "școală", "meaning": "school", "emoji": "🏫", "audio": "audio/ro/words/ro-s-comma-02.mp3"},
+        {"text": "șoarece", "roman": "șoarece", "meaning": "mouse", "emoji": "🐭", "audio": "audio/ro/words/ro-s-comma-03.mp3"},
+        {"text": "șosetă", "roman": "șosetă", "meaning": "sock", "emoji": "🧦", "audio": "audio/ro/words/ro-s-comma-04.mp3"},
+        {"text": "șurub", "roman": "șurub", "meaning": "screw", "emoji": "🔩", "audio": "audio/ro/words/ro-s-comma-05.mp3"},
+        {"text": "șofer", "roman": "șofer", "meaning": "driver", "emoji": "🚗", "audio": "audio/ro/words/ro-s-comma-06.mp3"},
+        {"text": "șuncă", "roman": "șuncă", "meaning": "ham", "emoji": "🍖", "audio": "audio/ro/words/ro-s-comma-07.mp3"},
+        {"text": "șapcă", "roman": "șapcă", "meaning": "cap", "emoji": "🧢", "audio": "audio/ro/words/ro-s-comma-08.mp3"},
+        {"text": "șterge", "roman": "șterge", "meaning": "to erase", "emoji": "🧹", "audio": "audio/ro/words/ro-s-comma-09.mp3"},
+        {"text": "știre", "roman": "știre", "meaning": "news", "emoji": "📰", "audio": "audio/ro/words/ro-s-comma-10.mp3"}
+      ]
+    },
+    {
+      "id": "ro-t",
+      "char": "t",
+      "name": "te",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/ro/letters/ro-t.mp3",
+      "memoryTrick": "Like English 't' in 'stop' — a clean dental t made with the tongue against the back of the upper teeth. Less aspirated than English t at the start of words.",
+      "words": [
+        {"text": "tată", "roman": "tată", "meaning": "father", "emoji": "👨", "audio": "audio/ro/words/ro-t-01.mp3"},
+        {"text": "timp", "roman": "timp", "meaning": "time", "emoji": "⏰", "audio": "audio/ro/words/ro-t-02.mp3"},
+        {"text": "tren", "roman": "tren", "meaning": "train", "emoji": "🚂", "audio": "audio/ro/words/ro-t-03.mp3"},
+        {"text": "trei", "roman": "trei", "meaning": "three", "emoji": "3️⃣", "audio": "audio/ro/words/ro-t-04.mp3"},
+        {"text": "trandafir", "roman": "trandafir", "meaning": "rose", "emoji": "🌹", "audio": "audio/ro/words/ro-t-05.mp3"},
+        {"text": "tânăr", "roman": "tânăr", "meaning": "young", "emoji": "🧑", "audio": "audio/ro/words/ro-t-06.mp3"},
+        {"text": "trup", "roman": "trup", "meaning": "body", "emoji": "🧍", "audio": "audio/ro/words/ro-t-07.mp3"},
+        {"text": "tablou", "roman": "tablou", "meaning": "painting", "emoji": "🖼️", "audio": "audio/ro/words/ro-t-08.mp3"},
+        {"text": "tare", "roman": "tare", "meaning": "strong", "emoji": "💪", "audio": "audio/ro/words/ro-t-09.mp3"},
+        {"text": "toamnă", "roman": "toamnă", "meaning": "autumn", "emoji": "🍂", "audio": "audio/ro/words/ro-t-10.mp3"}
+      ]
+    },
+    {
+      "id": "ro-t-comma",
+      "char": "ț",
+      "name": "te-comma",
+      "romanization": "ț",
+      "ipa": "/t͡s/",
+      "letterAudio": "audio/ro/letters/ro-t-comma.mp3",
+      "memoryTrick": "Like 'ts' in English 'cats' or 'bits'. A crisp t that slides straight into an s — tongue taps for the t, then hisses for the s, all in one motion. The comma underneath makes all the difference.",
+      "words": [
+        {"text": "țară", "roman": "țară", "meaning": "country", "emoji": "🇷🇴", "audio": "audio/ro/words/ro-t-comma-01.mp3"},
+        {"text": "țânțar", "roman": "țânțar", "meaning": "mosquito", "emoji": "🦟", "audio": "audio/ro/words/ro-t-comma-02.mp3"},
+        {"text": "țesut", "roman": "țesut", "meaning": "tissue", "emoji": "🧬", "audio": "audio/ro/words/ro-t-comma-03.mp3"},
+        {"text": "țiglă", "roman": "țiglă", "meaning": "roof tile", "emoji": "🏠", "audio": "audio/ro/words/ro-t-comma-04.mp3"},
+        {"text": "țipăt", "roman": "țipăt", "meaning": "scream", "emoji": "😱", "audio": "audio/ro/words/ro-t-comma-05.mp3"},
+        {"text": "țintă", "roman": "țintă", "meaning": "target", "emoji": "🎯", "audio": "audio/ro/words/ro-t-comma-06.mp3"},
+        {"text": "țeavă", "roman": "țeavă", "meaning": "pipe", "emoji": "🔧", "audio": "audio/ro/words/ro-t-comma-07.mp3"},
+        {"text": "țelină", "roman": "țelină", "meaning": "celery", "emoji": "🥬", "audio": "audio/ro/words/ro-t-comma-08.mp3"},
+        {"text": "țap", "roman": "țap", "meaning": "goat", "emoji": "🐐", "audio": "audio/ro/words/ro-t-comma-09.mp3"},
+        {"text": "țuică", "roman": "țuică", "meaning": "plum brandy", "emoji": "🥃", "audio": "audio/ro/words/ro-t-comma-10.mp3"}
+      ]
+    },
+    {
+      "id": "ro-u",
+      "char": "u",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/ro/letters/ro-u.mp3",
+      "memoryTrick": "Like 'oo' in English 'boot' — lips rounded and pushed forward. Romanian u is always this pure sound, never the English 'you' or a relaxed 'uh'.",
+      "words": [
+        {"text": "ușă", "roman": "ușă", "meaning": "door", "emoji": "🚪", "audio": "audio/ro/words/ro-u-01.mp3"},
+        {"text": "umăr", "roman": "umăr", "meaning": "shoulder", "emoji": "💪", "audio": "audio/ro/words/ro-u-02.mp3"},
+        {"text": "unt", "roman": "unt", "meaning": "butter", "emoji": "🧈", "audio": "audio/ro/words/ro-u-03.mp3"},
+        {"text": "ureche", "roman": "ureche", "meaning": "ear", "emoji": "👂", "audio": "audio/ro/words/ro-u-04.mp3"},
+        {"text": "urs", "roman": "urs", "meaning": "bear", "emoji": "🐻", "audio": "audio/ro/words/ro-u-05.mp3"},
+        {"text": "unu", "roman": "unu", "meaning": "one", "emoji": "1️⃣", "audio": "audio/ro/words/ro-u-06.mp3"},
+        {"text": "unde", "roman": "unde", "meaning": "where", "emoji": "❓", "audio": "audio/ro/words/ro-u-07.mp3"},
+        {"text": "umbră", "roman": "umbră", "meaning": "shadow", "emoji": "👤", "audio": "audio/ro/words/ro-u-08.mp3"},
+        {"text": "ulcior", "roman": "ulcior", "meaning": "pitcher", "emoji": "🏺", "audio": "audio/ro/words/ro-u-09.mp3"},
+        {"text": "ulei", "roman": "ulei", "meaning": "oil", "emoji": "🫒", "audio": "audio/ro/words/ro-u-10.mp3"}
+      ]
+    },
+    {
+      "id": "ro-v",
+      "char": "v",
+      "name": "ve",
+      "romanization": "v",
+      "ipa": "/v/",
+      "letterAudio": "audio/ro/letters/ro-v.mp3",
+      "memoryTrick": "Like English 'v' in 'voice'. Teeth on lower lip, vocal cords buzzing. Same v you know — Romanian never confuses v and w.",
+      "words": [
+        {"text": "vacă", "roman": "vacă", "meaning": "cow", "emoji": "🐄", "audio": "audio/ro/words/ro-v-01.mp3"},
+        {"text": "vară", "roman": "vară", "meaning": "summer", "emoji": "☀️", "audio": "audio/ro/words/ro-v-02.mp3"},
+        {"text": "verde", "roman": "verde", "meaning": "green", "emoji": "🟢", "audio": "audio/ro/words/ro-v-03.mp3"},
+        {"text": "vechi", "roman": "vechi", "meaning": "old", "emoji": "🏚️", "audio": "audio/ro/words/ro-v-04.mp3"},
+        {"text": "viață", "roman": "viață", "meaning": "life", "emoji": "🧬", "audio": "audio/ro/words/ro-v-05.mp3"},
+        {"text": "vin", "roman": "vin", "meaning": "wine", "emoji": "🍷", "audio": "audio/ro/words/ro-v-06.mp3"},
+        {"text": "vânt", "roman": "vânt", "meaning": "wind", "emoji": "💨", "audio": "audio/ro/words/ro-v-07.mp3"},
+        {"text": "vulpe", "roman": "vulpe", "meaning": "fox", "emoji": "🦊", "audio": "audio/ro/words/ro-v-08.mp3"},
+        {"text": "vorbă", "roman": "vorbă", "meaning": "word", "emoji": "💬", "audio": "audio/ro/words/ro-v-09.mp3"},
+        {"text": "vesel", "roman": "vesel", "meaning": "cheerful", "emoji": "😊", "audio": "audio/ro/words/ro-v-10.mp3"}
+      ]
+    },
+    {
+      "id": "ro-w",
+      "char": "w",
+      "name": "dublu ve",
+      "romanization": "w",
+      "ipa": "/w/",
+      "letterAudio": "audio/ro/letters/ro-w.mp3",
+      "memoryTrick": "Appears only in loanwords. Pronounced like English 'w' or 'v' depending on the source language. Very rare in Romanian — you'll almost never need it.",
+      "words": [
+        {"text": "watt", "roman": "watt", "meaning": "watt", "emoji": "⚡", "audio": "audio/ro/words/ro-w-01.mp3"},
+        {"text": "weekend", "roman": "weekend", "meaning": "weekend", "emoji": "📅", "audio": "audio/ro/words/ro-w-02.mp3"}
+      ]
+    },
+    {
+      "id": "ro-x",
+      "char": "x",
+      "name": "ics",
+      "romanization": "x",
+      "ipa": "/ks/",
+      "letterAudio": "audio/ro/letters/ro-x.mp3",
+      "memoryTrick": "Like English 'x' in 'box' — a k followed by an s. In some words it sounds like 'gz' (exact). Rare in native Romanian words.",
+      "words": [
+        {"text": "xilofon", "roman": "xilofon", "meaning": "xylophone", "emoji": "🎹", "audio": "audio/ro/words/ro-x-01.mp3"},
+        {"text": "examen", "roman": "examen", "meaning": "exam", "emoji": "📝", "audio": "audio/ro/words/ro-x-02.mp3"}
+      ]
+    },
+    {
+      "id": "ro-y",
+      "char": "y",
+      "name": "igrec",
+      "romanization": "y",
+      "ipa": "/j/",
+      "letterAudio": "audio/ro/letters/ro-y.mp3",
+      "memoryTrick": "Appears only in loanwords. Usually pronounced like Romanian i (as 'ee' in 'see') or like English 'y' in 'yes'. Extremely rare — think of it as a foreign visitor.",
+      "words": [
+        {"text": "yoga", "roman": "yoga", "meaning": "yoga", "emoji": "🧘", "audio": "audio/ro/words/ro-y-01.mp3"},
+        {"text": "yo-yo", "roman": "yo-yo", "meaning": "yo-yo", "emoji": "🪀", "audio": "audio/ro/words/ro-y-02.mp3"}
+      ]
+    },
+    {
+      "id": "ro-z",
+      "char": "z",
+      "name": "zet",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/ro/letters/ro-z.mp3",
+      "memoryTrick": "Like English 'z' in 'zebra' — a voiced buzzing s. Unlike some languages, Romanian z is always voiced and buzzing, never the 'ts' sound of German z.",
+      "words": [
+        {"text": "zahăr", "roman": "zahăr", "meaning": "sugar", "emoji": "🍬", "audio": "audio/ro/words/ro-z-01.mp3"},
+        {"text": "zece", "roman": "zece", "meaning": "ten", "emoji": "🔟", "audio": "audio/ro/words/ro-z-02.mp3"},
+        {"text": "zero", "roman": "zero", "meaning": "zero", "emoji": "0️⃣", "audio": "audio/ro/words/ro-z-03.mp3"},
+        {"text": "zi", "roman": "zi", "meaning": "day", "emoji": "☀️", "audio": "audio/ro/words/ro-z-04.mp3"},
+        {"text": "zid", "roman": "zid", "meaning": "wall", "emoji": "🧱", "audio": "audio/ro/words/ro-z-05.mp3"},
+        {"text": "zână", "roman": "zână", "meaning": "fairy", "emoji": "🧚", "audio": "audio/ro/words/ro-z-06.mp3"},
+        {"text": "zmeu", "roman": "zmeu", "meaning": "kite", "emoji": "🪁", "audio": "audio/ro/words/ro-z-07.mp3"},
+        {"text": "zgomot", "roman": "zgomot", "meaning": "noise", "emoji": "🔊", "audio": "audio/ro/words/ro-z-08.mp3"},
+        {"text": "zăpadă", "roman": "zăpadă", "meaning": "snow", "emoji": "❄️", "audio": "audio/ro/words/ro-z-09.mp3"},
+        {"text": "ziar", "roman": "ziar", "meaning": "newspaper", "emoji": "📰", "audio": "audio/ro/words/ro-z-10.mp3"}
       ]
     }
   ]

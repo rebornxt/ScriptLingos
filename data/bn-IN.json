@@ -1,0 +1,1044 @@
+{
+  "language": "Bengali",
+  "code": "bn-IN",
+  "direction": "ltr",
+  "letters": [
+    {
+      "id": "bn-a",
+      "char": "অ",
+      "name": "shôre ô (short a)",
+      "romanization": "ô",
+      "ipa": "/ɔ/",
+      "letterAudio": "audio/bn/letters/bn-a.mp3",
+      "memoryTrick": "Like the 'o' in 'hot' or the 'aw' in 'saw'. The default inherent vowel in Bengali consonants — every consonant carries this sound unless marked otherwise.",
+      "words": [
+        { "text": "অজগর", "roman": "ôjôgôr", "meaning": "python (snake)", "emoji": "🐍", "audio": "audio/bn/words/bn-a-01.mp3" },
+        { "text": "অঙ্ক", "roman": "ôṅkô", "meaning": "math; number", "audio": "audio/bn/words/bn-a-02.mp3" },
+        { "text": "অভিনয়", "roman": "ôbhinôy", "meaning": "acting; performance", "emoji": "🎭", "audio": "audio/bn/words/bn-a-03.mp3" },
+        { "text": "অল্প", "roman": "ôlpô", "meaning": "little; few", "audio": "audio/bn/words/bn-a-04.mp3" },
+        { "text": "অমৃত", "roman": "ômritô", "meaning": "nectar; ambrosia", "audio": "audio/bn/words/bn-a-05.mp3" },
+        { "text": "অর্থ", "roman": "ôrthô", "meaning": "meaning; money", "audio": "audio/bn/words/bn-a-06.mp3" },
+        { "text": "অবশ্য", "roman": "ôbôśyô", "meaning": "certainly; of course", "audio": "audio/bn/words/bn-a-07.mp3" },
+        { "text": "অনুষ্ঠান", "roman": "ônuṣṭhan", "meaning": "event; ceremony", "audio": "audio/bn/words/bn-a-08.mp3" },
+        { "text": "অন্ধকার", "roman": "ôndhôkar", "meaning": "darkness", "audio": "audio/bn/words/bn-a-09.mp3" },
+        { "text": "অতিথি", "roman": "ôtithi", "meaning": "guest", "audio": "audio/bn/words/bn-a-10.mp3" },
+        { "text": "অপেক্ষা", "roman": "ôpekkha", "meaning": "waiting; compared to", "audio": "audio/bn/words/bn-a-11.mp3" },
+        { "text": "অভ্যাস", "roman": "ôbhyas", "meaning": "habit; practice", "audio": "audio/bn/words/bn-a-12.mp3" },
+        { "text": "অপরাধ", "roman": "ôpôradh", "meaning": "crime; offense", "audio": "audio/bn/words/bn-a-13.mp3" },
+        { "text": "অনুভব", "roman": "ônubhôb", "meaning": "feeling; experience", "audio": "audio/bn/words/bn-a-14.mp3" },
+        { "text": "অসুখ", "roman": "ôsukh", "meaning": "illness", "emoji": "🤒", "audio": "audio/bn/words/bn-a-15.mp3" }
+      ]
+    },
+    {
+      "id": "bn-aa",
+      "char": "আ",
+      "name": "shôre a (long a)",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/bn/letters/bn-aa.mp3",
+      "memoryTrick": "Like the 'a' in 'father' — a long, open 'ah'. Think of opening your mouth wide like saying 'ahh' at the doctor.",
+      "words": [
+        { "text": "আম", "roman": "am", "meaning": "mango", "emoji": "🥭", "audio": "audio/bn/words/bn-aa-01.mp3" },
+        { "text": "আলো", "roman": "alo", "meaning": "light", "emoji": "💡", "audio": "audio/bn/words/bn-aa-02.mp3" },
+        { "text": "আকাশ", "roman": "akaś", "meaning": "sky", "emoji": "☁️", "audio": "audio/bn/words/bn-aa-03.mp3" },
+        { "text": "আটা", "roman": "aṭa", "meaning": "flour", "audio": "audio/bn/words/bn-aa-04.mp3" },
+        { "text": "আদা", "roman": "ada", "meaning": "ginger", "audio": "audio/bn/words/bn-aa-05.mp3" },
+        { "text": "আশা", "roman": "aśa", "meaning": "hope", "audio": "audio/bn/words/bn-aa-06.mp3" },
+        { "text": "আলু", "roman": "alu", "meaning": "potato", "emoji": "🥔", "audio": "audio/bn/words/bn-aa-07.mp3" },
+        { "text": "আজ", "roman": "aj", "meaning": "today", "audio": "audio/bn/words/bn-aa-08.mp3" },
+        { "text": "আনন্দ", "roman": "anôndô", "meaning": "joy; happiness", "emoji": "😊", "audio": "audio/bn/words/bn-aa-09.mp3" },
+        { "text": "আয়না", "roman": "ayna", "meaning": "mirror", "emoji": "🪞", "audio": "audio/bn/words/bn-aa-10.mp3" },
+        { "text": "আবহাওয়া", "roman": "abôhaoẇa", "meaning": "weather", "audio": "audio/bn/words/bn-aa-11.mp3" },
+        { "text": "আগুন", "roman": "agun", "meaning": "fire", "emoji": "🔥", "audio": "audio/bn/words/bn-aa-12.mp3" },
+        { "text": "আস্তে", "roman": "aste", "meaning": "slowly; quietly", "audio": "audio/bn/words/bn-aa-13.mp3" },
+        { "text": "আদেশ", "roman": "adeś", "meaning": "order; command", "audio": "audio/bn/words/bn-aa-14.mp3" },
+        { "text": "আসন", "roman": "asôn", "meaning": "seat", "emoji": "🪑", "audio": "audio/bn/words/bn-aa-15.mp3" }
+      ]
+    },
+    {
+      "id": "bn-i",
+      "char": "ই",
+      "name": "hrôshsho i (short i)",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/bn/letters/bn-i.mp3",
+      "memoryTrick": "Like the 'i' in 'bit' or 'sit'. A short, crisp 'ee' sound. Think of the dot on top like a tiny drop of ink.",
+      "words": [
+        { "text": "ইঁদুর", "roman": "ĩdur", "meaning": "mouse; rat", "emoji": "🐭", "audio": "audio/bn/words/bn-i-01.mp3" },
+        { "text": "ইট", "roman": "iṭ", "meaning": "brick", "emoji": "🧱", "audio": "audio/bn/words/bn-i-02.mp3" },
+        { "text": "ইংরেজি", "roman": "iṅreji", "meaning": "English (language)", "audio": "audio/bn/words/bn-i-03.mp3" },
+        { "text": "ইচ্ছা", "roman": "iccha", "meaning": "wish; desire", "audio": "audio/bn/words/bn-i-04.mp3" },
+        { "text": "ইতিহাস", "roman": "itihas", "meaning": "history", "audio": "audio/bn/words/bn-i-05.mp3" },
+        { "text": "ইশারা", "roman": "iśara", "meaning": "gesture; hint", "audio": "audio/bn/words/bn-i-06.mp3" },
+        { "text": "ইলিশ", "roman": "iliś", "meaning": "hilsa fish", "emoji": "🐟", "audio": "audio/bn/words/bn-i-07.mp3" },
+        { "text": "ইস্কুল", "roman": "iskul", "meaning": "school", "emoji": "🏫", "audio": "audio/bn/words/bn-i-08.mp3" },
+        { "text": "ইবাদত", "roman": "ibadôt", "meaning": "worship; prayer", "audio": "audio/bn/words/bn-i-09.mp3" },
+        { "text": "ইঞ্জিন", "roman": "iñjin", "meaning": "engine", "audio": "audio/bn/words/bn-i-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-ii",
+      "char": "ঈ",
+      "name": "dirghô i (long i)",
+      "romanization": "ī",
+      "ipa": "/i/",
+      "letterAudio": "audio/bn/letters/bn-ii.mp3",
+      "memoryTrick": "Same sound as short ই in modern Bengali, but historically longer. Think of the curl at the top like stretching the 'ee' sound — though today both are spoken identically.",
+      "words": [
+        { "text": "ঈদ", "roman": "īd", "meaning": "Eid (festival)", "audio": "audio/bn/words/bn-ii-01.mp3" },
+        { "text": "ঈশ্বর", "roman": "īśśôr", "meaning": "God; lord", "audio": "audio/bn/words/bn-ii-02.mp3" },
+        { "text": "ঈর্ষা", "roman": "īrṣa", "meaning": "jealousy; envy", "audio": "audio/bn/words/bn-ii-03.mp3" },
+        { "text": "ঈগল", "roman": "īgôl", "meaning": "eagle", "emoji": "🦅", "audio": "audio/bn/words/bn-ii-04.mp3" },
+        { "text": "ঈশান", "roman": "īśan", "meaning": "northeast", "audio": "audio/bn/words/bn-ii-05.mp3" }
+      ]
+    },
+    {
+      "id": "bn-u",
+      "char": "উ",
+      "name": "hrôshsho u (short u)",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/bn/letters/bn-u.mp3",
+      "memoryTrick": "Like the 'u' in 'put' or 'pull'. A short, rounded 'oo' — purse your lips like you're saying 'oo' but keep it brief.",
+      "words": [
+        { "text": "উদয়", "roman": "udôy", "meaning": "rise; sunrise", "emoji": "🌅", "audio": "audio/bn/words/bn-u-01.mp3" },
+        { "text": "উপায়", "roman": "upay", "meaning": "way; solution", "audio": "audio/bn/words/bn-u-02.mp3" },
+        { "text": "উত্তর", "roman": "uttôr", "meaning": "answer; north", "audio": "audio/bn/words/bn-u-03.mp3" },
+        { "text": "উড়ান", "roman": "uṛan", "meaning": "flight; flying", "emoji": "✈️", "audio": "audio/bn/words/bn-u-04.mp3" },
+        { "text": "উঁচু", "roman": "ũcu", "meaning": "high; tall", "audio": "audio/bn/words/bn-u-05.mp3" },
+        { "text": "উদাহরণ", "roman": "udahôrôn", "meaning": "example", "audio": "audio/bn/words/bn-u-06.mp3" },
+        { "text": "উন্নতি", "roman": "unnôti", "meaning": "progress; improvement", "audio": "audio/bn/words/bn-u-07.mp3" },
+        { "text": "উৎসব", "roman": "utsôb", "meaning": "festival; celebration", "emoji": "🎉", "audio": "audio/bn/words/bn-u-08.mp3" },
+        { "text": "উপহার", "roman": "upôhar", "meaning": "gift", "emoji": "🎁", "audio": "audio/bn/words/bn-u-09.mp3" },
+        { "text": "উদ্ভিদ", "roman": "udbhid", "meaning": "plant", "emoji": "🌱", "audio": "audio/bn/words/bn-u-10.mp3" },
+        { "text": "উজ্জ্বল", "roman": "ujjôl", "meaning": "bright; shining", "emoji": "✨", "audio": "audio/bn/words/bn-u-11.mp3" },
+        { "text": "উদ্ধার", "roman": "uddhar", "meaning": "rescue; recovery", "audio": "audio/bn/words/bn-u-12.mp3" },
+        { "text": "উপন্যাস", "roman": "upônnas", "meaning": "novel", "emoji": "📖", "audio": "audio/bn/words/bn-u-13.mp3" },
+        { "text": "উল্লাস", "roman": "ullas", "meaning": "excitement; jubilation", "audio": "audio/bn/words/bn-u-14.mp3" },
+        { "text": "উৎপত্তি", "roman": "utpôtti", "meaning": "origin; birth", "audio": "audio/bn/words/bn-u-15.mp3" }
+      ]
+    },
+    {
+      "id": "bn-uu",
+      "char": "ঊ",
+      "name": "dirghô u (long u)",
+      "romanization": "ū",
+      "ipa": "/u/",
+      "letterAudio": "audio/bn/letters/bn-uu.mp3",
+      "memoryTrick": "Same sound as short উ in modern Bengali, but historically longer. Think of the curl underneath like stretching the 'oo' — though spoken identically to short u today.",
+      "words": [
+        { "text": "ঊষা", "roman": "ūṣa", "meaning": "dawn; daybreak", "emoji": "🌄", "audio": "audio/bn/words/bn-uu-01.mp3" },
+        { "text": "ঊর্ধ্ব", "roman": "ūrddhô", "meaning": "upward; above", "audio": "audio/bn/words/bn-uu-02.mp3" },
+        { "text": "ঊন", "roman": "ūnô", "meaning": "less; deficient", "audio": "audio/bn/words/bn-uu-03.mp3" },
+        { "text": "ঊরু", "roman": "ūru", "meaning": "thigh", "audio": "audio/bn/words/bn-uu-04.mp3" },
+        { "text": "ঊর্মি", "roman": "ūrmi", "meaning": "wave", "emoji": "🌊", "audio": "audio/bn/words/bn-uu-05.mp3" }
+      ]
+    },
+    {
+      "id": "bn-ri",
+      "char": "ঋ",
+      "name": "ri (vocalic r)",
+      "romanization": "ṛ",
+      "ipa": "/ri/",
+      "letterAudio": "audio/bn/letters/bn-ri.mp3",
+      "memoryTrick": "Pronounced 'ri' as in 'river' in modern Bengali, not the ancient Sanskrit vocalic 'r'. Think of the curl underneath as a tiny 'r' tucked under a vowel.",
+      "words": [
+        { "text": "ঋতু", "roman": "ṛitu", "meaning": "season", "audio": "audio/bn/words/bn-ri-01.mp3" },
+        { "text": "ঋণ", "roman": "ṛiṇ", "meaning": "debt; loan", "audio": "audio/bn/words/bn-ri-02.mp3" },
+        { "text": "ঋষি", "roman": "ṛiṣi", "meaning": "sage; holy man", "audio": "audio/bn/words/bn-ri-03.mp3" },
+        { "text": "ঋজু", "roman": "ṛiju", "meaning": "straight; honest", "audio": "audio/bn/words/bn-ri-04.mp3" },
+        { "text": "ঋদ্ধি", "roman": "ṛiddhi", "meaning": "prosperity; growth", "audio": "audio/bn/words/bn-ri-05.mp3" }
+      ]
+    },
+    {
+      "id": "bn-e",
+      "char": "এ",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/e/",
+      "letterAudio": "audio/bn/letters/bn-e.mp3",
+      "memoryTrick": "Like the 'e' in 'bed' or sometimes 'a' in 'cat' — a short, open 'eh'. The horizontal line on top is the headstroke (matra) common to most Bengali letters.",
+      "words": [
+        { "text": "এক", "roman": "ek", "meaning": "one", "audio": "audio/bn/words/bn-e-01.mp3" },
+        { "text": "একা", "roman": "eka", "meaning": "alone", "audio": "audio/bn/words/bn-e-02.mp3" },
+        { "text": "এমন", "roman": "emôn", "meaning": "such; like this", "audio": "audio/bn/words/bn-e-03.mp3" },
+        { "text": "এখন", "roman": "ekhôn", "meaning": "now", "audio": "audio/bn/words/bn-e-04.mp3" },
+        { "text": "এলাকা", "roman": "elaka", "meaning": "area; region", "audio": "audio/bn/words/bn-e-05.mp3" },
+        { "text": "এসো", "roman": "eśo", "meaning": "come (informal)", "audio": "audio/bn/words/bn-e-06.mp3" },
+        { "text": "একই", "roman": "ekôi", "meaning": "same; identical", "audio": "audio/bn/words/bn-e-07.mp3" },
+        { "text": "এত", "roman": "etô", "meaning": "so much; this much", "audio": "audio/bn/words/bn-e-08.mp3" },
+        { "text": "এবার", "roman": "ebar", "meaning": "this time", "audio": "audio/bn/words/bn-e-09.mp3" },
+        { "text": "এগারো", "roman": "egaro", "meaning": "eleven", "audio": "audio/bn/words/bn-e-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-oi",
+      "char": "ঐ",
+      "name": "oi",
+      "romanization": "oi",
+      "ipa": "/oi/",
+      "letterAudio": "audio/bn/letters/bn-oi.mp3",
+      "memoryTrick": "Like 'oi' in 'oil' or 'oy' in 'boy' — a diphthong that glides from 'o' to 'i'. Can also sound closer to 'e' in some modern Bengali speech.",
+      "words": [
+        { "text": "ঐতিহ্য", "roman": "oitijjhô", "meaning": "heritage; tradition", "audio": "audio/bn/words/bn-oi-01.mp3" },
+        { "text": "ঐক্য", "roman": "oikkô", "meaning": "unity", "audio": "audio/bn/words/bn-oi-02.mp3" },
+        { "text": "ঐশ্বর্য", "roman": "oiśśôrjô", "meaning": "wealth; splendor", "audio": "audio/bn/words/bn-oi-03.mp3" },
+        { "text": "ঐকতান", "roman": "oikôtan", "meaning": "chorus; harmony", "audio": "audio/bn/words/bn-oi-04.mp3" },
+        { "text": "ঐন্দ্রজালিক", "roman": "oindrajalik", "meaning": "magical; illusionary", "emoji": "🪄", "audio": "audio/bn/words/bn-oi-05.mp3" }
+      ]
+    },
+    {
+      "id": "bn-o",
+      "char": "ও",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/o/",
+      "letterAudio": "audio/bn/letters/bn-o.mp3",
+      "memoryTrick": "Like the 'o' in 'go' or 'no' — a clear, rounded 'oh'. Also serves as the word for 'and' in Bengali.",
+      "words": [
+        { "text": "ওষুধ", "roman": "oṣudh", "meaning": "medicine", "emoji": "💊", "audio": "audio/bn/words/bn-o-01.mp3" },
+        { "text": "ওজন", "roman": "ojôn", "meaning": "weight", "audio": "audio/bn/words/bn-o-02.mp3" },
+        { "text": "ওঠা", "roman": "oṭha", "meaning": "to rise; get up", "audio": "audio/bn/words/bn-o-03.mp3" },
+        { "text": "ওপার", "roman": "opar", "meaning": "the other side", "audio": "audio/bn/words/bn-o-04.mp3" },
+        { "text": "ওরাও", "roman": "orao", "meaning": "they too", "audio": "audio/bn/words/bn-o-05.mp3" }
+      ]
+    },
+    {
+      "id": "bn-ou",
+      "char": "ঔ",
+      "name": "ou",
+      "romanization": "ou",
+      "ipa": "/ou/",
+      "letterAudio": "audio/bn/letters/bn-ou.mp3",
+      "memoryTrick": "Like 'ow' in 'low' or 'o' in 'go' with a slight 'u' at the end — a diphthong. Think of it as ও with an extra curl underneath.",
+      "words": [
+        { "text": "ঔষধ", "roman": "ouṣôdh", "meaning": "medicine; drug", "emoji": "💊", "audio": "audio/bn/words/bn-ou-01.mp3" },
+        { "text": "ঔপনিবেশিক", "roman": "oupônibeśik", "meaning": "colonial", "audio": "audio/bn/words/bn-ou-02.mp3" },
+        { "text": "ঔদার্য", "roman": "oudarjô", "meaning": "generosity", "audio": "audio/bn/words/bn-ou-03.mp3" },
+        { "text": "ঔপচারিক", "roman": "oupôcarik", "meaning": "formal", "audio": "audio/bn/words/bn-ou-04.mp3" },
+        { "text": "ঔৎসুক্য", "roman": "outsukyô", "meaning": "curiosity; eagerness", "audio": "audio/bn/words/bn-ou-05.mp3" }
+      ]
+    },
+    {
+      "id": "bn-k",
+      "char": "ক",
+      "name": "kô",
+      "romanization": "kô",
+      "ipa": "/k/",
+      "letterAudio": "audio/bn/letters/bn-k.mp3",
+      "memoryTrick": "Like 'k' in 'kite'. The first consonant of the Bengali alphabet — crisp and unaspirated. Think of a clean, sharp knock on a door.",
+      "words": [
+        { "text": "কলম", "roman": "kôlôm", "meaning": "pen", "emoji": "🖊️", "audio": "audio/bn/words/bn-k-01.mp3" },
+        { "text": "কলা", "roman": "kôla", "meaning": "banana", "emoji": "🍌", "audio": "audio/bn/words/bn-k-02.mp3" },
+        { "text": "কাজ", "roman": "kaj", "meaning": "work", "audio": "audio/bn/words/bn-k-03.mp3" },
+        { "text": "কাগজ", "roman": "kagôj", "meaning": "paper", "emoji": "📄", "audio": "audio/bn/words/bn-k-04.mp3" },
+        { "text": "কান", "roman": "kan", "meaning": "ear", "emoji": "👂", "audio": "audio/bn/words/bn-k-05.mp3" },
+        { "text": "কাপড়", "roman": "kapôṛ", "meaning": "cloth; clothes", "emoji": "👕", "audio": "audio/bn/words/bn-k-06.mp3" },
+        { "text": "কাঠ", "roman": "kaṭh", "meaning": "wood", "emoji": "🪵", "audio": "audio/bn/words/bn-k-07.mp3" },
+        { "text": "কালো", "roman": "kalo", "meaning": "black", "audio": "audio/bn/words/bn-k-08.mp3" },
+        { "text": "কুকুর", "roman": "kukur", "meaning": "dog", "emoji": "🐕", "audio": "audio/bn/words/bn-k-09.mp3" },
+        { "text": "কাছ", "roman": "kach", "meaning": "near; vicinity", "audio": "audio/bn/words/bn-k-10.mp3" },
+        { "text": "কবি", "roman": "kôbi", "meaning": "poet", "audio": "audio/bn/words/bn-k-11.mp3" },
+        { "text": "কফি", "roman": "kôphi", "meaning": "coffee", "emoji": "☕", "audio": "audio/bn/words/bn-k-12.mp3" },
+        { "text": "কাদা", "roman": "kada", "meaning": "mud", "audio": "audio/bn/words/bn-k-13.mp3" },
+        { "text": "কাঁচা", "roman": "kãca", "meaning": "raw; unripe", "audio": "audio/bn/words/bn-k-14.mp3" },
+        { "text": "কাক", "roman": "kak", "meaning": "crow", "audio": "audio/bn/words/bn-k-15.mp3" }
+      ]
+    },
+    {
+      "id": "bn-kh",
+      "char": "খ",
+      "name": "khô",
+      "romanization": "khô",
+      "ipa": "/kʰ/",
+      "letterAudio": "audio/bn/letters/bn-kh.mp3",
+      "memoryTrick": "Like 'kh' in 'blockhead' — an aspirated 'k' with a puff of air. Put your hand in front of your mouth; you should feel the burst of breath.",
+      "words": [
+        { "text": "খবর", "roman": "khôbôr", "meaning": "news", "emoji": "📰", "audio": "audio/bn/words/bn-kh-01.mp3" },
+        { "text": "খাতা", "roman": "khata", "meaning": "notebook", "emoji": "📓", "audio": "audio/bn/words/bn-kh-02.mp3" },
+        { "text": "খাবার", "roman": "khabar", "meaning": "food", "emoji": "🍽️", "audio": "audio/bn/words/bn-kh-03.mp3" },
+        { "text": "খেলা", "roman": "khela", "meaning": "game; play", "emoji": "⚽", "audio": "audio/bn/words/bn-kh-04.mp3" },
+        { "text": "খরগোশ", "roman": "khôrgôś", "meaning": "rabbit", "emoji": "🐰", "audio": "audio/bn/words/bn-kh-05.mp3" },
+        { "text": "খালি", "roman": "khali", "meaning": "empty", "audio": "audio/bn/words/bn-kh-06.mp3" },
+        { "text": "খুশি", "roman": "khuśi", "meaning": "happy", "emoji": "😊", "audio": "audio/bn/words/bn-kh-07.mp3" },
+        { "text": "খেজুর", "roman": "khejur", "meaning": "date (fruit)", "audio": "audio/bn/words/bn-kh-08.mp3" },
+        { "text": "খাট", "roman": "khaṭ", "meaning": "bed; cot", "emoji": "🛏️", "audio": "audio/bn/words/bn-kh-09.mp3" },
+        { "text": "খরচ", "roman": "khôrôc", "meaning": "expense; cost", "audio": "audio/bn/words/bn-kh-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-g",
+      "char": "গ",
+      "name": "gô",
+      "romanization": "gô",
+      "ipa": "/ɡ/",
+      "letterAudio": "audio/bn/letters/bn-g.mp3",
+      "memoryTrick": "Like 'g' in 'go'. A voiced, unaspirated sound — your vocal cords vibrate. Think of a gentle, soft 'guh'.",
+      "words": [
+        { "text": "গরু", "roman": "gôru", "meaning": "cow", "emoji": "🐄", "audio": "audio/bn/words/bn-g-01.mp3" },
+        { "text": "গান", "roman": "gan", "meaning": "song", "emoji": "🎵", "audio": "audio/bn/words/bn-g-02.mp3" },
+        { "text": "গাছ", "roman": "gach", "meaning": "tree; plant", "emoji": "🌳", "audio": "audio/bn/words/bn-g-03.mp3" },
+        { "text": "গাড়ি", "roman": "gaṛi", "meaning": "car; vehicle", "emoji": "🚗", "audio": "audio/bn/words/bn-g-04.mp3" },
+        { "text": "গল্প", "roman": "gôlpô", "meaning": "story", "emoji": "📚", "audio": "audio/bn/words/bn-g-05.mp3" },
+        { "text": "গরম", "roman": "gôrôm", "meaning": "hot; warm", "audio": "audio/bn/words/bn-g-06.mp3" },
+        { "text": "গোলাপ", "roman": "golap", "meaning": "rose", "emoji": "🌹", "audio": "audio/bn/words/bn-g-07.mp3" },
+        { "text": "গভীর", "roman": "gôbhir", "meaning": "deep", "audio": "audio/bn/words/bn-g-08.mp3" },
+        { "text": "গণিত", "roman": "gôṇit", "meaning": "mathematics", "audio": "audio/bn/words/bn-g-09.mp3" },
+        { "text": "গম", "roman": "gôm", "meaning": "wheat", "emoji": "🌾", "audio": "audio/bn/words/bn-g-10.mp3" },
+        { "text": "গুহা", "roman": "guha", "meaning": "cave", "audio": "audio/bn/words/bn-g-11.mp3" },
+        { "text": "গোল", "roman": "gol", "meaning": "round; circle", "audio": "audio/bn/words/bn-g-12.mp3" }
+      ]
+    },
+    {
+      "id": "bn-gh",
+      "char": "ঘ",
+      "name": "ghô",
+      "romanization": "ghô",
+      "ipa": "/ɡʱ/",
+      "letterAudio": "audio/bn/letters/bn-gh.mp3",
+      "memoryTrick": "Like 'gh' in 'doghouse' — a voiced, aspirated 'g' with a breathy release. Your throat should vibrate while air rushes out.",
+      "words": [
+        { "text": "ঘর", "roman": "ghôr", "meaning": "room; house", "emoji": "🏠", "audio": "audio/bn/words/bn-gh-01.mp3" },
+        { "text": "ঘাস", "roman": "ghaś", "meaning": "grass", "emoji": "🌿", "audio": "audio/bn/words/bn-gh-02.mp3" },
+        { "text": "ঘোড়া", "roman": "ghoṛa", "meaning": "horse", "emoji": "🐴", "audio": "audio/bn/words/bn-gh-03.mp3" },
+        { "text": "ঘুম", "roman": "ghum", "meaning": "sleep", "emoji": "😴", "audio": "audio/bn/words/bn-gh-04.mp3" },
+        { "text": "ঘণ্টা", "roman": "ghônṭa", "meaning": "hour; bell", "emoji": "🔔", "audio": "audio/bn/words/bn-gh-05.mp3" },
+        { "text": "ঘড়ি", "roman": "ghôṛi", "meaning": "clock; watch", "emoji": "⌚", "audio": "audio/bn/words/bn-gh-06.mp3" },
+        { "text": "ঘুড়ি", "roman": "ghuṛi", "meaning": "kite", "emoji": "🪁", "audio": "audio/bn/words/bn-gh-07.mp3" },
+        { "text": "ঘন", "roman": "ghôn", "meaning": "dense; thick", "audio": "audio/bn/words/bn-gh-08.mp3" },
+        { "text": "ঘটনা", "roman": "ghôṭôna", "meaning": "incident; event", "audio": "audio/bn/words/bn-gh-09.mp3" },
+        { "text": "ঘাট", "roman": "ghaṭ", "meaning": "riverbank; pier", "audio": "audio/bn/words/bn-gh-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-ng",
+      "char": "ঙ",
+      "name": "ngô (ungô)",
+      "romanization": "ngô",
+      "ipa": "/ŋ/",
+      "letterAudio": "audio/bn/letters/bn-ng.mp3",
+      "memoryTrick": "Like 'ng' in 'sing'. This letter never appears at the start of Bengali words — it only appears in the middle or end, often as part of a conjunct. Think of the nasal hum at the end of 'song'.",
+      "words": [
+        { "text": "গঙ্গা", "roman": "gôṅga", "meaning": "the Ganges river", "emoji": "🌊", "audio": "audio/bn/words/bn-ng-01.mp3" },
+        { "text": "অঙ্গ", "roman": "ôṅgô", "meaning": "body part; limb", "audio": "audio/bn/words/bn-ng-02.mp3" },
+        { "text": "রঙ্গ", "roman": "rôṅgô", "meaning": "color; fun", "emoji": "🎨", "audio": "audio/bn/words/bn-ng-03.mp3" },
+        { "text": "সঙ্গ", "roman": "sôṅgô", "meaning": "company; together with", "audio": "audio/bn/words/bn-ng-04.mp3" }
+      ]
+    },
+    {
+      "id": "bn-c",
+      "char": "চ",
+      "name": "cô (chô)",
+      "romanization": "cô",
+      "ipa": "/tʃ/",
+      "letterAudio": "audio/bn/letters/bn-c.mp3",
+      "memoryTrick": "Like 'ch' in 'chat' or 'church'. A crisp, unaspirated palatal sound made with the tongue touching the roof of your mouth.",
+      "words": [
+        { "text": "চা", "roman": "ca", "meaning": "tea", "emoji": "🍵", "audio": "audio/bn/words/bn-c-01.mp3" },
+        { "text": "চাঁদ", "roman": "cãd", "meaning": "moon", "emoji": "🌙", "audio": "audio/bn/words/bn-c-02.mp3" },
+        { "text": "চোখ", "roman": "cokh", "meaning": "eye", "emoji": "👁️", "audio": "audio/bn/words/bn-c-03.mp3" },
+        { "text": "চাবি", "roman": "cabi", "meaning": "key", "emoji": "🔑", "audio": "audio/bn/words/bn-c-04.mp3" },
+        { "text": "চিঠি", "roman": "ciṭhi", "meaning": "letter (mail)", "emoji": "✉️", "audio": "audio/bn/words/bn-c-05.mp3" },
+        { "text": "চুল", "roman": "cul", "meaning": "hair", "audio": "audio/bn/words/bn-c-06.mp3" },
+        { "text": "চামচ", "roman": "camôc", "meaning": "spoon", "emoji": "🥄", "audio": "audio/bn/words/bn-c-07.mp3" },
+        { "text": "চলচ্চিত্র", "roman": "côlôccitrô", "meaning": "movie; film", "emoji": "🎬", "audio": "audio/bn/words/bn-c-08.mp3" },
+        { "text": "চিনি", "roman": "cini", "meaning": "sugar", "audio": "audio/bn/words/bn-c-09.mp3" },
+        { "text": "চাকা", "roman": "caka", "meaning": "wheel", "audio": "audio/bn/words/bn-c-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-ch",
+      "char": "ছ",
+      "name": "chô",
+      "romanization": "chô",
+      "ipa": "/tʃʰ/",
+      "letterAudio": "audio/bn/letters/bn-ch.mp3",
+      "memoryTrick": "Like 'chh' in 'itch-house' — an aspirated 'ch' with a strong puff of air. Think of a sneeze: 'achhoo!' has the same breathy feel.",
+      "words": [
+        { "text": "ছবি", "roman": "chôbi", "meaning": "picture; photo", "emoji": "🖼️", "audio": "audio/bn/words/bn-ch-01.mp3" },
+        { "text": "ছাতা", "roman": "chata", "meaning": "umbrella", "emoji": "☂️", "audio": "audio/bn/words/bn-ch-02.mp3" },
+        { "text": "ছাগল", "roman": "chagôl", "meaning": "goat", "emoji": "🐐", "audio": "audio/bn/words/bn-ch-03.mp3" },
+        { "text": "ছেলে", "roman": "chele", "meaning": "boy; son", "emoji": "👦", "audio": "audio/bn/words/bn-ch-04.mp3" },
+        { "text": "ছুটি", "roman": "chuṭi", "meaning": "holiday; leave", "audio": "audio/bn/words/bn-ch-05.mp3" },
+        { "text": "ছাদ", "roman": "chad", "meaning": "roof; terrace", "audio": "audio/bn/words/bn-ch-06.mp3" },
+        { "text": "ছোট", "roman": "choṭô", "meaning": "small", "audio": "audio/bn/words/bn-ch-07.mp3" },
+        { "text": "ছয়", "roman": "chôy", "meaning": "six", "audio": "audio/bn/words/bn-ch-08.mp3" },
+        { "text": "ছুরি", "roman": "churi", "meaning": "knife", "emoji": "🔪", "audio": "audio/bn/words/bn-ch-09.mp3" },
+        { "text": "ছন্দ", "roman": "chôndô", "meaning": "rhythm; meter", "audio": "audio/bn/words/bn-ch-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-j",
+      "char": "জ",
+      "name": "jô (bôrgiyô jô)",
+      "romanization": "jô",
+      "ipa": "/dʒ/",
+      "letterAudio": "audio/bn/letters/bn-j.mp3",
+      "memoryTrick": "Like 'j' in 'jam' or 'jump'. A voiced palatal sound with vocal cord vibration. In Eastern Bengal and Bangladesh it can sound closer to 'z' in 'zebra'.",
+      "words": [
+        { "text": "জল", "roman": "jôl", "meaning": "water", "emoji": "💧", "audio": "audio/bn/words/bn-j-01.mp3" },
+        { "text": "জামা", "roman": "jama", "meaning": "shirt", "emoji": "👔", "audio": "audio/bn/words/bn-j-02.mp3" },
+        { "text": "জানালা", "roman": "janala", "meaning": "window", "emoji": "🪟", "audio": "audio/bn/words/bn-j-03.mp3" },
+        { "text": "জুতো", "roman": "juto", "meaning": "shoe", "emoji": "👞", "audio": "audio/bn/words/bn-j-04.mp3" },
+        { "text": "জমি", "roman": "jômi", "meaning": "land", "audio": "audio/bn/words/bn-j-05.mp3" },
+        { "text": "জেব্রা", "roman": "jebra", "meaning": "zebra", "emoji": "🦓", "audio": "audio/bn/words/bn-j-06.mp3" },
+        { "text": "জিরা", "roman": "jira", "meaning": "cumin", "audio": "audio/bn/words/bn-j-07.mp3" },
+        { "text": "জঙ্গল", "roman": "jôṅgôl", "meaning": "jungle; forest", "emoji": "🌴", "audio": "audio/bn/words/bn-j-08.mp3" },
+        { "text": "জাদু", "roman": "jadu", "meaning": "magic", "emoji": "🪄", "audio": "audio/bn/words/bn-j-09.mp3" },
+        { "text": "জিনিস", "roman": "jiniś", "meaning": "thing; item", "audio": "audio/bn/words/bn-j-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-jh",
+      "char": "ঝ",
+      "name": "jhô",
+      "romanization": "jhô",
+      "ipa": "/dʒʱ/",
+      "letterAudio": "audio/bn/letters/bn-jh.mp3",
+      "memoryTrick": "Like 'jh' in 'hedgehog' — a voiced, aspirated 'j' with a breathy buzz. Your vocal cords vibrate while air hisses through your mouth.",
+      "words": [
+        { "text": "ঝড়", "roman": "jhôṛ", "meaning": "storm", "emoji": "🌪️", "audio": "audio/bn/words/bn-jh-01.mp3" },
+        { "text": "ঝরনা", "roman": "jhôrôna", "meaning": "waterfall; fountain", "audio": "audio/bn/words/bn-jh-02.mp3" },
+        { "text": "ঝুড়ি", "roman": "jhuṛi", "meaning": "basket", "emoji": "🧺", "audio": "audio/bn/words/bn-jh-03.mp3" },
+        { "text": "ঝাঁক", "roman": "jhãk", "meaning": "flock; swarm", "audio": "audio/bn/words/bn-jh-04.mp3" },
+        { "text": "ঝাল", "roman": "jhal", "meaning": "spicy; hot (taste)", "emoji": "🌶️", "audio": "audio/bn/words/bn-jh-05.mp3" },
+        { "text": "ঝাপসা", "roman": "jhapôsa", "meaning": "blurry; hazy", "audio": "audio/bn/words/bn-jh-06.mp3" },
+        { "text": "ঝিলিক", "roman": "jhilik", "meaning": "glimmer; sparkle", "emoji": "✨", "audio": "audio/bn/words/bn-jh-07.mp3" },
+        { "text": "ঝামেলা", "roman": "jhamela", "meaning": "trouble; hassle", "audio": "audio/bn/words/bn-jh-08.mp3" }
+      ]
+    },
+    {
+      "id": "bn-ny",
+      "char": "ঞ",
+      "name": "ñô (iyô)",
+      "romanization": "ñô",
+      "ipa": "/n/",
+      "letterAudio": "audio/bn/letters/bn-ny.mp3",
+      "memoryTrick": "Like 'n' in 'canyon' — a palatal nasal. Almost never appears word-initially in native Bengali; it's famous as part of the common conjunct 'জ্ঞ' (jñô). Think of the Spanish ñ.",
+      "words": [
+        { "text": "মিঞা", "roman": "miña", "meaning": "Miah (term of respect)", "audio": "audio/bn/words/bn-ny-01.mp3" },
+        { "text": "গঞ্জ", "roman": "gôñjô", "meaning": "market town (suffix)", "audio": "audio/bn/words/bn-ny-02.mp3" }
+      ]
+    },
+    {
+      "id": "bn-tt",
+      "char": "ট",
+      "name": "ṭô (murdhônyô ṭô)",
+      "romanization": "ṭô",
+      "ipa": "/ʈ/",
+      "letterAudio": "audio/bn/letters/bn-tt.mp3",
+      "memoryTrick": "Like a hard 't' pronounced with the tongue curled back to the roof of your mouth — retroflex. Think of the way some Indian English speakers say 'train' with a firm, rolled-back 't'.",
+      "words": [
+        { "text": "টাকা", "roman": "ṭaka", "meaning": "money; taka (currency)", "emoji": "💰", "audio": "audio/bn/words/bn-tt-01.mp3" },
+        { "text": "টেবিল", "roman": "ṭebil", "meaning": "table", "audio": "audio/bn/words/bn-tt-02.mp3" },
+        { "text": "টুপি", "roman": "ṭupi", "meaning": "cap; hat", "emoji": "🧢", "audio": "audio/bn/words/bn-tt-03.mp3" },
+        { "text": "টক", "roman": "ṭôk", "meaning": "sour", "emoji": "🍋", "audio": "audio/bn/words/bn-tt-04.mp3" },
+        { "text": "টমেটো", "roman": "ṭômeṭo", "meaning": "tomato", "emoji": "🍅", "audio": "audio/bn/words/bn-tt-05.mp3" },
+        { "text": "ট্রেন", "roman": "ṭren", "meaning": "train", "emoji": "🚂", "audio": "audio/bn/words/bn-tt-06.mp3" },
+        { "text": "টিপ", "roman": "ṭip", "meaning": "dot; bindi", "audio": "audio/bn/words/bn-tt-07.mp3" },
+        { "text": "টান", "roman": "ṭan", "meaning": "pull; tug", "audio": "audio/bn/words/bn-tt-08.mp3" }
+      ]
+    },
+    {
+      "id": "bn-tth",
+      "char": "ঠ",
+      "name": "ṭhô (murdhônyô ṭhô)",
+      "romanization": "ṭhô",
+      "ipa": "/ʈʰ/",
+      "letterAudio": "audio/bn/letters/bn-tth.mp3",
+      "memoryTrick": "Like a hard, aspirated retroflex 't' — the tongue curls back and a puff of air follows. Think of saying 't-hut' with your tongue curled way back.",
+      "words": [
+        { "text": "ঠিকানা", "roman": "ṭhikana", "meaning": "address", "emoji": "📍", "audio": "audio/bn/words/bn-tth-01.mp3" },
+        { "text": "ঠান্ডা", "roman": "ṭhanḍa", "meaning": "cold", "emoji": "🥶", "audio": "audio/bn/words/bn-tth-02.mp3" },
+        { "text": "ঠোঁট", "roman": "ṭhõṭ", "meaning": "lip", "emoji": "👄", "audio": "audio/bn/words/bn-tth-03.mp3" },
+        { "text": "ঠিক", "roman": "ṭhik", "meaning": "correct; right", "emoji": "✅", "audio": "audio/bn/words/bn-tth-04.mp3" },
+        { "text": "ঠেলা", "roman": "ṭhela", "meaning": "push; shove", "audio": "audio/bn/words/bn-tth-05.mp3" },
+        { "text": "ঠাট্টা", "roman": "ṭhaṭṭa", "meaning": "joke; mockery", "audio": "audio/bn/words/bn-tth-06.mp3" }
+      ]
+    },
+    {
+      "id": "bn-dd",
+      "char": "ড",
+      "name": "ḍô (murdhônyô ḍô)",
+      "romanization": "ḍô",
+      "ipa": "/ɖ/",
+      "letterAudio": "audio/bn/letters/bn-dd.mp3",
+      "memoryTrick": "Like a hard, retroflex 'd' — tongue curled back, vocal cords buzzing. Think of the firm 'd' in how some English speakers say 'drum'.",
+      "words": [
+        { "text": "ডাক্তার", "roman": "ḍaktar", "meaning": "doctor", "emoji": "👨‍⚕️", "audio": "audio/bn/words/bn-dd-01.mp3" },
+        { "text": "ডিম", "roman": "ḍim", "meaning": "egg", "emoji": "🥚", "audio": "audio/bn/words/bn-dd-02.mp3" },
+        { "text": "ডানা", "roman": "ḍana", "meaning": "wing", "audio": "audio/bn/words/bn-dd-03.mp3" },
+        { "text": "ডাল", "roman": "ḍal", "meaning": "lentils; dal", "audio": "audio/bn/words/bn-dd-04.mp3" },
+        { "text": "ড্রাম", "roman": "ḍram", "meaning": "drum", "emoji": "🥁", "audio": "audio/bn/words/bn-dd-05.mp3" },
+        { "text": "ডাব", "roman": "ḍab", "meaning": "green coconut", "emoji": "🥥", "audio": "audio/bn/words/bn-dd-06.mp3" },
+        { "text": "ডাগর", "roman": "ḍagôr", "meaning": "large; big", "audio": "audio/bn/words/bn-dd-07.mp3" },
+        { "text": "ডুব", "roman": "ḍub", "meaning": "dive; sink", "audio": "audio/bn/words/bn-dd-08.mp3" }
+      ]
+    },
+    {
+      "id": "bn-ddh",
+      "char": "ঢ",
+      "name": "ḍhô (murdhônyô ḍhô)",
+      "romanization": "ḍhô",
+      "ipa": "/ɖʱ/",
+      "letterAudio": "audio/bn/letters/bn-ddh.mp3",
+      "memoryTrick": "Like a hard, breathy retroflex 'd' — tongue curled back, voice buzzing, with a puff of air. Think of saying 'd-hum' with your tongue curled far back.",
+      "words": [
+        { "text": "ঢাকা", "roman": "ḍhaka", "meaning": "Dhaka (capital)", "emoji": "🏙️", "audio": "audio/bn/words/bn-ddh-01.mp3" },
+        { "text": "ঢেউ", "roman": "ḍheu", "meaning": "wave", "emoji": "🌊", "audio": "audio/bn/words/bn-ddh-02.mp3" },
+        { "text": "ঢোল", "roman": "ḍhol", "meaning": "dhol (large drum)", "emoji": "🥁", "audio": "audio/bn/words/bn-ddh-03.mp3" },
+        { "text": "ঢাল", "roman": "ḍhal", "meaning": "shield; slope", "emoji": "🛡️", "audio": "audio/bn/words/bn-ddh-04.mp3" },
+        { "text": "ঢোকা", "roman": "ḍhoka", "meaning": "to enter", "audio": "audio/bn/words/bn-ddh-05.mp3" },
+        { "text": "ঢিল", "roman": "ḍhil", "meaning": "loose; pebble", "audio": "audio/bn/words/bn-ddh-06.mp3" }
+      ]
+    },
+    {
+      "id": "bn-nn",
+      "char": "ণ",
+      "name": "ṇô (murdhônyô ṇô)",
+      "romanization": "ṇô",
+      "ipa": "/ɳ/",
+      "letterAudio": "audio/bn/letters/bn-nn.mp3",
+      "memoryTrick": "Like a retroflex 'n' — tongue curled way back, nasal sound vibrating in your nose. Primarily used in tatsama (Sanskrit-derived) words. Rarely word-initial.",
+      "words": [
+        { "text": "কারণ", "roman": "karôṇ", "meaning": "reason; cause", "audio": "audio/bn/words/bn-nn-01.mp3" },
+        { "text": "পাণি", "roman": "paṇi", "meaning": "hand (formal)", "audio": "audio/bn/words/bn-nn-02.mp3" },
+        { "text": "অরণ্য", "roman": "ôrôṇṇô", "meaning": "forest; wilderness", "emoji": "🌲", "audio": "audio/bn/words/bn-nn-03.mp3" },
+        { "text": "বর্ণ", "roman": "bôrṇô", "meaning": "color; letter", "emoji": "🎨", "audio": "audio/bn/words/bn-nn-04.mp3" },
+        { "text": "তৃণ", "roman": "triṇô", "meaning": "grass (formal)", "emoji": "🌿", "audio": "audio/bn/words/bn-nn-05.mp3" }
+      ]
+    },
+    {
+      "id": "bn-t",
+      "char": "ত",
+      "name": "tô (dôntyô tô)",
+      "romanization": "tô",
+      "ipa": "/t̪/",
+      "letterAudio": "audio/bn/letters/bn-t.mp3",
+      "memoryTrick": "Like a soft dental 't' — tongue touches the back of your upper teeth, not the roof of your mouth. Think of the gentle 't' in French 'tu' or Spanish 'tú'.",
+      "words": [
+        { "text": "তারা", "roman": "tara", "meaning": "star; they", "emoji": "⭐", "audio": "audio/bn/words/bn-t-01.mp3" },
+        { "text": "তেল", "roman": "tel", "meaning": "oil", "audio": "audio/bn/words/bn-t-02.mp3" },
+        { "text": "তিন", "roman": "tin", "meaning": "three", "audio": "audio/bn/words/bn-t-03.mp3" },
+        { "text": "তাক", "roman": "tak", "meaning": "shelf", "audio": "audio/bn/words/bn-t-04.mp3" },
+        { "text": "তরমুজ", "roman": "tôrmuj", "meaning": "watermelon", "emoji": "🍉", "audio": "audio/bn/words/bn-t-05.mp3" },
+        { "text": "তুলা", "roman": "tula", "meaning": "cotton", "audio": "audio/bn/words/bn-t-06.mp3" },
+        { "text": "তাড়াতাড়ি", "roman": "taṛataṛi", "meaning": "quickly; hurry", "audio": "audio/bn/words/bn-t-07.mp3" },
+        { "text": "তিতা", "roman": "tita", "meaning": "bitter", "audio": "audio/bn/words/bn-t-08.mp3" },
+        { "text": "তাজা", "roman": "taja", "meaning": "fresh", "audio": "audio/bn/words/bn-t-09.mp3" },
+        { "text": "তলা", "roman": "tôla", "meaning": "bottom; floor level", "audio": "audio/bn/words/bn-t-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-th",
+      "char": "থ",
+      "name": "thô (dôntyô thô)",
+      "romanization": "thô",
+      "ipa": "/t̪ʰ/",
+      "letterAudio": "audio/bn/letters/bn-th.mp3",
+      "memoryTrick": "Like a soft, aspirated dental 't' — tongue on teeth with a puff of air. Think of saying 't-humb' with your tongue touching your teeth.",
+      "words": [
+        { "text": "থালা", "roman": "thala", "meaning": "plate; platter", "emoji": "🍽️", "audio": "audio/bn/words/bn-th-01.mp3" },
+        { "text": "থাকা", "roman": "thaka", "meaning": "to stay; to live", "emoji": "🏠", "audio": "audio/bn/words/bn-th-02.mp3" },
+        { "text": "থুতনি", "roman": "thutni", "meaning": "chin", "audio": "audio/bn/words/bn-th-03.mp3" },
+        { "text": "থাবা", "roman": "thaba", "meaning": "paw", "emoji": "🐾", "audio": "audio/bn/words/bn-th-04.mp3" },
+        { "text": "থেমে", "roman": "theme", "meaning": "stopped; paused", "audio": "audio/bn/words/bn-th-05.mp3" },
+        { "text": "থলি", "roman": "thôli", "meaning": "small bag; pouch", "audio": "audio/bn/words/bn-th-06.mp3" },
+        { "text": "থান", "roman": "than", "meaning": "bolt of cloth; place", "audio": "audio/bn/words/bn-th-07.mp3" },
+        { "text": "থাবড়", "roman": "thabôṛ", "meaning": "slap", "audio": "audio/bn/words/bn-th-08.mp3" }
+      ]
+    },
+    {
+      "id": "bn-d",
+      "char": "দ",
+      "name": "dô (dôntyô dô)",
+      "romanization": "dô",
+      "ipa": "/d̪/",
+      "letterAudio": "audio/bn/letters/bn-d.mp3",
+      "memoryTrick": "Like a soft dental 'd' — tongue touches the back of your upper teeth, voice buzzing. Think of the gentle 'd' in Spanish 'dedo'.",
+      "words": [
+        { "text": "দরজা", "roman": "dôrja", "meaning": "door", "emoji": "🚪", "audio": "audio/bn/words/bn-d-01.mp3" },
+        { "text": "দুধ", "roman": "dudh", "meaning": "milk", "emoji": "🥛", "audio": "audio/bn/words/bn-d-02.mp3" },
+        { "text": "দেশ", "roman": "deś", "meaning": "country", "emoji": "🌍", "audio": "audio/bn/words/bn-d-03.mp3" },
+        { "text": "দিন", "roman": "din", "meaning": "day", "audio": "audio/bn/words/bn-d-04.mp3" },
+        { "text": "দাদু", "roman": "dadu", "meaning": "grandfather", "emoji": "👴", "audio": "audio/bn/words/bn-d-05.mp3" },
+        { "text": "দশ", "roman": "dôś", "meaning": "ten", "audio": "audio/bn/words/bn-d-06.mp3" },
+        { "text": "দাম", "roman": "dam", "meaning": "price; value", "audio": "audio/bn/words/bn-d-07.mp3" },
+        { "text": "দুই", "roman": "dui", "meaning": "two", "audio": "audio/bn/words/bn-d-08.mp3" },
+        { "text": "দাঁত", "roman": "dãt", "meaning": "tooth", "emoji": "🦷", "audio": "audio/bn/words/bn-d-09.mp3" },
+        { "text": "দোকান", "roman": "dokan", "meaning": "shop; store", "emoji": "🏪", "audio": "audio/bn/words/bn-d-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-dh",
+      "char": "ধ",
+      "name": "dhô (dôntyô dhô)",
+      "romanization": "dhô",
+      "ipa": "/d̪ʱ/",
+      "letterAudio": "audio/bn/letters/bn-dh.mp3",
+      "memoryTrick": "Like a soft, breathy dental 'd' — tongue on teeth, voice buzzing, with air flowing through. Think of 'd-huh' said with your tongue touching your teeth.",
+      "words": [
+        { "text": "ধন্যবাদ", "roman": "dhônnôbad", "meaning": "thank you", "audio": "audio/bn/words/bn-dh-01.mp3" },
+        { "text": "ধান", "roman": "dhan", "meaning": "paddy; rice plant", "emoji": "🌾", "audio": "audio/bn/words/bn-dh-02.mp3" },
+        { "text": "ধরা", "roman": "dhôra", "meaning": "to catch; to hold", "audio": "audio/bn/words/bn-dh-03.mp3" },
+        { "text": "ধীরে", "roman": "dhire", "meaning": "slowly", "audio": "audio/bn/words/bn-dh-04.mp3" },
+        { "text": "ধোঁয়া", "roman": "dhõẏa", "meaning": "smoke", "emoji": "💨", "audio": "audio/bn/words/bn-dh-05.mp3" },
+        { "text": "ধন", "roman": "dhôn", "meaning": "wealth; treasure", "audio": "audio/bn/words/bn-dh-06.mp3" },
+        { "text": "ধর্ম", "roman": "dhôrmô", "meaning": "religion; duty", "audio": "audio/bn/words/bn-dh-07.mp3" },
+        { "text": "ধনুক", "roman": "dhônuk", "meaning": "bow (weapon)", "audio": "audio/bn/words/bn-dh-08.mp3" }
+      ]
+    },
+    {
+      "id": "bn-n",
+      "char": "ন",
+      "name": "nô (dôntyô nô)",
+      "romanization": "nô",
+      "ipa": "/n/",
+      "letterAudio": "audio/bn/letters/bn-n.mp3",
+      "memoryTrick": "Like 'n' in 'no'. A dental nasal — tongue touches the back of your upper teeth. This is the most common 'n' in Bengali, appearing in everyday words.",
+      "words": [
+        { "text": "নদী", "roman": "nôdi", "meaning": "river", "emoji": "🏞️", "audio": "audio/bn/words/bn-n-01.mp3" },
+        { "text": "নাম", "roman": "nam", "meaning": "name", "audio": "audio/bn/words/bn-n-02.mp3" },
+        { "text": "নাক", "roman": "nak", "meaning": "nose", "emoji": "👃", "audio": "audio/bn/words/bn-n-03.mp3" },
+        { "text": "নয়", "roman": "nôy", "meaning": "nine; not", "audio": "audio/bn/words/bn-n-04.mp3" },
+        { "text": "নতুন", "roman": "nôtun", "meaning": "new", "emoji": "🆕", "audio": "audio/bn/words/bn-n-05.mp3" },
+        { "text": "নুন", "roman": "nun", "meaning": "salt", "emoji": "🧂", "audio": "audio/bn/words/bn-n-06.mp3" },
+        { "text": "নীল", "roman": "nil", "meaning": "blue", "audio": "audio/bn/words/bn-n-07.mp3" },
+        { "text": "নাচ", "roman": "nac", "meaning": "dance", "emoji": "💃", "audio": "audio/bn/words/bn-n-08.mp3" },
+        { "text": "নখ", "roman": "nôkh", "meaning": "nail; claw", "audio": "audio/bn/words/bn-n-09.mp3" },
+        { "text": "নৌকা", "roman": "nouka", "meaning": "boat", "emoji": "⛵", "audio": "audio/bn/words/bn-n-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-p",
+      "char": "প",
+      "name": "pô",
+      "romanization": "pô",
+      "ipa": "/p/",
+      "letterAudio": "audio/bn/letters/bn-p.mp3",
+      "memoryTrick": "Like 'p' in 'pen'. A clean, unaspirated lip sound — no puff of air. Think of a light pop of the lips.",
+      "words": [
+        { "text": "পানি", "roman": "pani", "meaning": "water (drinking)", "emoji": "💧", "audio": "audio/bn/words/bn-p-01.mp3" },
+        { "text": "পাখি", "roman": "pakhi", "meaning": "bird", "emoji": "🐦", "audio": "audio/bn/words/bn-p-02.mp3" },
+        { "text": "পাতা", "roman": "pata", "meaning": "leaf", "emoji": "🍃", "audio": "audio/bn/words/bn-p-03.mp3" },
+        { "text": "পাথর", "roman": "pathôr", "meaning": "stone; rock", "emoji": "🪨", "audio": "audio/bn/words/bn-p-04.mp3" },
+        { "text": "পাঁচ", "roman": "pãc", "meaning": "five", "audio": "audio/bn/words/bn-p-05.mp3" },
+        { "text": "পেট", "roman": "peṭ", "meaning": "stomach; belly", "audio": "audio/bn/words/bn-p-06.mp3" },
+        { "text": "পুতুল", "roman": "putul", "meaning": "doll; puppet", "audio": "audio/bn/words/bn-p-07.mp3" },
+        { "text": "পাহাড়", "roman": "pahaṛ", "meaning": "mountain; hill", "emoji": "⛰️", "audio": "audio/bn/words/bn-p-08.mp3" },
+        { "text": "পেঁয়াজ", "roman": "pẽẏaj", "meaning": "onion", "emoji": "🧅", "audio": "audio/bn/words/bn-p-09.mp3" },
+        { "text": "পূজা", "roman": "puja", "meaning": "worship; prayer ritual", "audio": "audio/bn/words/bn-p-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-ph",
+      "char": "ফ",
+      "name": "phô",
+      "romanization": "phô",
+      "ipa": "/pʰ/ or /f/",
+      "letterAudio": "audio/bn/letters/bn-ph.mp3",
+      "memoryTrick": "In standard Bengali it's an aspirated 'p' like 'ph' in 'uphill' — a puff of air after the 'p'. In Eastern dialects and Bangladesh, it's often pronounced like English 'f' in 'fan'.",
+      "words": [
+        { "text": "ফুল", "roman": "phul", "meaning": "flower", "emoji": "🌸", "audio": "audio/bn/words/bn-ph-01.mp3" },
+        { "text": "ফল", "roman": "phôl", "meaning": "fruit", "emoji": "🍎", "audio": "audio/bn/words/bn-ph-02.mp3" },
+        { "text": "ফুটবল", "roman": "phuṭbôl", "meaning": "football; soccer", "emoji": "⚽", "audio": "audio/bn/words/bn-ph-03.mp3" },
+        { "text": "ফ্যান", "roman": "phyān", "meaning": "fan (electric)", "audio": "audio/bn/words/bn-ph-04.mp3" },
+        { "text": "ফিরে", "roman": "phire", "meaning": "return; come back", "audio": "audio/bn/words/bn-ph-05.mp3" },
+        { "text": "ফোঁটা", "roman": "phõṭa", "meaning": "drop; dot on forehead", "audio": "audio/bn/words/bn-ph-06.mp3" },
+        { "text": "ফাঁকা", "roman": "phãka", "meaning": "empty; blank", "audio": "audio/bn/words/bn-ph-07.mp3" },
+        { "text": "ফড়িং", "roman": "phôṛiṅ", "meaning": "grasshopper; dragonfly", "emoji": "🦗", "audio": "audio/bn/words/bn-ph-08.mp3" }
+      ]
+    },
+    {
+      "id": "bn-b",
+      "char": "ব",
+      "name": "bô",
+      "romanization": "bô",
+      "ipa": "/b/",
+      "letterAudio": "audio/bn/letters/bn-b.mp3",
+      "memoryTrick": "Like 'b' in 'boy'. A voiced, unaspirated lip sound. In some positions (especially between vowels) it can soften to a 'v'-like sound in Eastern dialects.",
+      "words": [
+        { "text": "বই", "roman": "bôi", "meaning": "book", "emoji": "📖", "audio": "audio/bn/words/bn-b-01.mp3" },
+        { "text": "বাড়ি", "roman": "baṛi", "meaning": "house; home", "emoji": "🏠", "audio": "audio/bn/words/bn-b-02.mp3" },
+        { "text": "বাঘ", "roman": "bagh", "meaning": "tiger", "emoji": "🐅", "audio": "audio/bn/words/bn-b-03.mp3" },
+        { "text": "বৃষ্টি", "roman": "briṣṭi", "meaning": "rain", "emoji": "🌧️", "audio": "audio/bn/words/bn-b-04.mp3" },
+        { "text": "বাবা", "roman": "baba", "meaning": "father; dad", "emoji": "👨", "audio": "audio/bn/words/bn-b-05.mp3" },
+        { "text": "বড়", "roman": "bôṛô", "meaning": "big; large", "audio": "audio/bn/words/bn-b-06.mp3" },
+        { "text": "বাম", "roman": "bam", "meaning": "left (direction)", "emoji": "⬅️", "audio": "audio/bn/words/bn-b-07.mp3" },
+        { "text": "বালিশ", "roman": "baliś", "meaning": "pillow", "audio": "audio/bn/words/bn-b-08.mp3" },
+        { "text": "বন্ধু", "roman": "bôndhu", "meaning": "friend", "audio": "audio/bn/words/bn-b-09.mp3" },
+        { "text": "বাজার", "roman": "bajar", "meaning": "market", "emoji": "🏪", "audio": "audio/bn/words/bn-b-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-bh",
+      "char": "ভ",
+      "name": "bhô",
+      "romanization": "bhô",
+      "ipa": "/bʱ/ or /β/",
+      "letterAudio": "audio/bn/letters/bn-bh.mp3",
+      "memoryTrick": "Like 'bh' in 'clubhouse' — a voiced, breathy 'b'. In many modern Bengali dialects it's become a soft, airy 'v'-like sound, especially in Eastern Bengal.",
+      "words": [
+        { "text": "ভাত", "roman": "bhat", "meaning": "cooked rice", "emoji": "🍚", "audio": "audio/bn/words/bn-bh-01.mp3" },
+        { "text": "ভালো", "roman": "bhalo", "meaning": "good", "emoji": "👍", "audio": "audio/bn/words/bn-bh-02.mp3" },
+        { "text": "ভাই", "roman": "bhai", "meaning": "brother", "emoji": "👦", "audio": "audio/bn/words/bn-bh-03.mp3" },
+        { "text": "ভাষা", "roman": "bhaṣa", "meaning": "language", "audio": "audio/bn/words/bn-bh-04.mp3" },
+        { "text": "ভূত", "roman": "bhut", "meaning": "ghost; spirit", "emoji": "👻", "audio": "audio/bn/words/bn-bh-05.mp3" },
+        { "text": "ভেড়া", "roman": "bheṛa", "meaning": "sheep", "emoji": "🐑", "audio": "audio/bn/words/bn-bh-06.mp3" },
+        { "text": "ভুল", "roman": "bhul", "meaning": "mistake; wrong", "audio": "audio/bn/words/bn-bh-07.mp3" },
+        { "text": "ভারী", "roman": "bhari", "meaning": "heavy", "audio": "audio/bn/words/bn-bh-08.mp3" }
+      ]
+    },
+    {
+      "id": "bn-m",
+      "char": "ম",
+      "name": "mô",
+      "romanization": "mô",
+      "ipa": "/m/",
+      "letterAudio": "audio/bn/letters/bn-m.mp3",
+      "memoryTrick": "Like 'm' in 'mom'. Hum through your nose with your lips together. Think of the satisfied 'mmm' sound when eating something delicious.",
+      "words": [
+        { "text": "মা", "roman": "ma", "meaning": "mother", "emoji": "👩", "audio": "audio/bn/words/bn-m-01.mp3" },
+        { "text": "মাছ", "roman": "mach", "meaning": "fish", "emoji": "🐟", "audio": "audio/bn/words/bn-m-02.mp3" },
+        { "text": "মাঠ", "roman": "maṭh", "meaning": "field; ground", "audio": "audio/bn/words/bn-m-03.mp3" },
+        { "text": "মাথা", "roman": "matha", "meaning": "head", "audio": "audio/bn/words/bn-m-04.mp3" },
+        { "text": "মাটি", "roman": "maṭi", "meaning": "soil; earth", "audio": "audio/bn/words/bn-m-05.mp3" },
+        { "text": "মুখ", "roman": "mukh", "meaning": "face; mouth", "audio": "audio/bn/words/bn-m-06.mp3" },
+        { "text": "মেঘ", "roman": "megh", "meaning": "cloud", "emoji": "☁️", "audio": "audio/bn/words/bn-m-07.mp3" },
+        { "text": "মিষ্টি", "roman": "miṣṭi", "meaning": "sweet", "emoji": "🍬", "audio": "audio/bn/words/bn-m-08.mp3" },
+        { "text": "মোম", "roman": "mom", "meaning": "wax; candle", "emoji": "🕯️", "audio": "audio/bn/words/bn-m-09.mp3" },
+        { "text": "মুরগি", "roman": "murgi", "meaning": "chicken; hen", "emoji": "🐔", "audio": "audio/bn/words/bn-m-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-y",
+      "char": "য",
+      "name": "jô (ôntôsthô jô)",
+      "romanization": "jô / yô",
+      "ipa": "/dʒ/",
+      "letterAudio": "audio/bn/letters/bn-y.mp3",
+      "memoryTrick": "In standard Bengali, pronounced like 'j' in 'jam' (identical to জ in speech). Historically a 'y' sound, and it still behaves like 'y' in conjuncts (e.g. স + য = স্য 'sy'). Think of it as the 'y' letter that learned to say 'j'.",
+      "words": [
+        { "text": "যদি", "roman": "jôdi", "meaning": "if", "audio": "audio/bn/words/bn-y-01.mp3" },
+        { "text": "যখন", "roman": "jôkhôn", "meaning": "when", "audio": "audio/bn/words/bn-y-02.mp3" },
+        { "text": "যাওয়া", "roman": "jaoẇa", "meaning": "to go; going", "audio": "audio/bn/words/bn-y-03.mp3" },
+        { "text": "যত্ন", "roman": "jôtnô", "meaning": "care; effort", "audio": "audio/bn/words/bn-y-04.mp3" },
+        { "text": "যুদ্ধ", "roman": "juddhô", "meaning": "war; battle", "audio": "audio/bn/words/bn-y-05.mp3" },
+        { "text": "যোগ", "roman": "jog", "meaning": "addition; yoga", "audio": "audio/bn/words/bn-y-06.mp3" },
+        { "text": "যাত্রা", "roman": "jatra", "meaning": "journey; travel", "audio": "audio/bn/words/bn-y-07.mp3" },
+        { "text": "যত", "roman": "jôtô", "meaning": "as much; how much", "audio": "audio/bn/words/bn-y-08.mp3" }
+      ]
+    },
+    {
+      "id": "bn-r",
+      "char": "র",
+      "name": "rô",
+      "romanization": "rô",
+      "ipa": "/r/",
+      "letterAudio": "audio/bn/letters/bn-r.mp3",
+      "memoryTrick": "Like a tapped or trilled 'r' as in Spanish 'pero'. The tongue taps the roof of the mouth once or twice. Think of a quick drum roll — shorter than the rolled Scottish 'r'.",
+      "words": [
+        { "text": "রাত", "roman": "rat", "meaning": "night", "emoji": "🌙", "audio": "audio/bn/words/bn-r-01.mp3" },
+        { "text": "রং", "roman": "rôṅ", "meaning": "color", "emoji": "🎨", "audio": "audio/bn/words/bn-r-02.mp3" },
+        { "text": "রাস্তা", "roman": "rasta", "meaning": "road; street", "emoji": "🛣️", "audio": "audio/bn/words/bn-r-03.mp3" },
+        { "text": "রাজা", "roman": "raja", "meaning": "king", "emoji": "👑", "audio": "audio/bn/words/bn-r-04.mp3" },
+        { "text": "রুটি", "roman": "ruṭi", "meaning": "bread; roti", "emoji": "🍞", "audio": "audio/bn/words/bn-r-05.mp3" },
+        { "text": "রোদ", "roman": "rod", "meaning": "sunshine; sunlight", "emoji": "☀️", "audio": "audio/bn/words/bn-r-06.mp3" },
+        { "text": "রান্না", "roman": "ranna", "meaning": "cooking", "emoji": "🍳", "audio": "audio/bn/words/bn-r-07.mp3" },
+        { "text": "রূপ", "roman": "rup", "meaning": "beauty; appearance", "audio": "audio/bn/words/bn-r-08.mp3" }
+      ]
+    },
+    {
+      "id": "bn-l",
+      "char": "ল",
+      "name": "lô",
+      "romanization": "lô",
+      "ipa": "/l/",
+      "letterAudio": "audio/bn/letters/bn-l.mp3",
+      "memoryTrick": "Like 'l' in 'lamp'. The tongue touches the roof of the mouth right behind the teeth. Think of the smooth, liquid sound of water lapping.",
+      "words": [
+        { "text": "লাল", "roman": "lal", "meaning": "red", "emoji": "🔴", "audio": "audio/bn/words/bn-l-01.mp3" },
+        { "text": "লেবু", "roman": "lebu", "meaning": "lemon; lime", "emoji": "🍋", "audio": "audio/bn/words/bn-l-02.mp3" },
+        { "text": "লাঠি", "roman": "laṭhi", "meaning": "stick; staff", "audio": "audio/bn/words/bn-l-03.mp3" },
+        { "text": "লোক", "roman": "lok", "meaning": "person; people", "audio": "audio/bn/words/bn-l-04.mp3" },
+        { "text": "লেখা", "roman": "lekha", "meaning": "writing; to write", "emoji": "✍️", "audio": "audio/bn/words/bn-l-05.mp3" },
+        { "text": "লুচি", "roman": "luci", "meaning": "deep-fried flatbread", "audio": "audio/bn/words/bn-l-06.mp3" },
+        { "text": "লম্বা", "roman": "lômba", "meaning": "long; tall", "audio": "audio/bn/words/bn-l-07.mp3" },
+        { "text": "লবণ", "roman": "lôbôṇ", "meaning": "salt (formal)", "audio": "audio/bn/words/bn-l-08.mp3" }
+      ]
+    },
+    {
+      "id": "bn-sh",
+      "char": "শ",
+      "name": "śô (talôbyô śô)",
+      "romanization": "śô",
+      "ipa": "/ʃ/",
+      "letterAudio": "audio/bn/letters/bn-sh.mp3",
+      "memoryTrick": "Like 'sh' in 'shoe' or 'ship' — a palatal sibilant. Think of telling someone to be quiet: 'shhh'. Identical in pronunciation to ষ and স in most modern Bengali.",
+      "words": [
+        { "text": "শিশু", "roman": "śiśu", "meaning": "child; infant", "emoji": "👶", "audio": "audio/bn/words/bn-sh-01.mp3" },
+        { "text": "শহর", "roman": "śôhôr", "meaning": "city", "emoji": "🏙️", "audio": "audio/bn/words/bn-sh-02.mp3" },
+        { "text": "শাড়ি", "roman": "śaṛi", "meaning": "sari (garment)", "emoji": "👗", "audio": "audio/bn/words/bn-sh-03.mp3" },
+        { "text": "শীত", "roman": "śit", "meaning": "winter; cold weather", "emoji": "❄️", "audio": "audio/bn/words/bn-sh-04.mp3" },
+        { "text": "শব্দ", "roman": "śôbdô", "meaning": "word; sound", "audio": "audio/bn/words/bn-sh-05.mp3" },
+        { "text": "শিক্ষক", "roman": "śikkhôk", "meaning": "teacher", "emoji": "👨‍🏫", "audio": "audio/bn/words/bn-sh-06.mp3" },
+        { "text": "শিয়াল", "roman": "śiyal", "meaning": "fox; jackal", "emoji": "🦊", "audio": "audio/bn/words/bn-sh-07.mp3" },
+        { "text": "শাক", "roman": "śak", "meaning": "leafy greens", "emoji": "🥬", "audio": "audio/bn/words/bn-sh-08.mp3" },
+        { "text": "শুধু", "roman": "śudhu", "meaning": "only; just", "audio": "audio/bn/words/bn-sh-09.mp3" },
+        { "text": "শেষ", "roman": "śeṣ", "meaning": "end; finish", "audio": "audio/bn/words/bn-sh-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-ss",
+      "char": "ষ",
+      "name": "ṣô (murdhônyô ṣô)",
+      "romanization": "ṣô",
+      "ipa": "/ʃ/",
+      "letterAudio": "audio/bn/letters/bn-ss.mp3",
+      "memoryTrick": "Historically a retroflex 'sh', but in modern Bengali it's pronounced exactly like শ and স — all are plain 'sh'. Think of it as the 'retroflex sh' that lost its curl and now sounds just like the others.",
+      "words": [
+        { "text": "ষড়যন্ত্র", "roman": "ṣôṛôjôntrô", "meaning": "conspiracy", "audio": "audio/bn/words/bn-ss-01.mp3" },
+        { "text": "ষাঁড়", "roman": "ṣãṛ", "meaning": "bull", "emoji": "🐂", "audio": "audio/bn/words/bn-ss-02.mp3" },
+        { "text": "বর্ষা", "roman": "bôrṣa", "meaning": "monsoon; rainy season", "emoji": "🌧️", "audio": "audio/bn/words/bn-ss-03.mp3" },
+        { "text": "ভাষা", "roman": "bhaṣa", "meaning": "language", "audio": "audio/bn/words/bn-ss-04.mp3" },
+        { "text": "কৃষক", "roman": "kriṣôk", "meaning": "farmer", "emoji": "👨‍🌾", "audio": "audio/bn/words/bn-ss-05.mp3" },
+        { "text": "আকর্ষণ", "roman": "akôrṣôṇ", "meaning": "attraction", "audio": "audio/bn/words/bn-ss-06.mp3" },
+        { "text": "বৃষ্টি", "roman": "briṣṭi", "meaning": "rain", "emoji": "🌧️", "audio": "audio/bn/words/bn-ss-07.mp3" }
+      ]
+    },
+    {
+      "id": "bn-s",
+      "char": "স",
+      "name": "sô (dôntyô sô)",
+      "romanization": "sô",
+      "ipa": "/ʃ/ or /s/",
+      "letterAudio": "audio/bn/letters/bn-s.mp3",
+      "memoryTrick": "In modern standard Bengali, pronounced as 'sh' like শ — but historically and in some dialects a dental 's' like in English 'sun'. Think of it as the most common 'sh' letter — it starts more words than any other sibilant.",
+      "words": [
+        { "text": "সকাল", "roman": "sôkal", "meaning": "morning", "emoji": "🌅", "audio": "audio/bn/words/bn-s-01.mp3" },
+        { "text": "সূর্য", "roman": "surjô", "meaning": "sun", "emoji": "☀️", "audio": "audio/bn/words/bn-s-02.mp3" },
+        { "text": "সাপ", "roman": "sap", "meaning": "snake", "emoji": "🐍", "audio": "audio/bn/words/bn-s-03.mp3" },
+        { "text": "সবুজ", "roman": "sôbuj", "meaning": "green", "emoji": "🟢", "audio": "audio/bn/words/bn-s-04.mp3" },
+        { "text": "সেতু", "roman": "setu", "meaning": "bridge", "emoji": "🌉", "audio": "audio/bn/words/bn-s-05.mp3" },
+        { "text": "সাত", "roman": "sat", "meaning": "seven", "audio": "audio/bn/words/bn-s-06.mp3" },
+        { "text": "সুখ", "roman": "sukh", "meaning": "happiness; comfort", "emoji": "😊", "audio": "audio/bn/words/bn-s-07.mp3" },
+        { "text": "সোনা", "roman": "sona", "meaning": "gold", "audio": "audio/bn/words/bn-s-08.mp3" },
+        { "text": "সময়", "roman": "sômôy", "meaning": "time", "emoji": "⏰", "audio": "audio/bn/words/bn-s-09.mp3" },
+        { "text": "সাঁতার", "roman": "sãtar", "meaning": "swimming", "emoji": "🏊", "audio": "audio/bn/words/bn-s-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-h",
+      "char": "হ",
+      "name": "hô",
+      "romanization": "hô",
+      "ipa": "/h/ or /ɦ/",
+      "letterAudio": "audio/bn/letters/bn-h.mp3",
+      "memoryTrick": "Like 'h' in 'hat'. In Bengali it can be voiced — a breathy 'h' with vibration in your throat, like a gentle sigh. Think of the soft exhale when you fog up a mirror.",
+      "words": [
+        { "text": "হাত", "roman": "hat", "meaning": "hand", "emoji": "✋", "audio": "audio/bn/words/bn-h-01.mp3" },
+        { "text": "হাতি", "roman": "hati", "meaning": "elephant", "emoji": "🐘", "audio": "audio/bn/words/bn-h-02.mp3" },
+        { "text": "হলুদ", "roman": "hôlud", "meaning": "yellow; turmeric", "emoji": "🟡", "audio": "audio/bn/words/bn-h-03.mp3" },
+        { "text": "হাসি", "roman": "haśi", "meaning": "smile; laugh", "emoji": "😄", "audio": "audio/bn/words/bn-h-04.mp3" },
+        { "text": "হাওয়া", "roman": "haoẇa", "meaning": "wind; air", "emoji": "💨", "audio": "audio/bn/words/bn-h-05.mp3" },
+        { "text": "হাঁস", "roman": "hãs", "meaning": "duck", "emoji": "🦆", "audio": "audio/bn/words/bn-h-06.mp3" },
+        { "text": "হাড়", "roman": "haṛ", "meaning": "bone", "emoji": "🦴", "audio": "audio/bn/words/bn-h-07.mp3" },
+        { "text": "হাজার", "roman": "hajar", "meaning": "thousand", "audio": "audio/bn/words/bn-h-08.mp3" },
+        { "text": "হিরে", "roman": "hire", "meaning": "diamond", "emoji": "💎", "audio": "audio/bn/words/bn-h-09.mp3" },
+        { "text": "হরিণ", "roman": "hôriṇ", "meaning": "deer", "emoji": "🦌", "audio": "audio/bn/words/bn-h-10.mp3" }
+      ]
+    },
+    {
+      "id": "bn-yya",
+      "char": "য়",
+      "name": "yô (ôntôsthô ẏô, y with nuqta)",
+      "romanization": "ẏ / y",
+      "ipa": "/j/ or /e̯/",
+      "letterAudio": "audio/bn/letters/bn-yya.mp3",
+      "memoryTrick": "Like 'y' in 'yes' — the true 'y' sound of Bengali. Think of it as য with a dot underneath that says 'remember — I'm the real y-sound, not a j-sound!'",
+      "words": [
+        { "text": "ময়ূর", "roman": "môẏur", "meaning": "peacock", "emoji": "🦚", "audio": "audio/bn/words/bn-yya-01.mp3" },
+        { "text": "নয়ন", "roman": "nôẏôn", "meaning": "eye (poetic)", "emoji": "👁️", "audio": "audio/bn/words/bn-yya-02.mp3" },
+        { "text": "বয়স", "roman": "bôẏôs", "meaning": "age", "audio": "audio/bn/words/bn-yya-03.mp3" },
+        { "text": "শয়ন", "roman": "śôẏôn", "meaning": "sleeping; lying down", "emoji": "😴", "audio": "audio/bn/words/bn-yya-04.mp3" },
+        { "text": "দয়া", "roman": "dôẏa", "meaning": "kindness; mercy", "audio": "audio/bn/words/bn-yya-05.mp3" },
+        { "text": "ছায়া", "roman": "chaẏa", "meaning": "shadow; shade", "audio": "audio/bn/words/bn-yya-06.mp3" },
+        { "text": "কন্যা", "roman": "kônna", "meaning": "daughter; bride", "emoji": "👧", "audio": "audio/bn/words/bn-yya-07.mp3" },
+        { "text": "বায়ু", "roman": "baẏu", "meaning": "air; wind (formal)", "emoji": "💨", "audio": "audio/bn/words/bn-yya-08.mp3" }
+      ]
+    },
+    {
+      "id": "bn-rra",
+      "char": "ড়",
+      "name": "ṛô (ḍô with nuqta)",
+      "romanization": "ṛô",
+      "ipa": "/ɽ/",
+      "letterAudio": "audio/bn/letters/bn-rra.mp3",
+      "memoryTrick": "Like a flapped 'r' as in the American English 'butter' or 'ladder' — the tongue flicks once against the roof of the mouth. Think of ড with a dot that softens it into a quick tap.",
+      "words": [
+        { "text": "বড়", "roman": "bôṛô", "meaning": "big; large", "audio": "audio/bn/words/bn-rra-01.mp3" },
+        { "text": "গাড়ি", "roman": "gaṛi", "meaning": "car", "emoji": "🚗", "audio": "audio/bn/words/bn-rra-02.mp3" },
+        { "text": "বাড়ি", "roman": "baṛi", "meaning": "home", "emoji": "🏠", "audio": "audio/bn/words/bn-rra-03.mp3" },
+        { "text": "কাঠবিড়ালি", "roman": "kaṭhbiṛali", "meaning": "squirrel", "emoji": "🐿️", "audio": "audio/bn/words/bn-rra-04.mp3" },
+        { "text": "পড়া", "roman": "pôṛa", "meaning": "to read; to study", "emoji": "📖", "audio": "audio/bn/words/bn-rra-05.mp3" },
+        { "text": "তাড়াতাড়ি", "roman": "taṛataṛi", "meaning": "quickly; hurry", "audio": "audio/bn/words/bn-rra-06.mp3" },
+        { "text": "উড়ান", "roman": "uṛan", "meaning": "flight", "emoji": "✈️", "audio": "audio/bn/words/bn-rra-07.mp3" },
+        { "text": "ছড়া", "roman": "chôṛa", "meaning": "rhyme; poem", "audio": "audio/bn/words/bn-rra-08.mp3" }
+      ]
+    },
+    {
+      "id": "bn-rrha",
+      "char": "ঢ়",
+      "name": "ṛhô (ḍhô with nuqta)",
+      "romanization": "ṛhô",
+      "ipa": "/ɽʱ/",
+      "letterAudio": "audio/bn/letters/bn-rrha.mp3",
+      "memoryTrick": "Like a breathy, flapped 'rh' — a quick retroflex tap with air flowing through. Think of ঢ with a softening dot: the heavy breath of ঢ turns into a lighter, flapped sound.",
+      "words": [
+        { "text": "আঢ়াই", "roman": "aṛhai", "meaning": "two and a half", "audio": "audio/bn/words/bn-rrha-01.mp3" },
+        { "text": "গাঢ়", "roman": "gaṛhô", "meaning": "deep; intense", "audio": "audio/bn/words/bn-rrha-02.mp3" }
+      ]
+    },
+    {
+      "id": "bn-khanda-ta",
+      "char": "ৎ",
+      "name": "khôndô tô (broken ta)",
+      "romanization": "t",
+      "ipa": "/t̪/",
+      "letterAudio": "audio/bn/letters/bn-khanda-ta.mp3",
+      "memoryTrick": "Like a dental 't' without the built-in vowel — a bare 't' sound. Think of it as half a ত (tô), like cutting the letter in half. Used at the end of words where no vowel follows.",
+      "words": [
+        { "text": "উৎসব", "roman": "utsôb", "meaning": "festival", "emoji": "🎉", "audio": "audio/bn/words/bn-khanda-ta-01.mp3" },
+        { "text": "উৎপত্তি", "roman": "utpôtti", "meaning": "origin", "audio": "audio/bn/words/bn-khanda-ta-02.mp3" },
+        { "text": "সৎ", "roman": "sôt", "meaning": "honest; good", "audio": "audio/bn/words/bn-khanda-ta-03.mp3" },
+        { "text": "মহৎ", "roman": "môhôt", "meaning": "great; noble", "audio": "audio/bn/words/bn-khanda-ta-04.mp3" },
+        { "text": "জগৎ", "roman": "jôgôt", "meaning": "world; universe", "emoji": "🌍", "audio": "audio/bn/words/bn-khanda-ta-05.mp3" }
+      ]
+    },
+    {
+      "id": "bn-a-kar",
+      "char": "া",
+      "name": "a-kar (vowel sign aa)",
+      "romanization": "a (matra: ā-kār)",
+      "ipa": "/a/",
+      "letterAudio": "audio/bn/letters/bn-a-kar.mp3",
+      "memoryTrick": "The vowel sign for আ (long a). Written as a vertical line after the consonant. Think of it as stretching the inherent 'ô' into a long 'ah' — like ক + া = কা (ka)."
+    },
+    {
+      "id": "bn-i-kar",
+      "char": "ি",
+      "name": "i-kar (hrôshsho i-kar)",
+      "romanization": "i (matra: hrôshsho-i-kār)",
+      "ipa": "/i/",
+      "letterAudio": "audio/bn/letters/bn-i-kar.mp3",
+      "memoryTrick": "The vowel sign for short ই. Written as a small curl BEFORE the consonant but pronounced after it. Think of it as reaching forward: even though the mark comes first in writing, you say the vowel after — ক + ি = কি (ki)."
+    },
+    {
+      "id": "bn-ii-kar",
+      "char": "ী",
+      "name": "ii-kar (dirghô i-kar)",
+      "romanization": "ī (matra: dīrghô-ī-kār)",
+      "ipa": "/i/",
+      "letterAudio": "audio/bn/letters/bn-ii-kar.mp3",
+      "memoryTrick": "The vowel sign for long ঈ. Written as a curl after the consonant, with a decorative tail. Looks like the short i-kar with a little extra flourish — ক + ী = কী (kī). Same sound as short i in modern Bengali."
+    },
+    {
+      "id": "bn-u-kar",
+      "char": "ু",
+      "name": "u-kar (hrôshsho u-kar)",
+      "romanization": "u (matra: hrôshsho-u-kār)",
+      "ipa": "/u/",
+      "letterAudio": "audio/bn/letters/bn-u-kar.mp3",
+      "memoryTrick": "The vowel sign for short উ. Written as a small curl BELOW the consonant. Think of it curling downward like a little hook pulling the sound down — ক + ু = কু (ku)."
+    },
+    {
+      "id": "bn-uu-kar",
+      "char": "ূ",
+      "name": "uu-kar (dirghô u-kar)",
+      "romanization": "ū (matra: dīrghô-ū-kār)",
+      "ipa": "/u/",
+      "letterAudio": "audio/bn/letters/bn-uu-kar.mp3",
+      "memoryTrick": "The vowel sign for long ঊ. Written as a curl below with a little hook at the end. Like the short u-kar with a small extra tail — ক + ূ = কূ (kū). Same sound as short u in modern Bengali."
+    },
+    {
+      "id": "bn-ri-kar",
+      "char": "ৃ",
+      "name": "ri-kar (vowel sign ri)",
+      "romanization": "ri (matra: ri-kār)",
+      "ipa": "/ri/",
+      "letterAudio": "audio/bn/letters/bn-ri-kar.mp3",
+      "memoryTrick": "The vowel sign for ঋ. Written as a small curl below with a flick to the right. Think of it as a tiny 'r' tucked under the consonant — ক + ৃ = কৃ (kri)."
+    },
+    {
+      "id": "bn-e-kar",
+      "char": "ে",
+      "name": "e-kar (vowel sign e)",
+      "romanization": "e (matra: e-kār)",
+      "ipa": "/e/",
+      "letterAudio": "audio/bn/letters/bn-e-kar.mp3",
+      "memoryTrick": "The vowel sign for এ. Written as a slanted curl BEFORE the consonant but pronounced after — another 'reach-back' mark. ক + ে = কে (ke). Think of it leaning forward from the left."
+    },
+    {
+      "id": "bn-oi-kar",
+      "char": "ৈ",
+      "name": "oi-kar (vowel sign oi)",
+      "romanization": "oi (matra: oi-kār)",
+      "ipa": "/oi/",
+      "letterAudio": "audio/bn/letters/bn-oi-kar.mp3",
+      "memoryTrick": "The vowel sign for ঐ. Written as a slanted curl with a small flourish before the consonant. Looks like the e-kar with an extra flick — ক + ৈ = কৈ (koi). Think 'e-kar plus a twist equals oi'."
+    },
+    {
+      "id": "bn-o-kar",
+      "char": "ো",
+      "name": "o-kar (vowel sign o)",
+      "romanization": "o (matra: o-kār)",
+      "ipa": "/o/",
+      "letterAudio": "audio/bn/letters/bn-o-kar.mp3",
+      "memoryTrick": "The vowel sign for ও. Written as a combination: the e-kar on the left AND the a-kar on the right. ক + ো = কো (ko). Think of it as wrapping the consonant: e-kar before + a-kar after = the round 'o' sound."
+    },
+    {
+      "id": "bn-ou-kar",
+      "char": "ৌ",
+      "name": "ou-kar (vowel sign ou)",
+      "romanization": "ou (matra: ou-kār)",
+      "ipa": "/ou/",
+      "letterAudio": "audio/bn/letters/bn-ou-kar.mp3",
+      "memoryTrick": "The vowel sign for ঔ. Written as the oi-kar on the left AND a-kar on the right. ক + ৌ = কৌ (kou). Like the o-kar but with the oi-kar curve replacing the e-kar — wrapping the consonant in a two-sided embrace."
+    },
+    {
+      "id": "bn-anusvara",
+      "char": "ং",
+      "name": "ônusśar (anusvara)",
+      "romanization": "ṅ / ng (nasal marker)",
+      "ipa": "/ŋ/",
+      "letterAudio": "audio/bn/letters/bn-anusvara.mp3",
+      "memoryTrick": "The anusvara — a dot above a consonant that adds a nasal 'ng' sound. Think of it as closing your nose at the end of a syllable, like the 'ng' in 'song'. Also called 'bindu' (dot) in poetry."
+    },
+    {
+      "id": "bn-visarga",
+      "char": "ঃ",
+      "name": "bisôrgô (visarga)",
+      "romanization": "ḥ (breathy release marker)",
+      "ipa": "/h/",
+      "letterAudio": "audio/bn/letters/bn-visarga.mp3",
+      "memoryTrick": "The visarga — two dots that add a breathy 'h' release at the end of a syllable. Think of it as exhaling softly after the sound, like a gentle sigh. Rare in everyday Bengali; mostly in Sanskrit-origin words."
+    },
+    {
+      "id": "bn-chandrabindu",
+      "char": "ঁ",
+      "name": "côndrôbindu (chandrabindu)",
+      "romanization": "˜ / nasalization marker",
+      "ipa": "/˜/",
+      "letterAudio": "audio/bn/letters/bn-chandrabindu.mp3",
+      "memoryTrick": "The chandrabindu ('moon-dot') — a curved mark above a letter that nasalizes the vowel. Think of it as humming through your nose while saying the vowel, like the French 'bon' or Portuguese 'não'."
+    },
+    {
+      "id": "bn-hasanta",
+      "char": "্",
+      "name": "hôsôntô (hasanta / virama)",
+      "romanization": "∅ / virama (vowel killer)",
+      "letterAudio": "audio/bn/letters/bn-hasanta.mp3",
+      "memoryTrick": "The hasanta — a small diagonal stroke below a consonant that removes its inherent vowel. Think of it as the 'vowel killer' or 'mute button': ক is 'kô', but ক্ is just 'k'. It's how Bengali forms consonant clusters."
+    }
+  ]
+}

@@ -2,138 +2,687 @@
   "language": "Icelandic",
   "code": "is-IS",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
-      "id": "is-thorn",
-      "char": "Þ þ",
-      "name": "thorn",
-      "romanization": "þ",
-      "ipa": "/θ/",
-      "memoryTrick": "A Viking letter — 'th' as in 'thing'.",
+      "id": "is-a",
+      "char": "a",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/is/letters/is-a.mp3",
+      "memoryTrick": "Like the 'a' in English 'father' — open and relaxed. In Icelandic, it's a pure, single vowel, never drawled.",
       "words": [
-        {
-          "text": "þú",
-          "roman": "thú",
-          "meaning": "you",
-          "emoji": "🫵"
-        },
-        {
-          "text": "þrír",
-          "roman": "thrír",
-          "meaning": "three",
-          "emoji": "3️⃣"
-        }
-      ]
-    },
-    {
-      "id": "is-eth",
-      "char": "Ð ð",
-      "name": "eth",
-      "romanization": "ð",
-      "ipa": "/ð/",
-      "memoryTrick": "'th' as in 'this'; it never starts a word.",
-      "words": [
-        {
-          "text": "að",
-          "roman": "adh",
-          "meaning": "to",
-          "emoji": "➡️"
-        },
-        {
-          "text": "góður",
-          "roman": "góethur",
-          "meaning": "good",
-          "emoji": "👍"
-        }
-      ]
-    },
-    {
-      "id": "is-ae",
-      "char": "Æ æ",
-      "name": "æ",
-      "romanization": "æ",
-      "ipa": "/ai/",
-      "memoryTrick": "An a-e ligature — it says 'eye'.",
-      "words": [
-        {
-          "text": "læra",
-          "roman": "laira",
-          "meaning": "to learn",
-          "emoji": "📚"
-        },
-        {
-          "text": "kæri",
-          "roman": "kairi",
-          "meaning": "dear",
-          "emoji": "❤️"
-        }
-      ]
-    },
-    {
-      "id": "is-o-uml",
-      "char": "Ö ö",
-      "name": "ö",
-      "romanization": "ö",
-      "ipa": "/œ/",
-      "memoryTrick": "Round your lips, say 'e'.",
-      "words": [
-        {
-          "text": "öl",
-          "roman": "öl",
-          "meaning": "beer",
-          "emoji": "🍺"
-        },
-        {
-          "text": "björn",
-          "roman": "björn",
-          "meaning": "bear",
-          "emoji": "🐻"
-        }
+        { "text": "api", "roman": "api", "meaning": "monkey", "emoji": "🐒", "audio": "audio/is/words/is-a-01.mp3" },
+        { "text": "auga", "roman": "auga", "meaning": "eye", "emoji": "👁️", "audio": "audio/is/words/is-a-02.mp3" },
+        { "text": "afi", "roman": "afi", "meaning": "grandfather", "emoji": "👴", "audio": "audio/is/words/is-a-03.mp3" },
+        { "text": "amma", "roman": "amma", "meaning": "grandmother", "emoji": "👵", "audio": "audio/is/words/is-a-04.mp3" },
+        { "text": "akur", "roman": "akur", "meaning": "field", "emoji": "🌾", "audio": "audio/is/words/is-a-05.mp3" },
+        { "text": "aska", "roman": "aska", "meaning": "ash", "emoji": "🔥", "audio": "audio/is/words/is-a-06.mp3" },
+        { "text": "andi", "roman": "andi", "meaning": "spirit, breath", "audio": "audio/is/words/is-a-07.mp3" },
+        { "text": "alda", "roman": "alda", "meaning": "wave", "emoji": "🌊", "audio": "audio/is/words/is-a-08.mp3" },
+        { "text": "arinn", "roman": "arinn", "meaning": "hearth, fireplace", "audio": "audio/is/words/is-a-09.mp3" },
+        { "text": "appelsína", "roman": "appelsína", "meaning": "orange (fruit)", "emoji": "🍊", "audio": "audio/is/words/is-a-10.mp3" },
+        { "text": "aldin", "roman": "aldin", "meaning": "fruit (general)", "emoji": "🍎", "audio": "audio/is/words/is-a-11.mp3" },
+        { "text": "að", "roman": "adh", "meaning": "that (conjunction), to (infinitive marker)", "audio": "audio/is/words/is-a-12.mp3" }
       ]
     },
     {
       "id": "is-a-acute",
-      "char": "Á á",
-      "name": "á",
+      "char": "á",
+      "name": "a with acute",
       "romanization": "á",
       "ipa": "/au/",
-      "memoryTrick": "An 'a' with an accent — says 'ow' as in 'house'.",
+      "letterAudio": "audio/is/letters/is-a-acute.mp3",
+      "memoryTrick": "Sounds like 'ow' in English 'how' or 'cow' — a diphthong that glides from 'a' to 'u'. Think of saying 'owl' without the L.",
       "words": [
-        {
-          "text": "ár",
-          "roman": "áur",
-          "meaning": "year",
-          "emoji": "📅"
-        },
-        {
-          "text": "á",
-          "roman": "áu",
-          "meaning": "river",
-          "emoji": "🏞️"
-        }
+        { "text": "ást", "roman": "ást", "meaning": "love", "emoji": "❤️", "audio": "audio/is/words/is-a-acute-01.mp3" },
+        { "text": "á", "roman": "á", "meaning": "river", "emoji": "🏞️", "audio": "audio/is/words/is-a-acute-02.mp3" },
+        { "text": "ár", "roman": "ár", "meaning": "year", "emoji": "📅", "audio": "audio/is/words/is-a-acute-03.mp3" },
+        { "text": "ávöxtur", "roman": "ávöxtur", "meaning": "fruit", "emoji": "🍎", "audio": "audio/is/words/is-a-acute-04.mp3" },
+        { "text": "átta", "roman": "átta", "meaning": "eight", "emoji": "8️⃣", "audio": "audio/is/words/is-a-acute-05.mp3" },
+        { "text": "ágúst", "roman": "ágúst", "meaning": "August", "audio": "audio/is/words/is-a-acute-06.mp3" },
+        { "text": "áhugi", "roman": "áhugi", "meaning": "interest, enthusiasm", "audio": "audio/is/words/is-a-acute-07.mp3" },
+        { "text": "ástæða", "roman": "ástæða", "meaning": "reason, cause", "audio": "audio/is/words/is-a-acute-08.mp3" },
+        { "text": "áhrif", "roman": "áhrif", "meaning": "influence, effect", "audio": "audio/is/words/is-a-acute-09.mp3" },
+        { "text": "ákveða", "roman": "ákvedha", "meaning": "to decide", "audio": "audio/is/words/is-a-acute-10.mp3" }
+      ]
+    },
+    {
+      "id": "is-b",
+      "char": "b",
+      "name": "b",
+      "romanization": "b",
+      "ipa": "/p/",
+      "letterAudio": "audio/is/letters/is-b.mp3",
+      "memoryTrick": "An unaspirated 'p' sound — like the 'p' in English 'spot', never the voiced 'b' of 'boy'. Your vocal cords stay quiet.",
+      "words": [
+        { "text": "bók", "roman": "bók", "meaning": "book", "emoji": "📖", "audio": "audio/is/words/is-b-01.mp3" },
+        { "text": "barn", "roman": "barn", "meaning": "child", "emoji": "👶", "audio": "audio/is/words/is-b-02.mp3" },
+        { "text": "blóm", "roman": "blóm", "meaning": "flower", "emoji": "🌸", "audio": "audio/is/words/is-b-03.mp3" },
+        { "text": "bátur", "roman": "bátur", "meaning": "boat", "emoji": "🚤", "audio": "audio/is/words/is-b-04.mp3" },
+        { "text": "björn", "roman": "björn", "meaning": "bear", "emoji": "🐻", "audio": "audio/is/words/is-b-05.mp3" },
+        { "text": "borg", "roman": "borg", "meaning": "city", "emoji": "🏙️", "audio": "audio/is/words/is-b-06.mp3" },
+        { "text": "brauð", "roman": "braudh", "meaning": "bread", "emoji": "🍞", "audio": "audio/is/words/is-b-07.mp3" },
+        { "text": "blár", "roman": "blár", "meaning": "blue", "emoji": "🔵", "audio": "audio/is/words/is-b-08.mp3" },
+        { "text": "bróðir", "roman": "bródhir", "meaning": "brother", "audio": "audio/is/words/is-b-09.mp3" },
+        { "text": "borð", "roman": "bordh", "meaning": "table", "audio": "audio/is/words/is-b-10.mp3" },
+        { "text": "bolli", "roman": "bolli", "meaning": "cup", "emoji": "☕", "audio": "audio/is/words/is-b-11.mp3" },
+        { "text": "búa", "roman": "búa", "meaning": "to live, reside", "emoji": "🏠", "audio": "audio/is/words/is-b-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-d",
+      "char": "d",
+      "name": "d",
+      "romanization": "d",
+      "ipa": "/t/",
+      "letterAudio": "audio/is/letters/is-d.mp3",
+      "memoryTrick": "An unaspirated 't' sound — like the 't' in English 'stop', not the voiced 'd' of 'dog'. Keep your voice off.",
+      "words": [
+        { "text": "dagur", "roman": "dagur", "meaning": "day", "emoji": "☀️", "audio": "audio/is/words/is-d-01.mp3" },
+        { "text": "dyr", "roman": "dyr", "meaning": "door", "emoji": "🚪", "audio": "audio/is/words/is-d-02.mp3" },
+        { "text": "dýr", "roman": "dýr", "meaning": "animal", "emoji": "🐾", "audio": "audio/is/words/is-d-03.mp3" },
+        { "text": "draumur", "roman": "draumur", "meaning": "dream", "emoji": "💭", "audio": "audio/is/words/is-d-04.mp3" },
+        { "text": "diskur", "roman": "diskur", "meaning": "plate, dish", "emoji": "🍽️", "audio": "audio/is/words/is-d-05.mp3" },
+        { "text": "djúp", "roman": "djúp", "meaning": "the deep, depth", "audio": "audio/is/words/is-d-06.mp3" },
+        { "text": "dalur", "roman": "dalur", "meaning": "valley", "emoji": "🏔️", "audio": "audio/is/words/is-d-07.mp3" },
+        { "text": "dans", "roman": "dans", "meaning": "dance", "emoji": "💃", "audio": "audio/is/words/is-d-08.mp3" },
+        { "text": "dós", "roman": "dós", "meaning": "can, tin", "emoji": "🥫", "audio": "audio/is/words/is-d-09.mp3" },
+        { "text": "dropi", "roman": "dropi", "meaning": "drop (of liquid)", "emoji": "💧", "audio": "audio/is/words/is-d-10.mp3" }
+      ]
+    },
+    {
+      "id": "is-eth",
+      "char": "ð",
+      "name": "eth",
+      "romanization": "dh",
+      "ipa": "/ð/",
+      "letterAudio": "audio/is/letters/is-eth.mp3",
+      "memoryTrick": "The voiced 'th' of English 'the' or 'mother' — your vocal cords buzz. It never starts a word in Icelandic, always appears in the middle or at the end.",
+      "words": [
+        { "text": "faðir", "roman": "fadhir", "meaning": "father", "emoji": "👨", "audio": "audio/is/words/is-eth-01.mp3" },
+        { "text": "móðir", "roman": "módhir", "meaning": "mother", "emoji": "👩", "audio": "audio/is/words/is-eth-02.mp3" },
+        { "text": "bróðir", "roman": "bródhir", "meaning": "brother", "audio": "audio/is/words/is-eth-03.mp3" },
+        { "text": "veður", "roman": "vedhur", "meaning": "weather", "emoji": "🌤️", "audio": "audio/is/words/is-eth-04.mp3" },
+        { "text": "bað", "roman": "badh", "meaning": "bath", "emoji": "🛁", "audio": "audio/is/words/is-eth-05.mp3" },
+        { "text": "maður", "roman": "madhur", "meaning": "person, man", "emoji": "🧑", "audio": "audio/is/words/is-eth-06.mp3" },
+        { "text": "guð", "roman": "gudh", "meaning": "god", "audio": "audio/is/words/is-eth-07.mp3" },
+        { "text": "glaður", "roman": "gladhur", "meaning": "happy, glad", "emoji": "😊", "audio": "audio/is/words/is-eth-08.mp3" },
+        { "text": "rauður", "roman": "raudhur", "meaning": "red", "emoji": "🔴", "audio": "audio/is/words/is-eth-09.mp3" },
+        { "text": "blað", "roman": "bladh", "meaning": "leaf, newspaper", "emoji": "🍃", "audio": "audio/is/words/is-eth-10.mp3" },
+        { "text": "hreiður", "roman": "hreidhur", "meaning": "nest", "audio": "audio/is/words/is-eth-11.mp3" },
+        { "text": "smiður", "roman": "smidhur", "meaning": "craftsman, smith", "audio": "audio/is/words/is-eth-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-e",
+      "char": "e",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/is/letters/is-e.mp3",
+      "memoryTrick": "Like the 'e' in English 'bed' or 'let' — short, open, and crisp. Never drawn out like the 'ay' in 'day'.",
+      "words": [
+        { "text": "eyra", "roman": "eyra", "meaning": "ear", "emoji": "👂", "audio": "audio/is/words/is-e-01.mp3" },
+        { "text": "eldur", "roman": "eldur", "meaning": "fire", "emoji": "🔥", "audio": "audio/is/words/is-e-02.mp3" },
+        { "text": "epli", "roman": "epli", "meaning": "apple", "emoji": "🍎", "audio": "audio/is/words/is-e-03.mp3" },
+        { "text": "eyja", "roman": "eyja", "meaning": "island", "emoji": "🏝️", "audio": "audio/is/words/is-e-04.mp3" },
+        { "text": "eik", "roman": "eik", "meaning": "oak", "emoji": "🌳", "audio": "audio/is/words/is-e-05.mp3" },
+        { "text": "engill", "roman": "engill", "meaning": "angel", "emoji": "👼", "audio": "audio/is/words/is-e-06.mp3" },
+        { "text": "eðla", "roman": "edhla", "meaning": "lizard", "emoji": "🦎", "audio": "audio/is/words/is-e-07.mp3" },
+        { "text": "eitur", "roman": "eitur", "meaning": "poison", "audio": "audio/is/words/is-e-08.mp3" },
+        { "text": "elska", "roman": "elska", "meaning": "to love", "emoji": "💕", "audio": "audio/is/words/is-e-09.mp3" },
+        { "text": "einn", "roman": "einn", "meaning": "one, alone", "emoji": "1️⃣", "audio": "audio/is/words/is-e-10.mp3" },
+        { "text": "enni", "roman": "enni", "meaning": "forehead", "audio": "audio/is/words/is-e-11.mp3" },
+        { "text": "endir", "roman": "endir", "meaning": "end, ending", "audio": "audio/is/words/is-e-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-e-acute",
+      "char": "é",
+      "name": "e with acute",
+      "romanization": "é",
+      "ipa": "/jɛ/",
+      "letterAudio": "audio/is/letters/is-e-acute.mp3",
+      "memoryTrick": "Sounds like 'ye' in English 'yes' — a short 'y' glide followed by the 'e' of 'bed'. Think of saying 'yeah' quickly.",
+      "words": [
+        { "text": "ég", "roman": "ég", "meaning": "I", "emoji": "👤", "audio": "audio/is/words/is-e-acute-01.mp3" },
+        { "text": "él", "roman": "él", "meaning": "sleet shower, hail storm", "emoji": "🌧️", "audio": "audio/is/words/is-e-acute-02.mp3" },
+        { "text": "ér", "roman": "ér", "meaning": "you (formal/plural, archaic)", "audio": "audio/is/words/is-e-acute-03.mp3" }
+      ]
+    },
+    {
+      "id": "is-f",
+      "char": "f",
+      "name": "f",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/is/letters/is-f.mp3",
+      "memoryTrick": "Like English 'f' at the start of words, but between vowels or at the end it often softens to a 'v' sound. Think of the word 'of' where f sounds like v.",
+      "words": [
+        { "text": "fiskur", "roman": "fiskur", "meaning": "fish", "emoji": "🐟", "audio": "audio/is/words/is-f-01.mp3" },
+        { "text": "fjall", "roman": "fjall", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/is/words/is-f-02.mp3" },
+        { "text": "fótur", "roman": "fótur", "meaning": "foot", "emoji": "🦶", "audio": "audio/is/words/is-f-03.mp3" },
+        { "text": "fugl", "roman": "fugl", "meaning": "bird", "emoji": "🐦", "audio": "audio/is/words/is-f-04.mp3" },
+        { "text": "fólk", "roman": "fólk", "meaning": "people", "emoji": "👥", "audio": "audio/is/words/is-f-05.mp3" },
+        { "text": "fallegur", "roman": "fallegur", "meaning": "beautiful", "audio": "audio/is/words/is-f-06.mp3" },
+        { "text": "fljót", "roman": "fljót", "meaning": "large river", "audio": "audio/is/words/is-f-07.mp3" },
+        { "text": "frelsi", "roman": "frelsi", "meaning": "freedom", "audio": "audio/is/words/is-f-08.mp3" },
+        { "text": "fingur", "roman": "fingur", "meaning": "finger", "emoji": "👆", "audio": "audio/is/words/is-f-09.mp3" },
+        { "text": "frystir", "roman": "frystir", "meaning": "freezer", "emoji": "❄️", "audio": "audio/is/words/is-f-10.mp3" },
+        { "text": "fjórir", "roman": "fjórir", "meaning": "four", "emoji": "4️⃣", "audio": "audio/is/words/is-f-11.mp3" },
+        { "text": "flag", "roman": "flag", "meaning": "flag, flat open ground", "emoji": "🚩", "audio": "audio/is/words/is-f-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-g",
+      "char": "g",
+      "name": "g",
+      "romanization": "g",
+      "ipa": "/k/",
+      "letterAudio": "audio/is/letters/is-g.mp3",
+      "memoryTrick": "At the start of words, it's an unaspirated 'k' — like the 'k' in English 'skill', never the voiced 'g' of 'go'. Between vowels it softens to a fricative like a gentle 'g' or 'y'.",
+      "words": [
+        { "text": "gull", "roman": "gull", "meaning": "gold", "emoji": "🥇", "audio": "audio/is/words/is-g-01.mp3" },
+        { "text": "gluggi", "roman": "gluggi", "meaning": "window", "emoji": "🪟", "audio": "audio/is/words/is-g-02.mp3" },
+        { "text": "gata", "roman": "gata", "meaning": "street", "audio": "audio/is/words/is-g-03.mp3" },
+        { "text": "gestur", "roman": "gestur", "meaning": "guest, visitor", "audio": "audio/is/words/is-g-04.mp3" },
+        { "text": "grænn", "roman": "graenn", "meaning": "green", "emoji": "🟢", "audio": "audio/is/words/is-g-05.mp3" },
+        { "text": "góður", "roman": "gódhur", "meaning": "good", "emoji": "👍", "audio": "audio/is/words/is-g-06.mp3" },
+        { "text": "gaffall", "roman": "gaffall", "meaning": "fork", "emoji": "🍴", "audio": "audio/is/words/is-g-07.mp3" },
+        { "text": "gamall", "roman": "gamall", "meaning": "old", "audio": "audio/is/words/is-g-08.mp3" },
+        { "text": "grjót", "roman": "grjót", "meaning": "rock, stone", "emoji": "🪨", "audio": "audio/is/words/is-g-09.mp3" },
+        { "text": "gjöf", "roman": "gjöf", "meaning": "gift", "emoji": "🎁", "audio": "audio/is/words/is-g-10.mp3" },
+        { "text": "gler", "roman": "gler", "meaning": "glass", "audio": "audio/is/words/is-g-11.mp3" },
+        { "text": "gras", "roman": "gras", "meaning": "grass", "emoji": "🌿", "audio": "audio/is/words/is-g-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-h",
+      "char": "h",
+      "name": "h",
+      "romanization": "h",
+      "ipa": "/h/",
+      "letterAudio": "audio/is/letters/is-h.mp3",
+      "memoryTrick": "Like English 'h' in 'hat' — a simple breath. But before 'j' or 'v' it makes a sound like the 'h' in English 'hue' or 'huge'.",
+      "words": [
+        { "text": "hús", "roman": "hús", "meaning": "house", "emoji": "🏠", "audio": "audio/is/words/is-h-01.mp3" },
+        { "text": "hundur", "roman": "hundur", "meaning": "dog", "emoji": "🐕", "audio": "audio/is/words/is-h-02.mp3" },
+        { "text": "hestur", "roman": "hestur", "meaning": "horse", "emoji": "🐴", "audio": "audio/is/words/is-h-03.mp3" },
+        { "text": "hár", "roman": "hár", "meaning": "hair; high", "audio": "audio/is/words/is-h-04.mp3" },
+        { "text": "himinn", "roman": "himinn", "meaning": "sky, heaven", "emoji": "☁️", "audio": "audio/is/words/is-h-05.mp3" },
+        { "text": "hjarta", "roman": "hjarta", "meaning": "heart", "emoji": "❤️", "audio": "audio/is/words/is-h-06.mp3" },
+        { "text": "hönd", "roman": "hönd", "meaning": "hand", "emoji": "✋", "audio": "audio/is/words/is-h-07.mp3" },
+        { "text": "haf", "roman": "haf", "meaning": "ocean, sea", "emoji": "🌊", "audio": "audio/is/words/is-h-08.mp3" },
+        { "text": "hnífur", "roman": "hnífur", "meaning": "knife", "emoji": "🔪", "audio": "audio/is/words/is-h-09.mp3" },
+        { "text": "hlýr", "roman": "hlýr", "meaning": "warm", "audio": "audio/is/words/is-h-10.mp3" },
+        { "text": "hæð", "roman": "haedh", "meaning": "height, floor (storey)", "audio": "audio/is/words/is-h-11.mp3" },
+        { "text": "hringur", "roman": "hringur", "meaning": "ring, circle", "emoji": "💍", "audio": "audio/is/words/is-h-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-i",
+      "char": "i",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/ɪ/",
+      "letterAudio": "audio/is/letters/is-i.mp3",
+      "memoryTrick": "Like the 'i' in English 'bit' or 'sit' — short and relaxed. It's never the long 'ee' sound of 'machine'; that sound belongs to í.",
+      "words": [
+        { "text": "ilmur", "roman": "ilmur", "meaning": "fragrance, scent", "audio": "audio/is/words/is-i-01.mp3" },
+        { "text": "inn", "roman": "inn", "meaning": "in, inside", "audio": "audio/is/words/is-i-02.mp3" },
+        { "text": "indæll", "roman": "indaell", "meaning": "charming, delightful", "audio": "audio/is/words/is-i-03.mp3" },
+        { "text": "ilma", "roman": "ilma", "meaning": "to smell pleasant", "audio": "audio/is/words/is-i-04.mp3" },
+        { "text": "inni", "roman": "inni", "meaning": "inside (location)", "audio": "audio/is/words/is-i-05.mp3" },
+        { "text": "innan", "roman": "innan", "meaning": "within, inside of", "audio": "audio/is/words/is-i-06.mp3" },
+        { "text": "iðja", "roman": "idhja", "meaning": "occupation, activity", "audio": "audio/is/words/is-i-07.mp3" },
+        { "text": "ilt", "roman": "ilt", "meaning": "bad smell, stench", "audio": "audio/is/words/is-i-08.mp3" }
       ]
     },
     {
       "id": "is-i-acute",
-      "char": "Í í",
-      "name": "í",
+      "char": "í",
+      "name": "i with acute",
       "romanization": "í",
       "ipa": "/i/",
-      "memoryTrick": "An 'i' with an accent — says 'ee'.",
+      "letterAudio": "audio/is/letters/is-i-acute.mp3",
+      "memoryTrick": "Like the 'ee' in English 'see' or 'feet' — long, tense, and pure. Hold it a little longer than English speakers might expect.",
       "words": [
-        {
-          "text": "ís",
-          "roman": "ís",
-          "meaning": "ice cream",
-          "emoji": "🍦"
-        },
-        {
-          "text": "mín",
-          "roman": "mín",
-          "meaning": "mine",
-          "emoji": "🫳"
-        }
+        { "text": "ís", "roman": "ís", "meaning": "ice, ice cream", "emoji": "🧊", "audio": "audio/is/words/is-i-acute-01.mp3" },
+        { "text": "íbúð", "roman": "íbúdh", "meaning": "apartment", "emoji": "🏢", "audio": "audio/is/words/is-i-acute-02.mp3" },
+        { "text": "íþrótt", "roman": "íthrótt", "meaning": "sport", "emoji": "⚽", "audio": "audio/is/words/is-i-acute-03.mp3" },
+        { "text": "ímynd", "roman": "ímynd", "meaning": "image", "audio": "audio/is/words/is-i-acute-04.mp3" },
+        { "text": "ísskápur", "roman": "ísskápur", "meaning": "refrigerator", "audio": "audio/is/words/is-i-acute-05.mp3" },
+        { "text": "íbúi", "roman": "íbúi", "meaning": "inhabitant, resident", "audio": "audio/is/words/is-i-acute-06.mp3" },
+        { "text": "ímyndun", "roman": "ímyndun", "meaning": "imagination", "audio": "audio/is/words/is-i-acute-07.mp3" },
+        { "text": "ískaldur", "roman": "ískaldur", "meaning": "ice-cold", "emoji": "🥶", "audio": "audio/is/words/is-i-acute-08.mp3" },
+        { "text": "íslenskur", "roman": "íslenskur", "meaning": "Icelandic", "audio": "audio/is/words/is-i-acute-09.mp3" },
+        { "text": "ítarlegur", "roman": "ítarlegur", "meaning": "detailed, thorough", "audio": "audio/is/words/is-i-acute-10.mp3" }
+      ]
+    },
+    {
+      "id": "is-j",
+      "char": "j",
+      "name": "j",
+      "romanization": "y",
+      "ipa": "/j/",
+      "letterAudio": "audio/is/letters/is-j.mp3",
+      "memoryTrick": "Like the 'y' in English 'yes' or 'yellow' — a quick glide. Icelandic j is always a consonant, never like the 'j' in 'judge'.",
+      "words": [
+        { "text": "já", "roman": "yá", "meaning": "yes", "emoji": "✅", "audio": "audio/is/words/is-j-01.mp3" },
+        { "text": "jörð", "roman": "yördh", "meaning": "earth", "emoji": "🌍", "audio": "audio/is/words/is-j-02.mp3" },
+        { "text": "jökull", "roman": "yökull", "meaning": "glacier", "emoji": "🧊", "audio": "audio/is/words/is-j-03.mp3" },
+        { "text": "jól", "roman": "yól", "meaning": "Christmas", "emoji": "🎄", "audio": "audio/is/words/is-j-04.mp3" },
+        { "text": "járn", "roman": "yárn", "meaning": "iron", "audio": "audio/is/words/is-j-05.mp3" },
+        { "text": "jafn", "roman": "yafn", "meaning": "equal, even", "audio": "audio/is/words/is-j-06.mp3" },
+        { "text": "jakki", "roman": "yakki", "meaning": "jacket", "emoji": "🧥", "audio": "audio/is/words/is-j-07.mp3" },
+        { "text": "jarðarber", "roman": "yardharber", "meaning": "strawberry", "emoji": "🍓", "audio": "audio/is/words/is-j-08.mp3" },
+        { "text": "jurt", "roman": "yurt", "meaning": "plant, herb", "emoji": "🌿", "audio": "audio/is/words/is-j-09.mp3" },
+        { "text": "jólatré", "roman": "yólatré", "meaning": "Christmas tree", "emoji": "🎄", "audio": "audio/is/words/is-j-10.mp3" }
+      ]
+    },
+    {
+      "id": "is-k",
+      "char": "k",
+      "name": "k",
+      "romanization": "k",
+      "ipa": "/kʰ/",
+      "letterAudio": "audio/is/letters/is-k.mp3",
+      "memoryTrick": "An aspirated 'k' with a puff of air — like the 'k' in English 'king' or 'kite'. Hold a tissue in front of your mouth: it should move.",
+      "words": [
+        { "text": "köttur", "roman": "köttur", "meaning": "cat", "emoji": "🐱", "audio": "audio/is/words/is-k-01.mp3" },
+        { "text": "kona", "roman": "kona", "meaning": "woman", "emoji": "👩", "audio": "audio/is/words/is-k-02.mp3" },
+        { "text": "karl", "roman": "karl", "meaning": "man", "emoji": "👨", "audio": "audio/is/words/is-k-03.mp3" },
+        { "text": "kaffi", "roman": "kaffi", "meaning": "coffee", "emoji": "☕", "audio": "audio/is/words/is-k-04.mp3" },
+        { "text": "kind", "roman": "kind", "meaning": "sheep", "emoji": "🐑", "audio": "audio/is/words/is-k-05.mp3" },
+        { "text": "kirkja", "roman": "kirkya", "meaning": "church", "emoji": "⛪", "audio": "audio/is/words/is-k-06.mp3" },
+        { "text": "kaka", "roman": "kaka", "meaning": "cake", "emoji": "🎂", "audio": "audio/is/words/is-k-07.mp3" },
+        { "text": "kalt", "roman": "kalt", "meaning": "cold", "emoji": "❄️", "audio": "audio/is/words/is-k-08.mp3" },
+        { "text": "knöttur", "roman": "knöttur", "meaning": "ball", "emoji": "⚽", "audio": "audio/is/words/is-k-09.mp3" },
+        { "text": "kóngur", "roman": "kóngur", "meaning": "king", "emoji": "👑", "audio": "audio/is/words/is-k-10.mp3" },
+        { "text": "kerti", "roman": "kerti", "meaning": "candle", "emoji": "🕯️", "audio": "audio/is/words/is-k-11.mp3" },
+        { "text": "kyssa", "roman": "kyssa", "meaning": "to kiss", "emoji": "😘", "audio": "audio/is/words/is-k-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-l",
+      "char": "l",
+      "name": "l",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/is/letters/is-l.mp3",
+      "memoryTrick": "Like English 'l' in 'light' — but always clear, never the dark 'l' of 'full'. Your tongue tip touches the ridge behind your upper teeth.",
+      "words": [
+        { "text": "lamb", "roman": "lamb", "meaning": "lamb", "emoji": "🐑", "audio": "audio/is/words/is-l-01.mp3" },
+        { "text": "land", "roman": "land", "meaning": "land, country", "emoji": "🌍", "audio": "audio/is/words/is-l-02.mp3" },
+        { "text": "ljós", "roman": "lyós", "meaning": "light", "emoji": "💡", "audio": "audio/is/words/is-l-03.mp3" },
+        { "text": "lauf", "roman": "lauf", "meaning": "leaf", "emoji": "🍂", "audio": "audio/is/words/is-l-04.mp3" },
+        { "text": "loft", "roman": "loft", "meaning": "air, sky, attic", "audio": "audio/is/words/is-l-05.mp3" },
+        { "text": "lest", "roman": "lest", "meaning": "train", "emoji": "🚂", "audio": "audio/is/words/is-l-06.mp3" },
+        { "text": "litur", "roman": "litur", "meaning": "color", "emoji": "🎨", "audio": "audio/is/words/is-l-07.mp3" },
+        { "text": "lækur", "roman": "laekur", "meaning": "stream, brook", "audio": "audio/is/words/is-l-08.mp3" },
+        { "text": "lifur", "roman": "lifur", "meaning": "liver", "audio": "audio/is/words/is-l-09.mp3" },
+        { "text": "loka", "roman": "loka", "meaning": "to close, lock", "emoji": "🔒", "audio": "audio/is/words/is-l-10.mp3" },
+        { "text": "lykill", "roman": "lykill", "meaning": "key", "emoji": "🔑", "audio": "audio/is/words/is-l-11.mp3" },
+        { "text": "lóa", "roman": "lóa", "meaning": "golden plover (bird)", "emoji": "🐦", "audio": "audio/is/words/is-l-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-m",
+      "char": "m",
+      "name": "m",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/is/letters/is-m.mp3",
+      "memoryTrick": "Like English 'm' in 'mother' — lips together, voice on. Simple and familiar.",
+      "words": [
+        { "text": "mjólk", "roman": "myólk", "meaning": "milk", "emoji": "🥛", "audio": "audio/is/words/is-m-01.mp3" },
+        { "text": "maður", "roman": "madhur", "meaning": "person, man", "emoji": "🧑", "audio": "audio/is/words/is-m-02.mp3" },
+        { "text": "mamma", "roman": "mamma", "meaning": "mom", "emoji": "👩", "audio": "audio/is/words/is-m-03.mp3" },
+        { "text": "morgunn", "roman": "morgunn", "meaning": "morning", "emoji": "🌅", "audio": "audio/is/words/is-m-04.mp3" },
+        { "text": "mynd", "roman": "mynd", "meaning": "picture, image", "emoji": "🖼️", "audio": "audio/is/words/is-m-05.mp3" },
+        { "text": "matur", "roman": "matur", "meaning": "food", "emoji": "🍲", "audio": "audio/is/words/is-m-06.mp3" },
+        { "text": "máni", "roman": "máni", "meaning": "moon", "emoji": "🌙", "audio": "audio/is/words/is-m-07.mp3" },
+        { "text": "mús", "roman": "mús", "meaning": "mouse", "emoji": "🐭", "audio": "audio/is/words/is-m-08.mp3" },
+        { "text": "merki", "roman": "merki", "meaning": "sign, mark, flag", "audio": "audio/is/words/is-m-09.mp3" },
+        { "text": "margur", "roman": "margur", "meaning": "many", "audio": "audio/is/words/is-m-10.mp3" },
+        { "text": "mál", "roman": "mál", "meaning": "language, matter, case", "audio": "audio/is/words/is-m-11.mp3" },
+        { "text": "móðir", "roman": "módhir", "meaning": "mother (formal)", "emoji": "👩", "audio": "audio/is/words/is-m-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-n",
+      "char": "n",
+      "name": "n",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/is/letters/is-n.mp3",
+      "memoryTrick": "Like English 'n' in 'night' — tongue tip on the ridge behind your upper teeth, voice on. Never silent in Icelandic.",
+      "words": [
+        { "text": "nótt", "roman": "nótt", "meaning": "night", "emoji": "🌃", "audio": "audio/is/words/is-n-01.mp3" },
+        { "text": "nafn", "roman": "nafn", "meaning": "name", "emoji": "📛", "audio": "audio/is/words/is-n-02.mp3" },
+        { "text": "norður", "roman": "nordhur", "meaning": "north", "emoji": "🧭", "audio": "audio/is/words/is-n-03.mp3" },
+        { "text": "nýr", "roman": "nýr", "meaning": "new", "emoji": "✨", "audio": "audio/is/words/is-n-04.mp3" },
+        { "text": "nemandi", "roman": "nemandi", "meaning": "student", "emoji": "🎓", "audio": "audio/is/words/is-n-05.mp3" },
+        { "text": "náttúra", "roman": "náttúra", "meaning": "nature", "emoji": "🌿", "audio": "audio/is/words/is-n-06.mp3" },
+        { "text": "nef", "roman": "nef", "meaning": "nose", "emoji": "👃", "audio": "audio/is/words/is-n-07.mp3" },
+        { "text": "nál", "roman": "nál", "meaning": "needle", "emoji": "🪡", "audio": "audio/is/words/is-n-08.mp3" },
+        { "text": "níu", "roman": "níu", "meaning": "nine", "emoji": "9️⃣", "audio": "audio/is/words/is-n-09.mp3" },
+        { "text": "net", "roman": "net", "meaning": "net, network, internet", "emoji": "🕸️", "audio": "audio/is/words/is-n-10.mp3" },
+        { "text": "nei", "roman": "nei", "meaning": "no", "emoji": "❌", "audio": "audio/is/words/is-n-11.mp3" },
+        { "text": "nálægt", "roman": "nálaegt", "meaning": "near, close by", "audio": "audio/is/words/is-n-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-o",
+      "char": "o",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/ɔ/",
+      "letterAudio": "audio/is/letters/is-o.mp3",
+      "memoryTrick": "Like the 'o' in English 'not' but with rounded lips — similar to 'aw' in 'law'. Not the long 'oh' sound, which belongs to ó.",
+      "words": [
+        { "text": "orð", "roman": "ordh", "meaning": "word", "emoji": "📝", "audio": "audio/is/words/is-o-01.mp3" },
+        { "text": "ostur", "roman": "ostur", "meaning": "cheese", "emoji": "🧀", "audio": "audio/is/words/is-o-02.mp3" },
+        { "text": "ofn", "roman": "ofn", "meaning": "oven", "audio": "audio/is/words/is-o-03.mp3" },
+        { "text": "opinn", "roman": "opinn", "meaning": "open", "audio": "audio/is/words/is-o-04.mp3" },
+        { "text": "ormur", "roman": "ormur", "meaning": "snake, worm", "emoji": "🐍", "audio": "audio/is/words/is-o-05.mp3" },
+        { "text": "oft", "roman": "oft", "meaning": "often", "audio": "audio/is/words/is-o-06.mp3" },
+        { "text": "olía", "roman": "olía", "meaning": "oil", "emoji": "🛢️", "audio": "audio/is/words/is-o-07.mp3" },
+        { "text": "okkar", "roman": "okkar", "meaning": "our, ours", "audio": "audio/is/words/is-o-08.mp3" },
+        { "text": "orðabók", "roman": "ordhabók", "meaning": "dictionary", "emoji": "📚", "audio": "audio/is/words/is-o-09.mp3" },
+        { "text": "oxi", "roman": "oxi", "meaning": "ox", "emoji": "🐂", "audio": "audio/is/words/is-o-10.mp3" }
+      ]
+    },
+    {
+      "id": "is-o-acute",
+      "char": "ó",
+      "name": "o with acute",
+      "romanization": "ó",
+      "ipa": "/ou/",
+      "letterAudio": "audio/is/letters/is-o-acute.mp3",
+      "memoryTrick": "Like 'oh' in English 'go' or 'so' — a diphthong that glides slightly toward 'u' at the end. Think of saying 'oh' and letting it taper off gently.",
+      "words": [
+        { "text": "ósk", "roman": "ósk", "meaning": "wish", "emoji": "⭐", "audio": "audio/is/words/is-o-acute-01.mp3" },
+        { "text": "ól", "roman": "ól", "meaning": "strap, belt", "audio": "audio/is/words/is-o-acute-02.mp3" },
+        { "text": "ógn", "roman": "ógn", "meaning": "terror, dread", "audio": "audio/is/words/is-o-acute-03.mp3" },
+        { "text": "ótti", "roman": "ótti", "meaning": "fear, dread", "audio": "audio/is/words/is-o-acute-04.mp3" },
+        { "text": "óvinur", "roman": "óvinur", "meaning": "enemy", "audio": "audio/is/words/is-o-acute-05.mp3" },
+        { "text": "óveður", "roman": "óvedhur", "meaning": "bad weather, storm", "emoji": "⛈️", "audio": "audio/is/words/is-o-acute-06.mp3" },
+        { "text": "ókunnugur", "roman": "ókunnugur", "meaning": "unknown, unfamiliar, stranger", "audio": "audio/is/words/is-o-acute-07.mp3" },
+        { "text": "óhreinn", "roman": "óhreinn", "meaning": "dirty, unclean", "audio": "audio/is/words/is-o-acute-08.mp3" },
+        { "text": "ólöglegur", "roman": "ólöglegur", "meaning": "illegal", "audio": "audio/is/words/is-o-acute-09.mp3" }
+      ]
+    },
+    {
+      "id": "is-p",
+      "char": "p",
+      "name": "p",
+      "romanization": "p",
+      "ipa": "/pʰ/",
+      "letterAudio": "audio/is/letters/is-p.mp3",
+      "memoryTrick": "An aspirated 'p' with a puff of air — like the 'p' in English 'pin' or 'park'. Hold up a paper: the puff should make it flutter.",
+      "words": [
+        { "text": "pabbi", "roman": "pabbi", "meaning": "dad", "emoji": "👨", "audio": "audio/is/words/is-p-01.mp3" },
+        { "text": "pappír", "roman": "pappír", "meaning": "paper", "emoji": "📄", "audio": "audio/is/words/is-p-02.mp3" },
+        { "text": "penni", "roman": "penni", "meaning": "pen", "emoji": "🖊️", "audio": "audio/is/words/is-p-03.mp3" },
+        { "text": "poki", "roman": "poki", "meaning": "bag", "emoji": "🛍️", "audio": "audio/is/words/is-p-04.mp3" },
+        { "text": "pylsur", "roman": "pylsur", "meaning": "hot dogs, sausages", "emoji": "🌭", "audio": "audio/is/words/is-p-05.mp3" },
+        { "text": "pönnukaka", "roman": "pönnukaka", "meaning": "pancake", "emoji": "🥞", "audio": "audio/is/words/is-p-06.mp3" },
+        { "text": "páfi", "roman": "páfi", "meaning": "pope", "audio": "audio/is/words/is-p-07.mp3" },
+        { "text": "plata", "roman": "plata", "meaning": "record, disc; trick, hoax", "emoji": "💿", "audio": "audio/is/words/is-p-08.mp3" },
+        { "text": "póstur", "roman": "póstur", "meaning": "mail, post", "emoji": "📬", "audio": "audio/is/words/is-p-09.mp3" },
+        { "text": "peysa", "roman": "peysa", "meaning": "sweater", "emoji": "🧶", "audio": "audio/is/words/is-p-10.mp3" }
+      ]
+    },
+    {
+      "id": "is-r",
+      "char": "r",
+      "name": "r",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/is/letters/is-r.mp3",
+      "memoryTrick": "A rolled or trilled 'r' — your tongue tip vibrates against the ridge behind your upper teeth. Like the Spanish 'rr' in 'perro'.",
+      "words": [
+        { "text": "rigning", "roman": "rigning", "meaning": "rain", "emoji": "🌧️", "audio": "audio/is/words/is-r-01.mp3" },
+        { "text": "rauður", "roman": "raudhur", "meaning": "red", "emoji": "🔴", "audio": "audio/is/words/is-r-02.mp3" },
+        { "text": "refur", "roman": "refur", "meaning": "fox", "emoji": "🦊", "audio": "audio/is/words/is-r-03.mp3" },
+        { "text": "rós", "roman": "rós", "meaning": "rose", "emoji": "🌹", "audio": "audio/is/words/is-r-04.mp3" },
+        { "text": "rúm", "roman": "rúm", "meaning": "bed", "emoji": "🛏️", "audio": "audio/is/words/is-r-05.mp3" },
+        { "text": "regnbogi", "roman": "regnbogi", "meaning": "rainbow", "emoji": "🌈", "audio": "audio/is/words/is-r-06.mp3" },
+        { "text": "rúsína", "roman": "rúsína", "meaning": "raisin", "emoji": "🍇", "audio": "audio/is/words/is-r-07.mp3" },
+        { "text": "rotta", "roman": "rotta", "meaning": "rat", "emoji": "🐀", "audio": "audio/is/words/is-r-08.mp3" },
+        { "text": "ríki", "roman": "ríki", "meaning": "state, kingdom, realm", "audio": "audio/is/words/is-r-09.mp3" },
+        { "text": "reikningur", "roman": "reikningur", "meaning": "bill, invoice, calculation", "audio": "audio/is/words/is-r-10.mp3" },
+        { "text": "róa", "roman": "róa", "meaning": "to row", "emoji": "🚣", "audio": "audio/is/words/is-r-11.mp3" },
+        { "text": "renna", "roman": "renna", "meaning": "to slide, to flow", "audio": "audio/is/words/is-r-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-s",
+      "char": "s",
+      "name": "s",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/is/letters/is-s.mp3",
+      "memoryTrick": "Like English 's' in 'sun' — always voiceless, never like the 'z' in 'rose'. Icelandic s stays crisp and hissing in every position.",
+      "words": [
+        { "text": "sól", "roman": "sól", "meaning": "sun", "emoji": "☀️", "audio": "audio/is/words/is-s-01.mp3" },
+        { "text": "sjór", "roman": "syór", "meaning": "sea", "emoji": "🌊", "audio": "audio/is/words/is-s-02.mp3" },
+        { "text": "skógur", "roman": "skógur", "meaning": "forest", "emoji": "🌲", "audio": "audio/is/words/is-s-03.mp3" },
+        { "text": "snjór", "roman": "snyór", "meaning": "snow", "emoji": "❄️", "audio": "audio/is/words/is-s-04.mp3" },
+        { "text": "stjarna", "roman": "styarna", "meaning": "star", "emoji": "⭐", "audio": "audio/is/words/is-s-05.mp3" },
+        { "text": "steinn", "roman": "steinn", "meaning": "stone, rock", "emoji": "🪨", "audio": "audio/is/words/is-s-06.mp3" },
+        { "text": "söngur", "roman": "söngur", "meaning": "song", "emoji": "🎵", "audio": "audio/is/words/is-s-07.mp3" },
+        { "text": "silfur", "roman": "silfur", "meaning": "silver", "emoji": "🥈", "audio": "audio/is/words/is-s-08.mp3" },
+        { "text": "skóli", "roman": "skóli", "meaning": "school", "emoji": "🏫", "audio": "audio/is/words/is-s-09.mp3" },
+        { "text": "sætur", "roman": "saetur", "meaning": "sweet", "audio": "audio/is/words/is-s-10.mp3" },
+        { "text": "systir", "roman": "systir", "meaning": "sister", "audio": "audio/is/words/is-s-11.mp3" },
+        { "text": "saga", "roman": "saga", "meaning": "story, saga, history", "emoji": "📖", "audio": "audio/is/words/is-s-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-t",
+      "char": "t",
+      "name": "t",
+      "romanization": "t",
+      "ipa": "/tʰ/",
+      "letterAudio": "audio/is/letters/is-t.mp3",
+      "memoryTrick": "An aspirated 't' with a puff of air — like the 't' in English 'top' or 'time'. Feel the burst of air after the tongue releases.",
+      "words": [
+        { "text": "tungl", "roman": "tungl", "meaning": "moon", "emoji": "🌙", "audio": "audio/is/words/is-t-01.mp3" },
+        { "text": "tala", "roman": "tala", "meaning": "number; to speak", "audio": "audio/is/words/is-t-02.mp3" },
+        { "text": "tönn", "roman": "tönn", "meaning": "tooth", "emoji": "🦷", "audio": "audio/is/words/is-t-03.mp3" },
+        { "text": "tími", "roman": "tími", "meaning": "time", "emoji": "⏰", "audio": "audio/is/words/is-t-04.mp3" },
+        { "text": "tré", "roman": "tré", "meaning": "tree, wood", "emoji": "🌳", "audio": "audio/is/words/is-t-05.mp3" },
+        { "text": "tuttugu", "roman": "tuttugu", "meaning": "twenty", "audio": "audio/is/words/is-t-06.mp3" },
+        { "text": "tólf", "roman": "tólf", "meaning": "twelve", "audio": "audio/is/words/is-t-07.mp3" },
+        { "text": "teppi", "roman": "teppi", "meaning": "blanket, carpet, rug", "audio": "audio/is/words/is-t-08.mp3" },
+        { "text": "tígrisdýr", "roman": "tígrisdýr", "meaning": "tiger", "emoji": "🐯", "audio": "audio/is/words/is-t-09.mp3" },
+        { "text": "taska", "roman": "taska", "meaning": "bag, suitcase", "emoji": "💼", "audio": "audio/is/words/is-t-10.mp3" },
+        { "text": "tíu", "roman": "tíu", "meaning": "ten", "emoji": "🔟", "audio": "audio/is/words/is-t-11.mp3" },
+        { "text": "tannbursti", "roman": "tannbursti", "meaning": "toothbrush", "emoji": "🪥", "audio": "audio/is/words/is-t-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-u",
+      "char": "u",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/ʏ/",
+      "letterAudio": "audio/is/letters/is-u.mp3",
+      "memoryTrick": "Like the German 'ü' in 'füllen' or French 'u' in 'tu' — round your lips as if saying 'oo' but try to say 'ee'. It's a front rounded vowel.",
+      "words": [
+        { "text": "ugla", "roman": "ugla", "meaning": "owl", "emoji": "🦉", "audio": "audio/is/words/is-u-01.mp3" },
+        { "text": "ull", "roman": "ull", "meaning": "wool", "emoji": "🧶", "audio": "audio/is/words/is-u-02.mp3" },
+        { "text": "umferð", "roman": "umferdh", "meaning": "traffic", "emoji": "🚗", "audio": "audio/is/words/is-u-03.mp3" },
+        { "text": "ungi", "roman": "ungi", "meaning": "young one, chick, cub", "audio": "audio/is/words/is-u-04.mp3" },
+        { "text": "unnusti", "roman": "unnusti", "meaning": "boyfriend, fiancé, beloved", "emoji": "💑", "audio": "audio/is/words/is-u-05.mp3" },
+        { "text": "urt", "roman": "urt", "meaning": "herb, plant", "emoji": "🌿", "audio": "audio/is/words/is-u-06.mp3" },
+        { "text": "upp", "roman": "upp", "meaning": "up", "emoji": "⬆️", "audio": "audio/is/words/is-u-07.mp3" },
+        { "text": "undir", "roman": "undir", "meaning": "under", "audio": "audio/is/words/is-u-08.mp3" }
+      ]
+    },
+    {
+      "id": "is-u-acute",
+      "char": "ú",
+      "name": "u with acute",
+      "romanization": "ú",
+      "ipa": "/u/",
+      "letterAudio": "audio/is/letters/is-u-acute.mp3",
+      "memoryTrick": "Like the 'oo' in English 'boot' or 'moon' — long, tense, and with tightly rounded lips. Hold it a beat longer than you think.",
+      "words": [
+        { "text": "úlfur", "roman": "úlfur", "meaning": "wolf", "emoji": "🐺", "audio": "audio/is/words/is-u-acute-01.mp3" },
+        { "text": "úr", "roman": "úr", "meaning": "watch, clock", "emoji": "⌚", "audio": "audio/is/words/is-u-acute-02.mp3" },
+        { "text": "úti", "roman": "úti", "meaning": "outside, outdoors", "emoji": "🏕️", "audio": "audio/is/words/is-u-acute-03.mp3" },
+        { "text": "úði", "roman": "údhi", "meaning": "spray, mist", "audio": "audio/is/words/is-u-acute-04.mp3" },
+        { "text": "úrslit", "roman": "úrslit", "meaning": "final result, decision, outcome", "audio": "audio/is/words/is-u-acute-05.mp3" },
+        { "text": "útvarp", "roman": "útvarp", "meaning": "radio", "emoji": "📻", "audio": "audio/is/words/is-u-acute-06.mp3" },
+        { "text": "útlendingur", "roman": "útlendingur", "meaning": "foreigner", "audio": "audio/is/words/is-u-acute-07.mp3" },
+        { "text": "útsýni", "roman": "útsýni", "meaning": "view, vista", "audio": "audio/is/words/is-u-acute-08.mp3" },
+        { "text": "úlpa", "roman": "úlpa", "meaning": "overcoat, anorak", "emoji": "🧥", "audio": "audio/is/words/is-u-acute-09.mp3" }
+      ]
+    },
+    {
+      "id": "is-v",
+      "char": "v",
+      "name": "v",
+      "romanization": "v",
+      "ipa": "/v/",
+      "letterAudio": "audio/is/letters/is-v.mp3",
+      "memoryTrick": "Like English 'v' in 'voice' — upper teeth on lower lip, voice on. Never like English 'w'. Think of a vibrating, buzzing 'f'.",
+      "words": [
+        { "text": "vatn", "roman": "vatn", "meaning": "water", "emoji": "💧", "audio": "audio/is/words/is-v-01.mp3" },
+        { "text": "vindur", "roman": "vindur", "meaning": "wind", "emoji": "💨", "audio": "audio/is/words/is-v-02.mp3" },
+        { "text": "vinur", "roman": "vinur", "meaning": "friend", "emoji": "🤝", "audio": "audio/is/words/is-v-03.mp3" },
+        { "text": "vika", "roman": "vika", "meaning": "week", "emoji": "📅", "audio": "audio/is/words/is-v-04.mp3" },
+        { "text": "vor", "roman": "vor", "meaning": "spring (season)", "emoji": "🌱", "audio": "audio/is/words/is-v-05.mp3" },
+        { "text": "vegur", "roman": "vegur", "meaning": "road, way", "emoji": "🛣️", "audio": "audio/is/words/is-v-06.mp3" },
+        { "text": "veröld", "roman": "veröld", "meaning": "world", "emoji": "🌎", "audio": "audio/is/words/is-v-07.mp3" },
+        { "text": "vetur", "roman": "vetur", "meaning": "winter", "emoji": "❄️", "audio": "audio/is/words/is-v-08.mp3" },
+        { "text": "veiði", "roman": "veidhi", "meaning": "hunting, fishing", "emoji": "🎣", "audio": "audio/is/words/is-v-09.mp3" },
+        { "text": "von", "roman": "von", "meaning": "hope, expectation", "audio": "audio/is/words/is-v-10.mp3" },
+        { "text": "vasi", "roman": "vasi", "meaning": "pocket", "audio": "audio/is/words/is-v-11.mp3" },
+        { "text": "vinna", "roman": "vinna", "meaning": "to work; work, job", "emoji": "💼", "audio": "audio/is/words/is-v-12.mp3" }
+      ]
+    },
+    {
+      "id": "is-x",
+      "char": "x",
+      "name": "x",
+      "romanization": "x",
+      "ipa": "/xs/",
+      "letterAudio": "audio/is/letters/is-x.mp3",
+      "memoryTrick": "Pronounced like 'ks' or 'x' — rare in native Icelandic words and found mainly in loanwords. Think 'x' as in English 'box'.",
+      "words": [
+        { "text": "xýlófónn", "roman": "xýlófónn", "meaning": "xylophone", "audio": "audio/is/words/is-x-01.mp3" },
+        { "text": "xerox", "roman": "xerox", "meaning": "photocopy (from Xerox)", "emoji": "📠", "audio": "audio/is/words/is-x-02.mp3" }
+      ]
+    },
+    {
+      "id": "is-y",
+      "char": "y",
+      "name": "y",
+      "romanization": "i",
+      "ipa": "/ɪ/",
+      "letterAudio": "audio/is/letters/is-y.mp3",
+      "memoryTrick": "In modern Icelandic, y sounds exactly like i (/ɪ/, as in 'bit'). Historically it was a rounded front vowel, and it remains a distinct letter you must learn to spell correctly.",
+      "words": [
+        { "text": "yfir", "roman": "ifir", "meaning": "over, above", "audio": "audio/is/words/is-y-01.mp3" },
+        { "text": "yrki", "roman": "irki", "meaning": "poem, verse (archaic)", "audio": "audio/is/words/is-y-02.mp3" },
+        { "text": "yndi", "roman": "indi", "meaning": "delight, pleasure", "audio": "audio/is/words/is-y-03.mp3" },
+        { "text": "ytri", "roman": "itri", "meaning": "outer, external", "audio": "audio/is/words/is-y-04.mp3" },
+        { "text": "ylur", "roman": "ilur", "meaning": "warmth, gentle heat", "audio": "audio/is/words/is-y-05.mp3" },
+        { "text": "yfirborð", "roman": "ifirbordh", "meaning": "surface", "audio": "audio/is/words/is-y-06.mp3" },
+        { "text": "yndislegur", "roman": "indislegur", "meaning": "lovely, delightful", "audio": "audio/is/words/is-y-07.mp3" },
+        { "text": "yrja", "roman": "irja", "meaning": "sprinkle, drizzle", "emoji": "🌦️", "audio": "audio/is/words/is-y-08.mp3" }
+      ]
+    },
+    {
+      "id": "is-y-acute",
+      "char": "ý",
+      "name": "y with acute",
+      "romanization": "í",
+      "ipa": "/i/",
+      "letterAudio": "audio/is/letters/is-y-acute.mp3",
+      "memoryTrick": "In modern Icelandic, ý sounds exactly like í (/i/, as in 'see'). It's a distinct letter for spelling — you just have to memorize which words use ý vs í.",
+      "words": [
+        { "text": "ýsa", "roman": "ísa", "meaning": "haddock", "emoji": "🐟", "audio": "audio/is/words/is-y-acute-01.mp3" },
+        { "text": "ýmis", "roman": "ímis", "meaning": "various, miscellaneous", "audio": "audio/is/words/is-y-acute-02.mp3" },
+        { "text": "ýta", "roman": "íta", "meaning": "to push, to press", "audio": "audio/is/words/is-y-acute-03.mp3" },
+        { "text": "ýkja", "roman": "íkja", "meaning": "exaggeration", "audio": "audio/is/words/is-y-acute-04.mp3" },
+        { "text": "ýlda", "roman": "ílda", "meaning": "decay, rot, mustiness", "audio": "audio/is/words/is-y-acute-05.mp3" },
+        { "text": "ýfa", "roman": "ífa", "meaning": "to ruffle, to make rough (as of hair or sea)", "audio": "audio/is/words/is-y-acute-06.mp3" },
+        { "text": "ýru": "roman": "íru", "meaning": "colostrum (first milk)", "audio": "audio/is/words/is-y-acute-07.mp3" }
+      ]
+    },
+    {
+      "id": "is-thorn",
+      "char": "þ",
+      "name": "thorn",
+      "romanization": "th",
+      "ipa": "/θ/",
+      "letterAudio": "audio/is/letters/is-thorn.mp3",
+      "memoryTrick": "The voiceless 'th' of English 'think' or 'thorn' itself — tongue between teeth, no voice. It's the 'th' you can whisper. This is the most distinctively Icelandic letter.",
+      "words": [
+        { "text": "þak", "roman": "thak", "meaning": "roof", "audio": "audio/is/words/is-thorn-01.mp3" },
+        { "text": "þú", "roman": "thú", "meaning": "you (singular)", "emoji": "👉", "audio": "audio/is/words/is-thorn-02.mp3" },
+        { "text": "þorp", "roman": "thorp", "meaning": "village", "emoji": "🏘️", "audio": "audio/is/words/is-thorn-03.mp3" },
+        { "text": "þögn", "roman": "thögn", "meaning": "silence", "emoji": "🤫", "audio": "audio/is/words/is-thorn-04.mp3" },
+        { "text": "þrír", "roman": "thrír", "meaning": "three", "emoji": "3️⃣", "audio": "audio/is/words/is-thorn-05.mp3" },
+        { "text": "þruma", "roman": "thruma", "meaning": "thunder", "emoji": "⛈️", "audio": "audio/is/words/is-thorn-06.mp3" },
+        { "text": "þjóð", "roman": "thjódh", "meaning": "nation, people", "audio": "audio/is/words/is-thorn-07.mp3" },
+        { "text": "þvottur", "roman": "thvottur", "meaning": "laundry, washing", "emoji": "👕", "audio": "audio/is/words/is-thorn-08.mp3" },
+        { "text": "þungur", "roman": "thungur", "meaning": "heavy", "emoji": "🏋️", "audio": "audio/is/words/is-thorn-09.mp3" },
+        { "text": "þraut", "roman": "thraut", "meaning": "challenge, ordeal, puzzle", "audio": "audio/is/words/is-thorn-10.mp3" },
+        { "text": "þökk", "roman": "thökk", "meaning": "thanks, gratitude", "emoji": "🙏", "audio": "audio/is/words/is-thorn-11.mp3" },
+        { "text": "þráður", "roman": "thrádhur", "meaning": "thread", "emoji": "🧵", "audio": "audio/is/words/is-thorn-12.mp3" },
+        { "text": "þyrnir", "roman": "thyrnir", "meaning": "thorn, thornbush", "audio": "audio/is/words/is-thorn-13.mp3" },
+        { "text": "þil", "roman": "thil", "meaning": "panel, partition wall", "audio": "audio/is/words/is-thorn-14.mp3" }
+      ]
+    },
+    {
+      "id": "is-ae",
+      "char": "æ",
+      "name": "ae ligature",
+      "romanization": "ae",
+      "ipa": "/ai/",
+      "letterAudio": "audio/is/letters/is-ae.mp3",
+      "memoryTrick": "Sounds like 'eye' or the 'i' in English 'hi' or 'mine' — a diphthong that glides from 'a' to 'i'. Think of saying 'aye aye, captain!'",
+      "words": [
+        { "text": "ævintýri", "roman": "aevintýri", "meaning": "adventure, fairy tale", "emoji": "🏰", "audio": "audio/is/words/is-ae-01.mp3" },
+        { "text": "æska", "roman": "aeska", "meaning": "youth", "audio": "audio/is/words/is-ae-02.mp3" },
+        { "text": "æfi", "roman": "aefi", "meaning": "life, lifetime", "audio": "audio/is/words/is-ae-03.mp3" },
+        { "text": "æfing", "roman": "aefing", "meaning": "exercise, practice, training", "emoji": "🏃", "audio": "audio/is/words/is-ae-04.mp3" },
+        { "text": "ætt", "roman": "aett", "meaning": "family, clan, lineage", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/is/words/is-ae-05.mp3" },
+        { "text": "ær", "roman": "aer", "meaning": "ewe (female sheep)", "emoji": "🐑", "audio": "audio/is/words/is-ae-06.mp3" },
+        { "text": "æður", "roman": "aedhur", "meaning": "eider duck", "emoji": "🦆", "audio": "audio/is/words/is-ae-07.mp3" },
+        { "text": "æð", "roman": "aedh", "meaning": "vein, blood vessel", "audio": "audio/is/words/is-ae-08.mp3" },
+        { "text": "æsingur", "roman": "aesingur", "meaning": "excitement, agitation", "audio": "audio/is/words/is-ae-09.mp3" },
+        { "text": "ætla", "roman": "aetla", "meaning": "to intend, to plan to", "audio": "audio/is/words/is-ae-10.mp3" }
+      ]
+    },
+    {
+      "id": "is-o-diaeresis",
+      "char": "ö",
+      "name": "o with diaeresis",
+      "romanization": "oe",
+      "ipa": "/œ/",
+      "letterAudio": "audio/is/letters/is-o-diaeresis.mp3",
+      "memoryTrick": "Like the German 'ö' in 'öffnen' or French 'eu' in 'fleur' — round your lips as if saying 'oh' but try to say 'eh' instead. A very characteristically Nordic sound.",
+      "words": [
+        { "text": "öxl", "roman": "oexl", "meaning": "shoulder", "audio": "audio/is/words/is-o-diaeresis-01.mp3" },
+        { "text": "örn", "roman": "oern", "meaning": "eagle", "emoji": "🦅", "audio": "audio/is/words/is-o-diaeresis-02.mp3" },
+        { "text": "önd", "roman": "oend", "meaning": "duck", "emoji": "🦆", "audio": "audio/is/words/is-o-diaeresis-03.mp3" },
+        { "text": "öryggi", "roman": "oeryggi", "meaning": "safety, security", "audio": "audio/is/words/is-o-diaeresis-04.mp3" },
+        { "text": "öl", "roman": "oel", "meaning": "ale, beer", "emoji": "🍺", "audio": "audio/is/words/is-o-diaeresis-05.mp3" },
+        { "text": "öld", "roman": "oeld", "meaning": "age, century, era", "audio": "audio/is/words/is-o-diaeresis-06.mp3" },
+        { "text": "ör", "roman": "oer", "meaning": "arrow; scar", "emoji": "🏹", "audio": "audio/is/words/is-o-diaeresis-07.mp3" },
+        { "text": "öskra", "roman": "oeskra", "meaning": "to scream", "audio": "audio/is/words/is-o-diaeresis-08.mp3" },
+        { "text": "öskubakki", "roman": "oeskubakki", "meaning": "ashtray", "audio": "audio/is/words/is-o-diaeresis-09.mp3" },
+        { "text": "örlög", "roman": "oerlög", "meaning": "destiny, fate", "audio": "audio/is/words/is-o-diaeresis-10.mp3" },
+        { "text": "ögn", "roman": "oegn", "meaning": "particle, tiny bit, crumb", "audio": "audio/is/words/is-o-diaeresis-11.mp3" },
+        { "text": "ömurlegur", "roman": "oemurlegur", "meaning": "miserable, wretched", "audio": "audio/is/words/is-o-diaeresis-12.mp3" }
       ]
     }
   ]

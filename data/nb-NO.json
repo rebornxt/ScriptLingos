@@ -1,139 +1,530 @@
 {
-  "language": "Norwegian",
+  "language": "Norwegian (Bokmål)",
   "code": "nb-NO",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
-      "id": "nb-o-slash",
-      "char": "Ø ø",
-      "name": "ø",
-      "romanization": "ø",
-      "ipa": "/øː/",
-      "memoryTrick": "An 'o' with a slash — round lips, say 'e'.",
+      "id": "nb-a",
+      "char": "a",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/ɑː/",
+      "letterAudio": "audio/nb/letters/nb-a.mp3",
+      "memoryTrick": "Like the 'a' in English 'father' — open and relaxed. The short version sounds like the 'u' in 'cup'.",
       "words": [
-        {
-          "text": "øy",
-          "roman": "øy",
-          "meaning": "island",
-          "emoji": "🏝️"
-        },
-        {
-          "text": "øre",
-          "roman": "øre",
-          "meaning": "ear",
-          "emoji": "👂"
-        }
+        { "text": "appelsin", "roman": "appelsin", "meaning": "orange (fruit)", "emoji": "🍊", "audio": "audio/nb/words/nb-a-01.mp3" },
+        { "text": "ape", "roman": "ape", "meaning": "monkey", "emoji": "🐵", "audio": "audio/nb/words/nb-a-02.mp3" },
+        { "text": "avis", "roman": "avis", "meaning": "newspaper", "emoji": "📰", "audio": "audio/nb/words/nb-a-03.mp3" },
+        { "text": "arm", "roman": "arm", "meaning": "arm", "emoji": "💪", "audio": "audio/nb/words/nb-a-04.mp3" },
+        { "text": "and", "roman": "and", "meaning": "duck", "emoji": "🦆", "audio": "audio/nb/words/nb-a-05.mp3" },
+        { "text": "åpen", "roman": "åpen", "meaning": "open", "audio": "audio/nb/words/nb-a-06.mp3" },
+        { "text": "alt", "roman": "alt", "meaning": "everything", "audio": "audio/nb/words/nb-a-07.mp3" },
+        { "text": "arbeid", "roman": "arbeid", "meaning": "work", "emoji": "💼", "audio": "audio/nb/words/nb-a-08.mp3" }
       ]
     },
     {
-      "id": "nb-a-ring",
-      "char": "Å å",
-      "name": "å",
-      "romanization": "å",
-      "ipa": "/oː/",
-      "memoryTrick": "An 'a' with a ring — a long 'oh'.",
+      "id": "nb-b",
+      "char": "b",
+      "name": "be",
+      "romanization": "b",
+      "ipa": "/beː/",
+      "letterAudio": "audio/nb/letters/nb-b.mp3",
+      "memoryTrick": "Like English 'b' in 'ball'. In Norwegian it's always voiced — never silent like in English 'lamb'.",
       "words": [
-        {
-          "text": "år",
-          "roman": "år",
-          "meaning": "year",
-          "emoji": "📅"
-        },
-        {
-          "text": "båt",
-          "roman": "båt",
-          "meaning": "boat",
-          "emoji": "⛵"
-        }
+        { "text": "ball", "roman": "ball", "meaning": "ball", "emoji": "⚽", "audio": "audio/nb/words/nb-b-01.mp3" },
+        { "text": "barn", "roman": "barn", "meaning": "child", "emoji": "👶", "audio": "audio/nb/words/nb-b-02.mp3" },
+        { "text": "bil", "roman": "bil", "meaning": "car", "emoji": "🚗", "audio": "audio/nb/words/nb-b-03.mp3" },
+        { "text": "bok", "roman": "bok", "meaning": "book", "emoji": "📖", "audio": "audio/nb/words/nb-b-04.mp3" },
+        { "text": "brød", "roman": "brød", "meaning": "bread", "emoji": "🍞", "audio": "audio/nb/words/nb-b-05.mp3" },
+        { "text": "blomst", "roman": "blomst", "meaning": "flower", "emoji": "🌸", "audio": "audio/nb/words/nb-b-06.mp3" },
+        { "text": "båt", "roman": "båt", "meaning": "boat", "emoji": "🚤", "audio": "audio/nb/words/nb-b-07.mp3" },
+        { "text": "bjørn", "roman": "bjørn", "meaning": "bear", "emoji": "🐻", "audio": "audio/nb/words/nb-b-08.mp3" }
       ]
     },
     {
-      "id": "nb-ae",
-      "char": "Æ æ",
-      "name": "æ",
-      "romanization": "æ",
-      "ipa": "/æ/",
-      "memoryTrick": "An a-e ligature — an open 'a' as in 'cat'.",
+      "id": "nb-c",
+      "char": "c",
+      "name": "se",
+      "romanization": "c",
+      "ipa": "/seː/",
+      "letterAudio": "audio/nb/letters/nb-c.mp3",
+      "memoryTrick": "Rare in native Norwegian words. Before e/i/y it's soft like English 's'; before a/o/u it's hard like 'k'. Think of 'center' vs 'camp'.",
       "words": [
-        {
-          "text": "være",
-          "roman": "være",
-          "meaning": "to be",
-          "emoji": "✨"
-        },
-        {
-          "text": "lære",
-          "roman": "lære",
-          "meaning": "to learn",
-          "emoji": "📚"
-        }
+        { "text": "cello", "roman": "cello", "meaning": "cello", "emoji": "🎻", "audio": "audio/nb/words/nb-c-01.mp3" },
+        { "text": "cappuccino", "roman": "cappuccino", "meaning": "cappuccino", "emoji": "☕", "audio": "audio/nb/words/nb-c-02.mp3" },
+        { "text": "camping", "roman": "camping", "meaning": "camping", "emoji": "🏕️", "audio": "audio/nb/words/nb-c-03.mp3" },
+        { "text": "centimeter", "roman": "centimeter", "meaning": "centimeter", "emoji": "📏", "audio": "audio/nb/words/nb-c-04.mp3" },
+        { "text": "cirkus", "roman": "cirkus", "meaning": "circus", "emoji": "🎪", "audio": "audio/nb/words/nb-c-05.mp3" }
       ]
     },
     {
-      "id": "nb-k",
-      "char": "K k",
-      "name": "kå",
-      "romanization": "k",
-      "ipa": "/ç/",
-      "memoryTrick": "Before i and y, 'k' softens toward a 'sh / h'.",
+      "id": "nb-d",
+      "char": "d",
+      "name": "de",
+      "romanization": "d",
+      "ipa": "/deː/",
+      "letterAudio": "audio/nb/letters/nb-d.mp3",
+      "memoryTrick": "Like English 'd' in 'dog', but your tongue touches the back of your upper teeth — more dental than in English.",
       "words": [
-        {
-          "text": "kino",
-          "roman": "kino",
-          "meaning": "cinema",
-          "emoji": "🎬"
-        },
-        {
-          "text": "kirke",
-          "roman": "kirke",
-          "meaning": "church",
-          "emoji": "⛪"
-        }
+        { "text": "dag", "roman": "dag", "meaning": "day", "emoji": "☀️", "audio": "audio/nb/words/nb-d-01.mp3" },
+        { "text": "dør", "roman": "dør", "meaning": "door", "emoji": "🚪", "audio": "audio/nb/words/nb-d-02.mp3" },
+        { "text": "dyr", "roman": "dyr", "meaning": "animal", "emoji": "🐾", "audio": "audio/nb/words/nb-d-03.mp3" },
+        { "text": "dame", "roman": "dame", "meaning": "woman, lady", "emoji": "👩", "audio": "audio/nb/words/nb-d-04.mp3" },
+        { "text": "drikke", "roman": "drikke", "meaning": "to drink", "emoji": "🥤", "audio": "audio/nb/words/nb-d-05.mp3" },
+        { "text": "drøm", "roman": "drøm", "meaning": "dream", "emoji": "💭", "audio": "audio/nb/words/nb-d-06.mp3" },
+        { "text": "dal", "roman": "dal", "meaning": "valley", "emoji": "🏞️", "audio": "audio/nb/words/nb-d-07.mp3" },
+        { "text": "dans", "roman": "dans", "meaning": "dance", "emoji": "💃", "audio": "audio/nb/words/nb-d-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-e",
+      "char": "e",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/eː/",
+      "letterAudio": "audio/nb/letters/nb-e.mp3",
+      "memoryTrick": "Long 'e' is like the 'e' in English 'bed' but held longer. Short 'e' is just like 'bed'. Never like English 'ee' in 'bee'.",
+      "words": [
+        { "text": "eple", "roman": "eple", "meaning": "apple", "emoji": "🍎", "audio": "audio/nb/words/nb-e-01.mp3" },
+        { "text": "elg", "roman": "elg", "meaning": "elk, moose", "emoji": "🫎", "audio": "audio/nb/words/nb-e-02.mp3" },
+        { "text": "en", "roman": "en", "meaning": "a, one", "emoji": "1️⃣", "audio": "audio/nb/words/nb-e-03.mp3" },
+        { "text": "elefant", "roman": "elefant", "meaning": "elephant", "emoji": "🐘", "audio": "audio/nb/words/nb-e-04.mp3" },
+        { "text": "egg", "roman": "egg", "meaning": "egg", "emoji": "🥚", "audio": "audio/nb/words/nb-e-05.mp3" },
+        { "text": "elv", "roman": "elv", "meaning": "river", "emoji": "🏞️", "audio": "audio/nb/words/nb-e-06.mp3" },
+        { "text": "ekorn", "roman": "ekorn", "meaning": "squirrel", "emoji": "🐿️", "audio": "audio/nb/words/nb-e-07.mp3" },
+        { "text": "ese", "roman": "ese", "meaning": "ladle", "audio": "audio/nb/words/nb-e-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-f",
+      "char": "f",
+      "name": "eff",
+      "romanization": "f",
+      "ipa": "/ɛf/",
+      "letterAudio": "audio/nb/letters/nb-f.mp3",
+      "memoryTrick": "Identical to English 'f' in 'fish'. Just say 'eff' for the letter name — crisp and short.",
+      "words": [
+        { "text": "fisk", "roman": "fisk", "meaning": "fish", "emoji": "🐟", "audio": "audio/nb/words/nb-f-01.mp3" },
+        { "text": "fugl", "roman": "fugl", "meaning": "bird", "emoji": "🐦", "audio": "audio/nb/words/nb-f-02.mp3" },
+        { "text": "fjell", "roman": "fjell", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/nb/words/nb-f-03.mp3" },
+        { "text": "familie", "roman": "familie", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/nb/words/nb-f-04.mp3" },
+        { "text": "farge", "roman": "farge", "meaning": "color", "emoji": "🎨", "audio": "audio/nb/words/nb-f-05.mp3" },
+        { "text": "flaske", "roman": "flaske", "meaning": "bottle", "emoji": "🍾", "audio": "audio/nb/words/nb-f-06.mp3" },
+        { "text": "frokost", "roman": "frokost", "meaning": "breakfast", "emoji": "🥐", "audio": "audio/nb/words/nb-f-07.mp3" },
+        { "text": "flagg", "roman": "flagg", "meaning": "flag", "emoji": "🚩", "audio": "audio/nb/words/nb-f-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-g",
+      "char": "g",
+      "name": "ge",
+      "romanization": "g",
+      "ipa": "/ɡeː/",
+      "letterAudio": "audio/nb/letters/nb-g.mp3",
+      "memoryTrick": "Like a hard English 'g' in 'go'. In Norwegian it's hard before a/o/u/å, and soft like 'y' before i/y/ei/øy. At the end of -ig it's silent or a soft 'y'.",
+      "words": [
+        { "text": "gate", "roman": "gate", "meaning": "street", "emoji": "🛣️", "audio": "audio/nb/words/nb-g-01.mp3" },
+        { "text": "gutt", "roman": "gutt", "meaning": "boy", "emoji": "👦", "audio": "audio/nb/words/nb-g-02.mp3" },
+        { "text": "gul", "roman": "gul", "meaning": "yellow", "emoji": "🟡", "audio": "audio/nb/words/nb-g-03.mp3" },
+        { "text": "glass", "roman": "glass", "meaning": "glass", "emoji": "🥛", "audio": "audio/nb/words/nb-g-04.mp3" },
+        { "text": "gress", "roman": "gress", "meaning": "grass", "emoji": "🌿", "audio": "audio/nb/words/nb-g-05.mp3" },
+        { "text": "gave", "roman": "gave", "meaning": "gift", "emoji": "🎁", "audio": "audio/nb/words/nb-g-06.mp3" },
+        { "text": "gammel", "roman": "gammel", "meaning": "old", "emoji": "👴", "audio": "audio/nb/words/nb-g-07.mp3" },
+        { "text": "gård", "roman": "gård", "meaning": "farm", "emoji": "🏡", "audio": "audio/nb/words/nb-g-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-h",
+      "char": "h",
+      "name": "hå",
+      "romanization": "h",
+      "ipa": "/hoː/",
+      "letterAudio": "audio/nb/letters/nb-h.mp3",
+      "memoryTrick": "Like English 'h' in 'house' — a simple breath. The letter name sounds like 'haw' — as if you're about to laugh warmly.",
+      "words": [
+        { "text": "hus", "roman": "hus", "meaning": "house", "emoji": "🏠", "audio": "audio/nb/words/nb-h-01.mp3" },
+        { "text": "hund", "roman": "hund", "meaning": "dog", "emoji": "🐕", "audio": "audio/nb/words/nb-h-02.mp3" },
+        { "text": "hånd", "roman": "hånd", "meaning": "hand", "emoji": "✋", "audio": "audio/nb/words/nb-h-03.mp3" },
+        { "text": "hjerte", "roman": "hjerte", "meaning": "heart", "emoji": "❤️", "audio": "audio/nb/words/nb-h-04.mp3" },
+        { "text": "hav", "roman": "hav", "meaning": "sea, ocean", "emoji": "🌊", "audio": "audio/nb/words/nb-h-05.mp3" },
+        { "text": "hest", "roman": "hest", "meaning": "horse", "emoji": "🐴", "audio": "audio/nb/words/nb-h-06.mp3" },
+        { "text": "hode", "roman": "hode", "meaning": "head", "emoji": "😀", "audio": "audio/nb/words/nb-h-07.mp3" },
+        { "text": "høst", "roman": "høst", "meaning": "autumn", "emoji": "🍂", "audio": "audio/nb/words/nb-h-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-i",
+      "char": "i",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/iː/",
+      "letterAudio": "audio/nb/letters/nb-i.mp3",
+      "memoryTrick": "Long 'i' is like English 'ee' in 'see'. Short 'i' is like 'i' in 'sit'. Clean and pure — never diphthongized like English 'eye'.",
+      "words": [
+        { "text": "is", "roman": "is", "meaning": "ice cream", "emoji": "🍦", "audio": "audio/nb/words/nb-i-01.mp3" },
+        { "text": "ild", "roman": "ild", "meaning": "fire", "emoji": "🔥", "audio": "audio/nb/words/nb-i-02.mp3" },
+        { "text": "inn", "roman": "inn", "meaning": "in", "emoji": "🏠", "audio": "audio/nb/words/nb-i-03.mp3" },
+        { "text": "igjen", "roman": "igjen", "meaning": "again", "emoji": "🔁", "audio": "audio/nb/words/nb-i-04.mp3" },
+        { "text": "ingenting", "roman": "ingenting", "meaning": "nothing", "audio": "audio/nb/words/nb-i-05.mp3" },
+        { "text": "instrument", "roman": "instrument", "meaning": "instrument", "emoji": "🎵", "audio": "audio/nb/words/nb-i-06.mp3" },
+        { "text": "istand", "roman": "istand", "meaning": "functional, in working order", "audio": "audio/nb/words/nb-i-07.mp3" }
       ]
     },
     {
       "id": "nb-j",
-      "char": "J j",
+      "char": "j",
       "name": "je",
       "romanization": "j",
-      "ipa": "/j/",
-      "memoryTrick": "Says 'y' as in 'yes'.",
+      "ipa": "/jeː/",
+      "letterAudio": "audio/nb/letters/nb-j.mp3",
+      "memoryTrick": "Like English 'y' in 'yes'. It's always a consonant — never like English 'j' in 'jump'. Think 'y' sound every time.",
       "words": [
-        {
-          "text": "ja",
-          "roman": "ja",
-          "meaning": "yes",
-          "emoji": "✅"
-        },
-        {
-          "text": "jente",
-          "roman": "jente",
-          "meaning": "girl",
-          "emoji": "👧"
-        }
+        { "text": "ja", "roman": "ja", "meaning": "yes", "emoji": "👍", "audio": "audio/nb/words/nb-j-01.mp3" },
+        { "text": "jente", "roman": "jente", "meaning": "girl", "emoji": "👧", "audio": "audio/nb/words/nb-j-02.mp3" },
+        { "text": "jord", "roman": "jord", "meaning": "earth, soil", "emoji": "🌍", "audio": "audio/nb/words/nb-j-03.mp3" },
+        { "text": "jul", "roman": "jul", "meaning": "Christmas", "emoji": "🎄", "audio": "audio/nb/words/nb-j-04.mp3" },
+        { "text": "jobb", "roman": "jobb", "meaning": "job", "emoji": "💼", "audio": "audio/nb/words/nb-j-05.mp3" },
+        { "text": "jakt", "roman": "jakt", "meaning": "hunt", "emoji": "🏹", "audio": "audio/nb/words/nb-j-06.mp3" },
+        { "text": "jern", "roman": "jern", "meaning": "iron", "audio": "audio/nb/words/nb-j-07.mp3" },
+        { "text": "jordbær", "roman": "jordbær", "meaning": "strawberry", "emoji": "🍓", "audio": "audio/nb/words/nb-j-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-k",
+      "char": "k",
+      "name": "kå",
+      "romanization": "k",
+      "ipa": "/koː/",
+      "letterAudio": "audio/nb/letters/nb-k.mp3",
+      "memoryTrick": "Like English 'k' in 'kite'. In Norwegian it's pronounced at the back of your mouth, with a little puff of air. The letter name rhymes with 'haw'.",
+      "words": [
+        { "text": "katt", "roman": "katt", "meaning": "cat", "emoji": "🐱", "audio": "audio/nb/words/nb-k-01.mp3" },
+        { "text": "kake", "roman": "kake", "meaning": "cake", "emoji": "🎂", "audio": "audio/nb/words/nb-k-02.mp3" },
+        { "text": "ku", "roman": "ku", "meaning": "cow", "emoji": "🐄", "audio": "audio/nb/words/nb-k-03.mp3" },
+        { "text": "konge", "roman": "konge", "meaning": "king", "emoji": "👑", "audio": "audio/nb/words/nb-k-04.mp3" },
+        { "text": "kirke", "roman": "kirke", "meaning": "church", "emoji": "⛪", "audio": "audio/nb/words/nb-k-05.mp3" },
+        { "text": "kald", "roman": "kald", "meaning": "cold", "emoji": "🥶", "audio": "audio/nb/words/nb-k-06.mp3" },
+        { "text": "kjøtt", "roman": "kjøtt", "meaning": "meat", "emoji": "🍖", "audio": "audio/nb/words/nb-k-07.mp3" },
+        { "text": "klem", "roman": "klem", "meaning": "hug", "emoji": "🤗", "audio": "audio/nb/words/nb-k-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-l",
+      "char": "l",
+      "name": "ell",
+      "romanization": "l",
+      "ipa": "/ɛl/",
+      "letterAudio": "audio/nb/letters/nb-l.mp3",
+      "memoryTrick": "Like English 'l' in 'love', but your tongue tip touches right behind your upper front teeth — more forward and lighter than the dark English 'l' in 'full'.",
+      "words": [
+        { "text": "lys", "roman": "lys", "meaning": "light", "emoji": "💡", "audio": "audio/nb/words/nb-l-01.mp3" },
+        { "text": "land", "roman": "land", "meaning": "country", "emoji": "🗺️", "audio": "audio/nb/words/nb-l-02.mp3" },
+        { "text": "løve", "roman": "løve", "meaning": "lion", "emoji": "🦁", "audio": "audio/nb/words/nb-l-03.mp3" },
+        { "text": "lese", "roman": "lese", "meaning": "to read", "emoji": "📚", "audio": "audio/nb/words/nb-l-04.mp3" },
+        { "text": "liten", "roman": "liten", "meaning": "small", "audio": "audio/nb/words/nb-l-05.mp3" },
+        { "text": "laks", "roman": "laks", "meaning": "salmon", "emoji": "🐟", "audio": "audio/nb/words/nb-l-06.mp3" },
+        { "text": "lue", "roman": "lue", "meaning": "hat, cap", "emoji": "🧢", "audio": "audio/nb/words/nb-l-07.mp3" },
+        { "text": "lege", "roman": "lege", "meaning": "doctor", "emoji": "🩺", "audio": "audio/nb/words/nb-l-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-m",
+      "char": "m",
+      "name": "emm",
+      "romanization": "m",
+      "ipa": "/ɛm/",
+      "letterAudio": "audio/nb/letters/nb-m.mp3",
+      "memoryTrick": "Just like English 'm' in 'mother'. Press your lips together and hum. The letter name is 'emm' — short, like saying 'M&M' without the first M.",
+      "words": [
+        { "text": "mor", "roman": "mor", "meaning": "mother", "emoji": "👩", "audio": "audio/nb/words/nb-m-01.mp3" },
+        { "text": "mat", "roman": "mat", "meaning": "food", "emoji": "🍽️", "audio": "audio/nb/words/nb-m-02.mp3" },
+        { "text": "melk", "roman": "melk", "meaning": "milk", "emoji": "🥛", "audio": "audio/nb/words/nb-m-03.mp3" },
+        { "text": "måne", "roman": "måne", "meaning": "moon", "emoji": "🌙", "audio": "audio/nb/words/nb-m-04.mp3" },
+        { "text": "mann", "roman": "mann", "meaning": "man", "emoji": "👨", "audio": "audio/nb/words/nb-m-05.mp3" },
+        { "text": "mus", "roman": "mus", "meaning": "mouse", "emoji": "🐭", "audio": "audio/nb/words/nb-m-06.mp3" },
+        { "text": "møte", "roman": "møte", "meaning": "meeting", "emoji": "🤝", "audio": "audio/nb/words/nb-m-07.mp3" },
+        { "text": "myk", "roman": "myk", "meaning": "soft", "audio": "audio/nb/words/nb-m-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-n",
+      "char": "n",
+      "name": "enn",
+      "romanization": "n",
+      "ipa": "/ɛn/",
+      "letterAudio": "audio/nb/letters/nb-n.mp3",
+      "memoryTrick": "Just like English 'n' in 'nose'. Tongue tip behind upper teeth. The letter name 'enn' sounds just like the English letter 'N'.",
+      "words": [
+        { "text": "navn", "roman": "navn", "meaning": "name", "emoji": "📛", "audio": "audio/nb/words/nb-n-01.mp3" },
+        { "text": "natt", "roman": "natt", "meaning": "night", "emoji": "🌙", "audio": "audio/nb/words/nb-n-02.mp3" },
+        { "text": "nøkkel", "roman": "nøkkel", "meaning": "key", "emoji": "🔑", "audio": "audio/nb/words/nb-n-03.mp3" },
+        { "text": "nese", "roman": "nese", "meaning": "nose", "emoji": "👃", "audio": "audio/nb/words/nb-n-04.mp3" },
+        { "text": "ny", "roman": "ny", "meaning": "new", "emoji": "🆕", "audio": "audio/nb/words/nb-n-05.mp3" },
+        { "text": "norge", "roman": "Norge", "meaning": "Norway", "emoji": "🇳🇴", "audio": "audio/nb/words/nb-n-06.mp3" },
+        { "text": "nål", "roman": "nål", "meaning": "needle", "emoji": "🪡", "audio": "audio/nb/words/nb-n-07.mp3" },
+        { "text": "natur", "roman": "natur", "meaning": "nature", "emoji": "🌲", "audio": "audio/nb/words/nb-n-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-o",
+      "char": "o",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/uː/",
+      "letterAudio": "audio/nb/letters/nb-o.mp3",
+      "memoryTrick": "Tricky! Norwegian 'o' is often pronounced like English 'oo' in 'food', not like English 'oh'. Short 'o' is like 'oo' in 'foot'. But in some words it's like 'å'.",
+      "words": [
+        { "text": "ord", "roman": "ord", "meaning": "word", "emoji": "💬", "audio": "audio/nb/words/nb-o-01.mp3" },
+        { "text": "ost", "roman": "ost", "meaning": "cheese", "emoji": "🧀", "audio": "audio/nb/words/nb-o-02.mp3" },
+        { "text": "opp", "roman": "opp", "meaning": "up", "emoji": "⬆️", "audio": "audio/nb/words/nb-o-03.mp3" },
+        { "text": "olje", "roman": "olje", "meaning": "oil", "audio": "audio/nb/words/nb-o-04.mp3" },
+        { "text": "orm", "roman": "orm", "meaning": "worm, snake", "emoji": "🐍", "audio": "audio/nb/words/nb-o-05.mp3" },
+        { "text": "ovn", "roman": "ovn", "meaning": "oven", "emoji": "🔥", "audio": "audio/nb/words/nb-o-06.mp3" },
+        { "text": "okse", "roman": "okse", "meaning": "ox, bull", "emoji": "🐂", "audio": "audio/nb/words/nb-o-07.mp3" },
+        { "text": "omsorg", "roman": "omsorg", "meaning": "care", "audio": "audio/nb/words/nb-o-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-p",
+      "char": "p",
+      "name": "pe",
+      "romanization": "p",
+      "ipa": "/peː/",
+      "letterAudio": "audio/nb/letters/nb-p.mp3",
+      "memoryTrick": "Like English 'p' in 'pen', but with a stronger puff of air (aspiration). Hold your hand in front of your mouth — you should feel the puff.",
+      "words": [
+        { "text": "penger", "roman": "penger", "meaning": "money", "emoji": "💰", "audio": "audio/nb/words/nb-p-01.mp3" },
+        { "text": "pappa", "roman": "pappa", "meaning": "dad", "emoji": "👨", "audio": "audio/nb/words/nb-p-02.mp3" },
+        { "text": "pike", "roman": "pike", "meaning": "girl, maiden", "emoji": "👧", "audio": "audio/nb/words/nb-p-03.mp3" },
+        { "text": "pære", "roman": "pære", "meaning": "pear", "emoji": "🍐", "audio": "audio/nb/words/nb-p-04.mp3" },
+        { "text": "potet", "roman": "potet", "meaning": "potato", "emoji": "🥔", "audio": "audio/nb/words/nb-p-05.mp3" },
+        { "text": "plass", "roman": "plass", "meaning": "place, spot", "audio": "audio/nb/words/nb-p-06.mp3" },
+        { "text": "pute", "roman": "pute", "meaning": "pillow", "emoji": "🛏️", "audio": "audio/nb/words/nb-p-07.mp3" },
+        { "text": "pølse", "roman": "pølse", "meaning": "sausage", "emoji": "🌭", "audio": "audio/nb/words/nb-p-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-q",
+      "char": "q",
+      "name": "ku",
+      "romanization": "q",
+      "ipa": "/kʉː/",
+      "letterAudio": "audio/nb/letters/nb-q.mp3",
+      "memoryTrick": "Rare in Norwegian — mostly in loanwords. Always followed by 'v' (as in 'quiz'), and the combo 'qv' makes a 'kv' sound. The letter name sounds like 'coo'.",
+      "words": [
+        { "text": "quiz", "roman": "quiz", "meaning": "quiz", "emoji": "❓", "audio": "audio/nb/words/nb-q-01.mp3" },
+        { "text": "quinoa", "roman": "quinoa", "meaning": "quinoa", "emoji": "🌾", "audio": "audio/nb/words/nb-q-02.mp3" }
+      ]
+    },
+    {
+      "id": "nb-r",
+      "char": "r",
+      "name": "ærr",
+      "romanization": "r",
+      "ipa": "/ær/",
+      "letterAudio": "audio/nb/letters/nb-r.mp3",
+      "memoryTrick": "A tapped or trilled 'r' — the tip of your tongue flutters against the ridge behind your upper teeth. In some dialects it's a guttural sound in the back of the throat.",
+      "words": [
+        { "text": "regn", "roman": "regn", "meaning": "rain", "emoji": "🌧️", "audio": "audio/nb/words/nb-r-01.mp3" },
+        { "text": "rød", "roman": "rød", "meaning": "red", "emoji": "🔴", "audio": "audio/nb/words/nb-r-02.mp3" },
+        { "text": "rom", "roman": "rom", "meaning": "room", "audio": "audio/nb/words/nb-r-03.mp3" },
+        { "text": "ris", "roman": "ris", "meaning": "rice", "emoji": "🍚", "audio": "audio/nb/words/nb-r-04.mp3" },
+        { "text": "rope", "roman": "rope", "meaning": "to shout, to call", "emoji": "📣", "audio": "audio/nb/words/nb-r-05.mp3" },
+        { "text": "rygg", "roman": "rygg", "meaning": "back", "audio": "audio/nb/words/nb-r-06.mp3" },
+        { "text": "røyke", "roman": "røyke", "meaning": "to smoke", "emoji": "🚬", "audio": "audio/nb/words/nb-r-07.mp3" },
+        { "text": "rask", "roman": "rask", "meaning": "fast, quick", "emoji": "⚡", "audio": "audio/nb/words/nb-r-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-s",
+      "char": "s",
+      "name": "ess",
+      "romanization": "s",
+      "ipa": "/ɛs/",
+      "letterAudio": "audio/nb/letters/nb-s.mp3",
+      "memoryTrick": "Like English 's' in 'sun' — always unvoiced, never like 'z' in 'rose'. Norwegian 's' stays crisp and hissing in every position.",
+      "words": [
+        { "text": "sol", "roman": "sol", "meaning": "sun", "emoji": "☀️", "audio": "audio/nb/words/nb-s-01.mp3" },
+        { "text": "snø", "roman": "snø", "meaning": "snow", "emoji": "❄️", "audio": "audio/nb/words/nb-s-02.mp3" },
+        { "text": "sti", "roman": "sti", "meaning": "path, trail", "emoji": "🥾", "audio": "audio/nb/words/nb-s-03.mp3" },
+        { "text": "seng", "roman": "seng", "meaning": "bed", "emoji": "🛏️", "audio": "audio/nb/words/nb-s-04.mp3" },
+        { "text": "søt", "roman": "søt", "meaning": "sweet", "emoji": "🍬", "audio": "audio/nb/words/nb-s-05.mp3" },
+        { "text": "sau", "roman": "sau", "meaning": "sheep", "emoji": "🐑", "audio": "audio/nb/words/nb-s-06.mp3" },
+        { "text": "skog", "roman": "skog", "meaning": "forest", "emoji": "🌲", "audio": "audio/nb/words/nb-s-07.mp3" },
+        { "text": "sommer", "roman": "sommer", "meaning": "summer", "emoji": "🌻", "audio": "audio/nb/words/nb-s-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-t",
+      "char": "t",
+      "name": "te",
+      "romanization": "t",
+      "ipa": "/teː/",
+      "letterAudio": "audio/nb/letters/nb-t.mp3",
+      "memoryTrick": "Like English 't' in 'time', with a good puff of air. The tongue tip touches the back of your upper teeth — more dental than in English. The letter name sounds like 'teh'.",
+      "words": [
+        { "text": "tog", "roman": "tog", "meaning": "train", "emoji": "🚂", "audio": "audio/nb/words/nb-t-01.mp3" },
+        { "text": "tre", "roman": "tre", "meaning": "tree", "emoji": "🌳", "audio": "audio/nb/words/nb-t-02.mp3" },
+        { "text": "tann", "roman": "tann", "meaning": "tooth", "emoji": "🦷", "audio": "audio/nb/words/nb-t-03.mp3" },
+        { "text": "takk", "roman": "takk", "meaning": "thank you", "audio": "audio/nb/words/nb-t-04.mp3" },
+        { "text": "time", "roman": "time", "meaning": "hour", "emoji": "🕐", "audio": "audio/nb/words/nb-t-05.mp3" },
+        { "text": "tunge", "roman": "tunge", "meaning": "tongue", "emoji": "👅", "audio": "audio/nb/words/nb-t-06.mp3" },
+        { "text": "tørst", "roman": "tørst", "meaning": "thirsty", "emoji": "🥤", "audio": "audio/nb/words/nb-t-07.mp3" },
+        { "text": "tromme", "roman": "tromme", "meaning": "drum", "emoji": "🥁", "audio": "audio/nb/words/nb-t-08.mp3" }
       ]
     },
     {
       "id": "nb-u",
-      "char": "U u",
+      "char": "u",
       "name": "u",
       "romanization": "u",
-      "ipa": "/ʉ/",
-      "memoryTrick": "A tight, rounded 'ew'.",
+      "ipa": "/ʉː/",
+      "letterAudio": "audio/nb/letters/nb-u.mp3",
+      "memoryTrick": "A sound English doesn't quite have! Round your lips tightly as if to whistle, then say 'ee'. It's a high, central, rounded vowel — between 'oo' and 'ee'.",
       "words": [
-        {
-          "text": "hus",
-          "roman": "hus",
-          "meaning": "house",
-          "emoji": "🏠"
-        },
-        {
-          "text": "ull",
-          "roman": "ull",
-          "meaning": "wool",
-          "emoji": "🐑"
-        }
+        { "text": "ulv", "roman": "ulv", "meaning": "wolf", "emoji": "🐺", "audio": "audio/nb/words/nb-u-01.mp3" },
+        { "text": "ugle", "roman": "ugle", "meaning": "owl", "emoji": "🦉", "audio": "audio/nb/words/nb-u-02.mp3" },
+        { "text": "uke", "roman": "uke", "meaning": "week", "emoji": "📅", "audio": "audio/nb/words/nb-u-03.mp3" },
+        { "text": "ung", "roman": "ung", "meaning": "young", "emoji": "🧒", "audio": "audio/nb/words/nb-u-04.mp3" },
+        { "text": "ut", "roman": "ut", "meaning": "out", "emoji": "🚪", "audio": "audio/nb/words/nb-u-05.mp3" },
+        { "text": "urt", "roman": "urt", "meaning": "herb", "emoji": "🌿", "audio": "audio/nb/words/nb-u-06.mp3" },
+        { "text": "undre", "roman": "undre", "meaning": "to wonder", "emoji": "🤔", "audio": "audio/nb/words/nb-u-07.mp3" },
+        { "text": "univers", "roman": "univers", "meaning": "universe", "emoji": "🌌", "audio": "audio/nb/words/nb-u-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-v",
+      "char": "v",
+      "name": "ve",
+      "romanization": "v",
+      "ipa": "/veː/",
+      "letterAudio": "audio/nb/letters/nb-v.mp3",
+      "memoryTrick": "Like English 'v' in 'voice'. Top teeth on bottom lip — a soft buzz. The letter name 've' sounds like 'veh' with a brief e-sound.",
+      "words": [
+        { "text": "vann", "roman": "vann", "meaning": "water", "emoji": "💧", "audio": "audio/nb/words/nb-v-01.mp3" },
+        { "text": "vindu", "roman": "vindu", "meaning": "window", "emoji": "🪟", "audio": "audio/nb/words/nb-v-02.mp3" },
+        { "text": "venn", "roman": "venn", "meaning": "friend", "emoji": "👫", "audio": "audio/nb/words/nb-v-03.mp3" },
+        { "text": "vår", "roman": "vår", "meaning": "spring (season)", "emoji": "🌷", "audio": "audio/nb/words/nb-v-04.mp3" },
+        { "text": "vei", "roman": "vei", "meaning": "road, way", "emoji": "🛣️", "audio": "audio/nb/words/nb-v-05.mp3" },
+        { "text": "varm", "roman": "varm", "meaning": "warm", "emoji": "🔥", "audio": "audio/nb/words/nb-v-06.mp3" },
+        { "text": "vinge", "roman": "vinge", "meaning": "wing", "emoji": "🪽", "audio": "audio/nb/words/nb-v-07.mp3" },
+        { "text": "vinter", "roman": "vinter", "meaning": "winter", "emoji": "⛄", "audio": "audio/nb/words/nb-v-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-w",
+      "char": "w",
+      "name": "dobbelt-ve",
+      "romanization": "w",
+      "ipa": "/ˈdɔbəltˌveː/",
+      "letterAudio": "audio/nb/letters/nb-w.mp3",
+      "memoryTrick": "Rare in native words — mainly loanwords. Pronounced like English 'v'. The letter name 'dobbelt-ve' literally means 'double v'. Think of it as a doubled v-sound twin.",
+      "words": [
+        { "text": "wienerbrød", "roman": "wienerbrød", "meaning": "Danish pastry", "emoji": "🥐", "audio": "audio/nb/words/nb-w-01.mp3" },
+        { "text": "watt", "roman": "watt", "meaning": "watt", "emoji": "⚡", "audio": "audio/nb/words/nb-w-02.mp3" },
+        { "text": "whisky", "roman": "whisky", "meaning": "whisky", "emoji": "🥃", "audio": "audio/nb/words/nb-w-03.mp3" },
+        { "text": "weekend", "roman": "weekend", "meaning": "weekend", "audio": "audio/nb/words/nb-w-04.mp3" }
+      ]
+    },
+    {
+      "id": "nb-x",
+      "char": "x",
+      "name": "eks",
+      "romanization": "x",
+      "ipa": "/ɛks/",
+      "letterAudio": "audio/nb/letters/nb-x.mp3",
+      "memoryTrick": "Rare in Norwegian — mostly loanwords and the word for 'ex' (former partner). Pronounced like 'ks' as in English 'box'. The letter name 'eks' sounds exactly like English 'X'.",
+      "words": [
+        { "text": "xylofon", "roman": "xylofon", "meaning": "xylophone", "emoji": "🎹", "audio": "audio/nb/words/nb-x-01.mp3" },
+        { "text": "taxi", "roman": "taxi", "meaning": "taxi", "emoji": "🚕", "audio": "audio/nb/words/nb-x-02.mp3" }
+      ]
+    },
+    {
+      "id": "nb-y",
+      "char": "y",
+      "name": "y",
+      "romanization": "y",
+      "ipa": "/yː/",
+      "letterAudio": "audio/nb/letters/nb-y.mp3",
+      "memoryTrick": "Round your lips tightly like you're saying 'oo', but try to say 'ee' instead. Like German 'ü' or French 'u'. A very Norwegian sound — practice by whistling and un-whistling!",
+      "words": [
+        { "text": "yr", "roman": "yr", "meaning": "drizzle, light rain", "emoji": "🌦️", "audio": "audio/nb/words/nb-y-01.mp3" },
+        { "text": "yste", "roman": "yste", "meaning": "to make cheese", "emoji": "🧀", "audio": "audio/nb/words/nb-y-02.mp3" },
+        { "text": "yndig", "roman": "yndig", "meaning": "lovely, graceful", "audio": "audio/nb/words/nb-y-03.mp3" },
+        { "text": "ytterst", "roman": "ytterst", "meaning": "outermost", "audio": "audio/nb/words/nb-y-04.mp3" },
+        { "text": "yngre", "roman": "yngre", "meaning": "younger", "audio": "audio/nb/words/nb-y-05.mp3" },
+        { "text": "yrke", "roman": "yrke", "meaning": "profession", "emoji": "💼", "audio": "audio/nb/words/nb-y-06.mp3" }
+      ]
+    },
+    {
+      "id": "nb-z",
+      "char": "z",
+      "name": "sett",
+      "romanization": "z",
+      "ipa": "/sɛt/",
+      "letterAudio": "audio/nb/letters/nb-z.mp3",
+      "memoryTrick": "Rare in Norwegian — mostly loanwords. Pronounced like 's' in 'sun', not like English 'z' in 'zebra'. The letter name 'sett' sounds like English 'set'.",
+      "words": [
+        { "text": "zoo", "roman": "zoo", "meaning": "zoo", "emoji": "🦁", "audio": "audio/nb/words/nb-z-01.mp3" },
+        { "text": "zebra", "roman": "zebra", "meaning": "zebra", "emoji": "🦓", "audio": "audio/nb/words/nb-z-02.mp3" },
+        { "text": "zen", "roman": "zen", "meaning": "zen", "emoji": "🧘", "audio": "audio/nb/words/nb-z-03.mp3" }
+      ]
+    },
+    {
+      "id": "nb-ae",
+      "char": "æ",
+      "name": "æ",
+      "romanization": "æ",
+      "ipa": "/æː/",
+      "letterAudio": "audio/nb/letters/nb-ae.mp3",
+      "memoryTrick": "Like the 'a' in English 'cat' or 'hat'. Open your mouth wide and drop your jaw. Short 'æ' is the same quality but quicker. It's the last letter of the Norwegian word 'vær' (weather).",
+      "words": [
+        { "text": "ærlig", "roman": "ærlig", "meaning": "honest", "audio": "audio/nb/words/nb-ae-01.mp3" },
+        { "text": "ærfugl", "roman": "ærfugl", "meaning": "eider duck", "emoji": "🦆", "audio": "audio/nb/words/nb-ae-02.mp3" },
+        { "text": "ætling", "roman": "ætling", "meaning": "descendant", "audio": "audio/nb/words/nb-ae-03.mp3" },
+        { "text": "bære", "roman": "bære", "meaning": "to carry", "audio": "audio/nb/words/nb-ae-04.mp3" },
+        { "text": "lære", "roman": "lære", "meaning": "to learn, to teach", "emoji": "📖", "audio": "audio/nb/words/nb-ae-05.mp3" },
+        { "text": "vær", "roman": "vær", "meaning": "weather", "emoji": "🌤️", "audio": "audio/nb/words/nb-ae-06.mp3" },
+        { "text": "særegen", "roman": "særegen", "meaning": "distinctive, peculiar", "audio": "audio/nb/words/nb-ae-07.mp3" },
+        { "text": "ære", "roman": "ære", "meaning": "honor", "audio": "audio/nb/words/nb-ae-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-oe",
+      "char": "ø",
+      "name": "ø",
+      "romanization": "ø",
+      "ipa": "/øː/",
+      "letterAudio": "audio/nb/letters/nb-oe.mp3",
+      "memoryTrick": "Like the 'i' in English 'bird' or the 'eu' in French 'peu'. Round your lips as if to say 'oh', but keep your tongue as if saying 'eh'. Short 'ø' is the same but quicker.",
+      "words": [
+        { "text": "øye", "roman": "øye", "meaning": "eye", "emoji": "👁️", "audio": "audio/nb/words/nb-oe-01.mp3" },
+        { "text": "øl", "roman": "øl", "meaning": "beer", "emoji": "🍺", "audio": "audio/nb/words/nb-oe-02.mp3" },
+        { "text": "ørn", "roman": "ørn", "meaning": "eagle", "emoji": "🦅", "audio": "audio/nb/words/nb-oe-03.mp3" },
+        { "text": "ønske", "roman": "ønske", "meaning": "to wish", "emoji": "⭐", "audio": "audio/nb/words/nb-oe-04.mp3" },
+        { "text": "øst", "roman": "øst", "meaning": "east", "emoji": "🧭", "audio": "audio/nb/words/nb-oe-05.mp3" },
+        { "text": "sølv", "roman": "sølv", "meaning": "silver", "audio": "audio/nb/words/nb-oe-06.mp3" },
+        { "text": "møbel", "roman": "møbel", "meaning": "furniture", "emoji": "🪑", "audio": "audio/nb/words/nb-oe-07.mp3" },
+        { "text": "bølge", "roman": "bølge", "meaning": "wave", "emoji": "🌊", "audio": "audio/nb/words/nb-oe-08.mp3" }
+      ]
+    },
+    {
+      "id": "nb-aa",
+      "char": "å",
+      "name": "å",
+      "romanization": "å",
+      "ipa": "/oː/",
+      "letterAudio": "audio/nb/letters/nb-aa.mp3",
+      "memoryTrick": "Like the 'aw' in English 'law' or 'o' in 'born'. Round your lips and open your mouth moderately. Short 'å' is like the 'o' in 'hot'. This letter also means 'river' or 'to' in Norwegian!",
+      "words": [
+        { "text": "ål", "roman": "ål", "meaning": "eel", "emoji": "🐍", "audio": "audio/nb/words/nb-aa-01.mp3" },
+        { "text": "åker", "roman": "åker", "meaning": "field (of crops)", "emoji": "🌾", "audio": "audio/nb/words/nb-aa-02.mp3" },
+        { "text": "ånd", "roman": "ånd", "meaning": "spirit", "emoji": "👻", "audio": "audio/nb/words/nb-aa-03.mp3" },
+        { "text": "år", "roman": "år", "meaning": "year", "emoji": "📆", "audio": "audio/nb/words/nb-aa-04.mp3" },
+        { "text": "åtte", "roman": "åtte", "meaning": "eight", "emoji": "8️⃣", "audio": "audio/nb/words/nb-aa-05.mp3" },
+        { "text": "måke", "roman": "måke", "meaning": "seagull", "emoji": "🐦", "audio": "audio/nb/words/nb-aa-06.mp3" },
+        { "text": "hånd", "roman": "hånd", "meaning": "hand", "emoji": "✋", "audio": "audio/nb/words/nb-aa-07.mp3" },
+        { "text": "gå", "roman": "gå", "meaning": "to go, to walk", "emoji": "🚶", "audio": "audio/nb/words/nb-aa-08.mp3" }
       ]
     }
   ]

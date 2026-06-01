@@ -2,7 +2,6 @@
   "language": "Bulgarian",
   "code": "bg-BG",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
       "id": "bg-a",
@@ -10,20 +9,19 @@
       "name": "a",
       "romanization": "a",
       "ipa": "/a/",
-      "memoryTrick": "Says 'ah'.",
+      "letterAudio": "audio/bg/letters/bg-a.mp3",
+      "memoryTrick": "Like the 'a' in \"father\" — open and clear. Bulgarian А is always ah, never the English 'ay' sound.",
       "words": [
-        {
-          "text": "автобус",
-          "roman": "avtobus",
-          "meaning": "bus",
-          "emoji": "🚌"
-        },
-        {
-          "text": "агне",
-          "roman": "agne",
-          "meaning": "lamb",
-          "emoji": "🐑"
-        }
+        { "text": "автобус", "roman": "avtobus", "meaning": "bus", "emoji": "🚌", "audio": "audio/bg/words/bg-a-01.mp3" },
+        { "text": "ананас", "roman": "ananas", "meaning": "pineapple", "emoji": "🍍", "audio": "audio/bg/words/bg-a-02.mp3" },
+        { "text": "април", "roman": "april", "meaning": "April", "emoji": "🌸", "audio": "audio/bg/words/bg-a-03.mp3" },
+        { "text": "агне", "roman": "agne", "meaning": "lamb", "emoji": "🐑", "audio": "audio/bg/words/bg-a-04.mp3" },
+        { "text": "ангел", "roman": "angel", "meaning": "angel", "emoji": "👼", "audio": "audio/bg/words/bg-a-05.mp3" },
+        { "text": "аквариум", "roman": "akvarium", "meaning": "aquarium", "emoji": "🐠", "audio": "audio/bg/words/bg-a-06.mp3" },
+        { "text": "азбука", "roman": "azbuka", "meaning": "alphabet", "emoji": "🔤", "audio": "audio/bg/words/bg-a-07.mp3" },
+        { "text": "артист", "roman": "artist", "meaning": "artist", "emoji": "🎨", "audio": "audio/bg/words/bg-a-08.mp3" },
+        { "text": "август", "roman": "avgust", "meaning": "August", "emoji": "☀️", "audio": "audio/bg/words/bg-a-09.mp3" },
+        { "text": "акула", "roman": "akula", "meaning": "shark", "emoji": "🦈", "audio": "audio/bg/words/bg-a-10.mp3" }
       ]
     },
     {
@@ -32,20 +30,19 @@
       "name": "be",
       "romanization": "b",
       "ipa": "/b/",
-      "memoryTrick": "Says 'b'.",
+      "letterAudio": "audio/bg/letters/bg-b.mp3",
+      "memoryTrick": "Like 'b' in \"book\" — a straightforward voiced B. The lowercase б looks a bit like a number 6 with a flag.",
       "words": [
-        {
-          "text": "баба",
-          "roman": "baba",
-          "meaning": "grandmother",
-          "emoji": "👵"
-        },
-        {
-          "text": "бял",
-          "roman": "byal",
-          "meaning": "white",
-          "emoji": "⬜"
-        }
+        { "text": "банан", "roman": "banan", "meaning": "banana", "emoji": "🍌", "audio": "audio/bg/words/bg-b-01.mp3" },
+        { "text": "баба", "roman": "baba", "meaning": "grandmother", "emoji": "👵", "audio": "audio/bg/words/bg-b-02.mp3" },
+        { "text": "балон", "roman": "balon", "meaning": "balloon", "emoji": "🎈", "audio": "audio/bg/words/bg-b-03.mp3" },
+        { "text": "бира", "roman": "bira", "meaning": "beer", "emoji": "🍺", "audio": "audio/bg/words/bg-b-04.mp3" },
+        { "text": "боровинка", "roman": "borovinka", "meaning": "blueberry", "emoji": "🫐", "audio": "audio/bg/words/bg-b-05.mp3" },
+        { "text": "бял", "roman": "byal", "meaning": "white", "emoji": "⬜", "audio": "audio/bg/words/bg-b-06.mp3" },
+        { "text": "библиотека", "roman": "biblioteka", "meaning": "library", "emoji": "📚", "audio": "audio/bg/words/bg-b-07.mp3" },
+        { "text": "бонбон", "roman": "bonbon", "meaning": "candy", "emoji": "🍬", "audio": "audio/bg/words/bg-b-08.mp3" },
+        { "text": "буква", "roman": "bukva", "meaning": "letter (of alphabet)", "emoji": "🔡", "audio": "audio/bg/words/bg-b-09.mp3" },
+        { "text": "брат", "roman": "brat", "meaning": "brother", "emoji": "👦", "audio": "audio/bg/words/bg-b-10.mp3" }
       ]
     },
     {
@@ -54,20 +51,19 @@
       "name": "ve",
       "romanization": "v",
       "ipa": "/v/",
-      "memoryTrick": "Looks like 'B' but says 'v'.",
+      "letterAudio": "audio/bg/letters/bg-v.mp3",
+      "memoryTrick": "It looks like an English B, but sounds like V! Think of it as a 'victory V' masquerading as a B.",
       "words": [
-        {
-          "text": "вода",
-          "roman": "voda",
-          "meaning": "water",
-          "emoji": "💧"
-        },
-        {
-          "text": "вятър",
-          "roman": "vyatar",
-          "meaning": "wind",
-          "emoji": "💨"
-        }
+        { "text": "вода", "roman": "voda", "meaning": "water", "emoji": "💧", "audio": "audio/bg/words/bg-v-01.mp3" },
+        { "text": "врата", "roman": "vrata", "meaning": "door", "emoji": "🚪", "audio": "audio/bg/words/bg-v-02.mp3" },
+        { "text": "вино", "roman": "vino", "meaning": "wine", "emoji": "🍷", "audio": "audio/bg/words/bg-v-03.mp3" },
+        { "text": "вестник", "roman": "vestnik", "meaning": "newspaper", "emoji": "📰", "audio": "audio/bg/words/bg-v-04.mp3" },
+        { "text": "вълк", "roman": "valk", "meaning": "wolf", "emoji": "🐺", "audio": "audio/bg/words/bg-v-05.mp3" },
+        { "text": "вятър", "roman": "vyatar", "meaning": "wind", "emoji": "💨", "audio": "audio/bg/words/bg-v-06.mp3" },
+        { "text": "вечер", "roman": "vecher", "meaning": "evening", "emoji": "🌆", "audio": "audio/bg/words/bg-v-07.mp3" },
+        { "text": "вулкан", "roman": "vulkan", "meaning": "volcano", "emoji": "🌋", "audio": "audio/bg/words/bg-v-08.mp3" },
+        { "text": "врабче", "roman": "vrabche", "meaning": "sparrow", "emoji": "🐦", "audio": "audio/bg/words/bg-v-09.mp3" },
+        { "text": "ваза", "roman": "vaza", "meaning": "vase", "emoji": "🏺", "audio": "audio/bg/words/bg-v-10.mp3" }
       ]
     },
     {
@@ -76,42 +72,19 @@
       "name": "ge",
       "romanization": "g",
       "ipa": "/ɡ/",
-      "memoryTrick": "Says a hard 'g'.",
+      "letterAudio": "audio/bg/letters/bg-g.mp3",
+      "memoryTrick": "Like 'g' in \"go\" — always hard G as in \"game\", never soft like 'g' in \"giraffe\". The lowercase looks like a small r with a hook.",
       "words": [
-        {
-          "text": "град",
-          "roman": "grad",
-          "meaning": "city",
-          "emoji": "🏙️"
-        },
-        {
-          "text": "гора",
-          "roman": "gora",
-          "meaning": "forest",
-          "emoji": "🌲"
-        }
-      ]
-    },
-    {
-      "id": "bg-er",
-      "char": "Ъ ъ",
-      "name": "er goljam",
-      "romanization": "ă",
-      "ipa": "/ɤ/",
-      "memoryTrick": "The famous Bulgarian vowel — a dark 'uh', and a full letter here.",
-      "words": [
-        {
-          "text": "ъгъл",
-          "roman": "ăgăl",
-          "meaning": "corner",
-          "emoji": "📐"
-        },
-        {
-          "text": "България",
-          "roman": "Bălgariya",
-          "meaning": "Bulgaria",
-          "emoji": "🇧🇬"
-        }
+        { "text": "град", "roman": "grad", "meaning": "city", "emoji": "🏙️", "audio": "audio/bg/words/bg-g-01.mp3" },
+        { "text": "гора", "roman": "gora", "meaning": "forest", "emoji": "🌲", "audio": "audio/bg/words/bg-g-02.mp3" },
+        { "text": "гълъб", "roman": "galab", "meaning": "pigeon, dove", "emoji": "🕊️", "audio": "audio/bg/words/bg-g-03.mp3" },
+        { "text": "герой", "roman": "geroy", "meaning": "hero", "emoji": "🦸", "audio": "audio/bg/words/bg-g-04.mp3" },
+        { "text": "гнездо", "roman": "gnezdo", "meaning": "nest", "emoji": "🪺", "audio": "audio/bg/words/bg-g-05.mp3" },
+        { "text": "градина", "roman": "gradina", "meaning": "garden", "emoji": "🏡", "audio": "audio/bg/words/bg-g-06.mp3" },
+        { "text": "грозде", "roman": "grozde", "meaning": "grapes", "emoji": "🍇", "audio": "audio/bg/words/bg-g-07.mp3" },
+        { "text": "глава", "roman": "glava", "meaning": "head", "emoji": "🗣️", "audio": "audio/bg/words/bg-g-08.mp3" },
+        { "text": "готвач", "roman": "gotvach", "meaning": "cook, chef", "emoji": "👨‍🍳", "audio": "audio/bg/words/bg-g-09.mp3" },
+        { "text": "гума", "roman": "guma", "meaning": "eraser, tire", "emoji": "🛞", "audio": "audio/bg/words/bg-g-10.mp3" }
       ]
     },
     {
@@ -120,20 +93,532 @@
       "name": "de",
       "romanization": "d",
       "ipa": "/d/",
-      "memoryTrick": "Says 'd'.",
+      "letterAudio": "audio/bg/letters/bg-d.mp3",
+      "memoryTrick": "Like 'd' in \"dog\" — a clean D sound. The lowercase д looks like a small g or a tilted house with legs.",
       "words": [
-        {
-          "text": "дом",
-          "roman": "dom",
-          "meaning": "home",
-          "emoji": "🏠"
-        },
-        {
-          "text": "дете",
-          "roman": "dete",
-          "meaning": "child",
-          "emoji": "🧒"
-        }
+        { "text": "дърво", "roman": "darvo", "meaning": "tree, wood", "emoji": "🌳", "audio": "audio/bg/words/bg-d-01.mp3" },
+        { "text": "дом", "roman": "dom", "meaning": "home", "emoji": "🏠", "audio": "audio/bg/words/bg-d-02.mp3" },
+        { "text": "дете", "roman": "dete", "meaning": "child", "emoji": "👶", "audio": "audio/bg/words/bg-d-03.mp3" },
+        { "text": "ден", "roman": "den", "meaning": "day", "emoji": "☀️", "audio": "audio/bg/words/bg-d-04.mp3" },
+        { "text": "дъга", "roman": "daga", "meaning": "rainbow", "emoji": "🌈", "audio": "audio/bg/words/bg-d-05.mp3" },
+        { "text": "диня", "roman": "dinya", "meaning": "watermelon", "emoji": "🍉", "audio": "audio/bg/words/bg-d-06.mp3" },
+        { "text": "дракон", "roman": "drakon", "meaning": "dragon", "emoji": "🐉", "audio": "audio/bg/words/bg-d-07.mp3" },
+        { "text": "дума", "roman": "duma", "meaning": "word", "emoji": "💬", "audio": "audio/bg/words/bg-d-08.mp3" },
+        { "text": "диван", "roman": "divan", "meaning": "sofa, couch", "emoji": "🛋️", "audio": "audio/bg/words/bg-d-09.mp3" },
+        { "text": "дъжд", "roman": "dazhd", "meaning": "rain", "emoji": "🌧️", "audio": "audio/bg/words/bg-d-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-e",
+      "char": "Е е",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/bg/letters/bg-e.mp3",
+      "memoryTrick": "Like 'e' in \"bed\" or \"let\" — always this short open E. It never sounds like the English 'ee' in \"me\".",
+      "words": [
+        { "text": "езеро", "roman": "ezero", "meaning": "lake", "emoji": "🏞️", "audio": "audio/bg/words/bg-e-01.mp3" },
+        { "text": "елен", "roman": "elen", "meaning": "deer", "emoji": "🦌", "audio": "audio/bg/words/bg-e-02.mp3" },
+        { "text": "език", "roman": "ezik", "meaning": "language, tongue", "emoji": "👅", "audio": "audio/bg/words/bg-e-03.mp3" },
+        { "text": "есен", "roman": "esen", "meaning": "autumn", "emoji": "🍂", "audio": "audio/bg/words/bg-e-04.mp3" },
+        { "text": "етаж", "roman": "etazh", "meaning": "floor, storey", "emoji": "🏢", "audio": "audio/bg/words/bg-e-05.mp3" },
+        { "text": "екран", "roman": "ekran", "meaning": "screen", "emoji": "🖥️", "audio": "audio/bg/words/bg-e-06.mp3" },
+        { "text": "енергия", "roman": "energiya", "meaning": "energy", "emoji": "⚡", "audio": "audio/bg/words/bg-e-07.mp3" },
+        { "text": "ехо", "roman": "eho", "meaning": "echo", "emoji": "🔊", "audio": "audio/bg/words/bg-e-08.mp3" },
+        { "text": "експедиция", "roman": "ekspeditsiya", "meaning": "expedition", "emoji": "🧭", "audio": "audio/bg/words/bg-e-09.mp3" },
+        { "text": "Европа", "roman": "Evropa", "meaning": "Europe", "emoji": "🌍", "audio": "audio/bg/words/bg-e-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-zh",
+      "char": "Ж ж",
+      "name": "zhe",
+      "romanization": "zh",
+      "ipa": "/ʒ/",
+      "letterAudio": "audio/bg/letters/bg-zh.mp3",
+      "memoryTrick": "Like the 's' in \"measure\" or 'j' in French \"jour\". It looks like a butterfly or a beetle — and \"жук\" (zhuk) means beetle!",
+      "words": [
+        { "text": "жаба", "roman": "zhaba", "meaning": "frog", "emoji": "🐸", "audio": "audio/bg/words/bg-zh-01.mp3" },
+        { "text": "желязо", "roman": "zhelyazo", "meaning": "iron (metal)", "emoji": "🔩", "audio": "audio/bg/words/bg-zh-02.mp3" },
+        { "text": "жена", "roman": "zhena", "meaning": "woman", "emoji": "👩", "audio": "audio/bg/words/bg-zh-03.mp3" },
+        { "text": "живот", "roman": "zhivot", "meaning": "life", "emoji": "💛", "audio": "audio/bg/words/bg-zh-04.mp3" },
+        { "text": "жираф", "roman": "zhiraf", "meaning": "giraffe", "emoji": "🦒", "audio": "audio/bg/words/bg-zh-05.mp3" },
+        { "text": "жълт", "roman": "zhalt", "meaning": "yellow", "emoji": "🟡", "audio": "audio/bg/words/bg-zh-06.mp3" },
+        { "text": "журнал", "roman": "zhurnal", "meaning": "magazine", "emoji": "📓", "audio": "audio/bg/words/bg-zh-07.mp3" },
+        { "text": "жега", "roman": "zhega", "meaning": "heat, swelter", "emoji": "🥵", "audio": "audio/bg/words/bg-zh-08.mp3" },
+        { "text": "жица", "roman": "zhitsa", "meaning": "wire", "emoji": "🔌", "audio": "audio/bg/words/bg-zh-09.mp3" },
+        { "text": "жук", "roman": "zhuk", "meaning": "beetle", "emoji": "🪲", "audio": "audio/bg/words/bg-zh-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-z",
+      "char": "З з",
+      "name": "ze",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/bg/letters/bg-z.mp3",
+      "memoryTrick": "Like 'z' in \"zoo\". It looks like the number 3, and conveniently it's the third-to-last letter of this row group.",
+      "words": [
+        { "text": "зъб", "roman": "zab", "meaning": "tooth", "emoji": "🦷", "audio": "audio/bg/words/bg-z-01.mp3" },
+        { "text": "звезда", "roman": "zvezda", "meaning": "star", "emoji": "⭐", "audio": "audio/bg/words/bg-z-02.mp3" },
+        { "text": "зима", "roman": "zima", "meaning": "winter", "emoji": "❄️", "audio": "audio/bg/words/bg-z-03.mp3" },
+        { "text": "заек", "roman": "zaek", "meaning": "rabbit", "emoji": "🐰", "audio": "audio/bg/words/bg-z-04.mp3" },
+        { "text": "злато", "roman": "zlato", "meaning": "gold", "emoji": "🥇", "audio": "audio/bg/words/bg-z-05.mp3" },
+        { "text": "зелен", "roman": "zelen", "meaning": "green", "emoji": "🟢", "audio": "audio/bg/words/bg-z-06.mp3" },
+        { "text": "земя", "roman": "zemya", "meaning": "earth, land", "emoji": "🌍", "audio": "audio/bg/words/bg-z-07.mp3" },
+        { "text": "знаме", "roman": "zname", "meaning": "flag", "emoji": "🚩", "audio": "audio/bg/words/bg-z-08.mp3" },
+        { "text": "змия", "roman": "zmiya", "meaning": "snake", "emoji": "🐍", "audio": "audio/bg/words/bg-z-09.mp3" },
+        { "text": "захар", "roman": "zahar", "meaning": "sugar", "emoji": "🍬", "audio": "audio/bg/words/bg-z-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-i",
+      "char": "И и",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/bg/letters/bg-i.mp3",
+      "memoryTrick": "Like 'ee' in \"see\" or 'i' in \"machine\". This is the long-E sound — it looks like a backwards N and never sounds like English short I.",
+      "words": [
+        { "text": "име", "roman": "ime", "meaning": "name", "emoji": "📛", "audio": "audio/bg/words/bg-i-01.mp3" },
+        { "text": "игла", "roman": "igla", "meaning": "needle", "emoji": "🪡", "audio": "audio/bg/words/bg-i-02.mp3" },
+        { "text": "истина", "roman": "istina", "meaning": "truth", "emoji": "✅", "audio": "audio/bg/words/bg-i-03.mp3" },
+        { "text": "избор", "roman": "izbor", "meaning": "choice", "emoji": "☑️", "audio": "audio/bg/words/bg-i-04.mp3" },
+        { "text": "икона", "roman": "ikona", "meaning": "icon", "emoji": "🖼️", "audio": "audio/bg/words/bg-i-05.mp3" },
+        { "text": "история", "roman": "istoriya", "meaning": "history, story", "emoji": "📖", "audio": "audio/bg/words/bg-i-06.mp3" },
+        { "text": "инструмент", "roman": "instrument", "meaning": "instrument, tool", "emoji": "🔧", "audio": "audio/bg/words/bg-i-07.mp3" },
+        { "text": "игра", "roman": "igra", "meaning": "game, play", "emoji": "🎮", "audio": "audio/bg/words/bg-i-08.mp3" },
+        { "text": "ивица", "roman": "ivitsa", "meaning": "stripe", "emoji": "🦓", "audio": "audio/bg/words/bg-i-09.mp3" },
+        { "text": "империя", "roman": "imperiya", "meaning": "empire", "emoji": "🏛️", "audio": "audio/bg/words/bg-i-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-y",
+      "char": "Й й",
+      "name": "i kratko",
+      "romanization": "y",
+      "ipa": "/j/",
+      "letterAudio": "audio/bg/letters/bg-y.mp3",
+      "memoryTrick": "Called \"short I\" (i kratko). Like 'y' in \"yes\" or \"boy\". It's just the letter И with a breve hat — think 'I with a short hat for a short sound.'",
+      "words": [
+        { "text": "йод", "roman": "yod", "meaning": "iodine", "emoji": "🩹", "audio": "audio/bg/words/bg-y-01.mp3" },
+        { "text": "йога", "roman": "yoga", "meaning": "yoga", "emoji": "🧘", "audio": "audio/bg/words/bg-y-02.mp3" },
+        { "text": "йогурт", "roman": "yogurt", "meaning": "yogurt", "emoji": "🥛", "audio": "audio/bg/words/bg-y-03.mp3" },
+        { "text": "йена", "roman": "yena", "meaning": "yen (currency)", "emoji": "💴", "audio": "audio/bg/words/bg-y-04.mp3" },
+        { "text": "йо-йо", "roman": "yo-yo", "meaning": "yo-yo", "emoji": "🪀", "audio": "audio/bg/words/bg-y-05.mp3" }
+      ]
+    },
+    {
+      "id": "bg-k",
+      "char": "К к",
+      "name": "ka",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/bg/letters/bg-k.mp3",
+      "memoryTrick": "Like 'k' in \"kite\" — crisp and unaspirated. It looks familiar from the Latin K, just slightly stylized in lowercase.",
+      "words": [
+        { "text": "котка", "roman": "kotka", "meaning": "cat", "emoji": "🐱", "audio": "audio/bg/words/bg-k-01.mp3" },
+        { "text": "книга", "roman": "kniga", "meaning": "book", "emoji": "📕", "audio": "audio/bg/words/bg-k-02.mp3" },
+        { "text": "крава", "roman": "krava", "meaning": "cow", "emoji": "🐄", "audio": "audio/bg/words/bg-k-03.mp3" },
+        { "text": "къща", "roman": "kashta", "meaning": "house", "emoji": "🏠", "audio": "audio/bg/words/bg-k-04.mp3" },
+        { "text": "камък", "roman": "kamak", "meaning": "stone", "emoji": "🪨", "audio": "audio/bg/words/bg-k-05.mp3" },
+        { "text": "колело", "roman": "kolelo", "meaning": "bicycle, wheel", "emoji": "🚲", "audio": "audio/bg/words/bg-k-06.mp3" },
+        { "text": "куче", "roman": "kuche", "meaning": "dog", "emoji": "🐕", "audio": "audio/bg/words/bg-k-07.mp3" },
+        { "text": "кораб", "roman": "korab", "meaning": "ship", "emoji": "🚢", "audio": "audio/bg/words/bg-k-08.mp3" },
+        { "text": "кафе", "roman": "kafe", "meaning": "coffee", "emoji": "☕", "audio": "audio/bg/words/bg-k-09.mp3" },
+        { "text": "ключ", "roman": "klyuch", "meaning": "key", "emoji": "🔑", "audio": "audio/bg/words/bg-k-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-l",
+      "char": "Л л",
+      "name": "el",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/bg/letters/bg-l.mp3",
+      "memoryTrick": "Like 'l' in \"lamp\". Bulgarian Л can sound darker (velarized) before back vowels. The л shape looks like two sticks leaning together.",
+      "words": [
+        { "text": "лъв", "roman": "lav", "meaning": "lion", "emoji": "🦁", "audio": "audio/bg/words/bg-l-01.mp3" },
+        { "text": "лимон", "roman": "limon", "meaning": "lemon", "emoji": "🍋", "audio": "audio/bg/words/bg-l-02.mp3" },
+        { "text": "луна", "roman": "luna", "meaning": "moon", "emoji": "🌙", "audio": "audio/bg/words/bg-l-03.mp3" },
+        { "text": "любов", "roman": "lyubov", "meaning": "love", "emoji": "❤️", "audio": "audio/bg/words/bg-l-04.mp3" },
+        { "text": "лято", "roman": "lyato", "meaning": "summer", "emoji": "🌞", "audio": "audio/bg/words/bg-l-05.mp3" },
+        { "text": "лист", "roman": "list", "meaning": "leaf, sheet", "emoji": "🍃", "audio": "audio/bg/words/bg-l-06.mp3" },
+        { "text": "лодка", "roman": "lodka", "meaning": "boat", "emoji": "⛵", "audio": "audio/bg/words/bg-l-07.mp3" },
+        { "text": "легло", "roman": "leglo", "meaning": "bed", "emoji": "🛏️", "audio": "audio/bg/words/bg-l-08.mp3" },
+        { "text": "лампа", "roman": "lampa", "meaning": "lamp", "emoji": "💡", "audio": "audio/bg/words/bg-l-09.mp3" },
+        { "text": "лисица", "roman": "lisitsa", "meaning": "fox", "emoji": "🦊", "audio": "audio/bg/words/bg-l-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-m",
+      "char": "М м",
+      "name": "em",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/bg/letters/bg-m.mp3",
+      "memoryTrick": "Like 'm' in \"mom\" — identical to the Latin M. One of the easiest letters to recognize and pronounce.",
+      "words": [
+        { "text": "майка", "roman": "mayka", "meaning": "mother", "emoji": "👩", "audio": "audio/bg/words/bg-m-01.mp3" },
+        { "text": "мляко", "roman": "mlyako", "meaning": "milk", "emoji": "🥛", "audio": "audio/bg/words/bg-m-02.mp3" },
+        { "text": "море", "roman": "more", "meaning": "sea", "emoji": "🌊", "audio": "audio/bg/words/bg-m-03.mp3" },
+        { "text": "мечка", "roman": "mechka", "meaning": "bear", "emoji": "🐻", "audio": "audio/bg/words/bg-m-04.mp3" },
+        { "text": "момиче", "roman": "momiche", "meaning": "girl", "emoji": "👧", "audio": "audio/bg/words/bg-m-05.mp3" },
+        { "text": "молив", "roman": "moliv", "meaning": "pencil", "emoji": "✏️", "audio": "audio/bg/words/bg-m-06.mp3" },
+        { "text": "маса", "roman": "masa", "meaning": "table", "emoji": "🪑", "audio": "audio/bg/words/bg-m-07.mp3" },
+        { "text": "мед", "roman": "med", "meaning": "honey", "emoji": "🍯", "audio": "audio/bg/words/bg-m-08.mp3" },
+        { "text": "месец", "roman": "mesets", "meaning": "month, moon", "emoji": "📅", "audio": "audio/bg/words/bg-m-09.mp3" },
+        { "text": "мъж", "roman": "mazh", "meaning": "man, husband", "emoji": "👨", "audio": "audio/bg/words/bg-m-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-n",
+      "char": "Н н",
+      "name": "en",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/bg/letters/bg-n.mp3",
+      "memoryTrick": "Like 'n' in \"nose\". It looks like a Latin H — don't be fooled! The Cyrillic H is actually an N.",
+      "words": [
+        { "text": "нос", "roman": "nos", "meaning": "nose", "emoji": "👃", "audio": "audio/bg/words/bg-n-01.mp3" },
+        { "text": "небе", "roman": "nebe", "meaning": "sky", "emoji": "☁️", "audio": "audio/bg/words/bg-n-02.mp3" },
+        { "text": "нож", "roman": "nozh", "meaning": "knife", "emoji": "🔪", "audio": "audio/bg/words/bg-n-03.mp3" },
+        { "text": "нощ", "roman": "nosht", "meaning": "night", "emoji": "🌃", "audio": "audio/bg/words/bg-n-04.mp3" },
+        { "text": "надежда", "roman": "nadezhda", "meaning": "hope", "emoji": "🙏", "audio": "audio/bg/words/bg-n-05.mp3" },
+        { "text": "наука", "roman": "nauka", "meaning": "science", "emoji": "🔬", "audio": "audio/bg/words/bg-n-06.mp3" },
+        { "text": "носорог", "roman": "nosorog", "meaning": "rhinoceros", "emoji": "🦏", "audio": "audio/bg/words/bg-n-07.mp3" },
+        { "text": "нишка", "roman": "nishka", "meaning": "thread", "emoji": "🧵", "audio": "audio/bg/words/bg-n-08.mp3" },
+        { "text": "нокът", "roman": "nokat", "meaning": "fingernail, claw", "emoji": "💅", "audio": "audio/bg/words/bg-n-09.mp3" },
+        { "text": "номер", "roman": "nomer", "meaning": "number", "emoji": "🔢", "audio": "audio/bg/words/bg-n-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-o",
+      "char": "О о",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/ɔ/",
+      "letterAudio": "audio/bg/letters/bg-o.mp3",
+      "memoryTrick": "Like 'o' in \"or\" or \"order\" — a round, open O. Stressed O stays pure and doesn't glide like English O.",
+      "words": [
+        { "text": "око", "roman": "oko", "meaning": "eye", "emoji": "👁️", "audio": "audio/bg/words/bg-o-01.mp3" },
+        { "text": "огън", "roman": "ogan", "meaning": "fire", "emoji": "🔥", "audio": "audio/bg/words/bg-o-02.mp3" },
+        { "text": "остров", "roman": "ostrov", "meaning": "island", "emoji": "🏝️", "audio": "audio/bg/words/bg-o-03.mp3" },
+        { "text": "осем", "roman": "osem", "meaning": "eight", "emoji": "8️⃣", "audio": "audio/bg/words/bg-o-04.mp3" },
+        { "text": "орел", "roman": "orel", "meaning": "eagle", "emoji": "🦅", "audio": "audio/bg/words/bg-o-05.mp3" },
+        { "text": "облак", "roman": "oblak", "meaning": "cloud", "emoji": "☁️", "audio": "audio/bg/words/bg-o-06.mp3" },
+        { "text": "обувка", "roman": "obuvka", "meaning": "shoe", "emoji": "👟", "audio": "audio/bg/words/bg-o-07.mp3" },
+        { "text": "очила", "roman": "ochila", "meaning": "glasses", "emoji": "👓", "audio": "audio/bg/words/bg-o-08.mp3" },
+        { "text": "октопод", "roman": "oktopod", "meaning": "octopus", "emoji": "🐙", "audio": "audio/bg/words/bg-o-09.mp3" },
+        { "text": "опера", "roman": "opera", "meaning": "opera", "emoji": "🎭", "audio": "audio/bg/words/bg-o-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-p",
+      "char": "П п",
+      "name": "pe",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/bg/letters/bg-p.mp3",
+      "memoryTrick": "Like 'p' in \"pen\". It looks like the Greek letter pi (π), which also makes a P sound — a helpful cross-script link.",
+      "words": [
+        { "text": "птица", "roman": "ptitsa", "meaning": "bird", "emoji": "🐦", "audio": "audio/bg/words/bg-p-01.mp3" },
+        { "text": "прозорец", "roman": "prozorets", "meaning": "window", "emoji": "🪟", "audio": "audio/bg/words/bg-p-02.mp3" },
+        { "text": "приятел", "roman": "priyatel", "meaning": "friend", "emoji": "👫", "audio": "audio/bg/words/bg-p-03.mp3" },
+        { "text": "пари", "roman": "pari", "meaning": "money", "emoji": "💰", "audio": "audio/bg/words/bg-p-04.mp3" },
+        { "text": "портокал", "roman": "portokal", "meaning": "orange (fruit)", "emoji": "🍊", "audio": "audio/bg/words/bg-p-05.mp3" },
+        { "text": "планина", "roman": "planina", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/bg/words/bg-p-06.mp3" },
+        { "text": "пазар", "roman": "pazar", "meaning": "market", "emoji": "🛒", "audio": "audio/bg/words/bg-p-07.mp3" },
+        { "text": "парк", "roman": "park", "meaning": "park", "emoji": "🏞️", "audio": "audio/bg/words/bg-p-08.mp3" },
+        { "text": "подарък", "roman": "podarak", "meaning": "gift", "emoji": "🎁", "audio": "audio/bg/words/bg-p-09.mp3" },
+        { "text": "писмо", "roman": "pismo", "meaning": "letter (mail)", "emoji": "✉️", "audio": "audio/bg/words/bg-p-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-r",
+      "char": "Р р",
+      "name": "er",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/bg/letters/bg-r.mp3",
+      "memoryTrick": "It looks like the Latin P, but it's R! Think: \"P for R\" — as in 'P'rince, or 'P'resto. Always trilled like Spanish rr.",
+      "words": [
+        { "text": "риба", "roman": "riba", "meaning": "fish", "emoji": "🐟", "audio": "audio/bg/words/bg-r-01.mp3" },
+        { "text": "ръка", "roman": "raka", "meaning": "hand, arm", "emoji": "✋", "audio": "audio/bg/words/bg-r-02.mp3" },
+        { "text": "роза", "roman": "roza", "meaning": "rose", "emoji": "🌹", "audio": "audio/bg/words/bg-r-03.mp3" },
+        { "text": "работа", "roman": "rabota", "meaning": "work", "emoji": "💼", "audio": "audio/bg/words/bg-r-04.mp3" },
+        { "text": "река", "roman": "reka", "meaning": "river", "emoji": "🏞️", "audio": "audio/bg/words/bg-r-05.mp3" },
+        { "text": "радост", "roman": "radost", "meaning": "joy", "emoji": "😊", "audio": "audio/bg/words/bg-r-06.mp3" },
+        { "text": "ракета", "roman": "raketa", "meaning": "rocket", "emoji": "🚀", "audio": "audio/bg/words/bg-r-07.mp3" },
+        { "text": "раница", "roman": "ranitsa", "meaning": "backpack", "emoji": "🎒", "audio": "audio/bg/words/bg-r-08.mp3" },
+        { "text": "робот", "roman": "robot", "meaning": "robot", "emoji": "🤖", "audio": "audio/bg/words/bg-r-09.mp3" },
+        { "text": "ресторант", "roman": "restorant", "meaning": "restaurant", "emoji": "🍽️", "audio": "audio/bg/words/bg-r-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-s",
+      "char": "С с",
+      "name": "es",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/bg/letters/bg-s.mp3",
+      "memoryTrick": "Like 's' in \"sun\" — always a hard S, never soft like Z. It looks like a Latin C, but it never says 'k'.",
+      "words": [
+        { "text": "слънце", "roman": "slantse", "meaning": "sun", "emoji": "☀️", "audio": "audio/bg/words/bg-s-01.mp3" },
+        { "text": "сърце", "roman": "sartse", "meaning": "heart", "emoji": "❤️", "audio": "audio/bg/words/bg-s-02.mp3" },
+        { "text": "стол", "roman": "stol", "meaning": "chair", "emoji": "🪑", "audio": "audio/bg/words/bg-s-03.mp3" },
+        { "text": "сняг", "roman": "snyag", "meaning": "snow", "emoji": "❄️", "audio": "audio/bg/words/bg-s-04.mp3" },
+        { "text": "слон", "roman": "slon", "meaning": "elephant", "emoji": "🐘", "audio": "audio/bg/words/bg-s-05.mp3" },
+        { "text": "сирене", "roman": "sirene", "meaning": "cheese (white brine)", "emoji": "🧀", "audio": "audio/bg/words/bg-s-06.mp3" },
+        { "text": "сън", "roman": "san", "meaning": "sleep, dream", "emoji": "💤", "audio": "audio/bg/words/bg-s-07.mp3" },
+        { "text": "свобода", "roman": "svoboda", "meaning": "freedom", "emoji": "🕊️", "audio": "audio/bg/words/bg-s-08.mp3" },
+        { "text": "село", "roman": "selo", "meaning": "village", "emoji": "🏘️", "audio": "audio/bg/words/bg-s-09.mp3" },
+        { "text": "самолет", "roman": "samolet", "meaning": "airplane", "emoji": "✈️", "audio": "audio/bg/words/bg-s-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-t",
+      "char": "Т т",
+      "name": "te",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/bg/letters/bg-t.mp3",
+      "memoryTrick": "Like 't' in \"top\". The uppercase T is the same as Latin; the lowercase т looks like a small m — don't mix them up!",
+      "words": [
+        { "text": "тигър", "roman": "tigar", "meaning": "tiger", "emoji": "🐯", "audio": "audio/bg/words/bg-t-01.mp3" },
+        { "text": "татко", "roman": "tatko", "meaning": "dad, father", "emoji": "👨", "audio": "audio/bg/words/bg-t-02.mp3" },
+        { "text": "трева", "roman": "treva", "meaning": "grass", "emoji": "🌿", "audio": "audio/bg/words/bg-t-03.mp3" },
+        { "text": "топка", "roman": "topka", "meaning": "ball", "emoji": "⚽", "audio": "audio/bg/words/bg-t-04.mp3" },
+        { "text": "телефон", "roman": "telefon", "meaning": "telephone", "emoji": "📱", "audio": "audio/bg/words/bg-t-05.mp3" },
+        { "text": "торта", "roman": "torta", "meaning": "cake", "emoji": "🎂", "audio": "audio/bg/words/bg-t-06.mp3" },
+        { "text": "точка", "roman": "tochka", "meaning": "dot, point", "emoji": "🔘", "audio": "audio/bg/words/bg-t-07.mp3" },
+        { "text": "таван", "roman": "tavan", "meaning": "ceiling, attic", "emoji": "🏠", "audio": "audio/bg/words/bg-t-08.mp3" },
+        { "text": "трион", "roman": "trion", "meaning": "saw (tool)", "emoji": "🪚", "audio": "audio/bg/words/bg-t-09.mp3" },
+        { "text": "тухла", "roman": "tuhla", "meaning": "brick", "emoji": "🧱", "audio": "audio/bg/words/bg-t-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-u",
+      "char": "У у",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/bg/letters/bg-u.mp3",
+      "memoryTrick": "Like 'oo' in \"boot\". It looks like a Y but sounds like U — think of 'Y' as a funnel pouring 'oo' sound.",
+      "words": [
+        { "text": "ухо", "roman": "uho", "meaning": "ear", "emoji": "👂", "audio": "audio/bg/words/bg-u-01.mp3" },
+        { "text": "училище", "roman": "uchilishte", "meaning": "school", "emoji": "🏫", "audio": "audio/bg/words/bg-u-02.mp3" },
+        { "text": "утро", "roman": "utro", "meaning": "morning", "emoji": "🌅", "audio": "audio/bg/words/bg-u-03.mp3" },
+        { "text": "усмивка", "roman": "usmivka", "meaning": "smile", "emoji": "😊", "audio": "audio/bg/words/bg-u-04.mp3" },
+        { "text": "улица", "roman": "ulitsa", "meaning": "street", "emoji": "🛣️", "audio": "audio/bg/words/bg-u-05.mp3" },
+        { "text": "ураган", "roman": "uragan", "meaning": "hurricane", "emoji": "🌀", "audio": "audio/bg/words/bg-u-06.mp3" },
+        { "text": "урок", "roman": "urok", "meaning": "lesson", "emoji": "📝", "audio": "audio/bg/words/bg-u-07.mp3" },
+        { "text": "ученик", "roman": "uchenik", "meaning": "student, pupil", "emoji": "🧑‍🎓", "audio": "audio/bg/words/bg-u-08.mp3" },
+        { "text": "успех", "roman": "uspeh", "meaning": "success", "emoji": "🏆", "audio": "audio/bg/words/bg-u-09.mp3" },
+        { "text": "утеха", "roman": "uteha", "meaning": "comfort, solace", "emoji": "🤗", "audio": "audio/bg/words/bg-u-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-f",
+      "char": "Ф ф",
+      "name": "ef",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/bg/letters/bg-f.mp3",
+      "memoryTrick": "Like 'f' in \"fun\". It looks like a Greek phi (Φ φ), which also makes the F sound — borrowed straight from Greek.",
+      "words": [
+        { "text": "факел", "roman": "fakel", "meaning": "torch", "emoji": "🔦", "audio": "audio/bg/words/bg-f-01.mp3" },
+        { "text": "фея", "roman": "feya", "meaning": "fairy", "emoji": "🧚", "audio": "audio/bg/words/bg-f-02.mp3" },
+        { "text": "фонтан", "roman": "fontan", "meaning": "fountain", "emoji": "⛲", "audio": "audio/bg/words/bg-f-03.mp3" },
+        { "text": "филм", "roman": "film", "meaning": "film, movie", "emoji": "🎬", "audio": "audio/bg/words/bg-f-04.mp3" },
+        { "text": "фурна", "roman": "furna", "meaning": "oven, bakery", "emoji": "🔥", "audio": "audio/bg/words/bg-f-05.mp3" },
+        { "text": "фокус", "roman": "fokus", "meaning": "focus", "emoji": "🔍", "audio": "audio/bg/words/bg-f-06.mp3" },
+        { "text": "фамилия", "roman": "familiya", "meaning": "family, surname", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/bg/words/bg-f-07.mp3" },
+        { "text": "февруари", "roman": "fevruari", "meaning": "February", "emoji": "📅", "audio": "audio/bg/words/bg-f-08.mp3" },
+        { "text": "ферма", "roman": "ferma", "meaning": "farm", "emoji": "🚜", "audio": "audio/bg/words/bg-f-09.mp3" },
+        { "text": "флаг", "roman": "flag", "meaning": "flag", "emoji": "🏁", "audio": "audio/bg/words/bg-f-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-h",
+      "char": "Х х",
+      "name": "ha",
+      "romanization": "h",
+      "ipa": "/x/",
+      "letterAudio": "audio/bg/letters/bg-h.mp3",
+      "memoryTrick": "Like 'ch' in Scottish \"loch\" or German \"Bach\" — a throaty H. It looks like an X, but it's an H sound, not 'ks'.",
+      "words": [
+        { "text": "храна", "roman": "hrana", "meaning": "food", "emoji": "🍲", "audio": "audio/bg/words/bg-h-01.mp3" },
+        { "text": "хляб", "roman": "hlyab", "meaning": "bread", "emoji": "🍞", "audio": "audio/bg/words/bg-h-02.mp3" },
+        { "text": "хартия", "roman": "hartiya", "meaning": "paper", "emoji": "📄", "audio": "audio/bg/words/bg-h-03.mp3" },
+        { "text": "художник", "roman": "hudozhnik", "meaning": "artist, painter", "emoji": "🎨", "audio": "audio/bg/words/bg-h-04.mp3" },
+        { "text": "хотел", "roman": "hotel", "meaning": "hotel", "emoji": "🏨", "audio": "audio/bg/words/bg-h-05.mp3" },
+        { "text": "хълм", "roman": "halm", "meaning": "hill", "emoji": "⛰️", "audio": "audio/bg/words/bg-h-06.mp3" },
+        { "text": "хамелеон", "roman": "hameleon", "meaning": "chameleon", "emoji": "🦎", "audio": "audio/bg/words/bg-h-07.mp3" },
+        { "text": "химия", "roman": "himiya", "meaning": "chemistry", "emoji": "🧪", "audio": "audio/bg/words/bg-h-08.mp3" },
+        { "text": "хор", "roman": "hor", "meaning": "choir, chorus", "emoji": "🎵", "audio": "audio/bg/words/bg-h-09.mp3" },
+        { "text": "хокей", "roman": "hokey", "meaning": "hockey", "emoji": "🏒", "audio": "audio/bg/words/bg-h-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-ts",
+      "char": "Ц ц",
+      "name": "tse",
+      "romanization": "ts",
+      "ipa": "/t͡s/",
+      "letterAudio": "audio/bg/letters/bg-ts.mp3",
+      "memoryTrick": "Like 'ts' in \"cats\" — it's a crisp TS sound, always together as one unit. The letter looks like a U with little feet.",
+      "words": [
+        { "text": "царевица", "roman": "tsarevitsa", "meaning": "corn, maize", "emoji": "🌽", "audio": "audio/bg/words/bg-ts-01.mp3" },
+        { "text": "цвят", "roman": "tsvyat", "meaning": "color, bloom", "emoji": "🎨", "audio": "audio/bg/words/bg-ts-02.mp3" },
+        { "text": "цвете", "roman": "tsvete", "meaning": "flower", "emoji": "🌸", "audio": "audio/bg/words/bg-ts-03.mp3" },
+        { "text": "цирк", "roman": "tsirk", "meaning": "circus", "emoji": "🎪", "audio": "audio/bg/words/bg-ts-04.mp3" },
+        { "text": "център", "roman": "tsentar", "meaning": "center", "emoji": "🎯", "audio": "audio/bg/words/bg-ts-05.mp3" },
+        { "text": "цигулка", "roman": "tsigulka", "meaning": "violin", "emoji": "🎻", "audio": "audio/bg/words/bg-ts-06.mp3" },
+        { "text": "цена", "roman": "tsena", "meaning": "price", "emoji": "🏷️", "audio": "audio/bg/words/bg-ts-07.mp3" },
+        { "text": "целувка", "roman": "tseluvka", "meaning": "kiss", "emoji": "💋", "audio": "audio/bg/words/bg-ts-08.mp3" },
+        { "text": "цимент", "roman": "tsiment", "meaning": "cement", "emoji": "🧱", "audio": "audio/bg/words/bg-ts-09.mp3" },
+        { "text": "царица", "roman": "tsaritsa", "meaning": "queen, tsarina", "emoji": "👑", "audio": "audio/bg/words/bg-ts-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-ch",
+      "char": "Ч ч",
+      "name": "che",
+      "romanization": "ch",
+      "ipa": "/t͡ʃ/",
+      "letterAudio": "audio/bg/letters/bg-ch.mp3",
+      "memoryTrick": "Like 'ch' in \"chair\" or \"cheese\". It looks like an upside-down chair — and 'ch' is chair!",
+      "words": [
+        { "text": "човек", "roman": "chovek", "meaning": "person, human", "emoji": "🧑", "audio": "audio/bg/words/bg-ch-01.mp3" },
+        { "text": "чаша", "roman": "chasha", "meaning": "cup, glass", "emoji": "🥛", "audio": "audio/bg/words/bg-ch-02.mp3" },
+        { "text": "чанта", "roman": "chanta", "meaning": "bag", "emoji": "👜", "audio": "audio/bg/words/bg-ch-03.mp3" },
+        { "text": "число", "roman": "chislo", "meaning": "number", "emoji": "🔢", "audio": "audio/bg/words/bg-ch-04.mp3" },
+        { "text": "череша", "roman": "cheresha", "meaning": "cherry", "emoji": "🍒", "audio": "audio/bg/words/bg-ch-05.mp3" },
+        { "text": "чай", "roman": "chay", "meaning": "tea", "emoji": "🍵", "audio": "audio/bg/words/bg-ch-06.mp3" },
+        { "text": "четка", "roman": "chetka", "meaning": "brush", "emoji": "🪥", "audio": "audio/bg/words/bg-ch-07.mp3" },
+        { "text": "часовник", "roman": "chasovnik", "meaning": "clock, watch", "emoji": "⌚", "audio": "audio/bg/words/bg-ch-08.mp3" },
+        { "text": "червен", "roman": "cherven", "meaning": "red", "emoji": "🔴", "audio": "audio/bg/words/bg-ch-09.mp3" },
+        { "text": "чук", "roman": "chuk", "meaning": "hammer", "emoji": "🔨", "audio": "audio/bg/words/bg-ch-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-sh",
+      "char": "Ш ш",
+      "name": "sha",
+      "romanization": "sh",
+      "ipa": "/ʃ/",
+      "letterAudio": "audio/bg/letters/bg-sh.mp3",
+      "memoryTrick": "Like 'sh' in \"ship\" or \"shoe\". It looks like a three-pronged fork or a comb — and 'sh' is the sound you make combing hair!",
+      "words": [
+        { "text": "шапка", "roman": "shapka", "meaning": "hat, cap", "emoji": "🧢", "audio": "audio/bg/words/bg-sh-01.mp3" },
+        { "text": "шоколад", "roman": "shokolad", "meaning": "chocolate", "emoji": "🍫", "audio": "audio/bg/words/bg-sh-02.mp3" },
+        { "text": "шал", "roman": "shal", "meaning": "scarf", "emoji": "🧣", "audio": "audio/bg/words/bg-sh-03.mp3" },
+        { "text": "шега", "roman": "shega", "meaning": "joke", "emoji": "😄", "audio": "audio/bg/words/bg-sh-04.mp3" },
+        { "text": "шейна", "roman": "sheyna", "meaning": "sled", "emoji": "🛷", "audio": "audio/bg/words/bg-sh-05.mp3" },
+        { "text": "шише", "roman": "shishe", "meaning": "bottle", "emoji": "🍾", "audio": "audio/bg/words/bg-sh-06.mp3" },
+        { "text": "школа", "roman": "shkola", "meaning": "school (training)", "emoji": "🏫", "audio": "audio/bg/words/bg-sh-07.mp3" },
+        { "text": "шум", "roman": "shum", "meaning": "noise", "emoji": "📢", "audio": "audio/bg/words/bg-sh-08.mp3" },
+        { "text": "шарен", "roman": "sharen", "meaning": "colorful", "emoji": "🌈", "audio": "audio/bg/words/bg-sh-09.mp3" },
+        { "text": "шампион", "roman": "shampion", "meaning": "champion", "emoji": "🥇", "audio": "audio/bg/words/bg-sh-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-sht",
+      "char": "Щ щ",
+      "name": "shta",
+      "romanization": "sht",
+      "ipa": "/ʃt/",
+      "letterAudio": "audio/bg/letters/bg-sht.mp3",
+      "memoryTrick": "In Bulgarian this is always 'sht' — like the end of \"pushed\". NOT like Russian 'shch'. Think Ш with a little tail = extra T at the end.",
+      "words": [
+        { "text": "щъркел", "roman": "shtarkel", "meaning": "stork", "emoji": "🦩", "audio": "audio/bg/words/bg-sht-01.mp3" },
+        { "text": "щастие", "roman": "shtastie", "meaning": "happiness", "emoji": "😊", "audio": "audio/bg/words/bg-sht-02.mp3" },
+        { "text": "щит", "roman": "shtit", "meaning": "shield", "emoji": "🛡️", "audio": "audio/bg/words/bg-sht-03.mp3" },
+        { "text": "щедър", "roman": "shtedar", "meaning": "generous", "emoji": "🎁", "audio": "audio/bg/words/bg-sht-04.mp3" },
+        { "text": "щурец", "roman": "shturets", "meaning": "cricket (insect)", "emoji": "🦗", "audio": "audio/bg/words/bg-sht-05.mp3" },
+        { "text": "щета", "roman": "shteta", "meaning": "damage, harm", "emoji": "⚠️", "audio": "audio/bg/words/bg-sht-06.mp3" },
+        { "text": "щипка", "roman": "shtipka", "meaning": "pinch, clothespin", "emoji": "🤏", "audio": "audio/bg/words/bg-sht-07.mp3" },
+        { "text": "щраус", "roman": "shtraus", "meaning": "ostrich", "emoji": "🦩", "audio": "audio/bg/words/bg-sht-08.mp3" }
+      ]
+    },
+    {
+      "id": "bg-er-golyam",
+      "char": "Ъ ъ",
+      "name": "er golyam",
+      "romanization": "a",
+      "ipa": "/ɤ/",
+      "letterAudio": "audio/bg/letters/bg-er-golyam.mp3",
+      "memoryTrick": "Called 'er golyam' (big yer). Sounds like the 'u' in \"turn\" or \"cup\" — a deep, throaty vowel. Try saying 'uh' with your tongue pulled back. The only native word starting with ъ is ъгъл (corner).",
+      "words": [
+        { "text": "ъгъл", "roman": "agal", "meaning": "corner, angle", "emoji": "📐", "audio": "audio/bg/words/bg-er-golyam-01.mp3" },
+        { "text": "път", "roman": "pat", "meaning": "road, way", "emoji": "🛣️", "audio": "audio/bg/words/bg-er-golyam-02.mp3" },
+        { "text": "мъж", "roman": "mazh", "meaning": "man, husband", "emoji": "👨", "audio": "audio/bg/words/bg-er-golyam-03.mp3" },
+        { "text": "дъжд", "roman": "dazhd", "meaning": "rain", "emoji": "🌧️", "audio": "audio/bg/words/bg-er-golyam-04.mp3" },
+        { "text": "сълза", "roman": "salza", "meaning": "tear (crying)", "emoji": "😢", "audio": "audio/bg/words/bg-er-golyam-05.mp3" },
+        { "text": "възел", "roman": "vazel", "meaning": "knot", "emoji": "🪢", "audio": "audio/bg/words/bg-er-golyam-06.mp3" },
+        { "text": "гърло", "roman": "garlo", "meaning": "throat", "emoji": "🗣️", "audio": "audio/bg/words/bg-er-golyam-07.mp3" },
+        { "text": "ръж", "roman": "razh", "meaning": "rye", "emoji": "🌾", "audio": "audio/bg/words/bg-er-golyam-08.mp3" },
+        { "text": "плъх", "roman": "plah", "meaning": "rat", "emoji": "🐀", "audio": "audio/bg/words/bg-er-golyam-09.mp3" },
+        { "text": "кръг", "roman": "krag", "meaning": "circle", "emoji": "⭕", "audio": "audio/bg/words/bg-er-golyam-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-er-malak",
+      "char": "Ь ь",
+      "name": "er malak",
+      "romanization": "y (soft sign)",
+      "ipa": "/ʲ/",
+      "letterAudio": "audio/bg/letters/bg-er-malak.mp3",
+      "memoryTrick": "Called 'er malak' (small yer). It has no sound of its own — it softens the consonant before it when followed by О. Think of it as a silent 'y' that whispers to the consonant: \"be gentle!\" Used almost exclusively in French loanwords ending in -ьор.",
+      "words": [
+        { "text": "шофьор", "roman": "shofyor", "meaning": "driver, chauffeur", "emoji": "🚗", "audio": "audio/bg/words/bg-er-malak-01.mp3" },
+        { "text": "актьор", "roman": "aktyor", "meaning": "actor", "emoji": "🎭", "audio": "audio/bg/words/bg-er-malak-02.mp3" },
+        { "text": "монтьор", "roman": "montyor", "meaning": "fitter, mechanic", "emoji": "🔧", "audio": "audio/bg/words/bg-er-malak-03.mp3" },
+        { "text": "асансьор", "roman": "asansyor", "meaning": "elevator", "emoji": "🛗", "audio": "audio/bg/words/bg-er-malak-04.mp3" },
+        { "text": "режисьор", "roman": "rezhisyor", "meaning": "director (film/theatre)", "emoji": "🎬", "audio": "audio/bg/words/bg-er-malak-05.mp3" }
+      ]
+    },
+    {
+      "id": "bg-yu",
+      "char": "Ю ю",
+      "name": "yu",
+      "romanization": "yu",
+      "ipa": "/ju/",
+      "letterAudio": "audio/bg/letters/bg-yu.mp3",
+      "memoryTrick": "Like 'you' in English — and it even looks like it has a little face! It's the И and У combined into one smooth glide.",
+      "words": [
+        { "text": "ютия", "roman": "yutiya", "meaning": "iron (for clothes)", "emoji": "👕", "audio": "audio/bg/words/bg-yu-01.mp3" },
+        { "text": "юг", "roman": "yug", "meaning": "south", "emoji": "🧭", "audio": "audio/bg/words/bg-yu-02.mp3" },
+        { "text": "юнак", "roman": "yunak", "meaning": "hero, brave man", "emoji": "💪", "audio": "audio/bg/words/bg-yu-03.mp3" },
+        { "text": "юмрук", "roman": "yumruk", "meaning": "fist", "emoji": "👊", "audio": "audio/bg/words/bg-yu-04.mp3" },
+        { "text": "юли", "roman": "yuli", "meaning": "July", "emoji": "☀️", "audio": "audio/bg/words/bg-yu-05.mp3" },
+        { "text": "юни", "roman": "yuni", "meaning": "June", "emoji": "🌺", "audio": "audio/bg/words/bg-yu-06.mp3" },
+        { "text": "юбилей", "roman": "yubiley", "meaning": "anniversary, jubilee", "emoji": "🎉", "audio": "audio/bg/words/bg-yu-07.mp3" },
+        { "text": "юрист", "roman": "yurist", "meaning": "lawyer", "emoji": "⚖️", "audio": "audio/bg/words/bg-yu-08.mp3" },
+        { "text": "юрган", "roman": "yurgan", "meaning": "quilt, duvet", "emoji": "🛌", "audio": "audio/bg/words/bg-yu-09.mp3" },
+        { "text": "юфка", "roman": "yufka", "meaning": "noodle", "emoji": "🍜", "audio": "audio/bg/words/bg-yu-10.mp3" }
+      ]
+    },
+    {
+      "id": "bg-ya",
+      "char": "Я я",
+      "name": "ya",
+      "romanization": "ya",
+      "ipa": "/ja/",
+      "letterAudio": "audio/bg/letters/bg-ya.mp3",
+      "memoryTrick": "Like 'ya' in \"yacht\" or \"yard\". It looks like a backwards R — think of a pirate saying \"Yarrr!\" and you've got it.",
+      "words": [
+        { "text": "ябълка", "roman": "yabalka", "meaning": "apple", "emoji": "🍎", "audio": "audio/bg/words/bg-ya-01.mp3" },
+        { "text": "яйце", "roman": "yaytse", "meaning": "egg", "emoji": "🥚", "audio": "audio/bg/words/bg-ya-02.mp3" },
+        { "text": "ягода", "roman": "yagoda", "meaning": "strawberry", "emoji": "🍓", "audio": "audio/bg/words/bg-ya-03.mp3" },
+        { "text": "януари", "roman": "yanuari", "meaning": "January", "emoji": "❄️", "audio": "audio/bg/words/bg-ya-04.mp3" },
+        { "text": "язовец", "roman": "yazovets", "meaning": "badger", "emoji": "🦡", "audio": "audio/bg/words/bg-ya-05.mp3" },
+        { "text": "яке", "roman": "yake", "meaning": "jacket", "emoji": "🧥", "audio": "audio/bg/words/bg-ya-06.mp3" },
+        { "text": "яд", "roman": "yad", "meaning": "anger, fury", "emoji": "😠", "audio": "audio/bg/words/bg-ya-07.mp3" },
+        { "text": "ясно", "roman": "yasno", "meaning": "clear, bright", "emoji": "🔆", "audio": "audio/bg/words/bg-ya-08.mp3" },
+        { "text": "ято", "roman": "yato", "meaning": "flock (of birds)", "emoji": "🕊️", "audio": "audio/bg/words/bg-ya-09.mp3" },
+        { "text": "ястреб", "roman": "yastreb", "meaning": "hawk", "emoji": "🦅", "audio": "audio/bg/words/bg-ya-10.mp3" }
       ]
     }
   ]

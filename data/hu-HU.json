@@ -2,138 +2,876 @@
   "language": "Hungarian",
   "code": "hu-HU",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
-      "id": "hu-o-double",
-      "char": "Ő ő",
-      "name": "ő",
-      "romanization": "ő",
-      "ipa": "/øː/",
-      "memoryTrick": "A long 'ö' with double accents — round lips, a long 'er'.",
+      "id": "hu-a",
+      "char": "a",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/ɒ/",
+      "letterAudio": "audio/hu/letters/hu-a.mp3",
+      "memoryTrick": "Sounds like the 'o' in British English 'hot' or 'not' — a rounded, open back vowel, not like the English 'a' in 'cat'.",
       "words": [
-        {
-          "text": "nő",
-          "roman": "nő",
-          "meaning": "woman",
-          "emoji": "👩"
-        },
-        {
-          "text": "idő",
-          "roman": "idő",
-          "meaning": "time",
-          "emoji": "⏰"
-        }
+        { "text": "alma", "roman": "alma", "meaning": "apple", "emoji": "🍎", "audio": "audio/hu/words/hu-a-01.mp3" },
+        { "text": "ablak", "roman": "ablak", "meaning": "window", "emoji": "🪟", "audio": "audio/hu/words/hu-a-02.mp3" },
+        { "text": "asztal", "roman": "asztal", "meaning": "table", "emoji": "🪑", "audio": "audio/hu/words/hu-a-03.mp3" },
+        { "text": "apa", "roman": "apa", "meaning": "father", "emoji": "👨", "audio": "audio/hu/words/hu-a-04.mp3" },
+        { "text": "anya", "roman": "anya", "meaning": "mother", "emoji": "👩", "audio": "audio/hu/words/hu-a-05.mp3" },
+        { "text": "ajtó", "roman": "ajtó", "meaning": "door", "emoji": "🚪", "audio": "audio/hu/words/hu-a-06.mp3" },
+        { "text": "autó", "roman": "autó", "meaning": "car", "emoji": "🚗", "audio": "audio/hu/words/hu-a-07.mp3" },
+        { "text": "arc", "roman": "arc", "meaning": "face", "emoji": "😊", "audio": "audio/hu/words/hu-a-08.mp3" },
+        { "text": "arany", "roman": "arany", "meaning": "gold", "emoji": "🥇", "audio": "audio/hu/words/hu-a-09.mp3" },
+        { "text": "ad", "roman": "ad", "meaning": "give", "audio": "audio/hu/words/hu-a-10.mp3" },
+        { "text": "alatt", "roman": "alatt", "meaning": "under", "audio": "audio/hu/words/hu-a-11.mp3" },
+        { "text": "asszony", "roman": "asszony", "meaning": "woman", "emoji": "👩", "audio": "audio/hu/words/hu-a-12.mp3" },
+        { "text": "április", "roman": "április", "meaning": "April", "emoji": "📅", "audio": "audio/hu/words/hu-a-13.mp3" }
       ]
     },
     {
-      "id": "hu-u-double",
-      "char": "Ű ű",
-      "name": "ű",
-      "romanization": "ű",
-      "ipa": "/yː/",
-      "memoryTrick": "A long 'ü' with double accents — round lips, a long 'ee'.",
+      "id": "hu-á",
+      "char": "á",
+      "name": "á",
+      "romanization": "á",
+      "ipa": "/aː/",
+      "letterAudio": "audio/hu/letters/hu-á.mp3",
+      "memoryTrick": "A long 'a' sound, like the 'a' in English 'father' but held longer — the accent mark lengthens the vowel.",
       "words": [
-        {
-          "text": "tűz",
-          "roman": "tüz",
-          "meaning": "fire",
-          "emoji": "🔥"
-        },
-        {
-          "text": "fű",
-          "roman": "fü",
-          "meaning": "grass",
-          "emoji": "🌱"
-        }
+        { "text": "állat", "roman": "állat", "meaning": "animal", "emoji": "🐾", "audio": "audio/hu/words/hu-á-01.mp3" },
+        { "text": "álom", "roman": "álom", "meaning": "dream", "emoji": "💤", "audio": "audio/hu/words/hu-á-02.mp3" },
+        { "text": "ágy", "roman": "ágy", "meaning": "bed", "emoji": "🛏️", "audio": "audio/hu/words/hu-á-03.mp3" },
+        { "text": "ár", "roman": "ár", "meaning": "price", "emoji": "💰", "audio": "audio/hu/words/hu-á-04.mp3" },
+        { "text": "ág", "roman": "ág", "meaning": "branch", "emoji": "🌿", "audio": "audio/hu/words/hu-á-05.mp3" },
+        { "text": "ás", "roman": "ás", "meaning": "dig", "emoji": "⛏️", "audio": "audio/hu/words/hu-á-06.mp3" },
+        { "text": "át", "roman": "át", "meaning": "through", "audio": "audio/hu/words/hu-á-07.mp3" },
+        { "text": "ábra", "roman": "ábra", "meaning": "figure, diagram", "audio": "audio/hu/words/hu-á-08.mp3" },
+        { "text": "ács", "roman": "ács", "meaning": "carpenter", "emoji": "🪚", "audio": "audio/hu/words/hu-á-09.mp3" },
+        { "text": "áru", "roman": "áru", "meaning": "goods, product", "emoji": "📦", "audio": "audio/hu/words/hu-á-10.mp3" }
       ]
     },
     {
-      "id": "hu-gy",
-      "char": "Gy gy",
-      "name": "gyé",
-      "romanization": "gy",
-      "ipa": "/ɟ/",
-      "memoryTrick": "A digraph — a soft 'dy' as in 'during'.",
+      "id": "hu-b",
+      "char": "b",
+      "name": "bé",
+      "romanization": "b",
+      "ipa": "/b/",
+      "letterAudio": "audio/hu/letters/hu-b.mp3",
+      "memoryTrick": "Same as English 'b' in 'ball' — a simple voiced bilabial stop. Easy to remember: just like 'b' in any language.",
       "words": [
-        {
-          "text": "gyerek",
-          "roman": "dyerek",
-          "meaning": "child",
-          "emoji": "🧒"
-        },
-        {
-          "text": "magyar",
-          "roman": "madyar",
-          "meaning": "Hungarian",
-          "emoji": "🇭🇺"
-        }
+        { "text": "barát", "roman": "barát", "meaning": "friend", "emoji": "🧑‍🤝‍🧑", "audio": "audio/hu/words/hu-b-01.mp3" },
+        { "text": "beszél", "roman": "beszél", "meaning": "speak", "emoji": "🗣️", "audio": "audio/hu/words/hu-b-02.mp3" },
+        { "text": "baba", "roman": "baba", "meaning": "baby, doll", "emoji": "👶", "audio": "audio/hu/words/hu-b-03.mp3" },
+        { "text": "bolt", "roman": "bolt", "meaning": "shop", "emoji": "🏪", "audio": "audio/hu/words/hu-b-04.mp3" },
+        { "text": "barna", "roman": "barna", "meaning": "brown", "emoji": "🤎", "audio": "audio/hu/words/hu-b-05.mp3" },
+        { "text": "busz", "roman": "busz", "meaning": "bus", "emoji": "🚌", "audio": "audio/hu/words/hu-b-06.mp3" },
+        { "text": "bor", "roman": "bor", "meaning": "wine", "emoji": "🍷", "audio": "audio/hu/words/hu-b-07.mp3" },
+        { "text": "baj", "roman": "baj", "meaning": "trouble", "audio": "audio/hu/words/hu-b-08.mp3" },
+        { "text": "bal", "roman": "bal", "meaning": "left", "emoji": "👈", "audio": "audio/hu/words/hu-b-09.mp3" },
+        { "text": "bőr", "roman": "bőr", "meaning": "skin", "audio": "audio/hu/words/hu-b-10.mp3" },
+        { "text": "bika", "roman": "bika", "meaning": "bull", "emoji": "🐂", "audio": "audio/hu/words/hu-b-11.mp3" },
+        { "text": "bátor", "roman": "bátor", "meaning": "brave", "emoji": "🦁", "audio": "audio/hu/words/hu-b-12.mp3" }
       ]
     },
     {
-      "id": "hu-sz",
-      "char": "Sz sz",
-      "name": "esz",
-      "romanization": "sz",
-      "ipa": "/s/",
-      "memoryTrick": "The digraph 'sz' says a plain 's' (while 's' alone says 'sh').",
+      "id": "hu-c",
+      "char": "c",
+      "name": "cé",
+      "romanization": "c",
+      "ipa": "/ts/",
+      "letterAudio": "audio/hu/letters/hu-c.mp3",
+      "memoryTrick": "Always pronounced like 'ts' in 'cats' — never like 'k' or 's' alone. Think of the 'ts' at the end of 'hats'.",
       "words": [
-        {
-          "text": "szép",
-          "roman": "seep",
-          "meaning": "beautiful",
-          "emoji": "✨"
-        },
-        {
-          "text": "szem",
-          "roman": "sem",
-          "meaning": "eye",
-          "emoji": "👁️"
-        }
+        { "text": "cica", "roman": "cica", "meaning": "kitten, kitty", "emoji": "🐱", "audio": "audio/hu/words/hu-c-01.mp3" },
+        { "text": "cipő", "roman": "cipő", "meaning": "shoe", "emoji": "👟", "audio": "audio/hu/words/hu-c-02.mp3" },
+        { "text": "cukor", "roman": "cukor", "meaning": "sugar", "audio": "audio/hu/words/hu-c-03.mp3" },
+        { "text": "cél", "roman": "cél", "meaning": "goal, target", "emoji": "🎯", "audio": "audio/hu/words/hu-c-04.mp3" },
+        { "text": "citrom", "roman": "citrom", "meaning": "lemon", "emoji": "🍋", "audio": "audio/hu/words/hu-c-05.mp3" },
+        { "text": "ceruza", "roman": "ceruza", "meaning": "pencil", "emoji": "✏️", "audio": "audio/hu/words/hu-c-06.mp3" },
+        { "text": "cég", "roman": "cég", "meaning": "company", "emoji": "🏢", "audio": "audio/hu/words/hu-c-07.mp3" },
+        { "text": "cékla", "roman": "cékla", "meaning": "beetroot", "emoji": "🫒", "audio": "audio/hu/words/hu-c-08.mp3" },
+        { "text": "cinke", "roman": "cinke", "meaning": "titmouse", "emoji": "🐦", "audio": "audio/hu/words/hu-c-09.mp3" },
+        { "text": "cipzár", "roman": "cipzár", "meaning": "zipper", "audio": "audio/hu/words/hu-c-10.mp3" }
       ]
     },
     {
       "id": "hu-cs",
-      "char": "Cs cs",
+      "char": "cs",
       "name": "csé",
       "romanization": "cs",
       "ipa": "/tʃ/",
-      "memoryTrick": "A digraph — 'ch' as in 'chair'.",
+      "letterAudio": "audio/hu/letters/hu-cs.mp3",
+      "memoryTrick": "Just like English 'ch' in 'church' or 'chocolate'. The 'cs' digraph is one of the most common in Hungarian — think of it as one letter.",
       "words": [
-        {
-          "text": "csillag",
-          "roman": "chillag",
-          "meaning": "star",
-          "emoji": "⭐"
-        },
-        {
-          "text": "kulcs",
-          "roman": "kulch",
-          "meaning": "key",
-          "emoji": "🔑"
-        }
+        { "text": "család", "roman": "család", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/hu/words/hu-cs-01.mp3" },
+        { "text": "csinos", "roman": "csinos", "meaning": "pretty", "emoji": "💄", "audio": "audio/hu/words/hu-cs-02.mp3" },
+        { "text": "csokoládé", "roman": "csokoládé", "meaning": "chocolate", "emoji": "🍫", "audio": "audio/hu/words/hu-cs-03.mp3" },
+        { "text": "csillag", "roman": "csillag", "meaning": "star", "emoji": "⭐", "audio": "audio/hu/words/hu-cs-04.mp3" },
+        { "text": "csend", "roman": "csend", "meaning": "silence", "emoji": "🤫", "audio": "audio/hu/words/hu-cs-05.mp3" },
+        { "text": "csapat", "roman": "csapat", "meaning": "team", "audio": "audio/hu/words/hu-cs-06.mp3" },
+        { "text": "csók", "roman": "csók", "meaning": "kiss", "emoji": "💋", "audio": "audio/hu/words/hu-cs-07.mp3" },
+        { "text": "csont", "roman": "csont", "meaning": "bone", "emoji": "🦴", "audio": "audio/hu/words/hu-cs-08.mp3" },
+        { "text": "csoda", "roman": "csoda", "meaning": "miracle, wonder", "emoji": "✨", "audio": "audio/hu/words/hu-cs-09.mp3" },
+        { "text": "csúnya", "roman": "csúnya", "meaning": "ugly", "audio": "audio/hu/words/hu-cs-10.mp3" },
+        { "text": "csésze", "roman": "csésze", "meaning": "cup", "emoji": "☕", "audio": "audio/hu/words/hu-cs-11.mp3" },
+        { "text": "cseresznye", "roman": "cseresznye", "meaning": "cherry", "emoji": "🍒", "audio": "audio/hu/words/hu-cs-12.mp3" }
       ]
     },
     {
-      "id": "hu-a-acute",
-      "char": "Á á",
-      "name": "á",
-      "romanization": "á",
-      "ipa": "/aː/",
-      "memoryTrick": "An 'a' with an accent — a long, open 'aah'.",
+      "id": "hu-d",
+      "char": "d",
+      "name": "dé",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/hu/letters/hu-d.mp3",
+      "memoryTrick": "Same as English 'd' in 'dog' — a straightforward voiced dental stop, simpler than English because it's always clear, never softened.",
       "words": [
-        {
-          "text": "ház",
-          "roman": "haaz",
-          "meaning": "house",
-          "emoji": "🏠"
-        },
-        {
-          "text": "lány",
-          "roman": "laany",
-          "meaning": "girl",
-          "emoji": "👧"
-        }
+        { "text": "diák", "roman": "diák", "meaning": "student", "emoji": "🎓", "audio": "audio/hu/words/hu-d-01.mp3" },
+        { "text": "drága", "roman": "drága", "meaning": "dear, expensive", "emoji": "💎", "audio": "audio/hu/words/hu-d-02.mp3" },
+        { "text": "dal", "roman": "dal", "meaning": "song", "emoji": "🎵", "audio": "audio/hu/words/hu-d-03.mp3" },
+        { "text": "dolog", "roman": "dolog", "meaning": "thing", "audio": "audio/hu/words/hu-d-04.mp3" },
+        { "text": "doboz", "roman": "doboz", "meaning": "box", "emoji": "📦", "audio": "audio/hu/words/hu-d-05.mp3" },
+        { "text": "dél", "roman": "dél", "meaning": "south, noon", "emoji": "🕛", "audio": "audio/hu/words/hu-d-06.mp3" },
+        { "text": "darab", "roman": "darab", "meaning": "piece", "audio": "audio/hu/words/hu-d-07.mp3" },
+        { "text": "dinnye", "roman": "dinnye", "meaning": "melon", "emoji": "🍈", "audio": "audio/hu/words/hu-d-08.mp3" },
+        { "text": "denevér", "roman": "denevér", "meaning": "bat", "emoji": "🦇", "audio": "audio/hu/words/hu-d-09.mp3" },
+        { "text": "drót", "roman": "drót", "meaning": "wire", "audio": "audio/hu/words/hu-d-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-dz",
+      "char": "dz",
+      "name": "dzé",
+      "romanization": "dz",
+      "ipa": "/dz/",
+      "letterAudio": "audio/hu/letters/hu-dz.mp3",
+      "memoryTrick": "Like the 'ds' in English 'beds' or 'kids' — a voiced version of 'c' (ts). Rare at the start of words, more common in the middle.",
+      "words": [
+        { "text": "bodza", "roman": "bodza", "meaning": "elderberry", "emoji": "🫐", "audio": "audio/hu/words/hu-dz-01.mp3" },
+        { "text": "madzag", "roman": "madzag", "meaning": "string, cord", "emoji": "🧵", "audio": "audio/hu/words/hu-dz-02.mp3" },
+        { "text": "edz", "roman": "edz", "meaning": "train (exercise)", "emoji": "🏋️", "audio": "audio/hu/words/hu-dz-03.mp3" },
+        { "text": "edző", "roman": "edző", "meaning": "coach, trainer", "emoji": "👨‍🏫", "audio": "audio/hu/words/hu-dz-04.mp3" },
+        { "text": "pedz", "roman": "pedz", "meaning": "hint at, get wind of", "audio": "audio/hu/words/hu-dz-05.mp3" }
+      ]
+    },
+    {
+      "id": "hu-dzs",
+      "char": "dzs",
+      "name": "dzsé",
+      "romanization": "dzs",
+      "ipa": "/dʒ/",
+      "letterAudio": "audio/hu/letters/hu-dzs.mp3",
+      "memoryTrick": "Like English 'j' in 'jazz' or 'jungle' — the 'd' + 'zs' combination makes the same sound. It appears mostly in loanwords.",
+      "words": [
+        { "text": "dzsem", "roman": "dzsem", "meaning": "jam", "emoji": "🍓", "audio": "audio/hu/words/hu-dzs-01.mp3" },
+        { "text": "dzsungel", "roman": "dzsungel", "meaning": "jungle", "emoji": "🌴", "audio": "audio/hu/words/hu-dzs-02.mp3" },
+        { "text": "dzsessz", "roman": "dzsessz", "meaning": "jazz", "emoji": "🎷", "audio": "audio/hu/words/hu-dzs-03.mp3" },
+        { "text": "dzsip", "roman": "dzsip", "meaning": "jeep", "emoji": "🚙", "audio": "audio/hu/words/hu-dzs-04.mp3" },
+        { "text": "dzsúdó", "roman": "dzsúdó", "meaning": "judo", "emoji": "🥋", "audio": "audio/hu/words/hu-dzs-05.mp3" },
+        { "text": "dzsámi", "roman": "dzsámi", "meaning": "mosque", "emoji": "🕌", "audio": "audio/hu/words/hu-dzs-06.mp3" }
+      ]
+    },
+    {
+      "id": "hu-e",
+      "char": "e",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/hu/letters/hu-e.mp3",
+      "memoryTrick": "Like the 'e' in English 'bet' or 'red' — an open mid-front vowel. Never silent, never like the English 'ee' sound.",
+      "words": [
+        { "text": "egér", "roman": "egér", "meaning": "mouse", "emoji": "🐭", "audio": "audio/hu/words/hu-e-01.mp3" },
+        { "text": "este", "roman": "este", "meaning": "evening", "emoji": "🌆", "audio": "audio/hu/words/hu-e-02.mp3" },
+        { "text": "ebéd", "roman": "ebéd", "meaning": "lunch", "emoji": "🍽️", "audio": "audio/hu/words/hu-e-03.mp3" },
+        { "text": "eső", "roman": "eső", "meaning": "rain", "emoji": "🌧️", "audio": "audio/hu/words/hu-e-04.mp3" },
+        { "text": "elem", "roman": "elem", "meaning": "battery", "emoji": "🔋", "audio": "audio/hu/words/hu-e-05.mp3" },
+        { "text": "eszik", "roman": "eszik", "meaning": "eat", "emoji": "🍴", "audio": "audio/hu/words/hu-e-06.mp3" },
+        { "text": "erdő", "roman": "erdő", "meaning": "forest", "emoji": "🌲", "audio": "audio/hu/words/hu-e-07.mp3" },
+        { "text": "eper", "roman": "eper", "meaning": "strawberry", "emoji": "🍓", "audio": "audio/hu/words/hu-e-08.mp3" },
+        { "text": "elad", "roman": "elad", "meaning": "sell", "emoji": "💲", "audio": "audio/hu/words/hu-e-09.mp3" },
+        { "text": "emelet", "roman": "emelet", "meaning": "floor (storey)", "emoji": "🏢", "audio": "audio/hu/words/hu-e-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-é",
+      "char": "é",
+      "name": "é",
+      "romanization": "é",
+      "ipa": "/eː/",
+      "letterAudio": "audio/hu/letters/hu-é.mp3",
+      "memoryTrick": "Like the 'ay' in English 'say' or the 'e' in Spanish 'qué', but held longer — a long, clean mid-front vowel. The accent signals length.",
+      "words": [
+        { "text": "év", "roman": "év", "meaning": "year", "emoji": "📅", "audio": "audio/hu/words/hu-é-01.mp3" },
+        { "text": "ég", "roman": "ég", "meaning": "sky, burn", "emoji": "☁️", "audio": "audio/hu/words/hu-é-02.mp3" },
+        { "text": "élet", "roman": "élet", "meaning": "life", "emoji": "❤️", "audio": "audio/hu/words/hu-é-03.mp3" },
+        { "text": "édes", "roman": "édes", "meaning": "sweet", "emoji": "🍬", "audio": "audio/hu/words/hu-é-04.mp3" },
+        { "text": "ének", "roman": "ének", "meaning": "song (singing)", "emoji": "🎤", "audio": "audio/hu/words/hu-é-05.mp3" },
+        { "text": "épít", "roman": "épít", "meaning": "build", "emoji": "🏗️", "audio": "audio/hu/words/hu-é-06.mp3" },
+        { "text": "éj", "roman": "éj", "meaning": "night", "emoji": "🌙", "audio": "audio/hu/words/hu-é-07.mp3" },
+        { "text": "éhes", "roman": "éhes", "meaning": "hungry", "emoji": "🤤", "audio": "audio/hu/words/hu-é-08.mp3" },
+        { "text": "érdekes", "roman": "érdekes", "meaning": "interesting", "emoji": "🤔", "audio": "audio/hu/words/hu-é-09.mp3" },
+        { "text": "étel", "roman": "étel", "meaning": "food", "emoji": "🍲", "audio": "audio/hu/words/hu-é-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-f",
+      "char": "f",
+      "name": "ef",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/hu/letters/hu-f.mp3",
+      "memoryTrick": "Same as English 'f' in 'fire' — a simple voiceless labiodental fricative, exactly as you would expect.",
+      "words": [
+        { "text": "fa", "roman": "fa", "meaning": "tree", "emoji": "🌳", "audio": "audio/hu/words/hu-f-01.mp3" },
+        { "text": "fiú", "roman": "fiú", "meaning": "boy", "emoji": "👦", "audio": "audio/hu/words/hu-f-02.mp3" },
+        { "text": "fehér", "roman": "fehér", "meaning": "white", "emoji": "🤍", "audio": "audio/hu/words/hu-f-03.mp3" },
+        { "text": "fekete", "roman": "fekete", "meaning": "black", "emoji": "🖤", "audio": "audio/hu/words/hu-f-04.mp3" },
+        { "text": "folyó", "roman": "folyó", "meaning": "river", "emoji": "🏞️", "audio": "audio/hu/words/hu-f-05.mp3" },
+        { "text": "felhő", "roman": "felhő", "meaning": "cloud", "emoji": "☁️", "audio": "audio/hu/words/hu-f-06.mp3" },
+        { "text": "fog", "roman": "fog", "meaning": "tooth", "emoji": "🦷", "audio": "audio/hu/words/hu-f-07.mp3" },
+        { "text": "fű", "roman": "fű", "meaning": "grass", "emoji": "🌱", "audio": "audio/hu/words/hu-f-08.mp3" },
+        { "text": "fest", "roman": "fest", "meaning": "paint", "emoji": "🎨", "audio": "audio/hu/words/hu-f-09.mp3" },
+        { "text": "fény", "roman": "fény", "meaning": "light", "emoji": "💡", "audio": "audio/hu/words/hu-f-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-g",
+      "char": "g",
+      "name": "gé",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "letterAudio": "audio/hu/letters/hu-g.mp3",
+      "memoryTrick": "Always hard like 'g' in English 'go' or 'game' — never soft like 'g' in 'gem'. Hungarian 'g' is always a voiced velar stop.",
+      "words": [
+        { "text": "gép", "roman": "gép", "meaning": "machine", "emoji": "⚙️", "audio": "audio/hu/words/hu-g-01.mp3" },
+        { "text": "gólya", "roman": "gólya", "meaning": "stork", "emoji": "🐦", "audio": "audio/hu/words/hu-g-02.mp3" },
+        { "text": "gomb", "roman": "gomb", "meaning": "button", "audio": "audio/hu/words/hu-g-03.mp3" },
+        { "text": "galamb", "roman": "galamb", "meaning": "pigeon", "emoji": "🕊️", "audio": "audio/hu/words/hu-g-04.mp3" },
+        { "text": "gazdag", "roman": "gazdag", "meaning": "rich", "emoji": "💎", "audio": "audio/hu/words/hu-g-05.mp3" },
+        { "text": "gumi", "roman": "gumi", "meaning": "rubber", "audio": "audio/hu/words/hu-g-06.mp3" },
+        { "text": "gond", "roman": "gond", "meaning": "trouble, worry", "audio": "audio/hu/words/hu-g-07.mp3" },
+        { "text": "gereblye", "roman": "gereblye", "meaning": "rake", "audio": "audio/hu/words/hu-g-08.mp3" },
+        { "text": "gól", "roman": "gól", "meaning": "goal (sports)", "emoji": "⚽", "audio": "audio/hu/words/hu-g-09.mp3" }
+      ]
+    },
+    {
+      "id": "hu-gy",
+      "char": "gy",
+      "name": "gyé",
+      "romanization": "gy",
+      "ipa": "/ɟ/",
+      "letterAudio": "audio/hu/letters/hu-gy.mp3",
+      "memoryTrick": "A voiced palatal stop — try saying 'd' with your tongue pressed to the roof of your mouth, like the 'd' in British 'due' or 'duke'. Not like 'g' + 'y' separately.",
+      "words": [
+        { "text": "gyerek", "roman": "gyerek", "meaning": "child", "emoji": "👧", "audio": "audio/hu/words/hu-gy-01.mp3" },
+        { "text": "gyümölcs", "roman": "gyümölcs", "meaning": "fruit", "emoji": "🍎", "audio": "audio/hu/words/hu-gy-02.mp3" },
+        { "text": "gyertya", "roman": "gyertya", "meaning": "candle", "emoji": "🕯️", "audio": "audio/hu/words/hu-gy-03.mp3" },
+        { "text": "gyár", "roman": "gyár", "meaning": "factory", "emoji": "🏭", "audio": "audio/hu/words/hu-gy-04.mp3" },
+        { "text": "gyors", "roman": "gyors", "meaning": "fast", "emoji": "⚡", "audio": "audio/hu/words/hu-gy-05.mp3" },
+        { "text": "gyenge", "roman": "gyenge", "meaning": "weak", "audio": "audio/hu/words/hu-gy-06.mp3" },
+        { "text": "gyűrű", "roman": "gyűrű", "meaning": "ring", "emoji": "💍", "audio": "audio/hu/words/hu-gy-07.mp3" },
+        { "text": "gyalog", "roman": "gyalog", "meaning": "on foot", "emoji": "🚶", "audio": "audio/hu/words/hu-gy-08.mp3" },
+        { "text": "gyapjú", "roman": "gyapjú", "meaning": "wool", "emoji": "🐑", "audio": "audio/hu/words/hu-gy-09.mp3" },
+        { "text": "gyík", "roman": "gyík", "meaning": "lizard", "emoji": "🦎", "audio": "audio/hu/words/hu-gy-10.mp3" },
+        { "text": "gyűjt", "roman": "gyűjt", "meaning": "collect", "audio": "audio/hu/words/hu-gy-11.mp3" },
+        { "text": "gyógyszer", "roman": "gyógyszer", "meaning": "medicine", "emoji": "💊", "audio": "audio/hu/words/hu-gy-12.mp3" }
+      ]
+    },
+    {
+      "id": "hu-h",
+      "char": "h",
+      "name": "há",
+      "romanization": "h",
+      "ipa": "/h/",
+      "letterAudio": "audio/hu/letters/hu-h.mp3",
+      "memoryTrick": "Like English 'h' in 'house', but Hungarian 'h' is always pronounced — never silent, even at the end of words like 'méh' (bee).",
+      "words": [
+        { "text": "hal", "roman": "hal", "meaning": "fish", "emoji": "🐟", "audio": "audio/hu/words/hu-h-01.mp3" },
+        { "text": "ház", "roman": "ház", "meaning": "house", "emoji": "🏠", "audio": "audio/hu/words/hu-h-02.mp3" },
+        { "text": "híd", "roman": "híd", "meaning": "bridge", "emoji": "🌉", "audio": "audio/hu/words/hu-h-03.mp3" },
+        { "text": "hó", "roman": "hó", "meaning": "snow", "emoji": "❄️", "audio": "audio/hu/words/hu-h-04.mp3" },
+        { "text": "hét", "roman": "hét", "meaning": "week, seven", "emoji": "7️⃣", "audio": "audio/hu/words/hu-h-05.mp3" },
+        { "text": "hajó", "roman": "hajó", "meaning": "ship", "emoji": "🚢", "audio": "audio/hu/words/hu-h-06.mp3" },
+        { "text": "hegy", "roman": "hegy", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/hu/words/hu-h-07.mp3" },
+        { "text": "hús", "roman": "hús", "meaning": "meat", "emoji": "🥩", "audio": "audio/hu/words/hu-h-08.mp3" },
+        { "text": "hosszú", "roman": "hosszú", "meaning": "long", "audio": "audio/hu/words/hu-h-09.mp3" },
+        { "text": "hang", "roman": "hang", "meaning": "voice, sound", "emoji": "🔊", "audio": "audio/hu/words/hu-h-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-i",
+      "char": "i",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/i/",
+      "letterAudio": "audio/hu/letters/hu-i.mp3",
+      "memoryTrick": "Like the 'ee' in English 'see' but SHORT — tighter and shorter. The long version is 'í' with an accent. Hungarian keeps vowel length distinct.",
+      "words": [
+        { "text": "iskola", "roman": "iskola", "meaning": "school", "emoji": "🏫", "audio": "audio/hu/words/hu-i-01.mp3" },
+        { "text": "ital", "roman": "ital", "meaning": "drink, beverage", "emoji": "🥤", "audio": "audio/hu/words/hu-i-02.mp3" },
+        { "text": "igaz", "roman": "igaz", "meaning": "true", "emoji": "✅", "audio": "audio/hu/words/hu-i-03.mp3" },
+        { "text": "indul", "roman": "indul", "meaning": "depart, start", "emoji": "🚶", "audio": "audio/hu/words/hu-i-04.mp3" },
+        { "text": "ing", "roman": "ing", "meaning": "shirt", "emoji": "👔", "audio": "audio/hu/words/hu-i-05.mp3" },
+        { "text": "iker", "roman": "iker", "meaning": "twin", "emoji": "👯", "audio": "audio/hu/words/hu-i-06.mp3" },
+        { "text": "idő", "roman": "idő", "meaning": "time, weather", "emoji": "⏰", "audio": "audio/hu/words/hu-i-07.mp3" },
+        { "text": "izom", "roman": "izom", "meaning": "muscle", "emoji": "💪", "audio": "audio/hu/words/hu-i-08.mp3" },
+        { "text": "irat", "roman": "irat", "meaning": "document", "emoji": "📄", "audio": "audio/hu/words/hu-i-09.mp3" },
+        { "text": "irigy", "roman": "irigy", "meaning": "envious", "audio": "audio/hu/words/hu-i-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-í",
+      "char": "í",
+      "name": "í",
+      "romanization": "í",
+      "ipa": "/iː/",
+      "letterAudio": "audio/hu/letters/hu-í.mp3",
+      "memoryTrick": "A LONG 'ee' like in English 'see' or 'tree' — the accent mark means you hold this vowel for roughly twice as long as the unaccented 'i'.",
+      "words": [
+        { "text": "ír", "roman": "ír", "meaning": "write", "emoji": "✍️", "audio": "audio/hu/words/hu-í-01.mp3" },
+        { "text": "íz", "roman": "íz", "meaning": "taste, flavor", "emoji": "👅", "audio": "audio/hu/words/hu-í-02.mp3" },
+        { "text": "íj", "roman": "íj", "meaning": "bow (archery)", "emoji": "🏹", "audio": "audio/hu/words/hu-í-03.mp3" },
+        { "text": "ígér", "roman": "ígér", "meaning": "promise", "emoji": "🤝", "audio": "audio/hu/words/hu-í-04.mp3" },
+        { "text": "írás", "roman": "írás", "meaning": "writing", "emoji": "📝", "audio": "audio/hu/words/hu-í-05.mp3" },
+        { "text": "így", "roman": "így", "meaning": "like this, thus", "audio": "audio/hu/words/hu-í-06.mp3" },
+        { "text": "ín", "roman": "ín", "meaning": "tendon, sinew", "audio": "audio/hu/words/hu-í-07.mp3" }
+      ]
+    },
+    {
+      "id": "hu-j",
+      "char": "j",
+      "name": "jé",
+      "romanization": "j",
+      "ipa": "/j/",
+      "letterAudio": "audio/hu/letters/hu-j.mp3",
+      "memoryTrick": "Like English 'y' in 'yes' or 'yellow' — Hungarian 'j' is a y-sound, never like the English 'j' in 'jam'. The letter 'ly' makes the same sound.",
+      "words": [
+        { "text": "jó", "roman": "jó", "meaning": "good", "emoji": "👍", "audio": "audio/hu/words/hu-j-01.mp3" },
+        { "text": "játék", "roman": "játék", "meaning": "toy, game", "emoji": "🧸", "audio": "audio/hu/words/hu-j-02.mp3" },
+        { "text": "jég", "roman": "jég", "meaning": "ice", "emoji": "🧊", "audio": "audio/hu/words/hu-j-03.mp3" },
+        { "text": "jobb", "roman": "jobb", "meaning": "better, right (side)", "emoji": "👉", "audio": "audio/hu/words/hu-j-04.mp3" },
+        { "text": "jár", "roman": "jár", "meaning": "walk, go", "emoji": "🚶", "audio": "audio/hu/words/hu-j-05.mp3" },
+        { "text": "jegy", "roman": "jegy", "meaning": "ticket", "emoji": "🎫", "audio": "audio/hu/words/hu-j-06.mp3" },
+        { "text": "juh", "roman": "juh", "meaning": "sheep", "emoji": "🐑", "audio": "audio/hu/words/hu-j-07.mp3" },
+        { "text": "jövő", "roman": "jövő", "meaning": "future", "emoji": "🔮", "audio": "audio/hu/words/hu-j-08.mp3" },
+        { "text": "jegyez", "roman": "jegyez", "meaning": "note, record", "audio": "audio/hu/words/hu-j-09.mp3" }
+      ]
+    },
+    {
+      "id": "hu-k",
+      "char": "k",
+      "name": "ká",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/hu/letters/hu-k.mp3",
+      "memoryTrick": "Like English 'k' in 'key' or 'kitten' — a voiceless velar stop, always hard and clear. Hungarian doesn't have silent 'k' like English 'knee'.",
+      "words": [
+        { "text": "kutya", "roman": "kutya", "meaning": "dog", "emoji": "🐕", "audio": "audio/hu/words/hu-k-01.mp3" },
+        { "text": "kenyér", "roman": "kenyér", "meaning": "bread", "emoji": "🍞", "audio": "audio/hu/words/hu-k-02.mp3" },
+        { "text": "kávé", "roman": "kávé", "meaning": "coffee", "emoji": "☕", "audio": "audio/hu/words/hu-k-03.mp3" },
+        { "text": "kicsi", "roman": "kicsi", "meaning": "small", "audio": "audio/hu/words/hu-k-04.mp3" },
+        { "text": "kék", "roman": "kék", "meaning": "blue", "emoji": "💙", "audio": "audio/hu/words/hu-k-05.mp3" },
+        { "text": "könyv", "roman": "könyv", "meaning": "book", "emoji": "📖", "audio": "audio/hu/words/hu-k-06.mp3" },
+        { "text": "kert", "roman": "kert", "meaning": "garden", "emoji": "🌻", "audio": "audio/hu/words/hu-k-07.mp3" },
+        { "text": "kapu", "roman": "kapu", "meaning": "gate", "emoji": "🚪", "audio": "audio/hu/words/hu-k-08.mp3" },
+        { "text": "kar", "roman": "kar", "meaning": "arm", "emoji": "💪", "audio": "audio/hu/words/hu-k-09.mp3" },
+        { "text": "kör", "roman": "kör", "meaning": "circle", "emoji": "⭕", "audio": "audio/hu/words/hu-k-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-l",
+      "char": "l",
+      "name": "el",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/hu/letters/hu-l.mp3",
+      "memoryTrick": "Like English 'l' in 'love' — but Hungarian 'l' is always a clear, front-of-the-mouth 'l', never the dark 'l' of English 'milk'.",
+      "words": [
+        { "text": "ló", "roman": "ló", "meaning": "horse", "emoji": "🐴", "audio": "audio/hu/words/hu-l-01.mp3" },
+        { "text": "lány", "roman": "lány", "meaning": "girl", "emoji": "👧", "audio": "audio/hu/words/hu-l-02.mp3" },
+        { "text": "labda", "roman": "labda", "meaning": "ball", "emoji": "⚽", "audio": "audio/hu/words/hu-l-03.mp3" },
+        { "text": "levél", "roman": "levél", "meaning": "letter, leaf", "emoji": "💌", "audio": "audio/hu/words/hu-l-04.mp3" },
+        { "text": "lassú", "roman": "lassú", "meaning": "slow", "emoji": "🐢", "audio": "audio/hu/words/hu-l-05.mp3" },
+        { "text": "lámpa", "roman": "lámpa", "meaning": "lamp", "emoji": "💡", "audio": "audio/hu/words/hu-l-06.mp3" },
+        { "text": "lépcső", "roman": "lépcső", "meaning": "stairs", "emoji": "🪜", "audio": "audio/hu/words/hu-l-07.mp3" },
+        { "text": "liszt", "roman": "liszt", "meaning": "flour", "emoji": "🌾", "audio": "audio/hu/words/hu-l-08.mp3" },
+        { "text": "leves", "roman": "leves", "meaning": "soup", "emoji": "🍜", "audio": "audio/hu/words/hu-l-09.mp3" },
+        { "text": "lenn", "roman": "lenn", "meaning": "down", "emoji": "⬇️", "audio": "audio/hu/words/hu-l-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-ly",
+      "char": "ly",
+      "name": "ely",
+      "romanization": "ly",
+      "ipa": "/j/",
+      "letterAudio": "audio/hu/letters/hu-ly.mp3",
+      "memoryTrick": "Pronounced exactly like Hungarian 'j' (English 'y' in 'yes'). Historically it was a palatal 'l' like Spanish 'll', but today it sounds the same as 'j'. You just have to memorize which words use 'ly' and which use 'j'.",
+      "words": [
+        { "text": "lyuk", "roman": "lyuk", "meaning": "hole", "emoji": "🕳️", "audio": "audio/hu/words/hu-ly-01.mp3" },
+        { "text": "hely", "roman": "hely", "meaning": "place", "emoji": "📍", "audio": "audio/hu/words/hu-ly-02.mp3" },
+        { "text": "gólya", "roman": "gólya", "meaning": "stork", "emoji": "🐦", "audio": "audio/hu/words/hu-ly-03.mp3" },
+        { "text": "selyem", "roman": "selyem", "meaning": "silk", "audio": "audio/hu/words/hu-ly-04.mp3" },
+        { "text": "folyó", "roman": "folyó", "meaning": "river", "emoji": "🏞️", "audio": "audio/hu/words/hu-ly-05.mp3" },
+        { "text": "milyen", "roman": "milyen", "meaning": "what kind", "audio": "audio/hu/words/hu-ly-06.mp3" },
+        { "text": "ilyen", "roman": "ilyen", "meaning": "such, this kind", "audio": "audio/hu/words/hu-ly-07.mp3" },
+        { "text": "olyan", "roman": "olyan", "meaning": "such, that kind", "audio": "audio/hu/words/hu-ly-08.mp3" },
+        { "text": "király", "roman": "király", "meaning": "king", "emoji": "👑", "audio": "audio/hu/words/hu-ly-09.mp3" },
+        { "text": "mély", "roman": "mély", "meaning": "deep", "audio": "audio/hu/words/hu-ly-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-m",
+      "char": "m",
+      "name": "em",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/hu/letters/hu-m.mp3",
+      "memoryTrick": "Same as English 'm' in 'mother' — a simple bilabial nasal, identical across most languages.",
+      "words": [
+        { "text": "macska", "roman": "macska", "meaning": "cat", "emoji": "🐈", "audio": "audio/hu/words/hu-m-01.mp3" },
+        { "text": "madár", "roman": "madár", "meaning": "bird", "emoji": "🐦", "audio": "audio/hu/words/hu-m-02.mp3" },
+        { "text": "magyar", "roman": "magyar", "meaning": "Hungarian", "emoji": "🇭🇺", "audio": "audio/hu/words/hu-m-03.mp3" },
+        { "text": "méz", "roman": "méz", "meaning": "honey", "emoji": "🍯", "audio": "audio/hu/words/hu-m-04.mp3" },
+        { "text": "meleg", "roman": "meleg", "meaning": "warm", "emoji": "🌡️", "audio": "audio/hu/words/hu-m-05.mp3" },
+        { "text": "mosoly", "roman": "mosoly", "meaning": "smile", "emoji": "😊", "audio": "audio/hu/words/hu-m-06.mp3" },
+        { "text": "mos", "roman": "mos", "meaning": "wash", "emoji": "🧼", "audio": "audio/hu/words/hu-m-07.mp3" },
+        { "text": "mond", "roman": "mond", "meaning": "say", "emoji": "🗣️", "audio": "audio/hu/words/hu-m-08.mp3" },
+        { "text": "magas", "roman": "magas", "meaning": "tall, high", "emoji": "📏", "audio": "audio/hu/words/hu-m-09.mp3" },
+        { "text": "marha", "roman": "marha", "meaning": "cattle, beef", "emoji": "🐄", "audio": "audio/hu/words/hu-m-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-n",
+      "char": "n",
+      "name": "en",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/hu/letters/hu-n.mp3",
+      "memoryTrick": "Like English 'n' in 'nose' — a simple alveolar nasal. Never silent, always pronounced clearly in every position.",
+      "words": [
+        { "text": "nap", "roman": "nap", "meaning": "sun, day", "emoji": "☀️", "audio": "audio/hu/words/hu-n-01.mp3" },
+        { "text": "nagy", "roman": "nagy", "meaning": "big", "emoji": "🐘", "audio": "audio/hu/words/hu-n-02.mp3" },
+        { "text": "nő", "roman": "nő", "meaning": "woman", "emoji": "👩", "audio": "audio/hu/words/hu-n-03.mp3" },
+        { "text": "név", "roman": "név", "meaning": "name", "emoji": "📛", "audio": "audio/hu/words/hu-n-04.mp3" },
+        { "text": "nem", "roman": "nem", "meaning": "no, gender", "emoji": "❌", "audio": "audio/hu/words/hu-n-05.mp3" },
+        { "text": "növény", "roman": "növény", "meaning": "plant", "emoji": "🪴", "audio": "audio/hu/words/hu-n-06.mp3" },
+        { "text": "néz", "roman": "néz", "meaning": "look, watch", "emoji": "👀", "audio": "audio/hu/words/hu-n-07.mp3" },
+        { "text": "néma", "roman": "néma", "meaning": "mute", "emoji": "🤐", "audio": "audio/hu/words/hu-n-08.mp3" },
+        { "text": "negyven", "roman": "negyven", "meaning": "forty", "audio": "audio/hu/words/hu-n-09.mp3" }
+      ]
+    },
+    {
+      "id": "hu-ny",
+      "char": "ny",
+      "name": "eny",
+      "romanization": "ny",
+      "ipa": "/ɲ/",
+      "letterAudio": "audio/hu/letters/hu-ny.mp3",
+      "memoryTrick": "Like Spanish 'ñ' in 'señor' or the 'ny' in English 'canyon' — a palatal nasal, made by pressing the tongue to the roof of the mouth. Think 'ny' = 'ñ'.",
+      "words": [
+        { "text": "nyár", "roman": "nyár", "meaning": "summer", "emoji": "☀️", "audio": "audio/hu/words/hu-ny-01.mp3" },
+        { "text": "nyúl", "roman": "nyúl", "meaning": "rabbit", "emoji": "🐰", "audio": "audio/hu/words/hu-ny-02.mp3" },
+        { "text": "nyelv", "roman": "nyelv", "meaning": "tongue, language", "emoji": "👅", "audio": "audio/hu/words/hu-ny-03.mp3" },
+        { "text": "nyolc", "roman": "nyolc", "meaning": "eight", "emoji": "8️⃣", "audio": "audio/hu/words/hu-ny-04.mp3" },
+        { "text": "nyit", "roman": "nyit", "meaning": "open", "emoji": "🔓", "audio": "audio/hu/words/hu-ny-05.mp3" },
+        { "text": "nyugat", "roman": "nyugat", "meaning": "west", "emoji": "🧭", "audio": "audio/hu/words/hu-ny-06.mp3" },
+        { "text": "nyugodt", "roman": "nyugodt", "meaning": "calm", "emoji": "😌", "audio": "audio/hu/words/hu-ny-07.mp3" },
+        { "text": "nyer", "roman": "nyer", "meaning": "win", "emoji": "🏆", "audio": "audio/hu/words/hu-ny-08.mp3" },
+        { "text": "nyak", "roman": "nyak", "meaning": "neck", "audio": "audio/hu/words/hu-ny-09.mp3" },
+        { "text": "nyom", "roman": "nyom", "meaning": "trace, press", "audio": "audio/hu/words/hu-ny-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-o",
+      "char": "o",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/o/",
+      "letterAudio": "audio/hu/letters/hu-o.mp3",
+      "memoryTrick": "Like the 'o' in English 'or' but shorter and tighter — a mid-back rounded vowel. Keep it crisp, not drawn out like the English 'oh'.",
+      "words": [
+        { "text": "okos", "roman": "okos", "meaning": "smart", "emoji": "🧠", "audio": "audio/hu/words/hu-o-01.mp3" },
+        { "text": "orr", "roman": "orr", "meaning": "nose", "emoji": "👃", "audio": "audio/hu/words/hu-o-02.mp3" },
+        { "text": "olló", "roman": "olló", "meaning": "scissors", "emoji": "✂️", "audio": "audio/hu/words/hu-o-03.mp3" },
+        { "text": "oroszlán", "roman": "oroszlán", "meaning": "lion", "emoji": "🦁", "audio": "audio/hu/words/hu-o-04.mp3" },
+        { "text": "olasz", "roman": "olasz", "meaning": "Italian", "emoji": "🇮🇹", "audio": "audio/hu/words/hu-o-05.mp3" },
+        { "text": "osztály", "roman": "osztály", "meaning": "class", "emoji": "🏫", "audio": "audio/hu/words/hu-o-06.mp3" },
+        { "text": "ok", "roman": "ok", "meaning": "reason, cause", "audio": "audio/hu/words/hu-o-07.mp3" },
+        { "text": "oszt", "roman": "oszt", "meaning": "divide", "emoji": "➗", "audio": "audio/hu/words/hu-o-08.mp3" }
+      ]
+    },
+    {
+      "id": "hu-ó",
+      "char": "ó",
+      "name": "ó",
+      "romanization": "ó",
+      "ipa": "/oː/",
+      "letterAudio": "audio/hu/letters/hu-ó.mp3",
+      "memoryTrick": "A LONG 'o' like in English 'go' or 'so' — hold the rounded lip position about twice as long as short 'o'. The accent means duration.",
+      "words": [
+        { "text": "óra", "roman": "óra", "meaning": "hour, clock, watch", "emoji": "⌚", "audio": "audio/hu/words/hu-ó-01.mp3" },
+        { "text": "óvoda", "roman": "óvoda", "meaning": "kindergarten", "emoji": "🏫", "audio": "audio/hu/words/hu-ó-02.mp3" },
+        { "text": "óriás", "roman": "óriás", "meaning": "giant", "emoji": "🦖", "audio": "audio/hu/words/hu-ó-03.mp3" },
+        { "text": "óvatos", "roman": "óvatos", "meaning": "careful", "emoji": "⚠️", "audio": "audio/hu/words/hu-ó-04.mp3" },
+        { "text": "óceán", "roman": "óceán", "meaning": "ocean", "emoji": "🌊", "audio": "audio/hu/words/hu-ó-05.mp3" },
+        { "text": "ól", "roman": "ól", "meaning": "sty, pen (animal)", "emoji": "🐷", "audio": "audio/hu/words/hu-ó-06.mp3" },
+        { "text": "ón", "roman": "ón", "meaning": "tin (metal)", "audio": "audio/hu/words/hu-ó-07.mp3" }
+      ]
+    },
+    {
+      "id": "hu-ö",
+      "char": "ö",
+      "name": "ö",
+      "romanization": "ö",
+      "ipa": "/ø/",
+      "letterAudio": "audio/hu/letters/hu-ö.mp3",
+      "memoryTrick": "Like the German 'ö' or the 'eu' in French 'peur' — round your lips as if saying 'o' but say 'e' instead. Short and crisp, not drawn out.",
+      "words": [
+        { "text": "öröm", "roman": "öröm", "meaning": "joy", "emoji": "😄", "audio": "audio/hu/words/hu-ö-01.mp3" },
+        { "text": "öt", "roman": "öt", "meaning": "five", "emoji": "5️⃣", "audio": "audio/hu/words/hu-ö-02.mp3" },
+        { "text": "ökör", "roman": "ökör", "meaning": "ox", "emoji": "🐂", "audio": "audio/hu/words/hu-ö-03.mp3" },
+        { "text": "öv", "roman": "öv", "meaning": "belt", "audio": "audio/hu/words/hu-ö-04.mp3" },
+        { "text": "öreg", "roman": "öreg", "meaning": "old (person)", "emoji": "👴", "audio": "audio/hu/words/hu-ö-05.mp3" },
+        { "text": "önt", "roman": "önt", "meaning": "pour", "emoji": "🫗", "audio": "audio/hu/words/hu-ö-06.mp3" },
+        { "text": "ölel", "roman": "ölel", "meaning": "embrace, hug", "emoji": "🤗", "audio": "audio/hu/words/hu-ö-07.mp3" },
+        { "text": "ösztön", "roman": "ösztön", "meaning": "instinct", "audio": "audio/hu/words/hu-ö-08.mp3" },
+        { "text": "öltözik", "roman": "öltözik", "meaning": "get dressed", "emoji": "👗", "audio": "audio/hu/words/hu-ö-09.mp3" },
+        { "text": "ötvös", "roman": "ötvös", "meaning": "goldsmith", "emoji": "💍", "audio": "audio/hu/words/hu-ö-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-ő",
+      "char": "ő",
+      "name": "ő",
+      "romanization": "ő",
+      "ipa": "/øː/",
+      "letterAudio": "audio/hu/letters/hu-ő.mp3",
+      "memoryTrick": "The LONG version of 'ö' — hold the rounded front-vowel position twice as long. The double accent on 'ő' means both front-rounded AND long. Unique to Hungarian.",
+      "words": [
+        { "text": "ősz", "roman": "ősz", "meaning": "autumn, gray", "emoji": "🍂", "audio": "audio/hu/words/hu-ő-01.mp3" },
+        { "text": "őr", "roman": "őr", "meaning": "guard", "emoji": "💂", "audio": "audio/hu/words/hu-ő-02.mp3" },
+        { "text": "őz", "roman": "őz", "meaning": "roe deer", "emoji": "🦌", "audio": "audio/hu/words/hu-ő-03.mp3" },
+        { "text": "őszinte", "roman": "őszinte", "meaning": "honest, sincere", "emoji": "🤞", "audio": "audio/hu/words/hu-ő-04.mp3" },
+        { "text": "ős", "roman": "ős", "meaning": "ancestor", "emoji": "🧬", "audio": "audio/hu/words/hu-ő-05.mp3" },
+        { "text": "őrült", "roman": "őrült", "meaning": "crazy, mad", "emoji": "🤪", "audio": "audio/hu/words/hu-ő-06.mp3" },
+        { "text": "őrség", "roman": "őrség", "meaning": "guard post", "audio": "audio/hu/words/hu-ő-07.mp3" }
+      ]
+    },
+    {
+      "id": "hu-p",
+      "char": "p",
+      "name": "pé",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/hu/letters/hu-p.mp3",
+      "memoryTrick": "Like English 'p' in 'pen' — a voiceless bilabial stop. Hungarian 'p' is never aspirated strongly like English 'p' at the start of words.",
+      "words": [
+        { "text": "piros", "roman": "piros", "meaning": "red", "emoji": "❤️", "audio": "audio/hu/words/hu-p-01.mp3" },
+        { "text": "pad", "roman": "pad", "meaning": "bench", "emoji": "🪑", "audio": "audio/hu/words/hu-p-02.mp3" },
+        { "text": "pohár", "roman": "pohár", "meaning": "glass, cup", "emoji": "🥛", "audio": "audio/hu/words/hu-p-03.mp3" },
+        { "text": "pénz", "roman": "pénz", "meaning": "money", "emoji": "💵", "audio": "audio/hu/words/hu-p-04.mp3" },
+        { "text": "péntek", "roman": "péntek", "meaning": "Friday", "emoji": "📅", "audio": "audio/hu/words/hu-p-05.mp3" },
+        { "text": "part", "roman": "part", "meaning": "shore", "emoji": "🏖️", "audio": "audio/hu/words/hu-p-06.mp3" },
+        { "text": "pont", "roman": "pont", "meaning": "point, dot", "emoji": "🔵", "audio": "audio/hu/words/hu-p-07.mp3" },
+        { "text": "példa", "roman": "példa", "meaning": "example", "audio": "audio/hu/words/hu-p-08.mp3" },
+        { "text": "pók", "roman": "pók", "meaning": "spider", "emoji": "🕷️", "audio": "audio/hu/words/hu-p-09.mp3" },
+        { "text": "párna", "roman": "párna", "meaning": "pillow", "emoji": "🛏️", "audio": "audio/hu/words/hu-p-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-q",
+      "char": "q",
+      "name": "kú",
+      "romanization": "q",
+      "ipa": "/k/",
+      "letterAudio": "audio/hu/letters/hu-q.mp3",
+      "memoryTrick": "Only used in loanwords and foreign names — pronounced like 'k'. It appears in the Hungarian alphabet for foreign words but native Hungarian words never use it.",
+      "words": [
+        { "text": "quiz", "roman": "quiz", "meaning": "quiz", "emoji": "❓", "audio": "audio/hu/words/hu-q-01.mp3" },
+        { "text": "quad", "roman": "quad", "meaning": "quad (ATV)", "emoji": "🏍️", "audio": "audio/hu/words/hu-q-02.mp3" }
+      ]
+    },
+    {
+      "id": "hu-r",
+      "char": "r",
+      "name": "er",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/hu/letters/hu-r.mp3",
+      "memoryTrick": "A rolled or tapped 'r' like in Spanish or Italian — made by fluttering the tip of the tongue against the ridge behind the teeth. Never like the English throaty 'r'.",
+      "words": [
+        { "text": "rózsa", "roman": "rózsa", "meaning": "rose", "emoji": "🌹", "audio": "audio/hu/words/hu-r-01.mp3" },
+        { "text": "reggel", "roman": "reggel", "meaning": "morning", "emoji": "🌅", "audio": "audio/hu/words/hu-r-02.mp3" },
+        { "text": "repül", "roman": "repül", "meaning": "fly", "emoji": "✈️", "audio": "audio/hu/words/hu-r-03.mp3" },
+        { "text": "rossz", "roman": "rossz", "meaning": "bad", "emoji": "👎", "audio": "audio/hu/words/hu-r-04.mp3" },
+        { "text": "régi", "roman": "régi", "meaning": "old, ancient", "emoji": "🏛️", "audio": "audio/hu/words/hu-r-05.mp3" },
+        { "text": "rend", "roman": "rend", "meaning": "order", "audio": "audio/hu/words/hu-r-06.mp3" },
+        { "text": "ruha", "roman": "ruha", "meaning": "clothes", "emoji": "👕", "audio": "audio/hu/words/hu-r-07.mp3" },
+        { "text": "rész", "roman": "rész", "meaning": "part", "audio": "audio/hu/words/hu-r-08.mp3" },
+        { "text": "rom", "roman": "rom", "meaning": "ruin", "emoji": "🏚️", "audio": "audio/hu/words/hu-r-09.mp3" },
+        { "text": "ravasz", "roman": "ravasz", "meaning": "cunning, sly", "emoji": "🦊", "audio": "audio/hu/words/hu-r-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-s",
+      "char": "s",
+      "name": "es",
+      "romanization": "s",
+      "ipa": "/ʃ/",
+      "letterAudio": "audio/hu/letters/hu-s.mp3",
+      "memoryTrick": "This is the tricky one: Hungarian 's' sounds like English 'sh' in 'shoe'! For the normal 's' sound, Hungarian uses 'sz'. Think: Hungarian 's' = 'sh', Hungarian 'sz' = 's'.",
+      "words": [
+        { "text": "sál", "roman": "sál", "meaning": "scarf", "emoji": "🧣", "audio": "audio/hu/words/hu-s-01.mp3" },
+        { "text": "semmi", "roman": "semmi", "meaning": "nothing", "emoji": "🚫", "audio": "audio/hu/words/hu-s-02.mp3" },
+        { "text": "só", "roman": "só", "meaning": "salt", "emoji": "🧂", "audio": "audio/hu/words/hu-s-03.mp3" },
+        { "text": "sötét", "roman": "sötét", "meaning": "dark", "emoji": "🌑", "audio": "audio/hu/words/hu-s-04.mp3" },
+        { "text": "sajt", "roman": "sajt", "meaning": "cheese", "emoji": "🧀", "audio": "audio/hu/words/hu-s-05.mp3" },
+        { "text": "sár", "roman": "sár", "meaning": "mud", "audio": "audio/hu/words/hu-s-06.mp3" },
+        { "text": "sor", "roman": "sor", "meaning": "line, row", "audio": "audio/hu/words/hu-s-07.mp3" },
+        { "text": "sárga", "roman": "sárga", "meaning": "yellow", "emoji": "💛", "audio": "audio/hu/words/hu-s-08.mp3" },
+        { "text": "sas", "roman": "sas", "meaning": "eagle", "emoji": "🦅", "audio": "audio/hu/words/hu-s-09.mp3" },
+        { "text": "segít", "roman": "segít", "meaning": "help", "emoji": "🆘", "audio": "audio/hu/words/hu-s-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-sz",
+      "char": "sz",
+      "name": "esz",
+      "romanization": "sz",
+      "ipa": "/s/",
+      "letterAudio": "audio/hu/letters/hu-sz.mp3",
+      "memoryTrick": "This is the NORMAL 's' sound, like English 's' in 'sun'. Counterintuitive: Hungarian 's' alone = 'sh', but 'sz' together = plain 's'. Think 'SZ' = 'Simple S'.",
+      "words": [
+        { "text": "szép", "roman": "szép", "meaning": "beautiful", "emoji": "✨", "audio": "audio/hu/words/hu-sz-01.mp3" },
+        { "text": "szem", "roman": "szem", "meaning": "eye", "emoji": "👁️", "audio": "audio/hu/words/hu-sz-02.mp3" },
+        { "text": "szél", "roman": "szél", "meaning": "wind", "emoji": "💨", "audio": "audio/hu/words/hu-sz-03.mp3" },
+        { "text": "szív", "roman": "szív", "meaning": "heart", "emoji": "❤️", "audio": "audio/hu/words/hu-sz-04.mp3" },
+        { "text": "szó", "roman": "szó", "meaning": "word", "emoji": "💬", "audio": "audio/hu/words/hu-sz-05.mp3" },
+        { "text": "szín", "roman": "szín", "meaning": "color", "emoji": "🎨", "audio": "audio/hu/words/hu-sz-06.mp3" },
+        { "text": "szoba", "roman": "szoba", "meaning": "room", "emoji": "🚪", "audio": "audio/hu/words/hu-sz-07.mp3" },
+        { "text": "szombat", "roman": "szombat", "meaning": "Saturday", "audio": "audio/hu/words/hu-sz-08.mp3" },
+        { "text": "szamár", "roman": "szamár", "meaning": "donkey", "emoji": "🐴", "audio": "audio/hu/words/hu-sz-09.mp3" },
+        { "text": "szám", "roman": "szám", "meaning": "number", "emoji": "🔢", "audio": "audio/hu/words/hu-sz-10.mp3" },
+        { "text": "szülő", "roman": "szülő", "meaning": "parent", "emoji": "👨‍👩‍👧", "audio": "audio/hu/words/hu-sz-11.mp3" }
+      ]
+    },
+    {
+      "id": "hu-t",
+      "char": "t",
+      "name": "té",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/hu/letters/hu-t.mp3",
+      "memoryTrick": "Like English 't' in 'top' but with less aspiration — keep it clean and unaspirated, like the 't' in Spanish or French. Your tongue touches further forward than in English.",
+      "words": [
+        { "text": "tél", "roman": "tél", "meaning": "winter", "emoji": "❄️", "audio": "audio/hu/words/hu-t-01.mp3" },
+        { "text": "tűz", "roman": "tűz", "meaning": "fire", "emoji": "🔥", "audio": "audio/hu/words/hu-t-02.mp3" },
+        { "text": "tó", "roman": "tó", "meaning": "lake", "emoji": "🏞️", "audio": "audio/hu/words/hu-t-03.mp3" },
+        { "text": "tíz", "roman": "tíz", "meaning": "ten", "emoji": "🔟", "audio": "audio/hu/words/hu-t-04.mp3" },
+        { "text": "test", "roman": "test", "meaning": "body", "emoji": "🧍", "audio": "audio/hu/words/hu-t-05.mp3" },
+        { "text": "tigris", "roman": "tigris", "meaning": "tiger", "emoji": "🐯", "audio": "audio/hu/words/hu-t-06.mp3" },
+        { "text": "toll", "roman": "toll", "meaning": "pen, feather", "emoji": "🖊️", "audio": "audio/hu/words/hu-t-07.mp3" },
+        { "text": "tej", "roman": "tej", "meaning": "milk", "emoji": "🥛", "audio": "audio/hu/words/hu-t-08.mp3" },
+        { "text": "tányér", "roman": "tányér", "meaning": "plate", "emoji": "🍽️", "audio": "audio/hu/words/hu-t-09.mp3" },
+        { "text": "tárgy", "roman": "tárgy", "meaning": "object", "audio": "audio/hu/words/hu-t-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-ty",
+      "char": "ty",
+      "name": "tyé",
+      "romanization": "ty",
+      "ipa": "/c/",
+      "letterAudio": "audio/hu/letters/hu-ty.mp3",
+      "memoryTrick": "A voiceless palatal stop — like saying 't' with your tongue pressed to the roof of your mouth, similar to the 't' in British 'tune'. The voiceless twin of 'gy'.",
+      "words": [
+        { "text": "tyúk", "roman": "tyúk", "meaning": "hen", "emoji": "🐔", "audio": "audio/hu/words/hu-ty-01.mp3" },
+        { "text": "atya", "roman": "atya", "meaning": "father (archaic)", "emoji": "👴", "audio": "audio/hu/words/hu-ty-02.mp3" },
+        { "text": "kutya", "roman": "kutya", "meaning": "dog", "emoji": "🐕", "audio": "audio/hu/words/hu-ty-03.mp3" },
+        { "text": "báty", "roman": "báty", "meaning": "older brother", "emoji": "👨", "audio": "audio/hu/words/hu-ty-04.mp3" },
+        { "text": "láttya", "roman": "láttya", "meaning": "sees it (dialectal)", "audio": "audio/hu/words/hu-ty-05.mp3" }
+      ]
+    },
+    {
+      "id": "hu-u",
+      "char": "u",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/hu/letters/hu-u.mp3",
+      "memoryTrick": "Like the 'oo' in English 'book' or 'foot' but a bit tenser — a short, rounded high back vowel. Not drawn out like English 'oo' in 'moon' — that's the long 'ú'.",
+      "words": [
+        { "text": "utca", "roman": "utca", "meaning": "street", "emoji": "🛣️", "audio": "audio/hu/words/hu-u-01.mp3" },
+        { "text": "uborka", "roman": "uborka", "meaning": "cucumber", "emoji": "🥒", "audio": "audio/hu/words/hu-u-02.mp3" },
+        { "text": "ujj", "roman": "ujj", "meaning": "finger, sleeve", "emoji": "👆", "audio": "audio/hu/words/hu-u-03.mp3" },
+        { "text": "unoka", "roman": "unoka", "meaning": "grandchild", "emoji": "👶", "audio": "audio/hu/words/hu-u-04.mp3" },
+        { "text": "utazik", "roman": "utazik", "meaning": "travel", "emoji": "🧳", "audio": "audio/hu/words/hu-u-05.mp3" },
+        { "text": "udvar", "roman": "udvar", "meaning": "courtyard", "emoji": "🏡", "audio": "audio/hu/words/hu-u-06.mp3" },
+        { "text": "ugrik", "roman": "ugrik", "meaning": "jump", "emoji": "🦘", "audio": "audio/hu/words/hu-u-07.mp3" },
+        { "text": "un", "roman": "un", "meaning": "be bored", "emoji": "🥱", "audio": "audio/hu/words/hu-u-08.mp3" }
+      ]
+    },
+    {
+      "id": "hu-ú",
+      "char": "ú",
+      "name": "ú",
+      "romanization": "ú",
+      "ipa": "/uː/",
+      "letterAudio": "audio/hu/letters/hu-ú.mp3",
+      "memoryTrick": "A LONG 'oo' like in English 'moon' or 'soon' — hold the rounded lip position about twice as long as short 'u'. The accent means you extend the sound.",
+      "words": [
+        { "text": "út", "roman": "út", "meaning": "road", "emoji": "🛣️", "audio": "audio/hu/words/hu-ú-01.mp3" },
+        { "text": "úr", "roman": "úr", "meaning": "lord, sir, Mr.", "emoji": "🤵", "audio": "audio/hu/words/hu-ú-02.mp3" },
+        { "text": "új", "roman": "új", "meaning": "new", "emoji": "🆕", "audio": "audio/hu/words/hu-ú-03.mp3" },
+        { "text": "újság", "roman": "újság", "meaning": "newspaper", "emoji": "📰", "audio": "audio/hu/words/hu-ú-04.mp3" },
+        { "text": "úszik", "roman": "úszik", "meaning": "swim", "emoji": "🏊", "audio": "audio/hu/words/hu-ú-05.mp3" },
+        { "text": "úgy", "roman": "úgy", "meaning": "so, like that", "audio": "audio/hu/words/hu-ú-06.mp3" },
+        { "text": "úthenger", "roman": "úthenger", "meaning": "steamroller", "emoji": "🚜", "audio": "audio/hu/words/hu-ú-07.mp3" }
+      ]
+    },
+    {
+      "id": "hu-ü",
+      "char": "ü",
+      "name": "ü",
+      "romanization": "ü",
+      "ipa": "/y/",
+      "letterAudio": "audio/hu/letters/hu-ü.mp3",
+      "memoryTrick": "Like German 'ü' or French 'u' in 'tu' — round your lips as if saying 'oo' but say 'ee' instead. Short and crisp. The long version is 'ű'.",
+      "words": [
+        { "text": "üveg", "roman": "üveg", "meaning": "glass, bottle", "emoji": "🍾", "audio": "audio/hu/words/hu-ü-01.mp3" },
+        { "text": "ül", "roman": "ül", "meaning": "sit", "emoji": "🪑", "audio": "audio/hu/words/hu-ü-02.mp3" },
+        { "text": "ünnep", "roman": "ünnep", "meaning": "holiday, feast", "emoji": "🎉", "audio": "audio/hu/words/hu-ü-03.mp3" },
+        { "text": "ügy", "roman": "ügy", "meaning": "matter, case", "audio": "audio/hu/words/hu-ü-04.mp3" },
+        { "text": "üzlet", "roman": "üzlet", "meaning": "shop, business", "emoji": "🏪", "audio": "audio/hu/words/hu-ü-05.mp3" },
+        { "text": "üres", "roman": "üres", "meaning": "empty", "emoji": "🈳", "audio": "audio/hu/words/hu-ü-06.mp3" },
+        { "text": "ügyes", "roman": "ügyes", "meaning": "clever, skillful", "emoji": "🤹", "audio": "audio/hu/words/hu-ü-07.mp3" },
+        { "text": "üt", "roman": "üt", "meaning": "hit, strike", "emoji": "👊", "audio": "audio/hu/words/hu-ü-08.mp3" },
+        { "text": "üdvözöl", "roman": "üdvözöl", "meaning": "welcome, greet", "emoji": "👋", "audio": "audio/hu/words/hu-ü-09.mp3" }
+      ]
+    },
+    {
+      "id": "hu-ű",
+      "char": "ű",
+      "name": "ű",
+      "romanization": "ű",
+      "ipa": "/yː/",
+      "letterAudio": "audio/hu/letters/hu-ű.mp3",
+      "memoryTrick": "The LONG version of 'ü' — hold the front-rounded lip position twice as long. The double accent on 'ű' means both front AND long. Unique to Hungarian.",
+      "words": [
+        { "text": "űr", "roman": "űr", "meaning": "space, void", "emoji": "🚀", "audio": "audio/hu/words/hu-ű-01.mp3" },
+        { "text": "űz", "roman": "űz", "meaning": "chase, pursue", "emoji": "🏃", "audio": "audio/hu/words/hu-ű-02.mp3" },
+        { "text": "űrhajó", "roman": "űrhajó", "meaning": "spaceship", "emoji": "🚀", "audio": "audio/hu/words/hu-ű-03.mp3" },
+        { "text": "űrlap", "roman": "űrlap", "meaning": "form (document)", "emoji": "📋", "audio": "audio/hu/words/hu-ű-04.mp3" },
+        { "text": "tűz", "roman": "tűz", "meaning": "fire", "emoji": "🔥", "audio": "audio/hu/words/hu-ű-05.mp3" },
+        { "text": "fűz", "roman": "fűz", "meaning": "willow, weave", "emoji": "🌿", "audio": "audio/hu/words/hu-ű-06.mp3" },
+        { "text": "fű", "roman": "fű", "meaning": "grass", "emoji": "🌱", "audio": "audio/hu/words/hu-ű-07.mp3" },
+        { "text": "hű", "roman": "hű", "meaning": "faithful", "emoji": "🤞", "audio": "audio/hu/words/hu-ű-08.mp3" },
+        { "text": "mű", "roman": "mű", "meaning": "work, artwork", "emoji": "🎭", "audio": "audio/hu/words/hu-ű-09.mp3" }
+      ]
+    },
+    {
+      "id": "hu-v",
+      "char": "v",
+      "name": "vé",
+      "romanization": "v",
+      "ipa": "/v/",
+      "letterAudio": "audio/hu/letters/hu-v.mp3",
+      "memoryTrick": "Like English 'v' in 'voice' — a voiced labiodental fricative. Simple and consistent, never silent.",
+      "words": [
+        { "text": "víz", "roman": "víz", "meaning": "water", "emoji": "💧", "audio": "audio/hu/words/hu-v-01.mp3" },
+        { "text": "virág", "roman": "virág", "meaning": "flower", "emoji": "🌸", "audio": "audio/hu/words/hu-v-02.mp3" },
+        { "text": "vár", "roman": "vár", "meaning": "castle, wait", "emoji": "🏰", "audio": "audio/hu/words/hu-v-03.mp3" },
+        { "text": "vasárnap", "roman": "vasárnap", "meaning": "Sunday", "emoji": "📅", "audio": "audio/hu/words/hu-v-04.mp3" },
+        { "text": "világ", "roman": "világ", "meaning": "world", "emoji": "🌍", "audio": "audio/hu/words/hu-v-05.mp3" },
+        { "text": "vendég", "roman": "vendég", "meaning": "guest", "emoji": "🧑‍🤝‍🧑", "audio": "audio/hu/words/hu-v-06.mp3" },
+        { "text": "vaj", "roman": "vaj", "meaning": "butter", "emoji": "🧈", "audio": "audio/hu/words/hu-v-07.mp3" },
+        { "text": "vas", "roman": "vas", "meaning": "iron", "emoji": "🔩", "audio": "audio/hu/words/hu-v-08.mp3" },
+        { "text": "város", "roman": "város", "meaning": "city", "emoji": "🏙️", "audio": "audio/hu/words/hu-v-09.mp3" },
+        { "text": "válasz", "roman": "válasz", "meaning": "answer", "emoji": "💬", "audio": "audio/hu/words/hu-v-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-w",
+      "char": "w",
+      "name": "dupla vé",
+      "romanization": "w",
+      "ipa": "/v/",
+      "letterAudio": "audio/hu/letters/hu-w.mp3",
+      "memoryTrick": "Only used in loanwords and foreign names — pronounced like Hungarian 'v'. The name 'dupla vé' means 'double v'. Native Hungarian words never contain 'w'.",
+      "words": [
+        { "text": "watt", "roman": "watt", "meaning": "watt (unit)", "emoji": "💡", "audio": "audio/hu/words/hu-w-01.mp3" },
+        { "text": "WC", "roman": "vé-cé", "meaning": "toilet, restroom", "emoji": "🚻", "audio": "audio/hu/words/hu-w-02.mp3" },
+        { "text": "western", "roman": "western", "meaning": "western (film genre)", "emoji": "🤠", "audio": "audio/hu/words/hu-w-03.mp3" }
+      ]
+    },
+    {
+      "id": "hu-x",
+      "char": "x",
+      "name": "iksz",
+      "romanization": "x",
+      "ipa": "/ks/",
+      "letterAudio": "audio/hu/letters/hu-x.mp3",
+      "memoryTrick": "Only in loanwords and international terms — pronounced like 'ks'. The letter name 'iksz' reflects its sound. It appears in words like 'taxi' and 'expressz'.",
+      "words": [
+        { "text": "taxi", "roman": "taxi", "meaning": "taxi", "emoji": "🚕", "audio": "audio/hu/words/hu-x-01.mp3" },
+        { "text": "extra", "roman": "extra", "meaning": "extra", "emoji": "✨", "audio": "audio/hu/words/hu-x-02.mp3" },
+        { "text": "expressz", "roman": "expressz", "meaning": "express", "emoji": "⚡", "audio": "audio/hu/words/hu-x-03.mp3" },
+        { "text": "fax", "roman": "fax", "meaning": "fax", "emoji": "📠", "audio": "audio/hu/words/hu-x-04.mp3" },
+        { "text": "maximum", "roman": "maximum", "meaning": "maximum", "audio": "audio/hu/words/hu-x-05.mp3" },
+        { "text": "textil", "roman": "textil", "meaning": "textile, fabric", "emoji": "🧵", "audio": "audio/hu/words/hu-x-06.mp3" }
+      ]
+    },
+    {
+      "id": "hu-y",
+      "char": "y",
+      "name": "ipszilon",
+      "romanization": "y",
+      "ipa": "/i/",
+      "letterAudio": "audio/hu/letters/hu-y.mp3",
+      "memoryTrick": "As a standalone letter, only in loanwords and old family names — pronounced like Hungarian 'i'. The letter name 'ipszilon' comes from Greek. In modern Hungarian digraphs (gy, ly, ny, ty) it's part of one sound.",
+      "words": [
+        { "text": "yacht", "roman": "yacht", "meaning": "yacht", "emoji": "⛵", "audio": "audio/hu/words/hu-y-01.mp3" },
+        { "text": "yard", "roman": "yard", "meaning": "yard (unit)", "audio": "audio/hu/words/hu-y-02.mp3" },
+        { "text": "yeti", "roman": "yeti", "meaning": "yeti", "emoji": "🦧", "audio": "audio/hu/words/hu-y-03.mp3" }
+      ]
+    },
+    {
+      "id": "hu-z",
+      "char": "z",
+      "name": "zé",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/hu/letters/hu-z.mp3",
+      "memoryTrick": "Like English 'z' in 'zebra' or 'buzz' — a voiced alveolar fricative. Always clearly voiced, not like the German 'z' (which is /ts/ — that's Hungarian 'c').",
+      "words": [
+        { "text": "zene", "roman": "zene", "meaning": "music", "emoji": "🎵", "audio": "audio/hu/words/hu-z-01.mp3" },
+        { "text": "zaj", "roman": "zaj", "meaning": "noise", "emoji": "🔊", "audio": "audio/hu/words/hu-z-02.mp3" },
+        { "text": "zöld", "roman": "zöld", "meaning": "green", "emoji": "💚", "audio": "audio/hu/words/hu-z-03.mp3" },
+        { "text": "zár", "roman": "zár", "meaning": "lock", "emoji": "🔒", "audio": "audio/hu/words/hu-z-04.mp3" },
+        { "text": "zavar", "roman": "zavar", "meaning": "disturbance", "audio": "audio/hu/words/hu-z-05.mp3" },
+        { "text": "zokni", "roman": "zokni", "meaning": "sock", "emoji": "🧦", "audio": "audio/hu/words/hu-z-06.mp3" },
+        { "text": "zebra", "roman": "zebra", "meaning": "zebra", "emoji": "🦓", "audio": "audio/hu/words/hu-z-07.mp3" },
+        { "text": "zuhany", "roman": "zuhany", "meaning": "shower", "emoji": "🚿", "audio": "audio/hu/words/hu-z-08.mp3" },
+        { "text": "zab", "roman": "zab", "meaning": "oats", "emoji": "🌾", "audio": "audio/hu/words/hu-z-09.mp3" },
+        { "text": "zuhan", "roman": "zuhan", "meaning": "plunge, fall", "audio": "audio/hu/words/hu-z-10.mp3" }
+      ]
+    },
+    {
+      "id": "hu-zs",
+      "char": "zs",
+      "name": "zsé",
+      "romanization": "zs",
+      "ipa": "/ʒ/",
+      "letterAudio": "audio/hu/letters/hu-zs.mp3",
+      "memoryTrick": "Like the 's' in English 'pleasure' or 'measure', or the 'j' in French 'je' — a voiced 'sh' sound. Think of the 'zh' buzz in 'treasure'.",
+      "words": [
+        { "text": "zsák", "roman": "zsák", "meaning": "sack, bag", "emoji": "🛍️", "audio": "audio/hu/words/hu-zs-01.mp3" },
+        { "text": "zsiráf", "roman": "zsiráf", "meaning": "giraffe", "emoji": "🦒", "audio": "audio/hu/words/hu-zs-02.mp3" },
+        { "text": "zseb", "roman": "zseb", "meaning": "pocket", "emoji": "👖", "audio": "audio/hu/words/hu-zs-03.mp3" },
+        { "text": "zsír", "roman": "zsír", "meaning": "fat, grease", "audio": "audio/hu/words/hu-zs-04.mp3" },
+        { "text": "zsemle", "roman": "zsemle", "meaning": "bread roll, bun", "emoji": "🥖", "audio": "audio/hu/words/hu-zs-05.mp3" },
+        { "text": "zsoltár", "roman": "zsoltár", "meaning": "psalm", "emoji": "📖", "audio": "audio/hu/words/hu-zs-06.mp3" },
+        { "text": "zsúfolt", "roman": "zsúfolt", "meaning": "crowded", "emoji": "👥", "audio": "audio/hu/words/hu-zs-07.mp3" },
+        { "text": "zsong", "roman": "zsong", "meaning": "buzz, hum", "emoji": "🐝", "audio": "audio/hu/words/hu-zs-08.mp3" }
       ]
     }
   ]

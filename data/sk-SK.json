@@ -2,138 +2,934 @@
   "language": "Slovak",
   "code": "sk-SK",
   "direction": "ltr",
-  "draft": true,
   "letters": [
     {
-      "id": "sk-l-caron",
-      "char": "Ľ ľ",
-      "name": "eľ",
-      "romanization": "ľ",
-      "ipa": "/ʎ/",
-      "memoryTrick": "An L with a háček — a soft 'ly' as in 'million'.",
+      "id": "sk-a",
+      "char": "a",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "letterAudio": "audio/sk/letters/sk-a.mp3",
+      "memoryTrick": "Like the 'a' in English 'father' — open and clear. Slovak a is short and crisp, never drawn out.",
       "words": [
-        {
-          "text": "ľad",
-          "roman": "lyad",
-          "meaning": "ice",
-          "emoji": "🧊"
-        },
-        {
-          "text": "kráľ",
-          "roman": "král",
-          "meaning": "king",
-          "emoji": "👑"
-        }
+        { "text": "auto", "roman": "auto", "meaning": "car", "emoji": "🚗", "audio": "audio/sk/words/sk-a-01.mp3" },
+        { "text": "anjel", "roman": "anjel", "meaning": "angel", "emoji": "👼", "audio": "audio/sk/words/sk-a-02.mp3" },
+        { "text": "apríl", "roman": "apríl", "meaning": "April", "audio": "audio/sk/words/sk-a-03.mp3" },
+        { "text": "aktovka", "roman": "aktovka", "meaning": "briefcase", "emoji": "💼", "audio": "audio/sk/words/sk-a-04.mp3" },
+        { "text": "adresa", "roman": "adresa", "meaning": "address", "audio": "audio/sk/words/sk-a-05.mp3" },
+        { "text": "akcia", "roman": "akcia", "meaning": "action", "audio": "audio/sk/words/sk-a-06.mp3" },
+        { "text": "album", "roman": "album", "meaning": "album", "audio": "audio/sk/words/sk-a-07.mp3" },
+        { "text": "angličtina", "roman": "angličtina", "meaning": "English language", "audio": "audio/sk/words/sk-a-08.mp3" },
+        { "text": "ananas", "roman": "ananas", "meaning": "pineapple", "emoji": "🍍", "audio": "audio/sk/words/sk-a-09.mp3" },
+        { "text": "agent", "roman": "agent", "meaning": "agent", "audio": "audio/sk/words/sk-a-10.mp3" }
+      ]
+    },
+    {
+      "id": "sk-a-acute",
+      "char": "á",
+      "name": "dlhé a (long a)",
+      "romanization": "á",
+      "ipa": "/aː/",
+      "letterAudio": "audio/sk/letters/sk-a-acute.mp3",
+      "memoryTrick": "A longer, stretched version of 'a' — like the 'a' in English 'car' but held twice as long. The acute accent means 'hold it!'",
+      "words": [
+        { "text": "áno", "roman": "áno", "meaning": "yes", "audio": "audio/sk/words/sk-a-acute-01.mp3" },
+        { "text": "láska", "roman": "láska", "meaning": "love", "emoji": "❤️", "audio": "audio/sk/words/sk-a-acute-02.mp3" },
+        { "text": "máso", "roman": "máso", "meaning": "meat", "emoji": "🥩", "audio": "audio/sk/words/sk-a-acute-03.mp3" },
+        { "text": "krása", "roman": "krása", "meaning": "beauty", "audio": "audio/sk/words/sk-a-acute-04.mp3" },
+        { "text": "káva", "roman": "káva", "meaning": "coffee", "emoji": "☕", "audio": "audio/sk/words/sk-a-acute-05.mp3" },
+        { "text": "máj", "roman": "máj", "meaning": "May", "audio": "audio/sk/words/sk-a-acute-06.mp3" },
+        { "text": "ráno", "roman": "ráno", "meaning": "morning", "emoji": "🌅", "audio": "audio/sk/words/sk-a-acute-07.mp3" },
+        { "text": "tráva", "roman": "tráva", "meaning": "grass", "emoji": "🌿", "audio": "audio/sk/words/sk-a-acute-08.mp3" },
+        { "text": "pán", "roman": "pán", "meaning": "mister, gentleman", "audio": "audio/sk/words/sk-a-acute-09.mp3" },
+        { "text": "dáždnik", "roman": "dáždnik", "meaning": "umbrella", "emoji": "☂️", "audio": "audio/sk/words/sk-a-acute-10.mp3" },
+        { "text": "tábor", "roman": "tábor", "meaning": "camp", "emoji": "🏕️", "audio": "audio/sk/words/sk-a-acute-11.mp3" },
+        { "text": "hrášok", "roman": "hrášok", "meaning": "pea", "audio": "audio/sk/words/sk-a-acute-12.mp3" },
+        { "text": "vak", "roman": "vak", "meaning": "bag, sack", "audio": "audio/sk/words/sk-a-acute-13.mp3" }
+      ]
+    },
+    {
+      "id": "sk-a-umlaut",
+      "char": "ä",
+      "name": "a s dvoma bodkami (a with two dots)",
+      "romanization": "ä",
+      "ipa": "/ɛɐ/",
+      "letterAudio": "audio/sk/letters/sk-a-umlaut.mp3",
+      "memoryTrick": "Pronounced between 'a' and 'e' — like the 'e' in English 'bet' with a slight 'a' color. In modern Slovak, often sounds just like 'e'.",
+      "words": [
+        { "text": "mäso", "roman": "mäso", "meaning": "meat", "emoji": "🥩", "audio": "audio/sk/words/sk-a-umlaut-01.mp3" },
+        { "text": "päť", "roman": "päť", "meaning": "five", "audio": "audio/sk/words/sk-a-umlaut-02.mp3" },
+        { "text": "smäd", "roman": "smäd", "meaning": "thirst", "emoji": "🥤", "audio": "audio/sk/words/sk-a-umlaut-03.mp3" },
+        { "text": "pamäť", "roman": "pamäť", "meaning": "memory", "emoji": "🧠", "audio": "audio/sk/words/sk-a-umlaut-04.mp3" },
+        { "text": "deväť", "roman": "deväť", "meaning": "nine", "audio": "audio/sk/words/sk-a-umlaut-05.mp3" },
+        { "text": "zväzok", "roman": "zväzok", "meaning": "volume, bundle", "audio": "audio/sk/words/sk-a-umlaut-06.mp3" },
+        { "text": "mäkký", "roman": "mäkký", "meaning": "soft", "audio": "audio/sk/words/sk-a-umlaut-07.mp3" }
+      ]
+    },
+    {
+      "id": "sk-b",
+      "char": "b",
+      "name": "bé",
+      "romanization": "b",
+      "ipa": "/b/",
+      "letterAudio": "audio/sk/letters/sk-b.mp3",
+      "memoryTrick": "Same as English 'b' — a soft, voiced 'buh' sound made with both lips. No tricks needed.",
+      "words": [
+        { "text": "brat", "roman": "brat", "meaning": "brother", "emoji": "👨", "audio": "audio/sk/words/sk-b-01.mp3" },
+        { "text": "biely", "roman": "biely", "meaning": "white", "emoji": "⬜", "audio": "audio/sk/words/sk-b-02.mp3" },
+        { "text": "banka", "roman": "banka", "meaning": "bank", "emoji": "🏦", "audio": "audio/sk/words/sk-b-03.mp3" },
+        { "text": "bicykel", "roman": "bicykel", "meaning": "bicycle", "emoji": "🚲", "audio": "audio/sk/words/sk-b-04.mp3" },
+        { "text": "báseň", "roman": "báseň", "meaning": "poem", "audio": "audio/sk/words/sk-b-05.mp3" },
+        { "text": "bábätko", "roman": "bábätko", "meaning": "baby", "emoji": "👶", "audio": "audio/sk/words/sk-b-06.mp3" },
+        { "text": "bubon", "roman": "bubon", "meaning": "drum", "emoji": "🥁", "audio": "audio/sk/words/sk-b-07.mp3" },
+        { "text": "budova", "roman": "budova", "meaning": "building", "emoji": "🏢", "audio": "audio/sk/words/sk-b-08.mp3" },
+        { "text": "bazén", "roman": "bazén", "meaning": "pool", "emoji": "🏊", "audio": "audio/sk/words/sk-b-09.mp3" },
+        { "text": "búrka", "roman": "búrka", "meaning": "storm", "emoji": "⛈️", "audio": "audio/sk/words/sk-b-10.mp3" },
+        { "text": "boty", "roman": "boty", "meaning": "shoes", "emoji": "👢", "audio": "audio/sk/words/sk-b-11.mp3" },
+        { "text": "brada", "roman": "brada", "meaning": "beard, chin", "audio": "audio/sk/words/sk-b-12.mp3" },
+        { "text": "bocian", "roman": "bocian", "meaning": "stork", "emoji": "🐦", "audio": "audio/sk/words/sk-b-13.mp3" },
+        { "text": "balík", "roman": "balík", "meaning": "package", "emoji": "📦", "audio": "audio/sk/words/sk-b-14.mp3" }
+      ]
+    },
+    {
+      "id": "sk-c",
+      "char": "c",
+      "name": "cé",
+      "romanization": "c",
+      "ipa": "/t͡s/",
+      "letterAudio": "audio/sk/letters/sk-c.mp3",
+      "memoryTrick": "Always like 'ts' in English 'cats' — never soft like 'city'. Think of the zippy 'ts' sound and you've got it every time.",
+      "words": [
+        { "text": "cukor", "roman": "cukor", "meaning": "sugar", "audio": "audio/sk/words/sk-c-01.mp3" },
+        { "text": "cena", "roman": "cena", "meaning": "price", "emoji": "💲", "audio": "audio/sk/words/sk-c-02.mp3" },
+        { "text": "cibuľa", "roman": "cibuľa", "meaning": "onion", "emoji": "🧅", "audio": "audio/sk/words/sk-c-03.mp3" },
+        { "text": "cesta", "roman": "cesta", "meaning": "road, journey", "emoji": "🛣️", "audio": "audio/sk/words/sk-c-04.mp3" },
+        { "text": "citrón", "roman": "citrón", "meaning": "lemon", "emoji": "🍋", "audio": "audio/sk/words/sk-c-05.mp3" },
+        { "text": "cvičenie", "roman": "cvičenie", "meaning": "exercise", "emoji": "🏋️", "audio": "audio/sk/words/sk-c-06.mp3" },
+        { "text": "ceruzka", "roman": "ceruzka", "meaning": "pencil", "emoji": "✏️", "audio": "audio/sk/words/sk-c-07.mp3" },
+        { "text": "celý", "roman": "celý", "meaning": "whole, entire", "audio": "audio/sk/words/sk-c-08.mp3" },
+        { "text": "cintorín", "roman": "cintorín", "meaning": "cemetery", "audio": "audio/sk/words/sk-c-09.mp3" },
+        { "text": "cibuľka", "roman": "cibuľka", "meaning": "small onion, bulb", "audio": "audio/sk/words/sk-c-10.mp3" }
       ]
     },
     {
       "id": "sk-c-caron",
-      "char": "Č č",
+      "char": "č",
       "name": "čé",
       "romanization": "č",
-      "ipa": "/tʃ/",
-      "memoryTrick": "A 'c' with a háček = 'ch'.",
+      "ipa": "/t͡ʃ/",
+      "letterAudio": "audio/sk/letters/sk-c-caron.mp3",
+      "memoryTrick": "Like 'ch' in English 'chocolate' or 'church'. The little hook (caron/háčik) turns a plain 'ts' into a 'ch' — think of it as 'c with a cherry on top.'",
       "words": [
-        {
-          "text": "čaj",
-          "roman": "chai",
-          "meaning": "tea",
-          "emoji": "🍵"
-        },
-        {
-          "text": "čierny",
-          "roman": "chierny",
-          "meaning": "black",
-          "emoji": "⬛"
-        }
+        { "text": "čaj", "roman": "čaj", "meaning": "tea", "emoji": "🍵", "audio": "audio/sk/words/sk-c-caron-01.mp3" },
+        { "text": "čokoláda", "roman": "čokoláda", "meaning": "chocolate", "emoji": "🍫", "audio": "audio/sk/words/sk-c-caron-02.mp3" },
+        { "text": "človek", "roman": "človek", "meaning": "person, human", "emoji": "🧑", "audio": "audio/sk/words/sk-c-caron-03.mp3" },
+        { "text": "červený", "roman": "červený", "meaning": "red", "emoji": "🔴", "audio": "audio/sk/words/sk-c-caron-04.mp3" },
+        { "text": "čiapka", "roman": "čiapka", "meaning": "cap, hat", "emoji": "🧢", "audio": "audio/sk/words/sk-c-caron-05.mp3" },
+        { "text": "čerešňa", "roman": "čerešňa", "meaning": "cherry", "emoji": "🍒", "audio": "audio/sk/words/sk-c-caron-06.mp3" },
+        { "text": "číslo", "roman": "číslo", "meaning": "number", "audio": "audio/sk/words/sk-c-caron-07.mp3" },
+        { "text": "čistý", "roman": "čistý", "meaning": "clean", "audio": "audio/sk/words/sk-c-caron-08.mp3" },
+        { "text": "čelo", "roman": "čelo", "meaning": "forehead", "audio": "audio/sk/words/sk-c-caron-09.mp3" },
+        { "text": "čln", "roman": "čln", "meaning": "boat", "emoji": "🚣", "audio": "audio/sk/words/sk-c-caron-10.mp3" },
+        { "text": "čučoriedka", "roman": "čučoriedka", "meaning": "blueberry", "emoji": "🫐", "audio": "audio/sk/words/sk-c-caron-11.mp3" },
+        { "text": "čítať", "roman": "čítať", "meaning": "to read", "emoji": "📖", "audio": "audio/sk/words/sk-c-caron-12.mp3" },
+        { "text": "čierny", "roman": "čierny", "meaning": "black", "emoji": "⬛", "audio": "audio/sk/words/sk-c-caron-13.mp3" }
+      ]
+    },
+    {
+      "id": "sk-d",
+      "char": "d",
+      "name": "dé",
+      "romanization": "d",
+      "ipa": "/d/",
+      "letterAudio": "audio/sk/letters/sk-d.mp3",
+      "memoryTrick": "Like English 'd' in 'dog' — a voiced tap of the tongue behind the upper teeth. No surprises here.",
+      "words": [
+        { "text": "dom", "roman": "dom", "meaning": "house", "emoji": "🏠", "audio": "audio/sk/words/sk-d-01.mp3" },
+        { "text": "dvere", "roman": "dvere", "meaning": "door", "emoji": "🚪", "audio": "audio/sk/words/sk-d-02.mp3" },
+        { "text": "dážď", "roman": "dážď", "meaning": "rain", "emoji": "🌧️", "audio": "audio/sk/words/sk-d-03.mp3" },
+        { "text": "dieťa", "roman": "dieťa", "meaning": "child", "emoji": "👧", "audio": "audio/sk/words/sk-d-04.mp3" },
+        { "text": "deň", "roman": "deň", "meaning": "day", "emoji": "📅", "audio": "audio/sk/words/sk-d-05.mp3" },
+        { "text": "dolina", "roman": "dolina", "meaning": "valley", "emoji": "🏞️", "audio": "audio/sk/words/sk-d-06.mp3" },
+        { "text": "dub", "roman": "dub", "meaning": "oak tree", "emoji": "🌳", "audio": "audio/sk/words/sk-d-07.mp3" },
+        { "text": "darček", "roman": "darček", "meaning": "gift", "emoji": "🎁", "audio": "audio/sk/words/sk-d-08.mp3" },
+        { "text": "doska", "roman": "doska", "meaning": "board, plank", "audio": "audio/sk/words/sk-d-09.mp3" },
+        { "text": "divadlo", "roman": "divadlo", "meaning": "theater", "emoji": "🎭", "audio": "audio/sk/words/sk-d-10.mp3" },
+        { "text": "dym", "roman": "dym", "meaning": "smoke", "audio": "audio/sk/words/sk-d-11.mp3" },
+        { "text": "doktor", "roman": "doktor", "meaning": "doctor", "emoji": "👨‍⚕️", "audio": "audio/sk/words/sk-d-12.mp3" },
+        { "text": "dlh", "roman": "dlh", "meaning": "debt", "audio": "audio/sk/words/sk-d-13.mp3" }
+      ]
+    },
+    {
+      "id": "sk-d-caron",
+      "char": "ď",
+      "name": "ďé",
+      "romanization": "ď",
+      "ipa": "/ɟ/",
+      "letterAudio": "audio/sk/letters/sk-d-caron.mp3",
+      "memoryTrick": "A soft 'd' — say 'd' but press the middle of your tongue up toward your palate, like the 'd' in British English 'duke' or 'during.' The háčik softens it.",
+      "words": [
+        { "text": "ďaleký", "roman": "ďaleký", "meaning": "far, distant", "audio": "audio/sk/words/sk-d-caron-01.mp3" },
+        { "text": "ďakujem", "roman": "ďakujem", "meaning": "thank you", "audio": "audio/sk/words/sk-d-caron-02.mp3" },
+        { "text": "ďateľ", "roman": "ďateľ", "meaning": "woodpecker", "emoji": "🐦", "audio": "audio/sk/words/sk-d-caron-03.mp3" },
+        { "text": "dedo", "roman": "dedo", "meaning": "grandpa", "emoji": "👴", "audio": "audio/sk/words/sk-d-caron-04.mp3" },
+        { "text": "loď", "roman": "loď", "meaning": "ship", "emoji": "🚢", "audio": "audio/sk/words/sk-d-caron-05.mp3" },
+        { "text": "meď", "roman": "meď", "meaning": "copper", "audio": "audio/sk/words/sk-d-caron-06.mp3" },
+        { "text": "hraď", "roman": "hraď", "meaning": "barrier, fence", "audio": "audio/sk/words/sk-d-caron-07.mp3" }
+      ]
+    },
+    {
+      "id": "sk-dz",
+      "char": "dz",
+      "name": "dzé",
+      "romanization": "dz",
+      "ipa": "/d͡z/",
+      "letterAudio": "audio/sk/letters/sk-dz.mp3",
+      "memoryTrick": "Like 'ds' in English 'beds' or 'kids' — a voiced 'ts' sound. It's one letter in Slovak even though it looks like two, and sounds like a buzzing bee moving from 'd' to 'z.'",
+      "words": [
+        { "text": "medzi", "roman": "medzi", "meaning": "between", "audio": "audio/sk/words/sk-dz-01.mp3" },
+        { "text": "cudzí", "roman": "cudzí", "meaning": "foreign, strange", "audio": "audio/sk/words/sk-dz-02.mp3" },
+        { "text": "hrádza", "roman": "hrádza", "meaning": "dam, dike", "audio": "audio/sk/words/sk-dz-03.mp3" },
+        { "text": "hádzať", "roman": "hádzať", "meaning": "to throw", "audio": "audio/sk/words/sk-dz-04.mp3" },
+        { "text": "nádza", "roman": "nádza", "meaning": "need, shortage", "audio": "audio/sk/words/sk-dz-05.mp3" }
+      ]
+    },
+    {
+      "id": "sk-dz-caron",
+      "char": "dž",
+      "name": "džé",
+      "romanization": "dž",
+      "ipa": "/d͡ʒ/",
+      "letterAudio": "audio/sk/letters/sk-dz-caron.mp3",
+      "memoryTrick": "Like 'j' in English 'jump' or 'dge' in 'bridge.' The háčik turns dz into a juicy 'j' sound — think of it as the sound of a DJ scratching a record.",
+      "words": [
+        { "text": "džem", "roman": "džem", "meaning": "jam", "audio": "audio/sk/words/sk-dz-caron-01.mp3" },
+        { "text": "džús", "roman": "džús", "meaning": "juice", "emoji": "🧃", "audio": "audio/sk/words/sk-dz-caron-02.mp3" },
+        { "text": "džbán", "roman": "džbán", "meaning": "jug, pitcher", "audio": "audio/sk/words/sk-dz-caron-03.mp3" },
+        { "text": "džungľa", "roman": "džungľa", "meaning": "jungle", "emoji": "🌴", "audio": "audio/sk/words/sk-dz-caron-04.mp3" },
+        { "text": "džínsy", "roman": "džínsy", "meaning": "jeans", "emoji": "👖", "audio": "audio/sk/words/sk-dz-caron-05.mp3" }
+      ]
+    },
+    {
+      "id": "sk-e",
+      "char": "e",
+      "name": "e",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "letterAudio": "audio/sk/letters/sk-e.mp3",
+      "memoryTrick": "Like 'e' in English 'bet' or 'let' — short, open, and crisp. Never silent at the end of words like in English.",
+      "words": [
+        { "text": "elektrina", "roman": "elektrina", "meaning": "electricity", "emoji": "⚡", "audio": "audio/sk/words/sk-e-01.mp3" },
+        { "text": "esej", "roman": "esej", "meaning": "essay", "audio": "audio/sk/words/sk-e-02.mp3" },
+        { "text": "erupcia", "roman": "erupcia", "meaning": "eruption", "emoji": "🌋", "audio": "audio/sk/words/sk-e-03.mp3" },
+        { "text": "etiketa", "roman": "etiketa", "meaning": "label, etiquette", "audio": "audio/sk/words/sk-e-04.mp3" },
+        { "text": "električka", "roman": "električka", "meaning": "tram", "emoji": "🚊", "audio": "audio/sk/words/sk-e-05.mp3" },
+        { "text": "éter", "roman": "éter", "meaning": "ether", "audio": "audio/sk/words/sk-e-06.mp3" }
+      ]
+    },
+    {
+      "id": "sk-e-acute",
+      "char": "é",
+      "name": "dlhé e (long e)",
+      "romanization": "é",
+      "ipa": "/ɛː/",
+      "letterAudio": "audio/sk/letters/sk-e-acute.mp3",
+      "memoryTrick": "A longer, more open 'e' — like the 'ai' in English 'air' but held steady and longer. The acute accent stretches the sound.",
+      "words": [
+        { "text": "éra", "roman": "éra", "meaning": "era", "audio": "audio/sk/words/sk-e-acute-01.mp3" },
+        { "text": "Éva", "roman": "Éva", "meaning": "Eve (name)", "audio": "audio/sk/words/sk-e-acute-02.mp3" },
+        { "text": "efekt", "roman": "efekt", "meaning": "effect", "audio": "audio/sk/words/sk-e-acute-03.mp3" },
+        { "text": "epocha", "roman": "epocha", "meaning": "epoch", "audio": "audio/sk/words/sk-e-acute-04.mp3" },
+        { "text": "éčko", "roman": "éčko", "meaning": "E (the letter itself)", "audio": "audio/sk/words/sk-e-acute-05.mp3" }
+      ]
+    },
+    {
+      "id": "sk-f",
+      "char": "f",
+      "name": "ef",
+      "romanization": "f",
+      "ipa": "/f/",
+      "letterAudio": "audio/sk/letters/sk-f.mp3",
+      "memoryTrick": "Same as English 'f' — a soft breath between your upper teeth and lower lip. Think of gently blowing out a candle.",
+      "words": [
+        { "text": "farba", "roman": "farba", "meaning": "color, paint", "emoji": "🎨", "audio": "audio/sk/words/sk-f-01.mp3" },
+        { "text": "fúrik", "roman": "fúrik", "meaning": "wheelbarrow", "audio": "audio/sk/words/sk-f-02.mp3" },
+        { "text": "futbal", "roman": "futbal", "meaning": "football, soccer", "emoji": "⚽", "audio": "audio/sk/words/sk-f-03.mp3" },
+        { "text": "film", "roman": "film", "meaning": "film, movie", "emoji": "🎬", "audio": "audio/sk/words/sk-f-04.mp3" },
+        { "text": "figa", "roman": "figa", "meaning": "fig", "audio": "audio/sk/words/sk-f-05.mp3" },
+        { "text": "fazuľa", "roman": "fazuľa", "meaning": "beans", "emoji": "🫘", "audio": "audio/sk/words/sk-f-06.mp3" },
+        { "text": "fotka", "roman": "fotka", "meaning": "photo", "emoji": "📸", "audio": "audio/sk/words/sk-f-07.mp3" },
+        { "text": "flauta", "roman": "flauta", "meaning": "flute", "audio": "audio/sk/words/sk-f-08.mp3" },
+        { "text": "fľaša", "roman": "fľaša", "meaning": "bottle", "emoji": "🍾", "audio": "audio/sk/words/sk-f-09.mp3" },
+        { "text": "fakulta", "roman": "fakulta", "meaning": "faculty", "audio": "audio/sk/words/sk-f-10.mp3" }
+      ]
+    },
+    {
+      "id": "sk-g",
+      "char": "g",
+      "name": "gé",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "letterAudio": "audio/sk/letters/sk-g.mp3",
+      "memoryTrick": "Always a hard 'g' like in English 'go' or 'garden' — never soft like 'giraffe.' Slovak g is always tough.",
+      "words": [
+        { "text": "guma", "roman": "guma", "meaning": "rubber, eraser", "audio": "audio/sk/words/sk-g-01.mp3" },
+        { "text": "gitara", "roman": "gitara", "meaning": "guitar", "emoji": "🎸", "audio": "audio/sk/words/sk-g-02.mp3" },
+        { "text": "gombík", "roman": "gombík", "meaning": "button", "audio": "audio/sk/words/sk-g-03.mp3" },
+        { "text": "garáž", "roman": "garáž", "meaning": "garage", "audio": "audio/sk/words/sk-g-04.mp3" },
+        { "text": "gram", "roman": "gram", "meaning": "gram", "audio": "audio/sk/words/sk-g-05.mp3" },
+        { "text": "gymnázium", "roman": "gymnázium", "meaning": "high school", "emoji": "🏫", "audio": "audio/sk/words/sk-g-06.mp3" },
+        { "text": "guláš", "roman": "guláš", "meaning": "goulash", "emoji": "🍲", "audio": "audio/sk/words/sk-g-07.mp3" },
+        { "text": "globus", "roman": "globus", "meaning": "globe", "emoji": "🌍", "audio": "audio/sk/words/sk-g-08.mp3" },
+        { "text": "galéria", "roman": "galéria", "meaning": "gallery", "emoji": "🖼️", "audio": "audio/sk/words/sk-g-09.mp3" },
+        { "text": "gól", "roman": "gól", "meaning": "goal (sports)", "emoji": "🥅", "audio": "audio/sk/words/sk-g-10.mp3" }
+      ]
+    },
+    {
+      "id": "sk-h",
+      "char": "h",
+      "name": "há",
+      "romanization": "h",
+      "ipa": "/ɦ/",
+      "letterAudio": "audio/sk/letters/sk-h.mp3",
+      "memoryTrick": "A voiced 'h' — like the 'h' in English 'behind' or 'ahead,' where your vocal cords buzz a little. Softer and warmer than the English breathy 'h' at the start of 'hat.'",
+      "words": [
+        { "text": "hora", "roman": "hora", "meaning": "mountain", "emoji": "⛰️", "audio": "audio/sk/words/sk-h-01.mp3" },
+        { "text": "hudba", "roman": "hudba", "meaning": "music", "emoji": "🎵", "audio": "audio/sk/words/sk-h-02.mp3" },
+        { "text": "hlava", "roman": "hlava", "meaning": "head", "audio": "audio/sk/words/sk-h-03.mp3" },
+        { "text": "hrad", "roman": "hrad", "meaning": "castle", "emoji": "🏰", "audio": "audio/sk/words/sk-h-04.mp3" },
+        { "text": "hodiny", "roman": "hodiny", "meaning": "clock, hours", "emoji": "🕐", "audio": "audio/sk/words/sk-h-05.mp3" },
+        { "text": "hokej", "roman": "hokej", "meaning": "hockey", "emoji": "🏒", "audio": "audio/sk/words/sk-h-06.mp3" },
+        { "text": "hrniec", "roman": "hrniec", "meaning": "pot", "audio": "audio/sk/words/sk-h-07.mp3" },
+        { "text": "hviezda", "roman": "hviezda", "meaning": "star", "emoji": "⭐", "audio": "audio/sk/words/sk-h-08.mp3" },
+        { "text": "husle", "roman": "husle", "meaning": "violin", "emoji": "🎻", "audio": "audio/sk/words/sk-h-09.mp3" },
+        { "text": "hotel", "roman": "hotel", "meaning": "hotel", "emoji": "🏨", "audio": "audio/sk/words/sk-h-10.mp3" },
+        { "text": "hmla", "roman": "hmla", "meaning": "fog", "emoji": "🌫️", "audio": "audio/sk/words/sk-h-11.mp3" },
+        { "text": "holub", "roman": "holub", "meaning": "pigeon", "emoji": "🕊️", "audio": "audio/sk/words/sk-h-12.mp3" }
+      ]
+    },
+    {
+      "id": "sk-ch",
+      "char": "ch",
+      "name": "chá",
+      "romanization": "ch",
+      "ipa": "/x/",
+      "letterAudio": "audio/sk/letters/sk-ch.mp3",
+      "memoryTrick": "Like 'ch' in Scottish 'loch' or German 'Bach' — a scratchy sound made at the back of your throat. It's a single letter in Slovak, filed after 'h' in the dictionary.",
+      "words": [
+        { "text": "chlieb", "roman": "chlieb", "meaning": "bread", "emoji": "🍞", "audio": "audio/sk/words/sk-ch-01.mp3" },
+        { "text": "chata", "roman": "chata", "meaning": "cottage, cabin", "emoji": "🏡", "audio": "audio/sk/words/sk-ch-02.mp3" },
+        { "text": "chlapec", "roman": "chlapec", "meaning": "boy", "emoji": "👦", "audio": "audio/sk/words/sk-ch-03.mp3" },
+        { "text": "chémia", "roman": "chémia", "meaning": "chemistry", "emoji": "🧪", "audio": "audio/sk/words/sk-ch-04.mp3" },
+        { "text": "chvost", "roman": "chvost", "meaning": "tail", "audio": "audio/sk/words/sk-ch-05.mp3" },
+        { "text": "chorý", "roman": "chorý", "meaning": "sick, ill", "emoji": "🤒", "audio": "audio/sk/words/sk-ch-06.mp3" },
+        { "text": "chodiť", "roman": "chodiť", "meaning": "to walk", "emoji": "🚶", "audio": "audio/sk/words/sk-ch-07.mp3" },
+        { "text": "chuť", "roman": "chuť", "meaning": "taste", "emoji": "👅", "audio": "audio/sk/words/sk-ch-08.mp3" },
+        { "text": "chrbát", "roman": "chrbát", "meaning": "back (body)", "audio": "audio/sk/words/sk-ch-09.mp3" },
+        { "text": "chvíľa", "roman": "chvíľa", "meaning": "moment, while", "emoji": "⏱️", "audio": "audio/sk/words/sk-ch-10.mp3" }
+      ]
+    },
+    {
+      "id": "sk-i",
+      "char": "i",
+      "name": "i",
+      "romanization": "i",
+      "ipa": "/ɪ/",
+      "letterAudio": "audio/sk/letters/sk-i.mp3",
+      "memoryTrick": "Like 'i' in English 'bit' or 'sit' — short and relaxed. Not like 'eye' or 'ee' — keep it quick and soft.",
+      "words": [
+        { "text": "iglu", "roman": "iglu", "meaning": "igloo", "audio": "audio/sk/words/sk-i-01.mp3" },
+        { "text": "internet", "roman": "internet", "meaning": "internet", "emoji": "🌐", "audio": "audio/sk/words/sk-i-02.mp3" },
+        { "text": "iskra", "roman": "iskra", "meaning": "spark", "emoji": "✨", "audio": "audio/sk/words/sk-i-03.mp3" },
+        { "text": "inžinier", "roman": "inžinier", "meaning": "engineer", "emoji": "👷", "audio": "audio/sk/words/sk-i-04.mp3" },
+        { "text": "ihla", "roman": "ihla", "meaning": "needle", "emoji": "🪡", "audio": "audio/sk/words/sk-i-05.mp3" },
+        { "text": "ilúzia", "roman": "ilúzia", "meaning": "illusion", "audio": "audio/sk/words/sk-i-06.mp3" },
+        { "text": "inštitút", "roman": "inštitút", "meaning": "institute", "audio": "audio/sk/words/sk-i-07.mp3" }
+      ]
+    },
+    {
+      "id": "sk-i-acute",
+      "char": "í",
+      "name": "dlhé i (long i)",
+      "romanization": "í",
+      "ipa": "/iː/",
+      "letterAudio": "audio/sk/letters/sk-i-acute.mp3",
+      "memoryTrick": "Like 'ee' in English 'see' or 'bee' — a long, clear 'ee' held twice as long as short i. The acute accent stretches it out.",
+      "words": [
+        { "text": "ísť", "roman": "ísť", "meaning": "to go", "emoji": "🚶", "audio": "audio/sk/words/sk-i-acute-01.mp3" },
+        { "text": "írečitý", "roman": "írečitý", "meaning": "pure, genuine", "audio": "audio/sk/words/sk-i-acute-02.mp3" },
+        { "text": "írsky", "roman": "írsky", "meaning": "Irish", "audio": "audio/sk/words/sk-i-acute-03.mp3" },
+        { "text": "íver", "roman": "íver", "meaning": "splinter", "audio": "audio/sk/words/sk-i-acute-04.mp3" }
+      ]
+    },
+    {
+      "id": "sk-j",
+      "char": "j",
+      "name": "jé",
+      "romanization": "j",
+      "ipa": "/j/",
+      "letterAudio": "audio/sk/letters/sk-j.mp3",
+      "memoryTrick": "Like 'y' in English 'yes' or 'yellow' — a quick glide, never like English 'j' in 'jump.' Slovak j is always a 'y' sound.",
+      "words": [
+        { "text": "jablko", "roman": "jablko", "meaning": "apple", "emoji": "🍎", "audio": "audio/sk/words/sk-j-01.mp3" },
+        { "text": "jar", "roman": "jar", "meaning": "spring (season)", "emoji": "🌸", "audio": "audio/sk/words/sk-j-02.mp3" },
+        { "text": "jazyk", "roman": "jazyk", "meaning": "tongue, language", "emoji": "👅", "audio": "audio/sk/words/sk-j-03.mp3" },
+        { "text": "jeden", "roman": "jeden", "meaning": "one", "audio": "audio/sk/words/sk-j-04.mp3" },
+        { "text": "juh", "roman": "juh", "meaning": "south", "audio": "audio/sk/words/sk-j-05.mp3" },
+        { "text": "jahoda", "roman": "jahoda", "meaning": "strawberry", "emoji": "🍓", "audio": "audio/sk/words/sk-j-06.mp3" },
+        { "text": "jaskyňa", "roman": "jaskyňa", "meaning": "cave", "audio": "audio/sk/words/sk-j-07.mp3" },
+        { "text": "jedlo", "roman": "jedlo", "meaning": "food, meal", "emoji": "🍽️", "audio": "audio/sk/words/sk-j-08.mp3" },
+        { "text": "jazero", "roman": "jazero", "meaning": "lake", "audio": "audio/sk/words/sk-j-09.mp3" },
+        { "text": "jeseň", "roman": "jeseň", "meaning": "autumn", "emoji": "🍂", "audio": "audio/sk/words/sk-j-10.mp3" },
+        { "text": "jeleň", "roman": "jeleň", "meaning": "deer", "emoji": "🦌", "audio": "audio/sk/words/sk-j-11.mp3" }
+      ]
+    },
+    {
+      "id": "sk-k",
+      "char": "k",
+      "name": "ká",
+      "romanization": "k",
+      "ipa": "/k/",
+      "letterAudio": "audio/sk/letters/sk-k.mp3",
+      "memoryTrick": "Like 'k' in English 'kite' or 'skip' — crisp and unaspirated (no puff of air). Keep it clean and sharp.",
+      "words": [
+        { "text": "kniha", "roman": "kniha", "meaning": "book", "emoji": "📚", "audio": "audio/sk/words/sk-k-01.mp3" },
+        { "text": "kôň", "roman": "kôň", "meaning": "horse", "emoji": "🐴", "audio": "audio/sk/words/sk-k-02.mp3" },
+        { "text": "kvet", "roman": "kvet", "meaning": "flower", "emoji": "🌸", "audio": "audio/sk/words/sk-k-03.mp3" },
+        { "text": "kameň", "roman": "kameň", "meaning": "stone", "emoji": "🪨", "audio": "audio/sk/words/sk-k-04.mp3" },
+        { "text": "kľúč", "roman": "kľúč", "meaning": "key", "emoji": "🔑", "audio": "audio/sk/words/sk-k-05.mp3" },
+        { "text": "koláč", "roman": "koláč", "meaning": "cake, pastry", "emoji": "🍰", "audio": "audio/sk/words/sk-k-06.mp3" },
+        { "text": "koberec", "roman": "koberec", "meaning": "carpet", "audio": "audio/sk/words/sk-k-07.mp3" },
+        { "text": "korytnačka", "roman": "korytnačka", "meaning": "turtle", "emoji": "🐢", "audio": "audio/sk/words/sk-k-08.mp3" },
+        { "text": "kostol", "roman": "kostol", "meaning": "church", "emoji": "⛪", "audio": "audio/sk/words/sk-k-09.mp3" },
+        { "text": "krabica", "roman": "krabica", "meaning": "box", "emoji": "📦", "audio": "audio/sk/words/sk-k-10.mp3" },
+        { "text": "kukurica", "roman": "kukurica", "meaning": "corn", "emoji": "🌽", "audio": "audio/sk/words/sk-k-11.mp3" },
+        { "text": "koleno", "roman": "koleno", "meaning": "knee", "audio": "audio/sk/words/sk-k-12.mp3" }
+      ]
+    },
+    {
+      "id": "sk-l",
+      "char": "l",
+      "name": "el",
+      "romanization": "l",
+      "ipa": "/l/",
+      "letterAudio": "audio/sk/letters/sk-l.mp3",
+      "memoryTrick": "Like 'l' in English 'let' or 'lamp' — a clear, light 'l' made with the tip of the tongue behind the upper teeth.",
+      "words": [
+        { "text": "lampa", "roman": "lampa", "meaning": "lamp", "emoji": "💡", "audio": "audio/sk/words/sk-l-01.mp3" },
+        { "text": "les", "roman": "les", "meaning": "forest", "emoji": "🌲", "audio": "audio/sk/words/sk-l-02.mp3" },
+        { "text": "list", "roman": "list", "meaning": "letter, leaf", "emoji": "📄", "audio": "audio/sk/words/sk-l-03.mp3" },
+        { "text": "loď", "roman": "loď", "meaning": "ship", "emoji": "🚢", "audio": "audio/sk/words/sk-l-04.mp3" },
+        { "text": "lyžica", "roman": "lyžica", "meaning": "spoon", "emoji": "🥄", "audio": "audio/sk/words/sk-l-05.mp3" },
+        { "text": "láska", "roman": "láska", "meaning": "love", "emoji": "❤️", "audio": "audio/sk/words/sk-l-06.mp3" },
+        { "text": "liek", "roman": "liek", "meaning": "medicine", "emoji": "💊", "audio": "audio/sk/words/sk-l-07.mp3" },
+        { "text": "lopta", "roman": "lopta", "meaning": "ball", "emoji": "⚽", "audio": "audio/sk/words/sk-l-08.mp3" },
+        { "text": "labuť", "roman": "labuť", "meaning": "swan", "emoji": "🦢", "audio": "audio/sk/words/sk-l-09.mp3" },
+        { "text": "lavica", "roman": "lavica", "meaning": "bench", "audio": "audio/sk/words/sk-l-10.mp3" },
+        { "text": "lúka", "roman": "lúka", "meaning": "meadow", "emoji": "🌾", "audio": "audio/sk/words/sk-l-11.mp3" },
+        { "text": "líška", "roman": "líška", "meaning": "fox", "emoji": "🦊", "audio": "audio/sk/words/sk-l-12.mp3" }
+      ]
+    },
+    {
+      "id": "sk-l-acute",
+      "char": "ĺ",
+      "name": "dlhé el (long l)",
+      "romanization": "ĺ",
+      "ipa": "/l̩ː/",
+      "letterAudio": "audio/sk/letters/sk-l-acute.mp3",
+      "memoryTrick": "A long, syllabic 'l' — hold the 'l' sound for twice as long, like you're humming on an 'l'. Rare, appearing in only a few words. Think of it as 'lll' held steady.",
+      "words": [
+        { "text": "stĺp", "roman": "stĺp", "meaning": "column, pillar", "audio": "audio/sk/words/sk-l-acute-01.mp3" },
+        { "text": "vĺča", "roman": "vĺča", "meaning": "wolf cub", "emoji": "🐺", "audio": "audio/sk/words/sk-l-acute-02.mp3" },
+        { "text": "tĺcť", "roman": "tĺcť", "meaning": "to pound, to beat", "audio": "audio/sk/words/sk-l-acute-03.mp3" }
+      ]
+    },
+    {
+      "id": "sk-l-caron",
+      "char": "ľ",
+      "name": "eľ",
+      "romanization": "ľ",
+      "ipa": "/ʎ/",
+      "letterAudio": "audio/sk/letters/sk-l-caron.mp3",
+      "memoryTrick": "A soft, palatal 'l' — like 'lli' in English 'million' or the 'gli' in Italian 'figlio.' Press the middle of your tongue to your palate while saying 'l.'",
+      "words": [
+        { "text": "ľad", "roman": "ľad", "meaning": "ice", "emoji": "🧊", "audio": "audio/sk/words/sk-l-caron-01.mp3" },
+        { "text": "ľalia", "roman": "ľalia", "meaning": "lily", "audio": "audio/sk/words/sk-l-caron-02.mp3" },
+        { "text": "kľúč", "roman": "kľúč", "meaning": "key", "emoji": "🔑", "audio": "audio/sk/words/sk-l-caron-03.mp3" },
+        { "text": "učiteľ", "roman": "učiteľ", "meaning": "teacher", "emoji": "👨‍🏫", "audio": "audio/sk/words/sk-l-caron-04.mp3" },
+        { "text": "priateľ", "roman": "priateľ", "meaning": "friend", "emoji": "👫", "audio": "audio/sk/words/sk-l-caron-05.mp3" },
+        { "text": "fľaša", "roman": "fľaša", "meaning": "bottle", "emoji": "🍾", "audio": "audio/sk/words/sk-l-caron-06.mp3" },
+        { "text": "ľavý", "roman": "ľavý", "meaning": "left", "emoji": "⬅️", "audio": "audio/sk/words/sk-l-caron-07.mp3" },
+        { "text": "koľaj", "roman": "koľaj", "meaning": "rail, track", "emoji": "🛤️", "audio": "audio/sk/words/sk-l-caron-08.mp3" },
+        { "text": "roľa", "roman": "roľa", "meaning": "field, soil", "emoji": "🌾", "audio": "audio/sk/words/sk-l-caron-09.mp3" },
+        { "text": "ľudia", "roman": "ľudia", "meaning": "people", "emoji": "👥", "audio": "audio/sk/words/sk-l-caron-10.mp3" }
+      ]
+    },
+    {
+      "id": "sk-m",
+      "char": "m",
+      "name": "em",
+      "romanization": "m",
+      "ipa": "/m/",
+      "letterAudio": "audio/sk/letters/sk-m.mp3",
+      "memoryTrick": "Like 'm' in English 'mother' — a hum made with both lips together. Warm and straightforward.",
+      "words": [
+        { "text": "mama", "roman": "mama", "meaning": "mom", "emoji": "👩", "audio": "audio/sk/words/sk-m-01.mp3" },
+        { "text": "more", "roman": "more", "meaning": "sea", "emoji": "🌊", "audio": "audio/sk/words/sk-m-02.mp3" },
+        { "text": "mesto", "roman": "mesto", "meaning": "city", "emoji": "🏙️", "audio": "audio/sk/words/sk-m-03.mp3" },
+        { "text": "most", "roman": "most", "meaning": "bridge", "emoji": "🌉", "audio": "audio/sk/words/sk-m-04.mp3" },
+        { "text": "mlieko", "roman": "mlieko", "meaning": "milk", "emoji": "🥛", "audio": "audio/sk/words/sk-m-05.mp3" },
+        { "text": "medveď", "roman": "medveď", "meaning": "bear", "emoji": "🐻", "audio": "audio/sk/words/sk-m-06.mp3" },
+        { "text": "mrkva", "roman": "mrkva", "meaning": "carrot", "emoji": "🥕", "audio": "audio/sk/words/sk-m-07.mp3" },
+        { "text": "mydlo", "roman": "mydlo", "meaning": "soap", "emoji": "🧼", "audio": "audio/sk/words/sk-m-08.mp3" },
+        { "text": "mesiac", "roman": "mesiac", "meaning": "moon, month", "emoji": "🌙", "audio": "audio/sk/words/sk-m-09.mp3" },
+        { "text": "múka", "roman": "múka", "meaning": "flour", "audio": "audio/sk/words/sk-m-10.mp3" },
+        { "text": "malina", "roman": "malina", "meaning": "raspberry", "audio": "audio/sk/words/sk-m-11.mp3" },
+        { "text": "motýľ", "roman": "motýľ", "meaning": "butterfly", "emoji": "🦋", "audio": "audio/sk/words/sk-m-12.mp3" }
+      ]
+    },
+    {
+      "id": "sk-n",
+      "char": "n",
+      "name": "en",
+      "romanization": "n",
+      "ipa": "/n/",
+      "letterAudio": "audio/sk/letters/sk-n.mp3",
+      "memoryTrick": "Like 'n' in English 'no' or 'net' — tongue tip behind upper teeth. Clean and simple.",
+      "words": [
+        { "text": "noha", "roman": "noha", "meaning": "leg, foot", "emoji": "🦶", "audio": "audio/sk/words/sk-n-01.mp3" },
+        { "text": "nos", "roman": "nos", "meaning": "nose", "emoji": "👃", "audio": "audio/sk/words/sk-n-02.mp3" },
+        { "text": "noc", "roman": "noc", "meaning": "night", "emoji": "🌙", "audio": "audio/sk/words/sk-n-03.mp3" },
+        { "text": "noviny", "roman": "noviny", "meaning": "newspaper", "emoji": "📰", "audio": "audio/sk/words/sk-n-04.mp3" },
+        { "text": "nôž", "roman": "nôž", "meaning": "knife", "emoji": "🔪", "audio": "audio/sk/words/sk-n-05.mp3" },
+        { "text": "nebo", "roman": "nebo", "meaning": "sky, heaven", "emoji": "☁️", "audio": "audio/sk/words/sk-n-06.mp3" },
+        { "text": "nákup", "roman": "nákup", "meaning": "shopping", "emoji": "🛒", "audio": "audio/sk/words/sk-n-07.mp3" },
+        { "text": "námestie", "roman": "námestie", "meaning": "square, plaza", "audio": "audio/sk/words/sk-n-08.mp3" },
+        { "text": "národ", "roman": "národ", "meaning": "nation", "audio": "audio/sk/words/sk-n-09.mp3" },
+        { "text": "nit", "roman": "nit", "meaning": "thread", "emoji": "🧵", "audio": "audio/sk/words/sk-n-10.mp3" }
+      ]
+    },
+    {
+      "id": "sk-n-caron",
+      "char": "ň",
+      "name": "eň",
+      "romanization": "ň",
+      "ipa": "/ɲ/",
+      "letterAudio": "audio/sk/letters/sk-n-caron.mp3",
+      "memoryTrick": "A soft, palatal 'n' — like 'ni' in English 'onion' or the Spanish 'ñ' in 'señor.' Press the middle of your tongue to your palate. Slovak ň is the same sound as Spanish ñ.",
+      "words": [
+        { "text": "kôň", "roman": "kôň", "meaning": "horse", "emoji": "🐴", "audio": "audio/sk/words/sk-n-caron-01.mp3" },
+        { "text": "deň", "roman": "deň", "meaning": "day", "emoji": "📅", "audio": "audio/sk/words/sk-n-caron-02.mp3" },
+        { "text": "dlaň", "roman": "dlaň", "meaning": "palm (of hand)", "emoji": "🖐️", "audio": "audio/sk/words/sk-n-caron-03.mp3" },
+        { "text": "jabloň", "roman": "jabloň", "meaning": "apple tree", "emoji": "🌳", "audio": "audio/sk/words/sk-n-caron-04.mp3" },
+        { "text": "báseň", "roman": "báseň", "meaning": "poem", "audio": "audio/sk/words/sk-n-caron-05.mp3" },
+        { "text": "kameň", "roman": "kameň", "meaning": "stone", "emoji": "🪨", "audio": "audio/sk/words/sk-n-caron-06.mp3" },
+        { "text": "čerešňa", "roman": "čerešňa", "meaning": "cherry tree", "emoji": "🍒", "audio": "audio/sk/words/sk-n-caron-07.mp3" },
+        { "text": "skriňa", "roman": "skriňa", "meaning": "wardrobe, cabinet", "audio": "audio/sk/words/sk-n-caron-08.mp3" },
+        { "text": "jaskyňa", "roman": "jaskyňa", "meaning": "cave", "audio": "audio/sk/words/sk-n-caron-09.mp3" },
+        { "text": "kuchyňa", "roman": "kuchyňa", "meaning": "kitchen", "audio": "audio/sk/words/sk-n-caron-10.mp3" }
+      ]
+    },
+    {
+      "id": "sk-o",
+      "char": "o",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/ɔ/",
+      "letterAudio": "audio/sk/letters/sk-o.mp3",
+      "memoryTrick": "Like 'o' in English 'or' or 'door' — a rounded, open sound. Never like 'oh' in 'go.' Keep it short and open.",
+      "words": [
+        { "text": "oko", "roman": "oko", "meaning": "eye", "emoji": "👁️", "audio": "audio/sk/words/sk-o-01.mp3" },
+        { "text": "otec", "roman": "otec", "meaning": "father", "emoji": "👨", "audio": "audio/sk/words/sk-o-02.mp3" },
+        { "text": "okno", "roman": "okno", "meaning": "window", "emoji": "🪟", "audio": "audio/sk/words/sk-o-03.mp3" },
+        { "text": "obed", "roman": "obed", "meaning": "lunch", "emoji": "🍽️", "audio": "audio/sk/words/sk-o-04.mp3" },
+        { "text": "orech", "roman": "orech", "meaning": "nut, walnut", "emoji": "🥜", "audio": "audio/sk/words/sk-o-05.mp3" },
+        { "text": "ovca", "roman": "ovca", "meaning": "sheep", "emoji": "🐑", "audio": "audio/sk/words/sk-o-06.mp3" },
+        { "text": "obraz", "roman": "obraz", "meaning": "picture, painting", "emoji": "🖼️", "audio": "audio/sk/words/sk-o-07.mp3" },
+        { "text": "oblečenie", "roman": "oblečenie", "meaning": "clothing", "emoji": "👕", "audio": "audio/sk/words/sk-o-08.mp3" },
+        { "text": "okuliare", "roman": "okuliare", "meaning": "glasses", "emoji": "👓", "audio": "audio/sk/words/sk-o-09.mp3" },
+        { "text": "olej", "roman": "olej", "meaning": "oil", "audio": "audio/sk/words/sk-o-10.mp3" },
+        { "text": "ostrov", "roman": "ostrov", "meaning": "island", "emoji": "🏝️", "audio": "audio/sk/words/sk-o-11.mp3" },
+        { "text": "opica", "roman": "opica", "meaning": "monkey", "emoji": "🐒", "audio": "audio/sk/words/sk-o-12.mp3" }
+      ]
+    },
+    {
+      "id": "sk-o-acute",
+      "char": "ó",
+      "name": "dlhé o (long o)",
+      "romanization": "ó",
+      "ipa": "/ɔː/",
+      "letterAudio": "audio/sk/letters/sk-o-acute.mp3",
+      "memoryTrick": "A longer, stretched 'o' — like the 'aw' in English 'law' held steady. The acute accent means 'keep this o going.' Mostly appears in loanwords.",
+      "words": [
+        { "text": "gól", "roman": "gól", "meaning": "goal (sports)", "emoji": "🥅", "audio": "audio/sk/words/sk-o-acute-01.mp3" },
+        { "text": "móda", "roman": "móda", "meaning": "fashion", "emoji": "👗", "audio": "audio/sk/words/sk-o-acute-02.mp3" },
+        { "text": "nóta", "roman": "nóta", "meaning": "note (music)", "emoji": "🎵", "audio": "audio/sk/words/sk-o-acute-03.mp3" },
+        { "text": "próza", "roman": "próza", "meaning": "prose", "audio": "audio/sk/words/sk-o-acute-04.mp3" },
+        { "text": "sóda", "roman": "sóda", "meaning": "soda", "emoji": "🥤", "audio": "audio/sk/words/sk-o-acute-05.mp3" },
+        { "text": "fólia", "roman": "fólia", "meaning": "foil, film", "audio": "audio/sk/words/sk-o-acute-06.mp3" },
+        { "text": "trón", "roman": "trón", "meaning": "throne", "audio": "audio/sk/words/sk-o-acute-07.mp3" }
+      ]
+    },
+    {
+      "id": "sk-o-circumflex",
+      "char": "ô",
+      "name": "ô (o s vokáňom)",
+      "romanization": "ô",
+      "ipa": "/ʊɔ/",
+      "letterAudio": "audio/sk/letters/sk-o-circumflex.mp3",
+      "memoryTrick": "A unique Slovak diphthong — like 'wo' in English 'won't' or 'uo' blended together. Start with 'u' as in 'put' and glide to 'o.' The circumflex (vokáň) creates this special sound.",
+      "words": [
+        { "text": "kôň", "roman": "kôň", "meaning": "horse", "emoji": "🐴", "audio": "audio/sk/words/sk-o-circumflex-01.mp3" },
+        { "text": "nôž", "roman": "nôž", "meaning": "knife", "emoji": "🔪", "audio": "audio/sk/words/sk-o-circumflex-02.mp3" },
+        { "text": "kôš", "roman": "kôš", "meaning": "basket", "emoji": "🧺", "audio": "audio/sk/words/sk-o-circumflex-03.mp3" },
+        { "text": "stôl", "roman": "stôl", "meaning": "table", "audio": "audio/sk/words/sk-o-circumflex-04.mp3" },
+        { "text": "soľ", "roman": "soľ", "meaning": "salt", "emoji": "🧂", "audio": "audio/sk/words/sk-o-circumflex-05.mp3" },
+        { "text": "vôl", "roman": "vôl", "meaning": "ox", "emoji": "🐂", "audio": "audio/sk/words/sk-o-circumflex-06.mp3" },
+        { "text": "pôst", "roman": "pôst", "meaning": "fasting", "audio": "audio/sk/words/sk-o-circumflex-07.mp3" },
+        { "text": "môj", "roman": "môj", "meaning": "my, mine", "audio": "audio/sk/words/sk-o-circumflex-08.mp3" },
+        { "text": "tvôj", "roman": "tvôj", "meaning": "your, yours", "audio": "audio/sk/words/sk-o-circumflex-09.mp3" }
+      ]
+    },
+    {
+      "id": "sk-p",
+      "char": "p",
+      "name": "pé",
+      "romanization": "p",
+      "ipa": "/p/",
+      "letterAudio": "audio/sk/letters/sk-p.mp3",
+      "memoryTrick": "Like 'p' in English 'pen' or 'spot' — crisp and unaspirated (no puff of air). Keep it clean, almost like a softer 'p.'",
+      "words": [
+        { "text": "pes", "roman": "pes", "meaning": "dog", "emoji": "🐕", "audio": "audio/sk/words/sk-p-01.mp3" },
+        { "text": "papier", "roman": "papier", "meaning": "paper", "emoji": "📄", "audio": "audio/sk/words/sk-p-02.mp3" },
+        { "text": "pieseň", "roman": "pieseň", "meaning": "song", "emoji": "🎶", "audio": "audio/sk/words/sk-p-03.mp3" },
+        { "text": "pole", "roman": "pole", "meaning": "field", "emoji": "🌾", "audio": "audio/sk/words/sk-p-04.mp3" },
+        { "text": "prst", "roman": "prst", "meaning": "finger", "emoji": "👆", "audio": "audio/sk/words/sk-p-05.mp3" },
+        { "text": "piatok", "roman": "piatok", "meaning": "Friday", "audio": "audio/sk/words/sk-p-06.mp3" },
+        { "text": "písmeno", "roman": "písmeno", "meaning": "letter (of alphabet)", "emoji": "🔤", "audio": "audio/sk/words/sk-p-07.mp3" },
+        { "text": "pivo", "roman": "pivo", "meaning": "beer", "emoji": "🍺", "audio": "audio/sk/words/sk-p-08.mp3" },
+        { "text": "pec", "roman": "pec", "meaning": "oven", "audio": "audio/sk/words/sk-p-09.mp3" },
+        { "text": "pero", "roman": "pero", "meaning": "pen, feather", "emoji": "🖊️", "audio": "audio/sk/words/sk-p-10.mp3" },
+        { "text": "púšť", "roman": "púšť", "meaning": "desert", "emoji": "🏜️", "audio": "audio/sk/words/sk-p-11.mp3" },
+        { "text": "prasa", "roman": "prasa", "meaning": "pig", "emoji": "🐷", "audio": "audio/sk/words/sk-p-12.mp3" }
+      ]
+    },
+    {
+      "id": "sk-q",
+      "char": "q",
+      "name": "kvé",
+      "romanization": "q",
+      "ipa": "/k/",
+      "letterAudio": "audio/sk/letters/sk-q.mp3",
+      "memoryTrick": "Only in foreign words — pronounced like 'k.' Always followed by 'u' as in 'kv-'. Slovak prefers native spelling without q.",
+      "words": [
+        { "text": "quiz", "roman": "quiz", "meaning": "quiz", "audio": "audio/sk/words/sk-q-01.mp3" }
+      ]
+    },
+    {
+      "id": "sk-r",
+      "char": "r",
+      "name": "er",
+      "romanization": "r",
+      "ipa": "/r/",
+      "letterAudio": "audio/sk/letters/sk-r.mp3",
+      "memoryTrick": "A rolled, trilled 'r' — like the 'rr' in Spanish 'perro.' Tap your tongue rapidly against the roof of your mouth, just behind your teeth. Practice with 'brr, it's cold!'",
+      "words": [
+        { "text": "ruka", "roman": "ruka", "meaning": "hand, arm", "emoji": "🖐️", "audio": "audio/sk/words/sk-r-01.mp3" },
+        { "text": "ryba", "roman": "ryba", "meaning": "fish", "emoji": "🐟", "audio": "audio/sk/words/sk-r-02.mp3" },
+        { "text": "rieka", "roman": "rieka", "meaning": "river", "audio": "audio/sk/words/sk-r-03.mp3" },
+        { "text": "robot", "roman": "robot", "meaning": "robot", "emoji": "🤖", "audio": "audio/sk/words/sk-r-04.mp3" },
+        { "text": "raňajky", "roman": "raňajky", "meaning": "breakfast", "emoji": "🍳", "audio": "audio/sk/words/sk-r-05.mp3" },
+        { "text": "rodina", "roman": "rodina", "meaning": "family", "emoji": "👨‍👩‍👧‍👦", "audio": "audio/sk/words/sk-r-06.mp3" },
+        { "text": "rastlina", "roman": "rastlina", "meaning": "plant", "emoji": "🌱", "audio": "audio/sk/words/sk-r-07.mp3" },
+        { "text": "rebrík", "roman": "rebrík", "meaning": "ladder", "emoji": "🪜", "audio": "audio/sk/words/sk-r-08.mp3" },
+        { "text": "ruža", "roman": "ruža", "meaning": "rose", "emoji": "🌹", "audio": "audio/sk/words/sk-r-09.mp3" },
+        { "text": "rozprávka", "roman": "rozprávka", "meaning": "fairy tale", "emoji": "📖", "audio": "audio/sk/words/sk-r-10.mp3" },
+        { "text": "roh", "roman": "roh", "meaning": "horn, corner", "audio": "audio/sk/words/sk-r-11.mp3" },
+        { "text": "raketa", "roman": "raketa", "meaning": "rocket", "emoji": "🚀", "audio": "audio/sk/words/sk-r-12.mp3" }
+      ]
+    },
+    {
+      "id": "sk-r-acute",
+      "char": "ŕ",
+      "name": "dlhé er (long r)",
+      "romanization": "ŕ",
+      "ipa": "/r̩ː/",
+      "letterAudio": "audio/sk/letters/sk-r-acute.mp3",
+      "memoryTrick": "A long, syllabic rolled 'r' — hold the trill for twice as long. Very rare. Think of a cat purring for an extra beat: 'rrrrr.'",
+      "words": [
+        { "text": "vŕba", "roman": "vŕba", "meaning": "willow tree", "emoji": "🌳", "audio": "audio/sk/words/sk-r-acute-01.mp3" },
+        { "text": "hŕba", "roman": "hŕba", "meaning": "pile, heap", "audio": "audio/sk/words/sk-r-acute-02.mp3" },
+        { "text": "tŕň", "roman": "tŕň", "meaning": "thorn", "audio": "audio/sk/words/sk-r-acute-03.mp3" }
+      ]
+    },
+    {
+      "id": "sk-s",
+      "char": "s",
+      "name": "es",
+      "romanization": "s",
+      "ipa": "/s/",
+      "letterAudio": "audio/sk/letters/sk-s.mp3",
+      "memoryTrick": "Always a crisp 's' like in English 'sun' or 'hiss' — never voiced like 'z.' Slovak s never sounds like 'z' in 'rose.'",
+      "words": [
+        { "text": "slnko", "roman": "slnko", "meaning": "sun", "emoji": "☀️", "audio": "audio/sk/words/sk-s-01.mp3" },
+        { "text": "strom", "roman": "strom", "meaning": "tree", "emoji": "🌲", "audio": "audio/sk/words/sk-s-02.mp3" },
+        { "text": "stôl", "roman": "stôl", "meaning": "table", "audio": "audio/sk/words/sk-s-03.mp3" },
+        { "text": "sneh", "roman": "sneh", "meaning": "snow", "emoji": "❄️", "audio": "audio/sk/words/sk-s-04.mp3" },
+        { "text": "syr", "roman": "syr", "meaning": "cheese", "emoji": "🧀", "audio": "audio/sk/words/sk-s-05.mp3" },
+        { "text": "sova", "roman": "sova", "meaning": "owl", "emoji": "🦉", "audio": "audio/sk/words/sk-s-06.mp3" },
+        { "text": "srdce", "roman": "srdce", "meaning": "heart", "emoji": "❤️", "audio": "audio/sk/words/sk-s-07.mp3" },
+        { "text": "smiech", "roman": "smiech", "meaning": "laughter", "emoji": "😂", "audio": "audio/sk/words/sk-s-08.mp3" },
+        { "text": "sen", "roman": "sen", "meaning": "dream", "emoji": "💭", "audio": "audio/sk/words/sk-s-09.mp3" },
+        { "text": "soľ", "roman": "soľ", "meaning": "salt", "emoji": "🧂", "audio": "audio/sk/words/sk-s-10.mp3" },
+        { "text": "slon", "roman": "slon", "meaning": "elephant", "emoji": "🐘", "audio": "audio/sk/words/sk-s-11.mp3" },
+        { "text": "sliepka", "roman": "sliepka", "meaning": "hen", "emoji": "🐔", "audio": "audio/sk/words/sk-s-12.mp3" }
       ]
     },
     {
       "id": "sk-s-caron",
-      "char": "Š š",
+      "char": "š",
       "name": "eš",
       "romanization": "š",
       "ipa": "/ʃ/",
-      "memoryTrick": "An 's' with a háček = 'sh'.",
+      "letterAudio": "audio/sk/letters/sk-s-caron.mp3",
+      "memoryTrick": "Like 'sh' in English 'shoe' or 'fish.' The háčik adds a hushing quality to plain 's.' Think of someone going 'shhh!' — that's š.",
       "words": [
-        {
-          "text": "šťastie",
-          "roman": "shtastie",
-          "meaning": "happiness",
-          "emoji": "😊"
-        },
-        {
-          "text": "myš",
-          "roman": "mysh",
-          "meaning": "mouse",
-          "emoji": "🐭"
-        }
+        { "text": "škola", "roman": "škola", "meaning": "school", "emoji": "🏫", "audio": "audio/sk/words/sk-s-caron-01.mp3" },
+        { "text": "šálka", "roman": "šálka", "meaning": "cup", "emoji": "☕", "audio": "audio/sk/words/sk-s-caron-02.mp3" },
+        { "text": "šaty", "roman": "šaty", "meaning": "dress, clothes", "emoji": "👗", "audio": "audio/sk/words/sk-s-caron-03.mp3" },
+        { "text": "šunka", "roman": "šunka", "meaning": "ham", "audio": "audio/sk/words/sk-s-caron-04.mp3" },
+        { "text": "šport", "roman": "šport", "meaning": "sport", "emoji": "⚽", "audio": "audio/sk/words/sk-s-caron-05.mp3" },
+        { "text": "šach", "roman": "šach", "meaning": "chess", "emoji": "♟️", "audio": "audio/sk/words/sk-s-caron-06.mp3" },
+        { "text": "šesť", "roman": "šesť", "meaning": "six", "audio": "audio/sk/words/sk-s-caron-07.mp3" },
+        { "text": "šiť", "roman": "šiť", "meaning": "to sew", "emoji": "🧵", "audio": "audio/sk/words/sk-s-caron-08.mp3" },
+        { "text": "šošovica", "roman": "šošovica", "meaning": "lentil", "audio": "audio/sk/words/sk-s-caron-09.mp3" },
+        { "text": "šťastie", "roman": "šťastie", "meaning": "happiness", "audio": "audio/sk/words/sk-s-caron-10.mp3" },
+        { "text": "šál", "roman": "šál", "meaning": "scarf", "emoji": "🧣", "audio": "audio/sk/words/sk-s-caron-11.mp3" },
+        { "text": "škovránok", "roman": "škovránok", "meaning": "lark (bird)", "emoji": "🐦", "audio": "audio/sk/words/sk-s-caron-12.mp3" }
+      ]
+    },
+    {
+      "id": "sk-t",
+      "char": "t",
+      "name": "té",
+      "romanization": "t",
+      "ipa": "/t/",
+      "letterAudio": "audio/sk/letters/sk-t.mp3",
+      "memoryTrick": "Like 't' in English 'stop' or 'top' — crisp and unaspirated. Keep it clean without the puff of air English speakers add.",
+      "words": [
+        { "text": "telefón", "roman": "telefón", "meaning": "telephone", "emoji": "📱", "audio": "audio/sk/words/sk-t-01.mp3" },
+        { "text": "torta", "roman": "torta", "meaning": "cake", "emoji": "🎂", "audio": "audio/sk/words/sk-t-02.mp3" },
+        { "text": "týždeň", "roman": "týždeň", "meaning": "week", "emoji": "📅", "audio": "audio/sk/words/sk-t-03.mp3" },
+        { "text": "trať", "roman": "trať", "meaning": "track, line", "emoji": "🛤️", "audio": "audio/sk/words/sk-t-04.mp3" },
+        { "text": "telo", "roman": "telo", "meaning": "body", "audio": "audio/sk/words/sk-t-05.mp3" },
+        { "text": "tabuľa", "roman": "tabuľa", "meaning": "blackboard", "audio": "audio/sk/words/sk-t-06.mp3" },
+        { "text": "trh", "roman": "trh", "meaning": "market", "audio": "audio/sk/words/sk-t-07.mp3" },
+        { "text": "tábor", "roman": "tábor", "meaning": "camp", "emoji": "🏕️", "audio": "audio/sk/words/sk-t-08.mp3" },
+        { "text": "tanier", "roman": "tanier", "meaning": "plate", "emoji": "🍽️", "audio": "audio/sk/words/sk-t-09.mp3" },
+        { "text": "tma", "roman": "tma", "meaning": "darkness", "emoji": "🌑", "audio": "audio/sk/words/sk-t-10.mp3" },
+        { "text": "topánka", "roman": "topánka", "meaning": "shoe", "emoji": "👟", "audio": "audio/sk/words/sk-t-11.mp3" },
+        { "text": "tuleň", "roman": "tuleň", "meaning": "seal (animal)", "emoji": "🦭", "audio": "audio/sk/words/sk-t-12.mp3" }
+      ]
+    },
+    {
+      "id": "sk-t-caron",
+      "char": "ť",
+      "name": "ťé",
+      "romanization": "ť",
+      "ipa": "/c/",
+      "letterAudio": "audio/sk/letters/sk-t-caron.mp3",
+      "memoryTrick": "A soft 't' — like the 't' in British English 'tune' or 'Tuesday.' Press the middle of your tongue to your palate. The háčik makes it gentle and palatal.",
+      "words": [
+        { "text": "ťava", "roman": "ťava", "meaning": "camel", "emoji": "🐪", "audio": "audio/sk/words/sk-t-caron-01.mp3" },
+        { "text": "ťažký", "roman": "ťažký", "meaning": "heavy, difficult", "audio": "audio/sk/words/sk-t-caron-02.mp3" },
+        { "text": "ťahať", "roman": "ťahať", "meaning": "to pull", "audio": "audio/sk/words/sk-t-caron-03.mp3" },
+        { "text": "púť", "roman": "púť", "meaning": "pilgrimage", "audio": "audio/sk/words/sk-t-caron-04.mp3" },
+        { "text": "labuť", "roman": "labuť", "meaning": "swan", "emoji": "🦢", "audio": "audio/sk/words/sk-t-caron-05.mp3" },
+        { "text": "mať", "roman": "mať", "meaning": "to have", "audio": "audio/sk/words/sk-t-caron-06.mp3" },
+        { "text": "sieť", "roman": "sieť", "meaning": "net, network", "audio": "audio/sk/words/sk-t-caron-07.mp3" },
+        { "text": "niť", "roman": "niť", "meaning": "thread", "emoji": "🧵", "audio": "audio/sk/words/sk-t-caron-08.mp3" }
+      ]
+    },
+    {
+      "id": "sk-u",
+      "char": "u",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/u/",
+      "letterAudio": "audio/sk/letters/sk-u.mp3",
+      "memoryTrick": "Like 'oo' in English 'book' or 'put' — a short, rounded vowel made with pursed lips. Not like 'you' or 'uh.'",
+      "words": [
+        { "text": "ucho", "roman": "ucho", "meaning": "ear", "emoji": "👂", "audio": "audio/sk/words/sk-u-01.mp3" },
+        { "text": "ulica", "roman": "ulica", "meaning": "street", "emoji": "🛣️", "audio": "audio/sk/words/sk-u-02.mp3" },
+        { "text": "učiteľ", "roman": "učiteľ", "meaning": "teacher", "emoji": "👨‍🏫", "audio": "audio/sk/words/sk-u-03.mp3" },
+        { "text": "umývať", "roman": "umývať", "meaning": "to wash", "audio": "audio/sk/words/sk-u-04.mp3" },
+        { "text": "univerzita", "roman": "univerzita", "meaning": "university", "emoji": "🎓", "audio": "audio/sk/words/sk-u-05.mp3" },
+        { "text": "uhoľ", "roman": "uhoľ", "meaning": "coal", "audio": "audio/sk/words/sk-u-06.mp3" },
+        { "text": "úsmev", "roman": "úsmev", "meaning": "smile", "emoji": "😊", "audio": "audio/sk/words/sk-u-07.mp3" },
+        { "text": "uterák", "roman": "uterák", "meaning": "towel", "audio": "audio/sk/words/sk-u-08.mp3" },
+        { "text": "údolie", "roman": "údolie", "meaning": "valley", "emoji": "🏞️", "audio": "audio/sk/words/sk-u-09.mp3" },
+        { "text": "uhorka", "roman": "uhorka", "meaning": "cucumber", "emoji": "🥒", "audio": "audio/sk/words/sk-u-10.mp3" },
+        { "text": "upratať", "roman": "upratať", "meaning": "to clean up", "emoji": "🧹", "audio": "audio/sk/words/sk-u-11.mp3" }
+      ]
+    },
+    {
+      "id": "sk-u-acute",
+      "char": "ú",
+      "name": "dlhé u (long u)",
+      "romanization": "ú",
+      "ipa": "/uː/",
+      "letterAudio": "audio/sk/letters/sk-u-acute.mp3",
+      "memoryTrick": "Like 'oo' in English 'moon' or 'food' — a long, clear 'oo' held twice as long as short u. Purse your lips and let it ring.",
+      "words": [
+        { "text": "úl", "roman": "úl", "meaning": "beehive", "audio": "audio/sk/words/sk-u-acute-01.mp3" },
+        { "text": "ústa", "roman": "ústa", "meaning": "mouth", "emoji": "👄", "audio": "audio/sk/words/sk-u-acute-02.mp3" },
+        { "text": "úsmev", "roman": "úsmev", "meaning": "smile", "emoji": "😊", "audio": "audio/sk/words/sk-u-acute-03.mp3" },
+        { "text": "údolie", "roman": "údolie", "meaning": "valley", "emoji": "🏞️", "audio": "audio/sk/words/sk-u-acute-04.mp3" },
+        { "text": "účet", "roman": "účet", "meaning": "bill, account", "emoji": "🧾", "audio": "audio/sk/words/sk-u-acute-05.mp3" },
+        { "text": "úrad", "roman": "úrad", "meaning": "office, authority", "emoji": "🏢", "audio": "audio/sk/words/sk-u-acute-06.mp3" },
+        { "text": "útok", "roman": "útok", "meaning": "attack", "audio": "audio/sk/words/sk-u-acute-07.mp3" },
+        { "text": "úroda", "roman": "úroda", "meaning": "harvest, crop", "emoji": "🌾", "audio": "audio/sk/words/sk-u-acute-08.mp3" },
+        { "text": "úkryt", "roman": "úkryt", "meaning": "shelter, hideout", "audio": "audio/sk/words/sk-u-acute-09.mp3" },
+        { "text": "úraz", "roman": "úraz", "meaning": "injury, accident", "audio": "audio/sk/words/sk-u-acute-10.mp3" }
+      ]
+    },
+    {
+      "id": "sk-v",
+      "char": "v",
+      "name": "vé",
+      "romanization": "v",
+      "ipa": "/v/",
+      "letterAudio": "audio/sk/letters/sk-v.mp3",
+      "memoryTrick": "Like 'v' in English 'voice' or 'very' — a soft buzz between your lower lip and upper teeth. Never silent.",
+      "words": [
+        { "text": "voda", "roman": "voda", "meaning": "water", "emoji": "💧", "audio": "audio/sk/words/sk-v-01.mp3" },
+        { "text": "vietor", "roman": "vietor", "meaning": "wind", "emoji": "💨", "audio": "audio/sk/words/sk-v-02.mp3" },
+        { "text": "vlk", "roman": "vlk", "meaning": "wolf", "emoji": "🐺", "audio": "audio/sk/words/sk-v-03.mp3" },
+        { "text": "vlak", "roman": "vlak", "meaning": "train", "emoji": "🚂", "audio": "audio/sk/words/sk-v-04.mp3" },
+        { "text": "vajce", "roman": "vajce", "meaning": "egg", "emoji": "🥚", "audio": "audio/sk/words/sk-v-05.mp3" },
+        { "text": "váza", "roman": "váza", "meaning": "vase", "audio": "audio/sk/words/sk-v-06.mp3" },
+        { "text": "víno", "roman": "víno", "meaning": "wine", "emoji": "🍷", "audio": "audio/sk/words/sk-v-07.mp3" },
+        { "text": "Vianoce", "roman": "Vianoce", "meaning": "Christmas", "emoji": "🎄", "audio": "audio/sk/words/sk-v-08.mp3" },
+        { "text": "vlas", "roman": "vlas", "meaning": "hair (single)", "audio": "audio/sk/words/sk-v-09.mp3" },
+        { "text": "vchod", "roman": "vchod", "meaning": "entrance", "emoji": "🚪", "audio": "audio/sk/words/sk-v-10.mp3" }
+      ]
+    },
+    {
+      "id": "sk-w",
+      "char": "w",
+      "name": "dvojité vé (double v)",
+      "romanization": "w",
+      "ipa": "/v/",
+      "letterAudio": "audio/sk/letters/sk-w.mp3",
+      "memoryTrick": "Only in foreign words — pronounced the same as Slovak 'v.' Think of it as a fancy 'v' for borrowed words. Slovak doesn't need it natively.",
+      "words": [
+        { "text": "web", "roman": "web", "meaning": "web", "emoji": "🌐", "audio": "audio/sk/words/sk-w-01.mp3" },
+        { "text": "whisky", "roman": "whisky", "meaning": "whiskey", "emoji": "🥃", "audio": "audio/sk/words/sk-w-02.mp3" },
+        { "text": "western", "roman": "western", "meaning": "western", "audio": "audio/sk/words/sk-w-03.mp3" }
+      ]
+    },
+    {
+      "id": "sk-x",
+      "char": "x",
+      "name": "iks",
+      "romanization": "x",
+      "ipa": "/ks/",
+      "letterAudio": "audio/sk/letters/sk-x.mp3",
+      "memoryTrick": "Only in foreign words — pronounced 'ks.' Always sounds like the 'x' in English 'box' or 'taxi.' Native Slovak words don't use x.",
+      "words": [
+        { "text": "xylofón", "roman": "xylofón", "meaning": "xylophone", "audio": "audio/sk/words/sk-x-01.mp3" },
+        { "text": "taxík", "roman": "taxík", "meaning": "taxi", "emoji": "🚕", "audio": "audio/sk/words/sk-x-02.mp3" },
+        { "text": "text", "roman": "text", "meaning": "text", "audio": "audio/sk/words/sk-x-03.mp3" },
+        { "text": "box", "roman": "box", "meaning": "boxing", "emoji": "🥊", "audio": "audio/sk/words/sk-x-04.mp3" },
+        { "text": "index", "roman": "index", "meaning": "index", "audio": "audio/sk/words/sk-x-05.mp3" }
+      ]
+    },
+    {
+      "id": "sk-y",
+      "char": "y",
+      "name": "ypsilon",
+      "romanization": "y",
+      "ipa": "/ɪ/",
+      "letterAudio": "audio/sk/letters/sk-y.mp3",
+      "memoryTrick": "In Slovak, 'y' sounds exactly the same as 'i' — both are /ɪ/. The difference is historical and affects spelling rules (hard vs. soft consonants). Don't worry about the sound; just memorize which words use y.",
+      "words": [
+        { "text": "ryba", "roman": "ryba", "meaning": "fish", "emoji": "🐟", "audio": "audio/sk/words/sk-y-01.mp3" },
+        { "text": "syr", "roman": "syr", "meaning": "cheese", "emoji": "🧀", "audio": "audio/sk/words/sk-y-02.mp3" },
+        { "text": "dym", "roman": "dym", "meaning": "smoke", "audio": "audio/sk/words/sk-y-03.mp3" },
+        { "text": "syn", "roman": "syn", "meaning": "son", "emoji": "👦", "audio": "audio/sk/words/sk-y-04.mp3" },
+        { "text": "myš", "roman": "myš", "meaning": "mouse", "emoji": "🐭", "audio": "audio/sk/words/sk-y-05.mp3" },
+        { "text": "mydlo", "roman": "mydlo", "meaning": "soap", "emoji": "🧼", "audio": "audio/sk/words/sk-y-06.mp3" },
+        { "text": "jazyk", "roman": "jazyk", "meaning": "tongue, language", "emoji": "👅", "audio": "audio/sk/words/sk-y-07.mp3" },
+        { "text": "býk", "roman": "býk", "meaning": "bull", "emoji": "🐂", "audio": "audio/sk/words/sk-y-08.mp3" },
+        { "text": "lyžica", "roman": "lyžica", "meaning": "spoon", "emoji": "🥄", "audio": "audio/sk/words/sk-y-09.mp3" },
+        { "text": "pytlík", "roman": "pytlík", "meaning": "small bag, pouch", "audio": "audio/sk/words/sk-y-10.mp3" },
+        { "text": "výška", "roman": "výška", "meaning": "height", "audio": "audio/sk/words/sk-y-11.mp3" },
+        { "text": "lyže", "roman": "lyže", "meaning": "skis", "emoji": "⛷️", "audio": "audio/sk/words/sk-y-12.mp3" }
+      ]
+    },
+    {
+      "id": "sk-y-acute",
+      "char": "ý",
+      "name": "dlhý ypsilon (long y)",
+      "romanization": "ý",
+      "ipa": "/iː/",
+      "letterAudio": "audio/sk/letters/sk-y-acute.mp3",
+      "memoryTrick": "A long 'y' — sounds exactly like long í (/iː/). Like 'ee' in English 'see.' The acute accent stretches the sound, but the y vs. í distinction is purely about spelling rules.",
+      "words": [
+        { "text": "výlet", "roman": "výlet", "meaning": "trip, excursion", "emoji": "🧳", "audio": "audio/sk/words/sk-y-acute-01.mp3" },
+        { "text": "býk", "roman": "býk", "meaning": "bull", "emoji": "🐂", "audio": "audio/sk/words/sk-y-acute-02.mp3" },
+        { "text": "týždeň", "roman": "týždeň", "meaning": "week", "emoji": "📅", "audio": "audio/sk/words/sk-y-acute-03.mp3" },
+        { "text": "výška", "roman": "výška", "meaning": "height", "audio": "audio/sk/words/sk-y-acute-04.mp3" },
+        { "text": "sýkorka", "roman": "sýkorka", "meaning": "tit (bird)", "emoji": "🐦", "audio": "audio/sk/words/sk-y-acute-05.mp3" },
+        { "text": "pýtať sa", "roman": "pýtať sa", "meaning": "to ask", "audio": "audio/sk/words/sk-y-acute-06.mp3" },
+        { "text": "rýľ", "roman": "rýľ", "meaning": "spade", "audio": "audio/sk/words/sk-y-acute-07.mp3" },
+        { "text": "mýliť sa", "roman": "mýliť sa", "meaning": "to be mistaken", "audio": "audio/sk/words/sk-y-acute-08.mp3" }
+      ]
+    },
+    {
+      "id": "sk-z",
+      "char": "z",
+      "name": "zet",
+      "romanization": "z",
+      "ipa": "/z/",
+      "letterAudio": "audio/sk/letters/sk-z.mp3",
+      "memoryTrick": "Like 'z' in English 'zebra' or 'buzz' — a voiced buzz. Always voiced, never like 'ts.' Think of a bee: 'zzzz.'",
+      "words": [
+        { "text": "zub", "roman": "zub", "meaning": "tooth", "emoji": "🦷", "audio": "audio/sk/words/sk-z-01.mp3" },
+        { "text": "zviera", "roman": "zviera", "meaning": "animal", "emoji": "🐾", "audio": "audio/sk/words/sk-z-02.mp3" },
+        { "text": "zima", "roman": "zima", "meaning": "winter, cold", "emoji": "❄️", "audio": "audio/sk/words/sk-z-03.mp3" },
+        { "text": "zem", "roman": "zem", "meaning": "earth, ground", "emoji": "🌍", "audio": "audio/sk/words/sk-z-04.mp3" },
+        { "text": "zrkadlo", "roman": "zrkadlo", "meaning": "mirror", "emoji": "🪞", "audio": "audio/sk/words/sk-z-05.mp3" },
+        { "text": "zelený", "roman": "zelený", "meaning": "green", "audio": "audio/sk/words/sk-z-06.mp3" },
+        { "text": "záhrada", "roman": "záhrada", "meaning": "garden", "emoji": "🏡", "audio": "audio/sk/words/sk-z-07.mp3" },
+        { "text": "zlatý", "roman": "zlatý", "meaning": "golden", "audio": "audio/sk/words/sk-z-08.mp3" },
+        { "text": "známka", "roman": "známka", "meaning": "stamp, mark", "audio": "audio/sk/words/sk-z-09.mp3" },
+        { "text": "zámok", "roman": "zámok", "meaning": "castle, lock", "emoji": "🏰", "audio": "audio/sk/words/sk-z-10.mp3" },
+        { "text": "zajac", "roman": "zajac", "meaning": "hare, rabbit", "emoji": "🐇", "audio": "audio/sk/words/sk-z-11.mp3" },
+        { "text": "zápas", "roman": "zápas", "meaning": "match, struggle", "audio": "audio/sk/words/sk-z-12.mp3" }
       ]
     },
     {
       "id": "sk-z-caron",
-      "char": "Ž ž",
+      "char": "ž",
       "name": "žet",
       "romanization": "ž",
       "ipa": "/ʒ/",
-      "memoryTrick": "A 'z' with a háček = 'zh'.",
+      "letterAudio": "audio/sk/letters/sk-z-caron.mp3",
+      "memoryTrick": "Like the 's' in English 'pleasure' or 'measure,' or the 'zh' sound in 'Dr. Zhivago.' A buzzy, humming 'sh.' The háčik adds voice to a plain 'sh.'",
       "words": [
-        {
-          "text": "žena",
-          "roman": "zhena",
-          "meaning": "woman",
-          "emoji": "👩"
-        },
-        {
-          "text": "nôž",
-          "roman": "nuozh",
-          "meaning": "knife",
-          "emoji": "🔪"
-        }
-      ]
-    },
-    {
-      "id": "sk-o-circ",
-      "char": "Ô ô",
-      "name": "ô",
-      "romanization": "ô",
-      "ipa": "/ʊo/",
-      "memoryTrick": "An 'o' with a circumflex — a gliding 'uo'.",
-      "words": [
-        {
-          "text": "kôň",
-          "roman": "kuony",
-          "meaning": "horse",
-          "emoji": "🐴"
-        },
-        {
-          "text": "stôl",
-          "roman": "stuol",
-          "meaning": "table",
-          "emoji": "🪑"
-        }
-      ]
-    },
-    {
-      "id": "sk-a-uml",
-      "char": "Ä ä",
-      "name": "ä",
-      "romanization": "ä",
-      "ipa": "/æ/",
-      "memoryTrick": "A rare open 'a' as in 'cat'.",
-      "words": [
-        {
-          "text": "mäso",
-          "roman": "maso",
-          "meaning": "meat",
-          "emoji": "🥩"
-        },
-        {
-          "text": "päť",
-          "roman": "pät",
-          "meaning": "five",
-          "emoji": "5️⃣"
-        }
+        { "text": "žaba", "roman": "žaba", "meaning": "frog", "emoji": "🐸", "audio": "audio/sk/words/sk-z-caron-01.mp3" },
+        { "text": "život", "roman": "život", "meaning": "life", "audio": "audio/sk/words/sk-z-caron-02.mp3" },
+        { "text": "žena", "roman": "žena", "meaning": "woman", "emoji": "👩", "audio": "audio/sk/words/sk-z-caron-03.mp3" },
+        { "text": "žltý", "roman": "žltý", "meaning": "yellow", "emoji": "🟡", "audio": "audio/sk/words/sk-z-caron-04.mp3" },
+        { "text": "železo", "roman": "železo", "meaning": "iron", "audio": "audio/sk/words/sk-z-caron-05.mp3" },
+        { "text": "žalúdok", "roman": "žalúdok", "meaning": "stomach", "audio": "audio/sk/words/sk-z-caron-06.mp3" },
+        { "text": "žirafa", "roman": "žirafa", "meaning": "giraffe", "emoji": "🦒", "audio": "audio/sk/words/sk-z-caron-07.mp3" },
+        { "text": "žuvačka", "roman": "žuvačka", "meaning": "chewing gum", "audio": "audio/sk/words/sk-z-caron-08.mp3" },
+        { "text": "žiak", "roman": "žiak", "meaning": "pupil, student", "emoji": "👨‍🎓", "audio": "audio/sk/words/sk-z-caron-09.mp3" },
+        { "text": "žiarovka", "roman": "žiarovka", "meaning": "light bulb", "emoji": "💡", "audio": "audio/sk/words/sk-z-caron-10.mp3" },
+        { "text": "živý", "roman": "živý", "meaning": "alive, lively", "audio": "audio/sk/words/sk-z-caron-11.mp3" }
       ]
     }
   ]
