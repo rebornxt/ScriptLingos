@@ -1,0 +1,140 @@
+{
+  "language": "Bulgarian",
+  "code": "bg-BG",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "bg-a",
+      "char": "А а",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "memoryTrick": "Says 'ah'.",
+      "words": [
+        {
+          "text": "автобус",
+          "roman": "avtobus",
+          "meaning": "bus",
+          "emoji": "🚌"
+        },
+        {
+          "text": "агне",
+          "roman": "agne",
+          "meaning": "lamb",
+          "emoji": "🐑"
+        }
+      ]
+    },
+    {
+      "id": "bg-b",
+      "char": "Б б",
+      "name": "be",
+      "romanization": "b",
+      "ipa": "/b/",
+      "memoryTrick": "Says 'b'.",
+      "words": [
+        {
+          "text": "баба",
+          "roman": "baba",
+          "meaning": "grandmother",
+          "emoji": "👵"
+        },
+        {
+          "text": "бял",
+          "roman": "byal",
+          "meaning": "white",
+          "emoji": "⬜"
+        }
+      ]
+    },
+    {
+      "id": "bg-v",
+      "char": "В в",
+      "name": "ve",
+      "romanization": "v",
+      "ipa": "/v/",
+      "memoryTrick": "Looks like 'B' but says 'v'.",
+      "words": [
+        {
+          "text": "вода",
+          "roman": "voda",
+          "meaning": "water",
+          "emoji": "💧"
+        },
+        {
+          "text": "вятър",
+          "roman": "vyatar",
+          "meaning": "wind",
+          "emoji": "💨"
+        }
+      ]
+    },
+    {
+      "id": "bg-g",
+      "char": "Г г",
+      "name": "ge",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "memoryTrick": "Says a hard 'g'.",
+      "words": [
+        {
+          "text": "град",
+          "roman": "grad",
+          "meaning": "city",
+          "emoji": "🏙️"
+        },
+        {
+          "text": "гора",
+          "roman": "gora",
+          "meaning": "forest",
+          "emoji": "🌲"
+        }
+      ]
+    },
+    {
+      "id": "bg-er",
+      "char": "Ъ ъ",
+      "name": "er goljam",
+      "romanization": "ă",
+      "ipa": "/ɤ/",
+      "memoryTrick": "The famous Bulgarian vowel — a dark 'uh', and a full letter here.",
+      "words": [
+        {
+          "text": "ъгъл",
+          "roman": "ăgăl",
+          "meaning": "corner",
+          "emoji": "📐"
+        },
+        {
+          "text": "България",
+          "roman": "Bălgariya",
+          "meaning": "Bulgaria",
+          "emoji": "🇧🇬"
+        }
+      ]
+    },
+    {
+      "id": "bg-d",
+      "char": "Д д",
+      "name": "de",
+      "romanization": "d",
+      "ipa": "/d/",
+      "memoryTrick": "Says 'd'.",
+      "words": [
+        {
+          "text": "дом",
+          "roman": "dom",
+          "meaning": "home",
+          "emoji": "🏠"
+        },
+        {
+          "text": "дете",
+          "roman": "dete",
+          "meaning": "child",
+          "emoji": "🧒"
+        }
+      ]
+    }
+  ]
+}
