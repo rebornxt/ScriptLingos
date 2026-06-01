@@ -1,9 +1,11 @@
 // audio.js — live pronunciation through your Cloudflare Worker (Azure TTS).
 // Drop-in replacement: same play() / stopCurrent() the rest of the app already uses.
 // • Single Latin/Cyrillic letters are spoken by name ("B" → "bee").
-// • Arabic, Hebrew, Korean, and Burmese letters are spoken by their NATIVE NAME
-//   (e.g. ص → "صَاد", က → "ကကြီး") using the LETTER_NAMES table below.
-// • Hindi and Khmer letters are recited by sound already, so they need no table.
+// • Arabic, Hebrew, Korean, Burmese, Greek, Georgian, and Farsi letters are spoken by
+//   their NATIVE NAME (e.g. ص → "صَاد", β → "βήτα", ბ → "ბანი") via LETTER_NAMES below.
+// • Names cover BOTH the lesson screen and the quiz automatically.
+// • Lao, Bengali, Tamil, and Urdu names are pending — paste them into LETTER_NAMES when
+//   ready (until then those letters read by their bare sound).
 // • Words are spoken normally. Each clip is cached by the browser (instant re-taps).
 
 // ╔══════════════════════════════════════════════════════════════════════════╗
@@ -20,10 +22,10 @@ const LETTER_NAME_LOCALES = new Set([
   "tl-PH", "ms-MY", "uk-UA", "bg-BG", "sr-RS",
 ]);
 
-// Native-script NAME for each letter, so the voice says the letter's name rather
-// than only its raw sound. KEY = the letter glyph exactly as it appears in your
-// data; VALUE = how it should be spoken (written in its own script, with vowel
-// marks where helpful). To fix or add any letter, just edit/add a line here.
+// Native-script NAME (or sound) for each character, so the voice says the letter's name
+// rather than only its raw sound. KEY = the glyph exactly as it appears in your data;
+// VALUE = how it should be spoken, written in its own script. To fix/add any letter,
+// just edit/add a line here. Entries can be any length (single letters, digraphs, marks).
 const LETTER_NAMES = {
   "ar-SA": {
     "ا": "أَلِف", "ب": "بَاء", "ت": "تَاء", "ث": "ثَاء", "ج": "جِيم",
@@ -39,28 +41,61 @@ const LETTER_NAMES = {
     "כ": "כַּף", "ל": "לָמֶד", "מ": "מֵם", "נ": "נוּן", "ס": "סָמֶךְ",
     "ע": "עַיִן", "פ": "פֵּא", "צ": "צָדִי", "ק": "קוֹף", "ר": "רֵישׁ",
     "ש": "שִׁין", "ת": "תָּו",
+    // final forms speak the same name as their base letter
+    "ך": "כַּף", "ם": "מֵם", "ן": "נוּן", "ף": "פֵּא", "ץ": "צָדִי",
   },
   "ko-KR": {
-    // consonants
     "ㄱ": "기역", "ㄴ": "니은", "ㄷ": "디귿", "ㄹ": "리을", "ㅁ": "미음",
     "ㅂ": "비읍", "ㅅ": "시옷", "ㅇ": "이응", "ㅈ": "지읒", "ㅊ": "치읓",
     "ㅋ": "키읔", "ㅌ": "티읕", "ㅍ": "피읖", "ㅎ": "히읗",
-    // double consonants
     "ㄲ": "쌍기역", "ㄸ": "쌍디귿", "ㅃ": "쌍비읍", "ㅆ": "쌍시옷", "ㅉ": "쌍지읒",
-    // vowels (spoken as their syllable so the sound is clear)
     "ㅏ": "아", "ㅑ": "야", "ㅓ": "어", "ㅕ": "여", "ㅗ": "오",
     "ㅛ": "요", "ㅜ": "우", "ㅠ": "유", "ㅡ": "으", "ㅣ": "이",
     "ㅐ": "애", "ㅒ": "얘", "ㅔ": "에", "ㅖ": "예", "ㅘ": "와",
     "ㅙ": "왜", "ㅚ": "외", "ㅝ": "워", "ㅞ": "웨", "ㅟ": "위", "ㅢ": "의",
   },
   "my-MM": {
-    // Only the letters whose NAME differs from their bare sound are listed.
-    // The rest (င မ လ ဝ သ ဟ အ …) are already recited correctly as the bare letter.
     "က": "ကကြီး", "ခ": "ခခွေး", "ဂ": "ဂငယ်", "ဃ": "ဃကြီး",
     "စ": "စလုံး", "ဆ": "ဆလိမ်", "ဇ": "ဇကွဲ", "ဏ": "ဏကြီး",
     "တ": "တဝမ်းပူ", "ထ": "ထဆင်ထူး", "န": "နငယ်", "ပ": "ပစောက်",
     "ဖ": "ဖဦးထုပ်", "ဘ": "ဘကုန်း", "ယ": "ယပက်လက်", "ရ": "ရကောက်",
     "ဠ": "ဠကြီး",
+  },
+  // ── Greek: 24 letters (upper + lower), plus final sigma ──
+  "el-GR": {
+    "Α": "άλφα", "α": "άλφα", "Β": "βήτα", "β": "βήτα",
+    "Γ": "γάμα", "γ": "γάμα", "Δ": "δέλτα", "δ": "δέλτα",
+    "Ε": "έψιλον", "ε": "έψιλον", "Ζ": "ζήτα", "ζ": "ζήτα",
+    "Η": "ήτα", "η": "ήτα", "Θ": "θήτα", "θ": "θήτα",
+    "Ι": "γιώτα", "ι": "γιώτα", "Κ": "κάπα", "κ": "κάπα",
+    "Λ": "λάμδα", "λ": "λάμδα", "Μ": "μι", "μ": "μι",
+    "Ν": "νι", "ν": "νι", "Ξ": "ξι", "ξ": "ξι",
+    "Ο": "όμικρον", "ο": "όμικρον", "Π": "πι", "π": "πι",
+    "Ρ": "ρο", "ρ": "ρο", "Σ": "σίγμα", "σ": "σίγμα", "ς": "σίγμα",
+    "Τ": "ταυ", "τ": "ταυ", "Υ": "ύψιλον", "υ": "ύψιλον",
+    "Φ": "φι", "φ": "φι", "Χ": "χι", "χ": "χι",
+    "Ψ": "ψι", "ψ": "ψι", "Ω": "ωμέγα", "ω": "ωμέγα",
+  },
+  // ── Georgian: 33 Mkhedruli letters (unicase) ──
+  "ka-GE": {
+    "ა": "ანი", "ბ": "ბანი", "გ": "განი", "დ": "დონი", "ე": "ენი",
+    "ვ": "ვინი", "ზ": "ზენი", "თ": "თანი", "ი": "ინი", "კ": "კანი",
+    "ლ": "ლასი", "მ": "მანი", "ნ": "ნარი", "ო": "ონი", "პ": "პარი",
+    "ჟ": "ჟანი", "რ": "რაე", "ს": "სანი", "ტ": "ტარი", "უ": "უნი",
+    "ფ": "ფარი", "ქ": "ქანი", "ღ": "ღანი", "ყ": "ყარი", "შ": "შინი",
+    "ჩ": "ჩინი", "ც": "ცანი", "ძ": "ძილი", "წ": "წილი", "ჭ": "ჭარი",
+    "ხ": "ხანი", "ჯ": "ჯანი", "ჰ": "ჰაე",
+  },
+  // ── Farsi/Persian: Arabic letters (Persian names) + پ چ ژ گ ──
+  // (Persian kaf ک = U+06A9, yeh ی = U+06CC; Arabic ك/ي added as aliases just in case.)
+  "fa-IR": {
+    "ا": "اَلِف", "ب": "بِ", "پ": "پِ", "ت": "تِ", "ث": "ثِ",
+    "ج": "جیم", "چ": "چِ", "ح": "حِ", "خ": "خِ", "د": "دال",
+    "ذ": "ذال", "ر": "رِ", "ز": "زِ", "ژ": "ژِ", "س": "سین",
+    "ش": "شین", "ص": "صاد", "ض": "ضاد", "ط": "طا", "ظ": "ظا",
+    "ع": "عین", "غ": "غین", "ف": "فِ", "ق": "قاف",
+    "ک": "کاف", "ك": "کاف", "گ": "گاف", "ل": "لام", "م": "میم",
+    "ن": "نون", "و": "واو", "ه": "هِ", "ی": "یِ", "ي": "یِ",
   },
 };
 
@@ -86,15 +121,13 @@ export function resolveSpeech(opts) {
     return { speakText: String(o.say).trim(), asChars: false };
   }
   const text = String(o.text == null ? "" : o.text).trim();
-  const isSingle = Array.from(text).length === 1;   // counts real characters
 
-  // Single letter with a native-script name → speak the name.
-  if (isSingle) {
-    const map = LETTER_NAMES[o.lang];
-    if (map && map[text]) return { speakText: map[text], asChars: false };
-  }
+  // Native-script name for this character (any length: letters, digraphs, marks).
+  const map = LETTER_NAMES[o.lang];
+  if (map && map[text]) return { speakText: map[text], asChars: false };
 
-  // Single Latin/Cyrillic letter with no name table → spell it as its letter name.
+  // Single Latin/Cyrillic letter with no entry → let the voice spell its letter name.
+  const isSingle = Array.from(text).length === 1;
   const asChars = isSingle && LETTER_NAME_LOCALES.has(o.lang);
   return { speakText: text, asChars };
 }
