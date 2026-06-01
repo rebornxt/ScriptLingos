@@ -1,0 +1,140 @@
+{
+  "language": "Slovak",
+  "code": "sk-SK",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "sk-l-caron",
+      "char": "Ľ ľ",
+      "name": "eľ",
+      "romanization": "ľ",
+      "ipa": "/ʎ/",
+      "memoryTrick": "An L with a háček — a soft 'ly' as in 'million'.",
+      "words": [
+        {
+          "text": "ľad",
+          "roman": "lyad",
+          "meaning": "ice",
+          "emoji": "🧊"
+        },
+        {
+          "text": "kráľ",
+          "roman": "král",
+          "meaning": "king",
+          "emoji": "👑"
+        }
+      ]
+    },
+    {
+      "id": "sk-c-caron",
+      "char": "Č č",
+      "name": "čé",
+      "romanization": "č",
+      "ipa": "/tʃ/",
+      "memoryTrick": "A 'c' with a háček = 'ch'.",
+      "words": [
+        {
+          "text": "čaj",
+          "roman": "chai",
+          "meaning": "tea",
+          "emoji": "🍵"
+        },
+        {
+          "text": "čierny",
+          "roman": "chierny",
+          "meaning": "black",
+          "emoji": "⬛"
+        }
+      ]
+    },
+    {
+      "id": "sk-s-caron",
+      "char": "Š š",
+      "name": "eš",
+      "romanization": "š",
+      "ipa": "/ʃ/",
+      "memoryTrick": "An 's' with a háček = 'sh'.",
+      "words": [
+        {
+          "text": "šťastie",
+          "roman": "shtastie",
+          "meaning": "happiness",
+          "emoji": "😊"
+        },
+        {
+          "text": "myš",
+          "roman": "mysh",
+          "meaning": "mouse",
+          "emoji": "🐭"
+        }
+      ]
+    },
+    {
+      "id": "sk-z-caron",
+      "char": "Ž ž",
+      "name": "žet",
+      "romanization": "ž",
+      "ipa": "/ʒ/",
+      "memoryTrick": "A 'z' with a háček = 'zh'.",
+      "words": [
+        {
+          "text": "žena",
+          "roman": "zhena",
+          "meaning": "woman",
+          "emoji": "👩"
+        },
+        {
+          "text": "nôž",
+          "roman": "nuozh",
+          "meaning": "knife",
+          "emoji": "🔪"
+        }
+      ]
+    },
+    {
+      "id": "sk-o-circ",
+      "char": "Ô ô",
+      "name": "ô",
+      "romanization": "ô",
+      "ipa": "/ʊo/",
+      "memoryTrick": "An 'o' with a circumflex — a gliding 'uo'.",
+      "words": [
+        {
+          "text": "kôň",
+          "roman": "kuony",
+          "meaning": "horse",
+          "emoji": "🐴"
+        },
+        {
+          "text": "stôl",
+          "roman": "stuol",
+          "meaning": "table",
+          "emoji": "🪑"
+        }
+      ]
+    },
+    {
+      "id": "sk-a-uml",
+      "char": "Ä ä",
+      "name": "ä",
+      "romanization": "ä",
+      "ipa": "/æ/",
+      "memoryTrick": "A rare open 'a' as in 'cat'.",
+      "words": [
+        {
+          "text": "mäso",
+          "roman": "maso",
+          "meaning": "meat",
+          "emoji": "🥩"
+        },
+        {
+          "text": "päť",
+          "roman": "pät",
+          "meaning": "five",
+          "emoji": "5️⃣"
+        }
+      ]
+    }
+  ]
+}

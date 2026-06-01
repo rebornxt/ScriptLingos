@@ -1,0 +1,140 @@
+{
+  "language": "Danish",
+  "code": "da-DK",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "da-ae",
+      "char": "Æ æ",
+      "name": "æ",
+      "romanization": "æ",
+      "ipa": "/ɛ/",
+      "memoryTrick": "An a-e ligature — 'eh' as in 'bed'.",
+      "words": [
+        {
+          "text": "æble",
+          "roman": "æble",
+          "meaning": "apple",
+          "emoji": "🍎"
+        },
+        {
+          "text": "æg",
+          "roman": "æg",
+          "meaning": "egg",
+          "emoji": "🥚"
+        }
+      ]
+    },
+    {
+      "id": "da-o-slash",
+      "char": "Ø ø",
+      "name": "ø",
+      "romanization": "ø",
+      "ipa": "/ø/",
+      "memoryTrick": "An 'o' with a slash — round lips, say 'e'.",
+      "words": [
+        {
+          "text": "øl",
+          "roman": "øl",
+          "meaning": "beer",
+          "emoji": "🍺"
+        },
+        {
+          "text": "øje",
+          "roman": "øje",
+          "meaning": "eye",
+          "emoji": "👁️"
+        }
+      ]
+    },
+    {
+      "id": "da-a-ring",
+      "char": "Å å",
+      "name": "å",
+      "romanization": "å",
+      "ipa": "/ɔ/",
+      "memoryTrick": "An 'a' with a ring — an open 'oh'.",
+      "words": [
+        {
+          "text": "år",
+          "roman": "år",
+          "meaning": "year",
+          "emoji": "📅"
+        },
+        {
+          "text": "blå",
+          "roman": "blå",
+          "meaning": "blue",
+          "emoji": "🔵"
+        }
+      ]
+    },
+    {
+      "id": "da-d",
+      "char": "D d",
+      "name": "de",
+      "romanization": "d",
+      "ipa": "/ð/",
+      "memoryTrick": "Between or after vowels, 'd' softens to a 'th' as in 'this'.",
+      "words": [
+        {
+          "text": "mad",
+          "roman": "madh",
+          "meaning": "food",
+          "emoji": "🍽️"
+        },
+        {
+          "text": "gade",
+          "roman": "gadh",
+          "meaning": "street",
+          "emoji": "🛣️"
+        }
+      ]
+    },
+    {
+      "id": "da-r",
+      "char": "R r",
+      "name": "er",
+      "romanization": "r",
+      "ipa": "/ʁ/",
+      "memoryTrick": "A throaty 'r' made at the back of the throat.",
+      "words": [
+        {
+          "text": "rød",
+          "roman": "rød",
+          "meaning": "red",
+          "emoji": "🔴"
+        },
+        {
+          "text": "rejse",
+          "roman": "rejse",
+          "meaning": "to travel",
+          "emoji": "✈️"
+        }
+      ]
+    },
+    {
+      "id": "da-u",
+      "char": "U u",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/u/",
+      "memoryTrick": "Says 'oo' as in 'food'.",
+      "words": [
+        {
+          "text": "hus",
+          "roman": "hus",
+          "meaning": "house",
+          "emoji": "🏠"
+        },
+        {
+          "text": "ung",
+          "roman": "ung",
+          "meaning": "young",
+          "emoji": "🧒"
+        }
+      ]
+    }
+  ]
+}

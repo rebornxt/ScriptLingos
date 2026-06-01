@@ -1,0 +1,140 @@
+{
+  "language": "Tamil",
+  "code": "ta-IN",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "ta-a",
+      "char": "அ",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/ʌ/",
+      "memoryTrick": "The first vowel — a short 'a'.",
+      "words": [
+        {
+          "text": "அம்மா",
+          "roman": "ammā",
+          "meaning": "mother",
+          "emoji": "👩"
+        },
+        {
+          "text": "அரசன்",
+          "roman": "arasan",
+          "meaning": "king",
+          "emoji": "👑"
+        }
+      ]
+    },
+    {
+      "id": "ta-aa",
+      "char": "ஆ",
+      "name": "ā",
+      "romanization": "ā",
+      "ipa": "/aː/",
+      "memoryTrick": "A long 'aa'.",
+      "words": [
+        {
+          "text": "ஆடு",
+          "roman": "āḍu",
+          "meaning": "goat",
+          "emoji": "🐐"
+        },
+        {
+          "text": "ஆமை",
+          "roman": "āmai",
+          "meaning": "turtle",
+          "emoji": "🐢"
+        }
+      ]
+    },
+    {
+      "id": "ta-ka",
+      "char": "க",
+      "name": "ka",
+      "romanization": "k",
+      "ipa": "/k/",
+      "memoryTrick": "One letter covers k/g sounds depending on position.",
+      "words": [
+        {
+          "text": "கடல்",
+          "roman": "kadal",
+          "meaning": "sea",
+          "emoji": "🌊"
+        },
+        {
+          "text": "கை",
+          "roman": "kai",
+          "meaning": "hand",
+          "emoji": "✋"
+        }
+      ]
+    },
+    {
+      "id": "ta-ca",
+      "char": "ச",
+      "name": "ca",
+      "romanization": "c",
+      "ipa": "/tʃ/",
+      "memoryTrick": "Says 'ch' or 's' depending on position.",
+      "words": [
+        {
+          "text": "சட்டை",
+          "roman": "caṭṭai",
+          "meaning": "shirt",
+          "emoji": "👕"
+        },
+        {
+          "text": "சாவி",
+          "roman": "sāvi",
+          "meaning": "key",
+          "emoji": "🔑"
+        }
+      ]
+    },
+    {
+      "id": "ta-na",
+      "char": "ந",
+      "name": "na",
+      "romanization": "n",
+      "ipa": "/n/",
+      "memoryTrick": "A dental 'n'.",
+      "words": [
+        {
+          "text": "நாய்",
+          "roman": "nāy",
+          "meaning": "dog",
+          "emoji": "🐕"
+        },
+        {
+          "text": "நிலா",
+          "roman": "nilā",
+          "meaning": "moon",
+          "emoji": "🌙"
+        }
+      ]
+    },
+    {
+      "id": "ta-ma",
+      "char": "ம",
+      "name": "ma",
+      "romanization": "m",
+      "ipa": "/m/",
+      "memoryTrick": "Says 'm'.",
+      "words": [
+        {
+          "text": "மரம்",
+          "roman": "maram",
+          "meaning": "tree",
+          "emoji": "🌳"
+        },
+        {
+          "text": "மீன்",
+          "roman": "mīn",
+          "meaning": "fish",
+          "emoji": "🐟"
+        }
+      ]
+    }
+  ]
+}

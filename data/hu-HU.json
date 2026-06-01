@@ -1,0 +1,140 @@
+{
+  "language": "Hungarian",
+  "code": "hu-HU",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "hu-o-double",
+      "char": "Ő ő",
+      "name": "ő",
+      "romanization": "ő",
+      "ipa": "/øː/",
+      "memoryTrick": "A long 'ö' with double accents — round lips, a long 'er'.",
+      "words": [
+        {
+          "text": "nő",
+          "roman": "nő",
+          "meaning": "woman",
+          "emoji": "👩"
+        },
+        {
+          "text": "idő",
+          "roman": "idő",
+          "meaning": "time",
+          "emoji": "⏰"
+        }
+      ]
+    },
+    {
+      "id": "hu-u-double",
+      "char": "Ű ű",
+      "name": "ű",
+      "romanization": "ű",
+      "ipa": "/yː/",
+      "memoryTrick": "A long 'ü' with double accents — round lips, a long 'ee'.",
+      "words": [
+        {
+          "text": "tűz",
+          "roman": "tüz",
+          "meaning": "fire",
+          "emoji": "🔥"
+        },
+        {
+          "text": "fű",
+          "roman": "fü",
+          "meaning": "grass",
+          "emoji": "🌱"
+        }
+      ]
+    },
+    {
+      "id": "hu-gy",
+      "char": "Gy gy",
+      "name": "gyé",
+      "romanization": "gy",
+      "ipa": "/ɟ/",
+      "memoryTrick": "A digraph — a soft 'dy' as in 'during'.",
+      "words": [
+        {
+          "text": "gyerek",
+          "roman": "dyerek",
+          "meaning": "child",
+          "emoji": "🧒"
+        },
+        {
+          "text": "magyar",
+          "roman": "madyar",
+          "meaning": "Hungarian",
+          "emoji": "🇭🇺"
+        }
+      ]
+    },
+    {
+      "id": "hu-sz",
+      "char": "Sz sz",
+      "name": "esz",
+      "romanization": "sz",
+      "ipa": "/s/",
+      "memoryTrick": "The digraph 'sz' says a plain 's' (while 's' alone says 'sh').",
+      "words": [
+        {
+          "text": "szép",
+          "roman": "seep",
+          "meaning": "beautiful",
+          "emoji": "✨"
+        },
+        {
+          "text": "szem",
+          "roman": "sem",
+          "meaning": "eye",
+          "emoji": "👁️"
+        }
+      ]
+    },
+    {
+      "id": "hu-cs",
+      "char": "Cs cs",
+      "name": "csé",
+      "romanization": "cs",
+      "ipa": "/tʃ/",
+      "memoryTrick": "A digraph — 'ch' as in 'chair'.",
+      "words": [
+        {
+          "text": "csillag",
+          "roman": "chillag",
+          "meaning": "star",
+          "emoji": "⭐"
+        },
+        {
+          "text": "kulcs",
+          "roman": "kulch",
+          "meaning": "key",
+          "emoji": "🔑"
+        }
+      ]
+    },
+    {
+      "id": "hu-a-acute",
+      "char": "Á á",
+      "name": "á",
+      "romanization": "á",
+      "ipa": "/aː/",
+      "memoryTrick": "An 'a' with an accent — a long, open 'aah'.",
+      "words": [
+        {
+          "text": "ház",
+          "roman": "haaz",
+          "meaning": "house",
+          "emoji": "🏠"
+        },
+        {
+          "text": "lány",
+          "roman": "laany",
+          "meaning": "girl",
+          "emoji": "👧"
+        }
+      ]
+    }
+  ]
+}

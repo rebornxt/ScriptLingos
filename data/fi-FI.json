@@ -1,0 +1,140 @@
+{
+  "language": "Finnish",
+  "code": "fi-FI",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "fi-a-uml",
+      "char": "Ä ä",
+      "name": "ä",
+      "romanization": "ä",
+      "ipa": "/æ/",
+      "memoryTrick": "An open 'a' as in 'cat' — its own letter, not an accent.",
+      "words": [
+        {
+          "text": "äiti",
+          "roman": "äiti",
+          "meaning": "mother",
+          "emoji": "👩"
+        },
+        {
+          "text": "pää",
+          "roman": "pää",
+          "meaning": "head",
+          "emoji": "🗣️"
+        }
+      ]
+    },
+    {
+      "id": "fi-o-uml",
+      "char": "Ö ö",
+      "name": "ö",
+      "romanization": "ö",
+      "ipa": "/ø/",
+      "memoryTrick": "Round your lips, say 'e'.",
+      "words": [
+        {
+          "text": "yö",
+          "roman": "yö",
+          "meaning": "night",
+          "emoji": "🌙"
+        },
+        {
+          "text": "työ",
+          "roman": "työ",
+          "meaning": "work",
+          "emoji": "💼"
+        }
+      ]
+    },
+    {
+      "id": "fi-y",
+      "char": "Y y",
+      "name": "y",
+      "romanization": "y",
+      "ipa": "/y/",
+      "memoryTrick": "Round lips for 'oo', say 'ee'.",
+      "words": [
+        {
+          "text": "yksi",
+          "roman": "yksi",
+          "meaning": "one",
+          "emoji": "1️⃣"
+        },
+        {
+          "text": "kyy",
+          "roman": "kyy",
+          "meaning": "viper",
+          "emoji": "🐍"
+        }
+      ]
+    },
+    {
+      "id": "fi-k",
+      "char": "K k",
+      "name": "koo",
+      "romanization": "k",
+      "ipa": "/k/",
+      "memoryTrick": "A plain, unaspirated 'k'.",
+      "words": [
+        {
+          "text": "kala",
+          "roman": "kala",
+          "meaning": "fish",
+          "emoji": "🐟"
+        },
+        {
+          "text": "kuu",
+          "roman": "kuu",
+          "meaning": "moon",
+          "emoji": "🌙"
+        }
+      ]
+    },
+    {
+      "id": "fi-aa",
+      "char": "Aa aa",
+      "name": "pitkä a",
+      "romanization": "aa",
+      "ipa": "/ɑː/",
+      "memoryTrick": "Doubling a vowel makes it long — and can change the meaning!",
+      "words": [
+        {
+          "text": "maa",
+          "roman": "maa",
+          "meaning": "land / earth",
+          "emoji": "🌍"
+        },
+        {
+          "text": "saari",
+          "roman": "saari",
+          "meaning": "island",
+          "emoji": "🏝️"
+        }
+      ]
+    },
+    {
+      "id": "fi-j",
+      "char": "J j",
+      "name": "jii",
+      "romanization": "j",
+      "ipa": "/j/",
+      "memoryTrick": "Says 'y' as in 'yes'.",
+      "words": [
+        {
+          "text": "ja",
+          "roman": "ja",
+          "meaning": "and",
+          "emoji": "➕"
+        },
+        {
+          "text": "jää",
+          "roman": "jää",
+          "meaning": "ice",
+          "emoji": "🧊"
+        }
+      ]
+    }
+  ]
+}

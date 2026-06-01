@@ -1,0 +1,140 @@
+{
+  "language": "Serbian",
+  "code": "sr-RS",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "sr-a",
+      "char": "А а",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "memoryTrick": "Says 'ah'.",
+      "words": [
+        {
+          "text": "ауто",
+          "roman": "auto",
+          "meaning": "car",
+          "emoji": "🚗"
+        },
+        {
+          "text": "авион",
+          "roman": "avion",
+          "meaning": "airplane",
+          "emoji": "✈️"
+        }
+      ]
+    },
+    {
+      "id": "sr-b",
+      "char": "Б б",
+      "name": "be",
+      "romanization": "b",
+      "ipa": "/b/",
+      "memoryTrick": "Says 'b'.",
+      "words": [
+        {
+          "text": "брат",
+          "roman": "brat",
+          "meaning": "brother",
+          "emoji": "👦"
+        },
+        {
+          "text": "бео",
+          "roman": "beo",
+          "meaning": "white",
+          "emoji": "⬜"
+        }
+      ]
+    },
+    {
+      "id": "sr-dje",
+      "char": "Ђ ђ",
+      "name": "đe",
+      "romanization": "đ",
+      "ipa": "/dʑ/",
+      "memoryTrick": "Uniquely Serbian — a soft 'j' as in 'jeep'.",
+      "words": [
+        {
+          "text": "ђак",
+          "roman": "đak",
+          "meaning": "pupil",
+          "emoji": "🎒"
+        },
+        {
+          "text": "ђул",
+          "roman": "đul",
+          "meaning": "rose",
+          "emoji": "🌹"
+        }
+      ]
+    },
+    {
+      "id": "sr-lje",
+      "char": "Љ љ",
+      "name": "lje",
+      "romanization": "lj",
+      "ipa": "/ʎ/",
+      "memoryTrick": "One letter — 'ly' as in 'million'.",
+      "words": [
+        {
+          "text": "љубав",
+          "roman": "ljubav",
+          "meaning": "love",
+          "emoji": "❤️"
+        },
+        {
+          "text": "људи",
+          "roman": "ljudi",
+          "meaning": "people",
+          "emoji": "🧑‍🤝‍🧑"
+        }
+      ]
+    },
+    {
+      "id": "sr-nje",
+      "char": "Њ њ",
+      "name": "nje",
+      "romanization": "nj",
+      "ipa": "/ɲ/",
+      "memoryTrick": "One letter — 'ny' as in 'canyon'.",
+      "words": [
+        {
+          "text": "њива",
+          "roman": "njiva",
+          "meaning": "field",
+          "emoji": "🌾"
+        },
+        {
+          "text": "коњ",
+          "roman": "konj",
+          "meaning": "horse",
+          "emoji": "🐴"
+        }
+      ]
+    },
+    {
+      "id": "sr-ts",
+      "char": "Ц ц",
+      "name": "ce",
+      "romanization": "c",
+      "ipa": "/ts/",
+      "memoryTrick": "Says 'ts' as in 'cats'.",
+      "words": [
+        {
+          "text": "цвет",
+          "roman": "cvet",
+          "meaning": "flower",
+          "emoji": "🌸"
+        },
+        {
+          "text": "црн",
+          "roman": "crn",
+          "meaning": "black",
+          "emoji": "⬛"
+        }
+      ]
+    }
+  ]
+}

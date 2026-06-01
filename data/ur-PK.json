@@ -1,0 +1,140 @@
+{
+  "language": "Urdu",
+  "code": "ur-PK",
+  "direction": "rtl",
+  "draft": true,
+  "letters": [
+    {
+      "id": "ur-te-retroflex",
+      "char": "ٹ",
+      "name": "ṭe",
+      "romanization": "ṭ",
+      "ipa": "/ʈ/",
+      "memoryTrick": "The boat shape with a small ط on top — a retroflex 'T', tongue curled back.",
+      "words": [
+        {
+          "text": "ٹماٹر",
+          "roman": "ṭamāṭar",
+          "meaning": "tomato",
+          "emoji": "🍅"
+        },
+        {
+          "text": "ٹوپی",
+          "roman": "ṭopī",
+          "meaning": "cap",
+          "emoji": "🧢"
+        }
+      ]
+    },
+    {
+      "id": "ur-pe",
+      "char": "پ",
+      "name": "pe",
+      "romanization": "p",
+      "ipa": "/p/",
+      "memoryTrick": "Three dots below the boat = 'p' (a Persian/Urdu addition).",
+      "words": [
+        {
+          "text": "پانی",
+          "roman": "pānī",
+          "meaning": "water",
+          "emoji": "💧"
+        },
+        {
+          "text": "پھل",
+          "roman": "phal",
+          "meaning": "fruit",
+          "emoji": "🍎"
+        }
+      ]
+    },
+    {
+      "id": "ur-che",
+      "char": "چ",
+      "name": "che",
+      "romanization": "ch",
+      "ipa": "/tʃ/",
+      "memoryTrick": "Three dots below jim = 'ch'.",
+      "words": [
+        {
+          "text": "چاند",
+          "roman": "chānd",
+          "meaning": "moon",
+          "emoji": "🌙"
+        },
+        {
+          "text": "چائے",
+          "roman": "chāy",
+          "meaning": "tea",
+          "emoji": "🍵"
+        }
+      ]
+    },
+    {
+      "id": "ur-dal-retroflex",
+      "char": "ڈ",
+      "name": "ḍāl",
+      "romanization": "ḍ",
+      "ipa": "/ɖ/",
+      "memoryTrick": "Dāl with a ط on top — a retroflex 'D'.",
+      "words": [
+        {
+          "text": "ڈبہ",
+          "roman": "ḍabba",
+          "meaning": "box",
+          "emoji": "📦"
+        },
+        {
+          "text": "ڈاک",
+          "roman": "ḍāk",
+          "meaning": "mail",
+          "emoji": "✉️"
+        }
+      ]
+    },
+    {
+      "id": "ur-gaf",
+      "char": "گ",
+      "name": "gāf",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "memoryTrick": "Kāf with an extra stroke = a hard 'g'.",
+      "words": [
+        {
+          "text": "گھر",
+          "roman": "ghar",
+          "meaning": "house",
+          "emoji": "🏠"
+        },
+        {
+          "text": "گل",
+          "roman": "gul",
+          "meaning": "flower",
+          "emoji": "🌸"
+        }
+      ]
+    },
+    {
+      "id": "ur-be",
+      "char": "ب",
+      "name": "be",
+      "romanization": "b",
+      "ipa": "/b/",
+      "memoryTrick": "One dot under the boat = 'b'.",
+      "words": [
+        {
+          "text": "بادل",
+          "roman": "bādal",
+          "meaning": "cloud",
+          "emoji": "☁️"
+        },
+        {
+          "text": "بکری",
+          "roman": "bakrī",
+          "meaning": "goat",
+          "emoji": "🐐"
+        }
+      ]
+    }
+  ]
+}

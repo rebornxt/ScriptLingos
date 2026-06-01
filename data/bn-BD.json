@@ -1,0 +1,140 @@
+{
+  "language": "Bengali",
+  "code": "bn-BD",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "bn-o",
+      "char": "অ",
+      "name": "ô",
+      "romanization": "ô",
+      "ipa": "/ɔ/",
+      "memoryTrick": "The inherent vowel — a rounded 'aw'.",
+      "words": [
+        {
+          "text": "অজগর",
+          "roman": "ojôgôr",
+          "meaning": "python",
+          "emoji": "🐍"
+        },
+        {
+          "text": "অসুখ",
+          "roman": "ôsukh",
+          "meaning": "illness",
+          "emoji": "🤒"
+        }
+      ]
+    },
+    {
+      "id": "bn-a",
+      "char": "আ",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "memoryTrick": "A long, open 'aah'.",
+      "words": [
+        {
+          "text": "আম",
+          "roman": "am",
+          "meaning": "mango",
+          "emoji": "🥭"
+        },
+        {
+          "text": "আকাশ",
+          "roman": "akash",
+          "meaning": "sky",
+          "emoji": "☁️"
+        }
+      ]
+    },
+    {
+      "id": "bn-ka",
+      "char": "ক",
+      "name": "kô",
+      "romanization": "k",
+      "ipa": "/k/",
+      "memoryTrick": "First consonant — 'k' carrying an inherent 'o'.",
+      "words": [
+        {
+          "text": "কলা",
+          "roman": "kôla",
+          "meaning": "banana",
+          "emoji": "🍌"
+        },
+        {
+          "text": "কাক",
+          "roman": "kak",
+          "meaning": "crow",
+          "emoji": "🐦"
+        }
+      ]
+    },
+    {
+      "id": "bn-kha",
+      "char": "খ",
+      "name": "khô",
+      "romanization": "kh",
+      "ipa": "/kʰ/",
+      "memoryTrick": "An aspirated 'k' with a puff of air.",
+      "words": [
+        {
+          "text": "খাবার",
+          "roman": "khabar",
+          "meaning": "food",
+          "emoji": "🍽️"
+        },
+        {
+          "text": "খেলা",
+          "roman": "khêla",
+          "meaning": "game",
+          "emoji": "⚽"
+        }
+      ]
+    },
+    {
+      "id": "bn-ga",
+      "char": "গ",
+      "name": "gô",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "memoryTrick": "A hard 'g'.",
+      "words": [
+        {
+          "text": "গরু",
+          "roman": "goru",
+          "meaning": "cow",
+          "emoji": "🐄"
+        },
+        {
+          "text": "গান",
+          "roman": "gan",
+          "meaning": "song",
+          "emoji": "🎵"
+        }
+      ]
+    },
+    {
+      "id": "bn-ma",
+      "char": "ম",
+      "name": "mô",
+      "romanization": "m",
+      "ipa": "/m/",
+      "memoryTrick": "Says 'm'.",
+      "words": [
+        {
+          "text": "মা",
+          "roman": "ma",
+          "meaning": "mother",
+          "emoji": "👩"
+        },
+        {
+          "text": "মাছ",
+          "roman": "mach",
+          "meaning": "fish",
+          "emoji": "🐟"
+        }
+      ]
+    }
+  ]
+}

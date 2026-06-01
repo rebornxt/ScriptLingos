@@ -70,6 +70,7 @@ export async function loadQuizItems(code) {
           name: letter.name,
           formName: f,
           romanization: letter.romanization,
+          ipa: letter.ipa || null,
           letterAudio: letter.letterAudio
         });
       }
@@ -82,6 +83,7 @@ export async function loadQuizItems(code) {
         name: letter.name,
         formName: null,
         romanization: letter.romanization,
+        ipa: letter.ipa || null,
         letterAudio: letter.letterAudio
       });
     }

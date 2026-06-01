@@ -14,6 +14,10 @@ const WORKER_URL = "https://tts.omwhatsup.workers.dev/";
 // Latin- and Cyrillic-script languages: a single letter is read by its name.
 const LETTER_NAME_LOCALES = new Set([
   "fr-FR", "de-DE", "it-IT", "pt-BR", "id-ID", "sw-KE", "ru-RU",
+  // newly drafted Latin & Cyrillic languages
+  "tr-TR", "nl-NL", "sv-SE", "nb-NO", "da-DK", "is-IS", "pl-PL", "cs-CZ",
+  "sk-SK", "hr-HR", "lt-LT", "lv-LV", "ro-RO", "fi-FI", "hu-HU",
+  "tl-PH", "ms-MY", "uk-UA", "bg-BG", "sr-RS",
 ]);
 
 // Native-script NAME for each letter, so the voice says the letter's name rather

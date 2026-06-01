@@ -1,0 +1,140 @@
+{
+  "language": "Persian (Farsi)",
+  "code": "fa-IR",
+  "direction": "rtl",
+  "draft": true,
+  "letters": [
+    {
+      "id": "fa-be",
+      "char": "ب",
+      "name": "be",
+      "romanization": "b",
+      "ipa": "/b/",
+      "memoryTrick": "One dot under the little boat shape = 'b'.",
+      "words": [
+        {
+          "text": "برادر",
+          "roman": "barâdar",
+          "meaning": "brother",
+          "emoji": "👦"
+        },
+        {
+          "text": "باد",
+          "roman": "bâd",
+          "meaning": "wind",
+          "emoji": "💨"
+        }
+      ]
+    },
+    {
+      "id": "fa-pe",
+      "char": "پ",
+      "name": "pe",
+      "romanization": "p",
+      "ipa": "/p/",
+      "memoryTrick": "Persian adds three dots under the boat for 'p' — a sound Arabic lacks.",
+      "words": [
+        {
+          "text": "پدر",
+          "roman": "pedar",
+          "meaning": "father",
+          "emoji": "👨"
+        },
+        {
+          "text": "پنج",
+          "roman": "panj",
+          "meaning": "five",
+          "emoji": "5️⃣"
+        }
+      ]
+    },
+    {
+      "id": "fa-che",
+      "char": "چ",
+      "name": "che",
+      "romanization": "ch",
+      "ipa": "/tʃ/",
+      "memoryTrick": "Three dots under jim = 'ch' as in 'chair'.",
+      "words": [
+        {
+          "text": "چای",
+          "roman": "châi",
+          "meaning": "tea",
+          "emoji": "🍵"
+        },
+        {
+          "text": "چشم",
+          "roman": "cheshm",
+          "meaning": "eye",
+          "emoji": "👁️"
+        }
+      ]
+    },
+    {
+      "id": "fa-zhe",
+      "char": "ژ",
+      "name": "že",
+      "romanization": "zh",
+      "ipa": "/ʒ/",
+      "memoryTrick": "Three dots over re = 'zh' like the 's' in 'measure'.",
+      "words": [
+        {
+          "text": "ژاپن",
+          "roman": "žâpon",
+          "meaning": "Japan",
+          "emoji": "🇯🇵"
+        },
+        {
+          "text": "ژاله",
+          "roman": "žâle",
+          "meaning": "dew",
+          "emoji": "💧"
+        }
+      ]
+    },
+    {
+      "id": "fa-sin",
+      "char": "س",
+      "name": "sin",
+      "romanization": "s",
+      "ipa": "/s/",
+      "memoryTrick": "Three little teeth in a row = 's' as in 'sun'.",
+      "words": [
+        {
+          "text": "سیب",
+          "roman": "sib",
+          "meaning": "apple",
+          "emoji": "🍎"
+        },
+        {
+          "text": "سلام",
+          "roman": "salâm",
+          "meaning": "hello",
+          "emoji": "👋"
+        }
+      ]
+    },
+    {
+      "id": "fa-gaf",
+      "char": "گ",
+      "name": "gâf",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "memoryTrick": "Kâf with an extra stroke = a hard 'g' as in 'go'.",
+      "words": [
+        {
+          "text": "گل",
+          "roman": "gol",
+          "meaning": "flower",
+          "emoji": "🌸"
+        },
+        {
+          "text": "گربه",
+          "roman": "gorbe",
+          "meaning": "cat",
+          "emoji": "🐱"
+        }
+      ]
+    }
+  ]
+}

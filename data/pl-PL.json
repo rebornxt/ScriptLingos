@@ -1,0 +1,140 @@
+{
+  "language": "Polish",
+  "code": "pl-PL",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "pl-l-slash",
+      "char": "Ł ł",
+      "name": "eł",
+      "romanization": "ł",
+      "ipa": "/w/",
+      "memoryTrick": "An L with a slash — says 'w' as in 'water'.",
+      "words": [
+        {
+          "text": "łabędź",
+          "roman": "wabendj",
+          "meaning": "swan",
+          "emoji": "🦢"
+        },
+        {
+          "text": "mały",
+          "roman": "mawy",
+          "meaning": "small",
+          "emoji": "🐜"
+        }
+      ]
+    },
+    {
+      "id": "pl-a-ogonek",
+      "char": "Ą ą",
+      "name": "ą",
+      "romanization": "ą",
+      "ipa": "/ɔ̃/",
+      "memoryTrick": "A nasal 'on' vowel.",
+      "words": [
+        {
+          "text": "mąka",
+          "roman": "monka",
+          "meaning": "flour",
+          "emoji": "🌾"
+        },
+        {
+          "text": "ząb",
+          "roman": "zomp",
+          "meaning": "tooth",
+          "emoji": "🦷"
+        }
+      ]
+    },
+    {
+      "id": "pl-e-ogonek",
+      "char": "Ę ę",
+      "name": "ę",
+      "romanization": "ę",
+      "ipa": "/ɛ̃/",
+      "memoryTrick": "A nasal 'en' vowel.",
+      "words": [
+        {
+          "text": "ręka",
+          "roman": "renka",
+          "meaning": "hand",
+          "emoji": "✋"
+        },
+        {
+          "text": "język",
+          "roman": "yenzyk",
+          "meaning": "tongue",
+          "emoji": "👅"
+        }
+      ]
+    },
+    {
+      "id": "pl-cz",
+      "char": "Cz cz",
+      "name": "cze",
+      "romanization": "cz",
+      "ipa": "/tʃ/",
+      "memoryTrick": "The digraph 'cz' = 'ch' as in 'chair'.",
+      "words": [
+        {
+          "text": "czas",
+          "roman": "chas",
+          "meaning": "time",
+          "emoji": "⏰"
+        },
+        {
+          "text": "czarny",
+          "roman": "charny",
+          "meaning": "black",
+          "emoji": "⬛"
+        }
+      ]
+    },
+    {
+      "id": "pl-sz",
+      "char": "Sz sz",
+      "name": "esze",
+      "romanization": "sz",
+      "ipa": "/ʃ/",
+      "memoryTrick": "The digraph 'sz' = 'sh'.",
+      "words": [
+        {
+          "text": "szkoła",
+          "roman": "shkowa",
+          "meaning": "school",
+          "emoji": "🏫"
+        },
+        {
+          "text": "mysz",
+          "roman": "mysh",
+          "meaning": "mouse",
+          "emoji": "🐭"
+        }
+      ]
+    },
+    {
+      "id": "pl-w",
+      "char": "W w",
+      "name": "wu",
+      "romanization": "w",
+      "ipa": "/v/",
+      "memoryTrick": "In Polish, 'w' says 'v'.",
+      "words": [
+        {
+          "text": "woda",
+          "roman": "voda",
+          "meaning": "water",
+          "emoji": "💧"
+        },
+        {
+          "text": "wino",
+          "roman": "vino",
+          "meaning": "wine",
+          "emoji": "🍷"
+        }
+      ]
+    }
+  ]
+}

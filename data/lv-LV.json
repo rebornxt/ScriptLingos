@@ -1,0 +1,140 @@
+{
+  "language": "Latvian",
+  "code": "lv-LV",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "lv-a-macron",
+      "char": "Ā ā",
+      "name": "ā",
+      "romanization": "ā",
+      "ipa": "/aː/",
+      "memoryTrick": "An 'a' with a macron — a long 'aah'.",
+      "words": [
+        {
+          "text": "ābols",
+          "roman": "aabols",
+          "meaning": "apple",
+          "emoji": "🍎"
+        },
+        {
+          "text": "māte",
+          "roman": "maate",
+          "meaning": "mother",
+          "emoji": "👩"
+        }
+      ]
+    },
+    {
+      "id": "lv-c-caron",
+      "char": "Č č",
+      "name": "čē",
+      "romanization": "č",
+      "ipa": "/tʃ/",
+      "memoryTrick": "A 'c' with a háček = 'ch'.",
+      "words": [
+        {
+          "text": "čalis",
+          "roman": "chalis",
+          "meaning": "guy",
+          "emoji": "👨"
+        },
+        {
+          "text": "lācis",
+          "roman": "laachis",
+          "meaning": "bear",
+          "emoji": "🐻"
+        }
+      ]
+    },
+    {
+      "id": "lv-e-macron",
+      "char": "Ē ē",
+      "name": "ē",
+      "romanization": "ē",
+      "ipa": "/eː/",
+      "memoryTrick": "A long 'eh'.",
+      "words": [
+        {
+          "text": "ēdiens",
+          "roman": "eediens",
+          "meaning": "food",
+          "emoji": "🍽️"
+        },
+        {
+          "text": "ēna",
+          "roman": "eena",
+          "meaning": "shadow",
+          "emoji": "👤"
+        }
+      ]
+    },
+    {
+      "id": "lv-g-comma",
+      "char": "Ģ ģ",
+      "name": "ģē",
+      "romanization": "ģ",
+      "ipa": "/ɟ/",
+      "memoryTrick": "A 'g' with a comma — a soft 'gy'.",
+      "words": [
+        {
+          "text": "ģimene",
+          "roman": "gyimene",
+          "meaning": "family",
+          "emoji": "👨‍👩‍👧"
+        },
+        {
+          "text": "ģitāra",
+          "roman": "gyitaara",
+          "meaning": "guitar",
+          "emoji": "🎸"
+        }
+      ]
+    },
+    {
+      "id": "lv-l-comma",
+      "char": "Ļ ļ",
+      "name": "ļē",
+      "romanization": "ļ",
+      "ipa": "/ʎ/",
+      "memoryTrick": "An 'l' with a comma — a soft 'ly'.",
+      "words": [
+        {
+          "text": "ļoti",
+          "roman": "lyoti",
+          "meaning": "very",
+          "emoji": "💯"
+        },
+        {
+          "text": "ļaudis",
+          "roman": "lyaudis",
+          "meaning": "people",
+          "emoji": "🧑‍🤝‍🧑"
+        }
+      ]
+    },
+    {
+      "id": "lv-s-caron",
+      "char": "Š š",
+      "name": "eš",
+      "romanization": "š",
+      "ipa": "/ʃ/",
+      "memoryTrick": "An 's' with a háček = 'sh'.",
+      "words": [
+        {
+          "text": "šuns",
+          "roman": "shuns",
+          "meaning": "dog",
+          "emoji": "🐕"
+        },
+        {
+          "text": "šokolāde",
+          "roman": "shokolaade",
+          "meaning": "chocolate",
+          "emoji": "🍫"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "language": "Swedish",
+  "code": "sv-SE",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "sv-a-ring",
+      "char": "Å å",
+      "name": "å",
+      "romanization": "å",
+      "ipa": "/oː/",
+      "memoryTrick": "An 'a' with a ring — a long 'oh'.",
+      "words": [
+        {
+          "text": "år",
+          "roman": "år",
+          "meaning": "year",
+          "emoji": "📅"
+        },
+        {
+          "text": "åtta",
+          "roman": "åtta",
+          "meaning": "eight",
+          "emoji": "8️⃣"
+        }
+      ]
+    },
+    {
+      "id": "sv-a-uml",
+      "char": "Ä ä",
+      "name": "ä",
+      "romanization": "ä",
+      "ipa": "/ɛ/",
+      "memoryTrick": "Says 'eh' as in 'bed'.",
+      "words": [
+        {
+          "text": "äpple",
+          "roman": "äpple",
+          "meaning": "apple",
+          "emoji": "🍎"
+        },
+        {
+          "text": "äta",
+          "roman": "äta",
+          "meaning": "to eat",
+          "emoji": "🍽️"
+        }
+      ]
+    },
+    {
+      "id": "sv-o-uml",
+      "char": "Ö ö",
+      "name": "ö",
+      "romanization": "ö",
+      "ipa": "/øː/",
+      "memoryTrick": "Round your lips for 'o' but say 'e'.",
+      "words": [
+        {
+          "text": "öga",
+          "roman": "öga",
+          "meaning": "eye",
+          "emoji": "👁️"
+        },
+        {
+          "text": "öl",
+          "roman": "öl",
+          "meaning": "beer",
+          "emoji": "🍺"
+        }
+      ]
+    },
+    {
+      "id": "sv-k",
+      "char": "K k",
+      "name": "kå",
+      "romanization": "k",
+      "ipa": "/ɕ/",
+      "memoryTrick": "Before e, i, y the 'k' softens to a 'sh'-like sound.",
+      "words": [
+        {
+          "text": "kär",
+          "roman": "chär",
+          "meaning": "dear",
+          "emoji": "❤️"
+        },
+        {
+          "text": "kyrka",
+          "roman": "chyrka",
+          "meaning": "church",
+          "emoji": "⛪"
+        }
+      ]
+    },
+    {
+      "id": "sv-j",
+      "char": "J j",
+      "name": "ji",
+      "romanization": "j",
+      "ipa": "/j/",
+      "memoryTrick": "Says 'y' as in 'yes'.",
+      "words": [
+        {
+          "text": "ja",
+          "roman": "ja",
+          "meaning": "yes",
+          "emoji": "✅"
+        },
+        {
+          "text": "jul",
+          "roman": "jul",
+          "meaning": "Christmas",
+          "emoji": "🎄"
+        }
+      ]
+    },
+    {
+      "id": "sv-o",
+      "char": "O o",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/u/",
+      "memoryTrick": "Often says 'oo' as in 'food'.",
+      "words": [
+        {
+          "text": "bo",
+          "roman": "boo",
+          "meaning": "to live",
+          "emoji": "🏠"
+        },
+        {
+          "text": "sol",
+          "roman": "sool",
+          "meaning": "sun",
+          "emoji": "☀️"
+        }
+      ]
+    }
+  ]
+}

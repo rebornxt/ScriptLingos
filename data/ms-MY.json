@@ -1,0 +1,140 @@
+{
+  "language": "Malay",
+  "code": "ms-MY",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "ms-a",
+      "char": "A a",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "memoryTrick": "An open 'ah'.",
+      "words": [
+        {
+          "text": "air",
+          "roman": "air",
+          "meaning": "water",
+          "emoji": "💧"
+        },
+        {
+          "text": "ayam",
+          "roman": "ayam",
+          "meaning": "chicken",
+          "emoji": "🐔"
+        }
+      ]
+    },
+    {
+      "id": "ms-b",
+      "char": "B b",
+      "name": "bi",
+      "romanization": "b",
+      "ipa": "/b/",
+      "memoryTrick": "Same 'b' as in English.",
+      "words": [
+        {
+          "text": "buku",
+          "roman": "buku",
+          "meaning": "book",
+          "emoji": "📖"
+        },
+        {
+          "text": "bunga",
+          "roman": "bunga",
+          "meaning": "flower",
+          "emoji": "🌸"
+        }
+      ]
+    },
+    {
+      "id": "ms-c",
+      "char": "C c",
+      "name": "si",
+      "romanization": "c",
+      "ipa": "/tʃ/",
+      "memoryTrick": "In Malay, C always says 'ch' as in 'chair'.",
+      "words": [
+        {
+          "text": "cinta",
+          "roman": "cinta",
+          "meaning": "love",
+          "emoji": "❤️"
+        },
+        {
+          "text": "cawan",
+          "roman": "cawan",
+          "meaning": "cup",
+          "emoji": "☕"
+        }
+      ]
+    },
+    {
+      "id": "ms-d",
+      "char": "D d",
+      "name": "di",
+      "romanization": "d",
+      "ipa": "/d/",
+      "memoryTrick": "Same 'd'.",
+      "words": [
+        {
+          "text": "dua",
+          "roman": "dua",
+          "meaning": "two",
+          "emoji": "2️⃣"
+        },
+        {
+          "text": "daun",
+          "roman": "daun",
+          "meaning": "leaf",
+          "emoji": "🍃"
+        }
+      ]
+    },
+    {
+      "id": "ms-ng",
+      "char": "Ng ng",
+      "name": "eng",
+      "romanization": "ng",
+      "ipa": "/ŋ/",
+      "memoryTrick": "The 'ng' digraph as in 'sing'.",
+      "words": [
+        {
+          "text": "orang",
+          "roman": "orang",
+          "meaning": "person",
+          "emoji": "🧍"
+        },
+        {
+          "text": "hidung",
+          "roman": "hidung",
+          "meaning": "nose",
+          "emoji": "👃"
+        }
+      ]
+    },
+    {
+      "id": "ms-s",
+      "char": "S s",
+      "name": "es",
+      "romanization": "s",
+      "ipa": "/s/",
+      "memoryTrick": "A plain 's'.",
+      "words": [
+        {
+          "text": "satu",
+          "roman": "satu",
+          "meaning": "one",
+          "emoji": "1️⃣"
+        },
+        {
+          "text": "susu",
+          "roman": "susu",
+          "meaning": "milk",
+          "emoji": "🥛"
+        }
+      ]
+    }
+  ]
+}

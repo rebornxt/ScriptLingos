@@ -1,0 +1,140 @@
+{
+  "language": "Greek",
+  "code": "el-GR",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "el-alpha",
+      "char": "Α α",
+      "name": "alfa",
+      "romanization": "a",
+      "ipa": "/a/",
+      "memoryTrick": "Ancestor of the Latin A — an open 'ah'.",
+      "words": [
+        {
+          "text": "αγάπη",
+          "roman": "agápi",
+          "meaning": "love",
+          "emoji": "❤️"
+        },
+        {
+          "text": "άνθρωπος",
+          "roman": "ánthropos",
+          "meaning": "human",
+          "emoji": "🧍"
+        }
+      ]
+    },
+    {
+      "id": "el-vita",
+      "char": "Β β",
+      "name": "víta",
+      "romanization": "v",
+      "ipa": "/v/",
+      "memoryTrick": "Looks like 'B' but says 'v' in modern Greek.",
+      "words": [
+        {
+          "text": "βιβλίο",
+          "roman": "vivlío",
+          "meaning": "book",
+          "emoji": "📖"
+        },
+        {
+          "text": "βουνό",
+          "roman": "vounó",
+          "meaning": "mountain",
+          "emoji": "⛰️"
+        }
+      ]
+    },
+    {
+      "id": "el-gamma",
+      "char": "Γ γ",
+      "name": "gámma",
+      "romanization": "gh",
+      "ipa": "/ɣ/",
+      "memoryTrick": "A soft, throaty 'gh'; the Latin C and G descend from it.",
+      "words": [
+        {
+          "text": "γάλα",
+          "roman": "gála",
+          "meaning": "milk",
+          "emoji": "🥛"
+        },
+        {
+          "text": "γάτα",
+          "roman": "gáta",
+          "meaning": "cat",
+          "emoji": "🐱"
+        }
+      ]
+    },
+    {
+      "id": "el-delta",
+      "char": "Δ δ",
+      "name": "délta",
+      "romanization": "dh",
+      "ipa": "/ð/",
+      "memoryTrick": "A triangle that says 'th' as in 'this'.",
+      "words": [
+        {
+          "text": "δέντρο",
+          "roman": "déntro",
+          "meaning": "tree",
+          "emoji": "🌳"
+        },
+        {
+          "text": "δρόμος",
+          "roman": "drómos",
+          "meaning": "road",
+          "emoji": "🛣️"
+        }
+      ]
+    },
+    {
+      "id": "el-pi",
+      "char": "Π π",
+      "name": "pi",
+      "romanization": "p",
+      "ipa": "/p/",
+      "memoryTrick": "The math symbol — two legs and a roof = 'p'.",
+      "words": [
+        {
+          "text": "πατέρας",
+          "roman": "patéras",
+          "meaning": "father",
+          "emoji": "👨"
+        },
+        {
+          "text": "πόλη",
+          "roman": "póli",
+          "meaning": "city",
+          "emoji": "🏙️"
+        }
+      ]
+    },
+    {
+      "id": "el-omega",
+      "char": "Ω ω",
+      "name": "oméga",
+      "romanization": "o",
+      "ipa": "/o/",
+      "memoryTrick": "The last letter — 'big O', a long 'oh'.",
+      "words": [
+        {
+          "text": "ώρα",
+          "roman": "óra",
+          "meaning": "hour",
+          "emoji": "🕐"
+        },
+        {
+          "text": "ωκεανός",
+          "roman": "okeanós",
+          "meaning": "ocean",
+          "emoji": "🌊"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "language": "Romanian",
+  "code": "ro-RO",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "ro-a-breve",
+      "char": "Ă ă",
+      "name": "ă",
+      "romanization": "ă",
+      "ipa": "/ə/",
+      "memoryTrick": "An 'a' with a breve — a neutral 'uh' (schwa).",
+      "words": [
+        {
+          "text": "măr",
+          "roman": "mar",
+          "meaning": "apple",
+          "emoji": "🍎"
+        },
+        {
+          "text": "casă",
+          "roman": "casuh",
+          "meaning": "house",
+          "emoji": "🏠"
+        }
+      ]
+    },
+    {
+      "id": "ro-a-circ",
+      "char": "Â â",
+      "name": "â",
+      "romanization": "â",
+      "ipa": "/ɨ/",
+      "memoryTrick": "An 'a' with a circumflex — a deep central vowel.",
+      "words": [
+        {
+          "text": "român",
+          "roman": "romeen",
+          "meaning": "Romanian",
+          "emoji": "🇷🇴"
+        },
+        {
+          "text": "mâine",
+          "roman": "mwine",
+          "meaning": "tomorrow",
+          "emoji": "📅"
+        }
+      ]
+    },
+    {
+      "id": "ro-i-circ",
+      "char": "Î î",
+      "name": "î",
+      "romanization": "î",
+      "ipa": "/ɨ/",
+      "memoryTrick": "Same sound as â, but used at the edges of a word.",
+      "words": [
+        {
+          "text": "în",
+          "roman": "ăn",
+          "meaning": "in",
+          "emoji": "➡️"
+        },
+        {
+          "text": "înger",
+          "roman": "ănjer",
+          "meaning": "angel",
+          "emoji": "😇"
+        }
+      ]
+    },
+    {
+      "id": "ro-s-comma",
+      "char": "Ș ș",
+      "name": "șe",
+      "romanization": "ș",
+      "ipa": "/ʃ/",
+      "memoryTrick": "An 's' with a comma = 'sh'.",
+      "words": [
+        {
+          "text": "și",
+          "roman": "shi",
+          "meaning": "and",
+          "emoji": "➕"
+        },
+        {
+          "text": "ușă",
+          "roman": "ushuh",
+          "meaning": "door",
+          "emoji": "🚪"
+        }
+      ]
+    },
+    {
+      "id": "ro-t-comma",
+      "char": "Ț ț",
+      "name": "țe",
+      "romanization": "ț",
+      "ipa": "/ts/",
+      "memoryTrick": "A 't' with a comma = 'ts' as in 'cats'.",
+      "words": [
+        {
+          "text": "țară",
+          "roman": "tsaruh",
+          "meaning": "country",
+          "emoji": "🏞️"
+        },
+        {
+          "text": "preț",
+          "roman": "prets",
+          "meaning": "price",
+          "emoji": "🏷️"
+        }
+      ]
+    },
+    {
+      "id": "ro-c",
+      "char": "C c",
+      "name": "ce",
+      "romanization": "c",
+      "ipa": "/tʃ/",
+      "memoryTrick": "Before e or i, 'c' says 'ch'.",
+      "words": [
+        {
+          "text": "cer",
+          "roman": "cher",
+          "meaning": "sky",
+          "emoji": "☁️"
+        },
+        {
+          "text": "cireașă",
+          "roman": "chireashuh",
+          "meaning": "cherry",
+          "emoji": "🍒"
+        }
+      ]
+    }
+  ]
+}

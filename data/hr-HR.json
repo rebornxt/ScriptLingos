@@ -1,0 +1,140 @@
+{
+  "language": "Croatian",
+  "code": "hr-HR",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "hr-c-caron",
+      "char": "Č č",
+      "name": "čé",
+      "romanization": "č",
+      "ipa": "/tʃ/",
+      "memoryTrick": "A 'c' with a háček = a hard 'ch'.",
+      "words": [
+        {
+          "text": "čaj",
+          "roman": "chai",
+          "meaning": "tea",
+          "emoji": "🍵"
+        },
+        {
+          "text": "čovjek",
+          "roman": "chovyek",
+          "meaning": "person",
+          "emoji": "🧍"
+        }
+      ]
+    },
+    {
+      "id": "hr-c-acute",
+      "char": "Ć ć",
+      "name": "ćé",
+      "romanization": "ć",
+      "ipa": "/tɕ/",
+      "memoryTrick": "A 'c' with an accent = a soft 'ch'.",
+      "words": [
+        {
+          "text": "ćup",
+          "roman": "chup",
+          "meaning": "jar",
+          "emoji": "🏺"
+        },
+        {
+          "text": "noć",
+          "roman": "noch",
+          "meaning": "night",
+          "emoji": "🌙"
+        }
+      ]
+    },
+    {
+      "id": "hr-d-stroke",
+      "char": "Đ đ",
+      "name": "đe",
+      "romanization": "đ",
+      "ipa": "/dʑ/",
+      "memoryTrick": "A 'd' with a stroke = a soft 'j'.",
+      "words": [
+        {
+          "text": "đak",
+          "roman": "djak",
+          "meaning": "pupil",
+          "emoji": "🎒"
+        },
+        {
+          "text": "žeđ",
+          "roman": "zhedj",
+          "meaning": "thirst",
+          "emoji": "💧"
+        }
+      ]
+    },
+    {
+      "id": "hr-s-caron",
+      "char": "Š š",
+      "name": "eš",
+      "romanization": "š",
+      "ipa": "/ʃ/",
+      "memoryTrick": "An 's' with a háček = 'sh'.",
+      "words": [
+        {
+          "text": "šuma",
+          "roman": "shuma",
+          "meaning": "forest",
+          "emoji": "🌲"
+        },
+        {
+          "text": "miš",
+          "roman": "mish",
+          "meaning": "mouse",
+          "emoji": "🐭"
+        }
+      ]
+    },
+    {
+      "id": "hr-z-caron",
+      "char": "Ž ž",
+      "name": "žet",
+      "romanization": "ž",
+      "ipa": "/ʒ/",
+      "memoryTrick": "A 'z' with a háček = 'zh'.",
+      "words": [
+        {
+          "text": "žaba",
+          "roman": "zhaba",
+          "meaning": "frog",
+          "emoji": "🐸"
+        },
+        {
+          "text": "žena",
+          "roman": "zhena",
+          "meaning": "woman",
+          "emoji": "👩"
+        }
+      ]
+    },
+    {
+      "id": "hr-lj",
+      "char": "Lj lj",
+      "name": "elj",
+      "romanization": "lj",
+      "ipa": "/ʎ/",
+      "memoryTrick": "A digraph — 'ly' as in 'million'.",
+      "words": [
+        {
+          "text": "ljubav",
+          "roman": "lyubav",
+          "meaning": "love",
+          "emoji": "❤️"
+        },
+        {
+          "text": "ljeto",
+          "roman": "lyeto",
+          "meaning": "summer",
+          "emoji": "☀️"
+        }
+      ]
+    }
+  ]
+}

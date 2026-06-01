@@ -1,0 +1,140 @@
+{
+  "language": "Tagalog (Filipino)",
+  "code": "tl-PH",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "tl-a",
+      "char": "A a",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "memoryTrick": "An open 'ah' as in 'father'.",
+      "words": [
+        {
+          "text": "araw",
+          "roman": "araw",
+          "meaning": "sun / day",
+          "emoji": "☀️"
+        },
+        {
+          "text": "aso",
+          "roman": "aso",
+          "meaning": "dog",
+          "emoji": "🐕"
+        }
+      ]
+    },
+    {
+      "id": "tl-b",
+      "char": "B b",
+      "name": "ba",
+      "romanization": "b",
+      "ipa": "/b/",
+      "memoryTrick": "Same 'b' as in English.",
+      "words": [
+        {
+          "text": "bahay",
+          "roman": "bahay",
+          "meaning": "house",
+          "emoji": "🏠"
+        },
+        {
+          "text": "bata",
+          "roman": "bata",
+          "meaning": "child",
+          "emoji": "🧒"
+        }
+      ]
+    },
+    {
+      "id": "tl-k",
+      "char": "K k",
+      "name": "ka",
+      "romanization": "k",
+      "ipa": "/k/",
+      "memoryTrick": "A hard 'k'; Filipino prefers K over C.",
+      "words": [
+        {
+          "text": "kamay",
+          "roman": "kamay",
+          "meaning": "hand",
+          "emoji": "✋"
+        },
+        {
+          "text": "kain",
+          "roman": "kain",
+          "meaning": "eat",
+          "emoji": "🍽️"
+        }
+      ]
+    },
+    {
+      "id": "tl-ng",
+      "char": "Ng ng",
+      "name": "nga",
+      "romanization": "ng",
+      "ipa": "/ŋ/",
+      "memoryTrick": "A single letter in Filipino — the 'ng' of 'sing'.",
+      "words": [
+        {
+          "text": "ngipin",
+          "roman": "ngipin",
+          "meaning": "tooth",
+          "emoji": "🦷"
+        },
+        {
+          "text": "ngiti",
+          "roman": "ngiti",
+          "meaning": "smile",
+          "emoji": "😊"
+        }
+      ]
+    },
+    {
+      "id": "tl-o",
+      "char": "O o",
+      "name": "o",
+      "romanization": "o",
+      "ipa": "/o/",
+      "memoryTrick": "A rounded 'oh'.",
+      "words": [
+        {
+          "text": "oo",
+          "roman": "oo",
+          "meaning": "yes",
+          "emoji": "✅"
+        },
+        {
+          "text": "oras",
+          "roman": "oras",
+          "meaning": "time",
+          "emoji": "🕐"
+        }
+      ]
+    },
+    {
+      "id": "tl-t",
+      "char": "T t",
+      "name": "ta",
+      "romanization": "t",
+      "ipa": "/t/",
+      "memoryTrick": "A crisp 't'.",
+      "words": [
+        {
+          "text": "tubig",
+          "roman": "tubig",
+          "meaning": "water",
+          "emoji": "💧"
+        },
+        {
+          "text": "tao",
+          "roman": "tao",
+          "meaning": "person",
+          "emoji": "🧍"
+        }
+      ]
+    }
+  ]
+}

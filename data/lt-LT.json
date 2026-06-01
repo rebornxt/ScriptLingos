@@ -1,0 +1,140 @@
+{
+  "language": "Lithuanian",
+  "code": "lt-LT",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "lt-e-dot",
+      "char": "Ė ė",
+      "name": "ė",
+      "romanization": "ė",
+      "ipa": "/eː/",
+      "memoryTrick": "An 'e' with a dot — a long, closed 'ay'.",
+      "words": [
+        {
+          "text": "dėdė",
+          "roman": "dede",
+          "meaning": "uncle",
+          "emoji": "👨"
+        },
+        {
+          "text": "ėriukas",
+          "roman": "eriukas",
+          "meaning": "lamb",
+          "emoji": "🐑"
+        }
+      ]
+    },
+    {
+      "id": "lt-c-caron",
+      "char": "Č č",
+      "name": "čé",
+      "romanization": "č",
+      "ipa": "/tʃ/",
+      "memoryTrick": "A 'c' with a háček = 'ch'.",
+      "words": [
+        {
+          "text": "čia",
+          "roman": "chia",
+          "meaning": "here",
+          "emoji": "📍"
+        },
+        {
+          "text": "ačiū",
+          "roman": "achoo",
+          "meaning": "thank you",
+          "emoji": "🙏"
+        }
+      ]
+    },
+    {
+      "id": "lt-s-caron",
+      "char": "Š š",
+      "name": "eš",
+      "romanization": "š",
+      "ipa": "/ʃ/",
+      "memoryTrick": "An 's' with a háček = 'sh'.",
+      "words": [
+        {
+          "text": "šuo",
+          "roman": "shuo",
+          "meaning": "dog",
+          "emoji": "🐕"
+        },
+        {
+          "text": "šeši",
+          "roman": "sheshi",
+          "meaning": "six",
+          "emoji": "6️⃣"
+        }
+      ]
+    },
+    {
+      "id": "lt-z-caron",
+      "char": "Ž ž",
+      "name": "žė",
+      "romanization": "ž",
+      "ipa": "/ʒ/",
+      "memoryTrick": "A 'z' with a háček = 'zh'.",
+      "words": [
+        {
+          "text": "žmogus",
+          "roman": "zhmogus",
+          "meaning": "person",
+          "emoji": "🧍"
+        },
+        {
+          "text": "žuvis",
+          "roman": "zhuvis",
+          "meaning": "fish",
+          "emoji": "🐟"
+        }
+      ]
+    },
+    {
+      "id": "lt-u-macron",
+      "char": "Ū ū",
+      "name": "ū",
+      "romanization": "ū",
+      "ipa": "/uː/",
+      "memoryTrick": "A 'u' with a macron — a long 'oo'.",
+      "words": [
+        {
+          "text": "ūsai",
+          "roman": "oosai",
+          "meaning": "moustache",
+          "emoji": "👨"
+        },
+        {
+          "text": "dūmai",
+          "roman": "doomai",
+          "meaning": "smoke",
+          "emoji": "💨"
+        }
+      ]
+    },
+    {
+      "id": "lt-y",
+      "char": "Y y",
+      "name": "y",
+      "romanization": "y",
+      "ipa": "/iː/",
+      "memoryTrick": "In Lithuanian, 'y' is a long 'ee' vowel.",
+      "words": [
+        {
+          "text": "yra",
+          "roman": "yra",
+          "meaning": "is / are",
+          "emoji": "✅"
+        },
+        {
+          "text": "vyras",
+          "roman": "vyras",
+          "meaning": "man",
+          "emoji": "👨"
+        }
+      ]
+    }
+  ]
+}

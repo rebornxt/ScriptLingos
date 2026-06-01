@@ -1,0 +1,140 @@
+{
+  "language": "Ukrainian",
+  "code": "uk-UA",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "uk-a",
+      "char": "А а",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/a/",
+      "memoryTrick": "Looks and sounds like Latin A — 'ah'.",
+      "words": [
+        {
+          "text": "автобус",
+          "roman": "avtobus",
+          "meaning": "bus",
+          "emoji": "🚌"
+        },
+        {
+          "text": "акула",
+          "roman": "akula",
+          "meaning": "shark",
+          "emoji": "🦈"
+        }
+      ]
+    },
+    {
+      "id": "uk-b",
+      "char": "Б б",
+      "name": "be",
+      "romanization": "b",
+      "ipa": "/b/",
+      "memoryTrick": "Says 'b' — don't confuse it with В.",
+      "words": [
+        {
+          "text": "банан",
+          "roman": "banan",
+          "meaning": "banana",
+          "emoji": "🍌"
+        },
+        {
+          "text": "брат",
+          "roman": "brat",
+          "meaning": "brother",
+          "emoji": "👦"
+        }
+      ]
+    },
+    {
+      "id": "uk-v",
+      "char": "В в",
+      "name": "ve",
+      "romanization": "v",
+      "ipa": "/ʋ/",
+      "memoryTrick": "Looks like 'B' but says 'v'.",
+      "words": [
+        {
+          "text": "вода",
+          "roman": "voda",
+          "meaning": "water",
+          "emoji": "💧"
+        },
+        {
+          "text": "вікно",
+          "roman": "vikno",
+          "meaning": "window",
+          "emoji": "🪟"
+        }
+      ]
+    },
+    {
+      "id": "uk-h",
+      "char": "Г г",
+      "name": "he",
+      "romanization": "h",
+      "ipa": "/ɦ/",
+      "memoryTrick": "Ukrainian Г is a soft, breathy 'h'.",
+      "words": [
+        {
+          "text": "гора",
+          "roman": "hora",
+          "meaning": "mountain",
+          "emoji": "⛰️"
+        },
+        {
+          "text": "голова",
+          "roman": "holova",
+          "meaning": "head",
+          "emoji": "🗣️"
+        }
+      ]
+    },
+    {
+      "id": "uk-yi",
+      "char": "Ї ї",
+      "name": "yi",
+      "romanization": "yi",
+      "ipa": "/ji/",
+      "memoryTrick": "Uniquely Ukrainian — it says 'yi'.",
+      "words": [
+        {
+          "text": "їжак",
+          "roman": "yizhak",
+          "meaning": "hedgehog",
+          "emoji": "🦔"
+        },
+        {
+          "text": "їжа",
+          "roman": "yizha",
+          "meaning": "food",
+          "emoji": "🍽️"
+        }
+      ]
+    },
+    {
+      "id": "uk-d",
+      "char": "Д д",
+      "name": "de",
+      "romanization": "d",
+      "ipa": "/d/",
+      "memoryTrick": "Says 'd'.",
+      "words": [
+        {
+          "text": "дім",
+          "roman": "dim",
+          "meaning": "home",
+          "emoji": "🏠"
+        },
+        {
+          "text": "день",
+          "roman": "den",
+          "meaning": "day",
+          "emoji": "📅"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "language": "Czech",
+  "code": "cs-CZ",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "cs-c-caron",
+      "char": "Č č",
+      "name": "čé",
+      "romanization": "č",
+      "ipa": "/tʃ/",
+      "memoryTrick": "A 'c' with a háček = 'ch'.",
+      "words": [
+        {
+          "text": "čaj",
+          "roman": "chai",
+          "meaning": "tea",
+          "emoji": "🍵"
+        },
+        {
+          "text": "čas",
+          "roman": "chas",
+          "meaning": "time",
+          "emoji": "⏰"
+        }
+      ]
+    },
+    {
+      "id": "cs-r-caron",
+      "char": "Ř ř",
+      "name": "eř",
+      "romanization": "ř",
+      "ipa": "/r̝/",
+      "memoryTrick": "The hardest Czech sound — a rolled 'r' buzzed like 'zh'.",
+      "words": [
+        {
+          "text": "řeka",
+          "roman": "rzheka",
+          "meaning": "river",
+          "emoji": "🌊"
+        },
+        {
+          "text": "tři",
+          "roman": "trzhi",
+          "meaning": "three",
+          "emoji": "3️⃣"
+        }
+      ]
+    },
+    {
+      "id": "cs-s-caron",
+      "char": "Š š",
+      "name": "eš",
+      "romanization": "š",
+      "ipa": "/ʃ/",
+      "memoryTrick": "An 's' with a háček = 'sh'.",
+      "words": [
+        {
+          "text": "šest",
+          "roman": "shest",
+          "meaning": "six",
+          "emoji": "6️⃣"
+        },
+        {
+          "text": "myš",
+          "roman": "mysh",
+          "meaning": "mouse",
+          "emoji": "🐭"
+        }
+      ]
+    },
+    {
+      "id": "cs-z-caron",
+      "char": "Ž ž",
+      "name": "žet",
+      "romanization": "ž",
+      "ipa": "/ʒ/",
+      "memoryTrick": "A 'z' with a háček = 'zh' as in 'measure'.",
+      "words": [
+        {
+          "text": "žena",
+          "roman": "zhena",
+          "meaning": "woman",
+          "emoji": "👩"
+        },
+        {
+          "text": "žába",
+          "roman": "zhaba",
+          "meaning": "frog",
+          "emoji": "🐸"
+        }
+      ]
+    },
+    {
+      "id": "cs-e-caron",
+      "char": "Ě ě",
+      "name": "ě",
+      "romanization": "ě",
+      "ipa": "/jɛ/",
+      "memoryTrick": "An 'e' that softens the consonant before it — 'ye'.",
+      "words": [
+        {
+          "text": "děti",
+          "roman": "dyeti",
+          "meaning": "children",
+          "emoji": "🧒"
+        },
+        {
+          "text": "město",
+          "roman": "myesto",
+          "meaning": "city",
+          "emoji": "🏙️"
+        }
+      ]
+    },
+    {
+      "id": "cs-u-ring",
+      "char": "Ů ů",
+      "name": "ů",
+      "romanization": "ů",
+      "ipa": "/uː/",
+      "memoryTrick": "A 'u' with a ring — a long 'oo'.",
+      "words": [
+        {
+          "text": "dům",
+          "roman": "doom",
+          "meaning": "house",
+          "emoji": "🏠"
+        },
+        {
+          "text": "kůň",
+          "roman": "koony",
+          "meaning": "horse",
+          "emoji": "🐴"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "language": "Turkish",
+  "code": "tr-TR",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "tr-g-breve",
+      "char": "Ğ ğ",
+      "name": "yumuşak ge",
+      "romanization": "ğ",
+      "ipa": "/ː/",
+      "memoryTrick": "The 'soft g' is silent — it just lengthens the vowel before it.",
+      "words": [
+        {
+          "text": "dağ",
+          "roman": "dā",
+          "meaning": "mountain",
+          "emoji": "⛰️"
+        },
+        {
+          "text": "ağaç",
+          "roman": "āaç",
+          "meaning": "tree",
+          "emoji": "🌳"
+        }
+      ]
+    },
+    {
+      "id": "tr-i-dotless",
+      "char": "I ı",
+      "name": "ı",
+      "romanization": "ı",
+      "ipa": "/ɯ/",
+      "memoryTrick": "An 'i' with no dot — a back vowel, like the 'e' in 'open'.",
+      "words": [
+        {
+          "text": "ışık",
+          "roman": "ışık",
+          "meaning": "light",
+          "emoji": "💡"
+        },
+        {
+          "text": "kız",
+          "roman": "kız",
+          "meaning": "girl",
+          "emoji": "👧"
+        }
+      ]
+    },
+    {
+      "id": "tr-s-cedilla",
+      "char": "Ş ş",
+      "name": "şe",
+      "romanization": "ş",
+      "ipa": "/ʃ/",
+      "memoryTrick": "An 's' with a tail = 'sh' as in 'ship'.",
+      "words": [
+        {
+          "text": "şeker",
+          "roman": "şeker",
+          "meaning": "sugar",
+          "emoji": "🍬"
+        },
+        {
+          "text": "kuş",
+          "roman": "kuş",
+          "meaning": "bird",
+          "emoji": "🐦"
+        }
+      ]
+    },
+    {
+      "id": "tr-c-cedilla",
+      "char": "Ç ç",
+      "name": "çe",
+      "romanization": "ç",
+      "ipa": "/tʃ/",
+      "memoryTrick": "A 'c' with a tail = 'ch' as in 'chair'.",
+      "words": [
+        {
+          "text": "çay",
+          "roman": "çay",
+          "meaning": "tea",
+          "emoji": "🍵"
+        },
+        {
+          "text": "çiçek",
+          "roman": "çiçek",
+          "meaning": "flower",
+          "emoji": "🌸"
+        }
+      ]
+    },
+    {
+      "id": "tr-o-uml",
+      "char": "Ö ö",
+      "name": "ö",
+      "romanization": "ö",
+      "ipa": "/œ/",
+      "memoryTrick": "Round your lips for 'o' but say 'e'.",
+      "words": [
+        {
+          "text": "göz",
+          "roman": "göz",
+          "meaning": "eye",
+          "emoji": "👁️"
+        },
+        {
+          "text": "söz",
+          "roman": "söz",
+          "meaning": "word",
+          "emoji": "💬"
+        }
+      ]
+    },
+    {
+      "id": "tr-u-uml",
+      "char": "Ü ü",
+      "name": "ü",
+      "romanization": "ü",
+      "ipa": "/y/",
+      "memoryTrick": "Round your lips for 'oo' but say 'ee'.",
+      "words": [
+        {
+          "text": "gün",
+          "roman": "gün",
+          "meaning": "day",
+          "emoji": "☀️"
+        },
+        {
+          "text": "üzüm",
+          "roman": "üzüm",
+          "meaning": "grape",
+          "emoji": "🍇"
+        }
+      ]
+    }
+  ]
+}

@@ -1,26 +1,762 @@
 {
   "groups": [
-    { "id": "rtl",   "label": "Right-to-Left Scripts", "accent": "group-rtl",   "blurb": "Written and read from right to left." },
-    { "id": "indic", "label": "Indic & Brahmic",        "accent": "group-indic", "blurb": "Syllable-based abugida scripts." },
-    { "id": "cyr",   "label": "Cyrillic",               "accent": "group-cyr",   "blurb": "Used across Eastern Europe & Central Asia." },
-    { "id": "euro",  "label": "European · Latin",        "accent": "group-euro",  "blurb": "The Latin alphabet, with local twists." },
-    { "id": "cjk",   "label": "East Asian",             "accent": "group-cjk",   "blurb": "Featural & syllabic systems." },
-    { "id": "sea",   "label": "Southeast Asian",        "accent": "group-sea",   "blurb": "Rounded Brahmic-descended scripts." },
-    { "id": "afro",  "label": "African & Austronesian", "accent": "group-afro",  "blurb": "Latin script across continents." }
+    {
+      "id": "rtl",
+      "label": "Right-to-Left Scripts",
+      "accent": "group-rtl",
+      "blurb": "Written and read from right to left."
+    },
+    {
+      "id": "indic",
+      "label": "Indic & Brahmic",
+      "accent": "group-indic",
+      "blurb": "Syllable-based abugida scripts."
+    },
+    {
+      "id": "cyr",
+      "label": "Cyrillic",
+      "accent": "group-cyr",
+      "blurb": "Used across Eastern Europe & Central Asia."
+    },
+    {
+      "id": "hellenic",
+      "label": "Hellenic (Greek)",
+      "accent": "group-hellenic",
+      "blurb": "The Greek alphabet — ancestor of Latin & Cyrillic."
+    },
+    {
+      "id": "euro",
+      "label": "European · Latin",
+      "accent": "group-euro",
+      "blurb": "The Latin alphabet, with local twists."
+    },
+    {
+      "id": "cjk",
+      "label": "East Asian",
+      "accent": "group-cjk",
+      "blurb": "Featural & syllabic systems."
+    },
+    {
+      "id": "sea",
+      "label": "Southeast Asian",
+      "accent": "group-sea",
+      "blurb": "Rounded Brahmic-descended scripts."
+    },
+    {
+      "id": "afro",
+      "label": "African & Austronesian",
+      "accent": "group-afro",
+      "blurb": "Latin script across continents."
+    },
+    {
+      "id": "caucasus",
+      "label": "Caucasus",
+      "accent": "group-caucasus",
+      "blurb": "The unique alphabets of the Caucasus."
+    }
   ],
   "languages": [
-    { "code": "ar-SA", "language": "Arabic",              "native": "العربية",         "group": "rtl",   "script": "s-ar",    "glyph": "ب",  "direction": "rtl", "status": "ready", "file": "data/ar-SA.json" },
-    { "code": "he-IL", "language": "Hebrew",              "native": "עברית",           "group": "rtl",   "script": "s-he",    "glyph": "א",  "direction": "rtl", "status": "ready", "file": "data/he-IL.json" },
-    { "code": "hi-IN", "language": "Hindi",               "native": "हिन्दी",           "group": "indic", "script": "s-hi",    "glyph": "अ",  "direction": "ltr", "status": "ready", "file": "data/hi-IN.json" },
-    { "code": "ru-RU", "language": "Russian",             "native": "Русский",         "group": "cyr",   "script": "s-latin", "glyph": "Я",  "direction": "ltr", "status": "ready", "file": "data/ru-RU.json" },
-    { "code": "fr-FR", "language": "French",              "native": "Français",        "group": "euro",  "script": "s-latin", "glyph": "É",  "direction": "ltr", "status": "ready", "file": "data/fr-FR.json" },
-    { "code": "de-DE", "language": "German",              "native": "Deutsch",         "group": "euro",  "script": "s-latin", "glyph": "ß",  "direction": "ltr", "status": "ready", "file": "data/de-DE.json" },
-    { "code": "it-IT", "language": "Italian",             "native": "Italiano",        "group": "euro",  "script": "s-latin", "glyph": "A",  "direction": "ltr", "status": "ready", "file": "data/it-IT.json" },
-    { "code": "pt-BR", "language": "Brazilian Portuguese","native": "Português",       "group": "euro",  "script": "s-latin", "glyph": "ã",  "direction": "ltr", "status": "ready", "file": "data/pt-BR.json" },
-    { "code": "ko-KR", "language": "Korean",              "native": "한국어",           "group": "cjk",   "script": "s-ko",    "glyph": "가", "direction": "ltr", "status": "ready", "file": "data/ko-KR.json" },
-    { "code": "my-MM", "language": "Burmese",             "native": "မြန်မာ",          "group": "sea",   "script": "s-my",    "glyph": "က", "direction": "ltr", "status": "ready", "file": "data/my-MM.json" },
-    { "code": "km-KH", "language": "Khmer",               "native": "ខ្មែរ",            "group": "sea",   "script": "s-km",    "glyph": "ក", "direction": "ltr", "status": "ready", "file": "data/km-KH.json" },
-    { "code": "id-ID", "language": "Bahasa Indonesia",    "native": "Bahasa Indonesia","group": "afro",  "script": "s-latin", "glyph": "A",  "direction": "ltr", "status": "ready", "file": "data/id-ID.json" },
-    { "code": "sw-KE", "language": "Swahili",             "native": "Kiswahili",       "group": "afro",  "script": "s-latin", "glyph": "A",  "direction": "ltr", "status": "ready", "file": "data/sw-KE.json" }
+    {
+      "code": "ar-SA",
+      "language": "Arabic",
+      "native": "العربية",
+      "group": "rtl",
+      "script": "s-ar",
+      "glyph": "ب",
+      "direction": "rtl",
+      "status": "ready",
+      "file": "data/ar-SA.json",
+      "speakers": "400M",
+      "share": "4.9%",
+      "countries": [
+        "sa",
+        "eg",
+        "dz"
+      ]
+    },
+    {
+      "code": "he-IL",
+      "language": "Hebrew",
+      "native": "עברית",
+      "group": "rtl",
+      "script": "s-he",
+      "glyph": "א",
+      "direction": "rtl",
+      "status": "ready",
+      "file": "data/he-IL.json",
+      "speakers": "9M",
+      "share": "0.1%",
+      "countries": [
+        "il"
+      ]
+    },
+    {
+      "code": "fa-IR",
+      "language": "Persian (Farsi)",
+      "native": "فارسی",
+      "group": "rtl",
+      "script": "s-ar",
+      "glyph": "پ",
+      "direction": "rtl",
+      "status": "ready",
+      "draft": true,
+      "file": "data/fa-IR.json",
+      "speakers": "130M",
+      "share": "1.6%",
+      "countries": [
+        "ir",
+        "af",
+        "tj"
+      ]
+    },
+    {
+      "code": "ur-PK",
+      "language": "Urdu",
+      "native": "اردو",
+      "group": "rtl",
+      "script": "s-ar",
+      "glyph": "ٹ",
+      "direction": "rtl",
+      "status": "ready",
+      "draft": true,
+      "file": "data/ur-PK.json",
+      "speakers": "230M",
+      "share": "2.8%",
+      "countries": [
+        "pk",
+        "in"
+      ]
+    },
+    {
+      "code": "hi-IN",
+      "language": "Hindi",
+      "native": "हिन्दी",
+      "group": "indic",
+      "script": "s-hi",
+      "glyph": "अ",
+      "direction": "ltr",
+      "status": "ready",
+      "file": "data/hi-IN.json",
+      "speakers": "610M",
+      "share": "7.5%",
+      "countries": [
+        "in"
+      ]
+    },
+    {
+      "code": "bn-BD",
+      "language": "Bengali",
+      "native": "বাংলা",
+      "group": "indic",
+      "script": "s-bn",
+      "glyph": "অ",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/bn-BD.json",
+      "speakers": "270M",
+      "share": "3.3%",
+      "countries": [
+        "bd",
+        "in"
+      ]
+    },
+    {
+      "code": "ta-IN",
+      "language": "Tamil",
+      "native": "தமிழ்",
+      "group": "indic",
+      "script": "s-ta",
+      "glyph": "அ",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/ta-IN.json",
+      "speakers": "86M",
+      "share": "1.1%",
+      "countries": [
+        "in",
+        "lk",
+        "sg"
+      ]
+    },
+    {
+      "code": "ru-RU",
+      "language": "Russian",
+      "native": "Русский",
+      "group": "cyr",
+      "script": "s-latin",
+      "glyph": "Я",
+      "direction": "ltr",
+      "status": "ready",
+      "file": "data/ru-RU.json",
+      "speakers": "255M",
+      "share": "3.1%",
+      "countries": [
+        "ru",
+        "by",
+        "kz"
+      ]
+    },
+    {
+      "code": "uk-UA",
+      "language": "Ukrainian",
+      "native": "Українська",
+      "group": "cyr",
+      "script": "s-latin",
+      "glyph": "Ї",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/uk-UA.json",
+      "speakers": "40M",
+      "share": "0.5%",
+      "countries": [
+        "ua"
+      ]
+    },
+    {
+      "code": "bg-BG",
+      "language": "Bulgarian",
+      "native": "Български",
+      "group": "cyr",
+      "script": "s-latin",
+      "glyph": "Ъ",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/bg-BG.json",
+      "speakers": "8M",
+      "share": "0.1%",
+      "countries": [
+        "bg"
+      ]
+    },
+    {
+      "code": "sr-RS",
+      "language": "Serbian",
+      "native": "Српски",
+      "group": "cyr",
+      "script": "s-latin",
+      "glyph": "Ђ",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/sr-RS.json",
+      "speakers": "12M",
+      "share": "0.15%",
+      "countries": [
+        "rs",
+        "ba",
+        "me"
+      ]
+    },
+    {
+      "code": "el-GR",
+      "language": "Greek",
+      "native": "Ελληνικά",
+      "group": "hellenic",
+      "script": "s-el",
+      "glyph": "Ω",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/el-GR.json",
+      "speakers": "13M",
+      "share": "0.16%",
+      "countries": [
+        "gr",
+        "cy"
+      ]
+    },
+    {
+      "code": "fr-FR",
+      "language": "French",
+      "native": "Français",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "É",
+      "direction": "ltr",
+      "status": "ready",
+      "file": "data/fr-FR.json",
+      "speakers": "310M",
+      "share": "3.8%",
+      "countries": [
+        "fr",
+        "ca",
+        "be",
+        "ch"
+      ]
+    },
+    {
+      "code": "de-DE",
+      "language": "German",
+      "native": "Deutsch",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "ß",
+      "direction": "ltr",
+      "status": "ready",
+      "file": "data/de-DE.json",
+      "speakers": "135M",
+      "share": "1.7%",
+      "countries": [
+        "de",
+        "at",
+        "ch"
+      ]
+    },
+    {
+      "code": "it-IT",
+      "language": "Italian",
+      "native": "Italiano",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "A",
+      "direction": "ltr",
+      "status": "ready",
+      "file": "data/it-IT.json",
+      "speakers": "67M",
+      "share": "0.8%",
+      "countries": [
+        "it",
+        "ch"
+      ]
+    },
+    {
+      "code": "pt-BR",
+      "language": "Brazilian Portuguese",
+      "native": "Português",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "ã",
+      "direction": "ltr",
+      "status": "ready",
+      "file": "data/pt-BR.json",
+      "speakers": "265M",
+      "share": "3.3%",
+      "countries": [
+        "br",
+        "pt",
+        "ao"
+      ]
+    },
+    {
+      "code": "nl-NL",
+      "language": "Dutch",
+      "native": "Nederlands",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "IJ",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/nl-NL.json",
+      "speakers": "25M",
+      "share": "0.3%",
+      "countries": [
+        "nl",
+        "be",
+        "sr"
+      ]
+    },
+    {
+      "code": "tr-TR",
+      "language": "Turkish",
+      "native": "Türkçe",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Ğ",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/tr-TR.json",
+      "speakers": "85M",
+      "share": "1.0%",
+      "countries": [
+        "tr",
+        "cy"
+      ]
+    },
+    {
+      "code": "pl-PL",
+      "language": "Polish",
+      "native": "Polski",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Ł",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/pl-PL.json",
+      "speakers": "45M",
+      "share": "0.55%",
+      "countries": [
+        "pl"
+      ]
+    },
+    {
+      "code": "cs-CZ",
+      "language": "Czech",
+      "native": "Čeština",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Ř",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/cs-CZ.json",
+      "speakers": "11M",
+      "share": "0.14%",
+      "countries": [
+        "cz"
+      ]
+    },
+    {
+      "code": "sk-SK",
+      "language": "Slovak",
+      "native": "Slovenčina",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Ľ",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/sk-SK.json",
+      "speakers": "5M",
+      "share": "0.06%",
+      "countries": [
+        "sk"
+      ]
+    },
+    {
+      "code": "hr-HR",
+      "language": "Croatian",
+      "native": "Hrvatski",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Đ",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/hr-HR.json",
+      "speakers": "7M",
+      "share": "0.08%",
+      "countries": [
+        "hr",
+        "ba"
+      ]
+    },
+    {
+      "code": "ro-RO",
+      "language": "Romanian",
+      "native": "Română",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Ă",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/ro-RO.json",
+      "speakers": "25M",
+      "share": "0.3%",
+      "countries": [
+        "ro",
+        "md"
+      ]
+    },
+    {
+      "code": "hu-HU",
+      "language": "Hungarian",
+      "native": "Magyar",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Ő",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/hu-HU.json",
+      "speakers": "13M",
+      "share": "0.16%",
+      "countries": [
+        "hu",
+        "ro"
+      ]
+    },
+    {
+      "code": "fi-FI",
+      "language": "Finnish",
+      "native": "Suomi",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Ä",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/fi-FI.json",
+      "speakers": "5.5M",
+      "share": "0.07%",
+      "countries": [
+        "fi"
+      ]
+    },
+    {
+      "code": "sv-SE",
+      "language": "Swedish",
+      "native": "Svenska",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Å",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/sv-SE.json",
+      "speakers": "10M",
+      "share": "0.12%",
+      "countries": [
+        "se",
+        "fi"
+      ]
+    },
+    {
+      "code": "nb-NO",
+      "language": "Norwegian",
+      "native": "Norsk",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Ø",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/nb-NO.json",
+      "speakers": "5M",
+      "share": "0.06%",
+      "countries": [
+        "no"
+      ]
+    },
+    {
+      "code": "da-DK",
+      "language": "Danish",
+      "native": "Dansk",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Æ",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/da-DK.json",
+      "speakers": "6M",
+      "share": "0.07%",
+      "countries": [
+        "dk"
+      ]
+    },
+    {
+      "code": "is-IS",
+      "language": "Icelandic",
+      "native": "Íslenska",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Þ",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/is-IS.json",
+      "speakers": "0.4M",
+      "share": "<0.1%",
+      "countries": [
+        "is"
+      ]
+    },
+    {
+      "code": "lt-LT",
+      "language": "Lithuanian",
+      "native": "Lietuvių",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Ė",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/lt-LT.json",
+      "speakers": "3M",
+      "share": "0.04%",
+      "countries": [
+        "lt"
+      ]
+    },
+    {
+      "code": "lv-LV",
+      "language": "Latvian",
+      "native": "Latviešu",
+      "group": "euro",
+      "script": "s-latin",
+      "glyph": "Ļ",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/lv-LV.json",
+      "speakers": "1.9M",
+      "share": "0.02%",
+      "countries": [
+        "lv"
+      ]
+    },
+    {
+      "code": "ko-KR",
+      "language": "Korean",
+      "native": "한국어",
+      "group": "cjk",
+      "script": "s-ko",
+      "glyph": "가",
+      "direction": "ltr",
+      "status": "ready",
+      "file": "data/ko-KR.json",
+      "speakers": "82M",
+      "share": "1.0%",
+      "countries": [
+        "kr",
+        "kp"
+      ]
+    },
+    {
+      "code": "my-MM",
+      "language": "Burmese",
+      "native": "မြန်မာ",
+      "group": "sea",
+      "script": "s-my",
+      "glyph": "က",
+      "direction": "ltr",
+      "status": "ready",
+      "file": "data/my-MM.json",
+      "speakers": "43M",
+      "share": "0.5%",
+      "countries": [
+        "mm"
+      ]
+    },
+    {
+      "code": "km-KH",
+      "language": "Khmer",
+      "native": "ខ្មែរ",
+      "group": "sea",
+      "script": "s-km",
+      "glyph": "ក",
+      "direction": "ltr",
+      "status": "ready",
+      "file": "data/km-KH.json",
+      "speakers": "18M",
+      "share": "0.2%",
+      "countries": [
+        "kh"
+      ]
+    },
+    {
+      "code": "lo-LA",
+      "language": "Lao",
+      "native": "ລາວ",
+      "group": "sea",
+      "script": "s-lo",
+      "glyph": "ກ",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/lo-LA.json",
+      "speakers": "30M",
+      "share": "0.4%",
+      "countries": [
+        "la",
+        "th"
+      ]
+    },
+    {
+      "code": "id-ID",
+      "language": "Bahasa Indonesia",
+      "native": "Bahasa Indonesia",
+      "group": "afro",
+      "script": "s-latin",
+      "glyph": "A",
+      "direction": "ltr",
+      "status": "ready",
+      "file": "data/id-ID.json",
+      "speakers": "200M",
+      "share": "2.5%",
+      "countries": [
+        "id"
+      ]
+    },
+    {
+      "code": "ms-MY",
+      "language": "Malay",
+      "native": "Bahasa Melayu",
+      "group": "afro",
+      "script": "s-latin",
+      "glyph": "C",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/ms-MY.json",
+      "speakers": "80M",
+      "share": "1.0%",
+      "countries": [
+        "my",
+        "bn",
+        "sg"
+      ]
+    },
+    {
+      "code": "tl-PH",
+      "language": "Tagalog (Filipino)",
+      "native": "Tagalog",
+      "group": "afro",
+      "script": "s-latin",
+      "glyph": "Ng",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/tl-PH.json",
+      "speakers": "83M",
+      "share": "1.0%",
+      "countries": [
+        "ph"
+      ]
+    },
+    {
+      "code": "sw-KE",
+      "language": "Swahili",
+      "native": "Kiswahili",
+      "group": "afro",
+      "script": "s-latin",
+      "glyph": "A",
+      "direction": "ltr",
+      "status": "ready",
+      "file": "data/sw-KE.json",
+      "speakers": "200M",
+      "share": "2.5%",
+      "countries": [
+        "tz",
+        "ke",
+        "ug",
+        "cd"
+      ]
+    },
+    {
+      "code": "ka-GE",
+      "language": "Georgian",
+      "native": "ქართული",
+      "group": "caucasus",
+      "script": "s-ka",
+      "glyph": "ა",
+      "direction": "ltr",
+      "status": "ready",
+      "draft": true,
+      "file": "data/ka-GE.json",
+      "speakers": "4M",
+      "share": "0.05%",
+      "countries": [
+        "ge"
+      ]
+    }
   ]
 }

@@ -1,0 +1,140 @@
+{
+  "language": "Lao",
+  "code": "lo-LA",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "lo-ko",
+      "char": "ກ",
+      "name": "ko kai",
+      "romanization": "k",
+      "ipa": "/k/",
+      "memoryTrick": "Shaped like a chair; the first consonant, plain 'k'.",
+      "words": [
+        {
+          "text": "ໄກ່",
+          "roman": "kai",
+          "meaning": "chicken",
+          "emoji": "🐔"
+        },
+        {
+          "text": "ກາ",
+          "roman": "kā",
+          "meaning": "crow",
+          "emoji": "🐦"
+        }
+      ]
+    },
+    {
+      "id": "lo-kho",
+      "char": "ຂ",
+      "name": "kho khai",
+      "romanization": "kh",
+      "ipa": "/kʰ/",
+      "memoryTrick": "An aspirated 'k' said with a puff of air.",
+      "words": [
+        {
+          "text": "ໄຂ່",
+          "roman": "khai",
+          "meaning": "egg",
+          "emoji": "🥚"
+        },
+        {
+          "text": "ຂາ",
+          "roman": "khā",
+          "meaning": "leg",
+          "emoji": "🦵"
+        }
+      ]
+    },
+    {
+      "id": "lo-ngo",
+      "char": "ງ",
+      "name": "ngo ngua",
+      "romanization": "ng",
+      "ipa": "/ŋ/",
+      "memoryTrick": "The 'ng' of 'sing' — Lao can use it at the start of a word.",
+      "words": [
+        {
+          "text": "ງົວ",
+          "roman": "ngua",
+          "meaning": "cow",
+          "emoji": "🐄"
+        },
+        {
+          "text": "ເງິນ",
+          "roman": "ngern",
+          "meaning": "money",
+          "emoji": "💰"
+        }
+      ]
+    },
+    {
+      "id": "lo-do",
+      "char": "ດ",
+      "name": "do dek",
+      "romanization": "d",
+      "ipa": "/d/",
+      "memoryTrick": "A neat curl that says 'd'.",
+      "words": [
+        {
+          "text": "ດາວ",
+          "roman": "dāo",
+          "meaning": "star",
+          "emoji": "⭐"
+        },
+        {
+          "text": "ດິນ",
+          "roman": "din",
+          "meaning": "soil",
+          "emoji": "🟫"
+        }
+      ]
+    },
+    {
+      "id": "lo-bo",
+      "char": "ບ",
+      "name": "bo bea",
+      "romanization": "b",
+      "ipa": "/b/",
+      "memoryTrick": "Says 'b' as in 'boy'.",
+      "words": [
+        {
+          "text": "ບ້ານ",
+          "roman": "bān",
+          "meaning": "house",
+          "emoji": "🏠"
+        },
+        {
+          "text": "ບໍ່",
+          "roman": "bo",
+          "meaning": "no / not",
+          "emoji": "🚫"
+        }
+      ]
+    },
+    {
+      "id": "lo-mo",
+      "char": "ມ",
+      "name": "mo mēo",
+      "romanization": "m",
+      "ipa": "/m/",
+      "memoryTrick": "A round-bellied shape that says 'm'.",
+      "words": [
+        {
+          "text": "ແມວ",
+          "roman": "mēo",
+          "meaning": "cat",
+          "emoji": "🐱"
+        },
+        {
+          "text": "ມື້",
+          "roman": "mu",
+          "meaning": "day",
+          "emoji": "📅"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "language": "Norwegian",
+  "code": "nb-NO",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "nb-o-slash",
+      "char": "Ø ø",
+      "name": "ø",
+      "romanization": "ø",
+      "ipa": "/øː/",
+      "memoryTrick": "An 'o' with a slash — round lips, say 'e'.",
+      "words": [
+        {
+          "text": "øy",
+          "roman": "øy",
+          "meaning": "island",
+          "emoji": "🏝️"
+        },
+        {
+          "text": "øre",
+          "roman": "øre",
+          "meaning": "ear",
+          "emoji": "👂"
+        }
+      ]
+    },
+    {
+      "id": "nb-a-ring",
+      "char": "Å å",
+      "name": "å",
+      "romanization": "å",
+      "ipa": "/oː/",
+      "memoryTrick": "An 'a' with a ring — a long 'oh'.",
+      "words": [
+        {
+          "text": "år",
+          "roman": "år",
+          "meaning": "year",
+          "emoji": "📅"
+        },
+        {
+          "text": "båt",
+          "roman": "båt",
+          "meaning": "boat",
+          "emoji": "⛵"
+        }
+      ]
+    },
+    {
+      "id": "nb-ae",
+      "char": "Æ æ",
+      "name": "æ",
+      "romanization": "æ",
+      "ipa": "/æ/",
+      "memoryTrick": "An a-e ligature — an open 'a' as in 'cat'.",
+      "words": [
+        {
+          "text": "være",
+          "roman": "være",
+          "meaning": "to be",
+          "emoji": "✨"
+        },
+        {
+          "text": "lære",
+          "roman": "lære",
+          "meaning": "to learn",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "id": "nb-k",
+      "char": "K k",
+      "name": "kå",
+      "romanization": "k",
+      "ipa": "/ç/",
+      "memoryTrick": "Before i and y, 'k' softens toward a 'sh / h'.",
+      "words": [
+        {
+          "text": "kino",
+          "roman": "kino",
+          "meaning": "cinema",
+          "emoji": "🎬"
+        },
+        {
+          "text": "kirke",
+          "roman": "kirke",
+          "meaning": "church",
+          "emoji": "⛪"
+        }
+      ]
+    },
+    {
+      "id": "nb-j",
+      "char": "J j",
+      "name": "je",
+      "romanization": "j",
+      "ipa": "/j/",
+      "memoryTrick": "Says 'y' as in 'yes'.",
+      "words": [
+        {
+          "text": "ja",
+          "roman": "ja",
+          "meaning": "yes",
+          "emoji": "✅"
+        },
+        {
+          "text": "jente",
+          "roman": "jente",
+          "meaning": "girl",
+          "emoji": "👧"
+        }
+      ]
+    },
+    {
+      "id": "nb-u",
+      "char": "U u",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/ʉ/",
+      "memoryTrick": "A tight, rounded 'ew'.",
+      "words": [
+        {
+          "text": "hus",
+          "roman": "hus",
+          "meaning": "house",
+          "emoji": "🏠"
+        },
+        {
+          "text": "ull",
+          "roman": "ull",
+          "meaning": "wool",
+          "emoji": "🐑"
+        }
+      ]
+    }
+  ]
+}

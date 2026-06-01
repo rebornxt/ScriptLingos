@@ -1,0 +1,140 @@
+{
+  "language": "Dutch",
+  "code": "nl-NL",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "nl-ij",
+      "char": "IJ ij",
+      "name": "ij",
+      "romanization": "ij",
+      "ipa": "/ɛi/",
+      "memoryTrick": "A digraph treated as one letter — sounds like 'ay' in 'hay'.",
+      "words": [
+        {
+          "text": "ijs",
+          "roman": "ijs",
+          "meaning": "ice",
+          "emoji": "🧊"
+        },
+        {
+          "text": "vijf",
+          "roman": "vijf",
+          "meaning": "five",
+          "emoji": "5️⃣"
+        }
+      ]
+    },
+    {
+      "id": "nl-g",
+      "char": "G g",
+      "name": "ge",
+      "romanization": "g",
+      "ipa": "/ɣ/",
+      "memoryTrick": "The famous Dutch 'g', scraped at the back of the throat.",
+      "words": [
+        {
+          "text": "goed",
+          "roman": "khoot",
+          "meaning": "good",
+          "emoji": "👍"
+        },
+        {
+          "text": "geld",
+          "roman": "khelt",
+          "meaning": "money",
+          "emoji": "💰"
+        }
+      ]
+    },
+    {
+      "id": "nl-a",
+      "char": "A a",
+      "name": "a",
+      "romanization": "a",
+      "ipa": "/ɑ/",
+      "memoryTrick": "A short 'a' as in 'father'.",
+      "words": [
+        {
+          "text": "appel",
+          "roman": "appel",
+          "meaning": "apple",
+          "emoji": "🍎"
+        },
+        {
+          "text": "auto",
+          "roman": "auto",
+          "meaning": "car",
+          "emoji": "🚗"
+        }
+      ]
+    },
+    {
+      "id": "nl-oe",
+      "char": "OE oe",
+      "name": "oe",
+      "romanization": "oe",
+      "ipa": "/u/",
+      "memoryTrick": "The digraph 'oe' = 'oo' as in 'food'.",
+      "words": [
+        {
+          "text": "koe",
+          "roman": "koe",
+          "meaning": "cow",
+          "emoji": "🐄"
+        },
+        {
+          "text": "boek",
+          "roman": "boek",
+          "meaning": "book",
+          "emoji": "📖"
+        }
+      ]
+    },
+    {
+      "id": "nl-u",
+      "char": "U u",
+      "name": "u",
+      "romanization": "u",
+      "ipa": "/ʏ/",
+      "memoryTrick": "A rounded front vowel between 'u' and 'ew'.",
+      "words": [
+        {
+          "text": "uur",
+          "roman": "uur",
+          "meaning": "hour",
+          "emoji": "🕐"
+        },
+        {
+          "text": "vuur",
+          "roman": "vuur",
+          "meaning": "fire",
+          "emoji": "🔥"
+        }
+      ]
+    },
+    {
+      "id": "nl-w",
+      "char": "W w",
+      "name": "wee",
+      "romanization": "w",
+      "ipa": "/ʋ/",
+      "memoryTrick": "A soft, 'v'-like 'w'.",
+      "words": [
+        {
+          "text": "water",
+          "roman": "water",
+          "meaning": "water",
+          "emoji": "💧"
+        },
+        {
+          "text": "wind",
+          "roman": "wint",
+          "meaning": "wind",
+          "emoji": "💨"
+        }
+      ]
+    }
+  ]
+}

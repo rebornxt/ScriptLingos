@@ -1,0 +1,140 @@
+{
+  "language": "Georgian",
+  "code": "ka-GE",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "ka-an",
+      "char": "ა",
+      "name": "an",
+      "romanization": "a",
+      "ipa": "/a/",
+      "memoryTrick": "The first letter — a round 'ah'; Georgian has no capital letters.",
+      "words": [
+        {
+          "text": "ახალი",
+          "roman": "akhali",
+          "meaning": "new",
+          "emoji": "✨"
+        },
+        {
+          "text": "არა",
+          "roman": "ara",
+          "meaning": "no",
+          "emoji": "🚫"
+        }
+      ]
+    },
+    {
+      "id": "ka-ban",
+      "char": "ბ",
+      "name": "ban",
+      "romanization": "b",
+      "ipa": "/b/",
+      "memoryTrick": "Says 'b'.",
+      "words": [
+        {
+          "text": "ბავშვი",
+          "roman": "bavshvi",
+          "meaning": "child",
+          "emoji": "🧒"
+        },
+        {
+          "text": "ბურთი",
+          "roman": "burti",
+          "meaning": "ball",
+          "emoji": "⚽"
+        }
+      ]
+    },
+    {
+      "id": "ka-gan",
+      "char": "გ",
+      "name": "gan",
+      "romanization": "g",
+      "ipa": "/ɡ/",
+      "memoryTrick": "A hard 'g'.",
+      "words": [
+        {
+          "text": "გული",
+          "roman": "guli",
+          "meaning": "heart",
+          "emoji": "❤️"
+        },
+        {
+          "text": "გზა",
+          "roman": "gza",
+          "meaning": "road",
+          "emoji": "🛣️"
+        }
+      ]
+    },
+    {
+      "id": "ka-don",
+      "char": "დ",
+      "name": "don",
+      "romanization": "d",
+      "ipa": "/d/",
+      "memoryTrick": "Says 'd'.",
+      "words": [
+        {
+          "text": "დედა",
+          "roman": "deda",
+          "meaning": "mother",
+          "emoji": "👩"
+        },
+        {
+          "text": "დღე",
+          "roman": "dghe",
+          "meaning": "day",
+          "emoji": "📅"
+        }
+      ]
+    },
+    {
+      "id": "ka-en",
+      "char": "ე",
+      "name": "en",
+      "romanization": "e",
+      "ipa": "/ɛ/",
+      "memoryTrick": "Says 'eh' as in 'bed'.",
+      "words": [
+        {
+          "text": "ეზო",
+          "roman": "ezo",
+          "meaning": "yard",
+          "emoji": "🏡"
+        },
+        {
+          "text": "ერთი",
+          "roman": "erti",
+          "meaning": "one",
+          "emoji": "1️⃣"
+        }
+      ]
+    },
+    {
+      "id": "ka-kan",
+      "char": "ქ",
+      "name": "kan",
+      "romanization": "k",
+      "ipa": "/kʰ/",
+      "memoryTrick": "An aspirated 'k' with a puff of air.",
+      "words": [
+        {
+          "text": "ქალი",
+          "roman": "kali",
+          "meaning": "woman",
+          "emoji": "👩"
+        },
+        {
+          "text": "ქარი",
+          "roman": "kari",
+          "meaning": "wind",
+          "emoji": "💨"
+        }
+      ]
+    }
+  ]
+}

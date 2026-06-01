@@ -1,0 +1,140 @@
+{
+  "language": "Icelandic",
+  "code": "is-IS",
+  "direction": "ltr",
+  "draft": true,
+  "letters": [
+    {
+      "id": "is-thorn",
+      "char": "Þ þ",
+      "name": "thorn",
+      "romanization": "þ",
+      "ipa": "/θ/",
+      "memoryTrick": "A Viking letter — 'th' as in 'thing'.",
+      "words": [
+        {
+          "text": "þú",
+          "roman": "thú",
+          "meaning": "you",
+          "emoji": "🫵"
+        },
+        {
+          "text": "þrír",
+          "roman": "thrír",
+          "meaning": "three",
+          "emoji": "3️⃣"
+        }
+      ]
+    },
+    {
+      "id": "is-eth",
+      "char": "Ð ð",
+      "name": "eth",
+      "romanization": "ð",
+      "ipa": "/ð/",
+      "memoryTrick": "'th' as in 'this'; it never starts a word.",
+      "words": [
+        {
+          "text": "að",
+          "roman": "adh",
+          "meaning": "to",
+          "emoji": "➡️"
+        },
+        {
+          "text": "góður",
+          "roman": "góethur",
+          "meaning": "good",
+          "emoji": "👍"
+        }
+      ]
+    },
+    {
+      "id": "is-ae",
+      "char": "Æ æ",
+      "name": "æ",
+      "romanization": "æ",
+      "ipa": "/ai/",
+      "memoryTrick": "An a-e ligature — it says 'eye'.",
+      "words": [
+        {
+          "text": "læra",
+          "roman": "laira",
+          "meaning": "to learn",
+          "emoji": "📚"
+        },
+        {
+          "text": "kæri",
+          "roman": "kairi",
+          "meaning": "dear",
+          "emoji": "❤️"
+        }
+      ]
+    },
+    {
+      "id": "is-o-uml",
+      "char": "Ö ö",
+      "name": "ö",
+      "romanization": "ö",
+      "ipa": "/œ/",
+      "memoryTrick": "Round your lips, say 'e'.",
+      "words": [
+        {
+          "text": "öl",
+          "roman": "öl",
+          "meaning": "beer",
+          "emoji": "🍺"
+        },
+        {
+          "text": "björn",
+          "roman": "björn",
+          "meaning": "bear",
+          "emoji": "🐻"
+        }
+      ]
+    },
+    {
+      "id": "is-a-acute",
+      "char": "Á á",
+      "name": "á",
+      "romanization": "á",
+      "ipa": "/au/",
+      "memoryTrick": "An 'a' with an accent — says 'ow' as in 'house'.",
+      "words": [
+        {
+          "text": "ár",
+          "roman": "áur",
+          "meaning": "year",
+          "emoji": "📅"
+        },
+        {
+          "text": "á",
+          "roman": "áu",
+          "meaning": "river",
+          "emoji": "🏞️"
+        }
+      ]
+    },
+    {
+      "id": "is-i-acute",
+      "char": "Í í",
+      "name": "í",
+      "romanization": "í",
+      "ipa": "/i/",
+      "memoryTrick": "An 'i' with an accent — says 'ee'.",
+      "words": [
+        {
+          "text": "ís",
+          "roman": "ís",
+          "meaning": "ice cream",
+          "emoji": "🍦"
+        },
+        {
+          "text": "mín",
+          "roman": "mín",
+          "meaning": "mine",
+          "emoji": "🫳"
+        }
+      ]
+    }
+  ]
+}

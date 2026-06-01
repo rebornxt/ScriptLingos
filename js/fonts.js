@@ -34,6 +34,35 @@ export const FONTS = {
     { id: 'sans',   label: 'Standard', note: 'Clean · easy to read',  stack: "'Noto Sans KR', sans-serif" },
     { id: 'serif',  label: 'Myeongjo', note: 'Traditional brush',     stack: "'Noto Serif KR', serif" },
     { id: 'batang', label: 'Batang',   note: 'Soft classic',          stack: "'Gowun Batang', serif" }
+  ],
+  's-he': [
+    { id: 'frank', label: 'Frank Ruhl', note: 'Traditional · clearest', stack: "'Frank Ruhl Libre', serif" },
+    { id: 'david', label: 'David',      note: 'Calligraphic',           stack: "'David Libre', serif" },
+    { id: 'sans',  label: 'Modern',     note: 'Geometric sans',         stack: "'Noto Sans Hebrew', sans-serif" }
+  ],
+  's-el': [
+    { id: 'sans',  label: 'Modern',  note: 'Clean · clearest', stack: "'Noto Sans', sans-serif" },
+    { id: 'serif', label: 'Serif',   note: 'Book-style',       stack: "'Noto Serif', serif" },
+    { id: 'didot', label: 'Didot',   note: 'Classic Greek',    stack: "'GFS Didot', 'Noto Serif', serif" }
+  ],
+  's-lo': [
+    { id: 'sans',   label: 'Modern',  note: 'Clean · clearest', stack: "'Noto Sans Lao', sans-serif" },
+    { id: 'serif',  label: 'Serif',   note: 'Traditional',      stack: "'Noto Serif Lao', serif" },
+    { id: 'looped', label: 'Looped',  note: 'Handwriting style', stack: "'Noto Sans Lao Looped', sans-serif" }
+  ],
+  's-bn': [
+    { id: 'sans',  label: 'Modern',   note: 'Clean sans',       stack: "'Noto Sans Bengali', sans-serif" },
+    { id: 'hind',  label: 'Textbook', note: 'Open · easy',      stack: "'Hind Siliguri', sans-serif" },
+    { id: 'serif', label: 'Serif',    note: 'Traditional',      stack: "'Noto Serif Bengali', serif" }
+  ],
+  's-ta': [
+    { id: 'sans',  label: 'Modern',   note: 'Clean sans',       stack: "'Noto Sans Tamil', sans-serif" },
+    { id: 'hind',  label: 'Textbook', note: 'Open · easy',      stack: "'Hind Madurai', sans-serif" },
+    { id: 'serif', label: 'Serif',    note: 'Traditional',      stack: "'Noto Serif Tamil', serif" }
+  ],
+  's-ka': [
+    { id: 'sans',  label: 'Modern',  note: 'Clean · clearest', stack: "'Noto Sans Georgian', sans-serif" },
+    { id: 'serif', label: 'Serif',   note: 'Traditional',      stack: "'Noto Serif Georgian', serif" }
   ]
 };
 
