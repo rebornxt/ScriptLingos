@@ -54,14 +54,276 @@ const LETTER_NAMES = {
     "ㅙ": "왜", "ㅚ": "외", "ㅝ": "워", "ㅞ": "웨", "ㅟ": "위", "ㅢ": "의",
   },
   "my-MM": {
-    // Only the letters whose NAME differs from their bare sound are listed.
-    // The rest (င မ လ ဝ သ ဟ အ …) are already recited correctly as the bare letter.
-    "က": "ကကြီး", "ခ": "ခခွေး", "ဂ": "ဂငယ်", "ဃ": "ဃကြီး",
-    "စ": "စလုံး", "ဆ": "ဆလိမ်", "ဇ": "ဇကွဲ", "ဏ": "ဏကြီး",
-    "တ": "တဝမ်းပူ", "ထ": "ထဆင်ထူး", "န": "နငယ်", "ပ": "ပစောက်",
-    "ဖ": "ဖဦးထုပ်", "ဘ": "ဘကုန်း", "ယ": "ယပက်လက်", "ရ": "ရကောက်",
+    // Burmese — every letter by its full traditional name (e.g. ဋ → ဋသန်လျင်းချိတ်).
+    "က": "ကကြီး",
+    "ခ": "ခခွေး",
+    "ဂ": "ဂငယ်",
+    "ဃ": "ဃကြီး",
+    "င": "င",
+    "စ": "စလုံး",
+    "ဆ": "ဆလိမ်",
+    "ဇ": "ဇကွဲ",
+    "ဈ": "ဈမျဉ်းဆွဲ",
+    "ဉ": "ဉငယ်",
+    "ည": "ညကြီး",
+    "ဋ": "ဋသန်လျင်းချိတ်",
+    "ဌ": "ဌဝမ်းဘဲ",
+    "ဍ": "ဍရင်ကောက်",
+    "ဎ": "ဎရေမှုတ်",
+    "ဏ": "ဏကြီး",
+    "တ": "တဝမ်းပူ",
+    "ထ": "ထဆင်ထူး",
+    "ဒ": "ဒဒွေး",
+    "ဓ": "ဓအောက်ချိုက်",
+    "န": "နငယ်",
+    "ပ": "ပစောက်",
+    "ဖ": "ဖဦးထုပ်",
+    "ဗ": "ဗထက်ခြိုက်",
+    "ဘ": "ဘကုန်း",
+    "မ": "မ",
+    "ယ": "ယပက်လက်",
+    "ရ": "ရကောက်",
+    "လ": "လ",
+    "ဝ": "ဝ",
+    "သ": "သ",
+    "ဟ": "ဟ",
     "ဠ": "ဠကြီး",
+    "အ": "အ",
+    "်": "အသတ်",
+    "ါ": "အာ",
+    "ာ": "အာ",
+    "ိ": "အိ",
+    "ီ": "အီ",
+    "ု": "အု",
+    "ူ": "အူ",
+    "ေ": "အေ",
+    "ဲ": "အဲ",
+    "ံ": "သေးသေးတင်",
+    "့": "အောက်မြစ်",
+    "း": "ဝစ္စပေါက်",
+    "ျ": "ယပင့်",
+    "ြ": "ရရစ်",
+    "ွ": "ဝဆွဲ",
+    "ှ": "ဟထိုး",
+    "၊": "ပုဒ်ကလေး",
+    "။": "ပုဒ်ကြီး",
   },
+  "lo-LA": {
+    // Lao — every consonant by its recitation name, every vowel sign by its
+    // sound (carried on ອ), every tone mark / diacritic by its Lao name.
+    "ກ": "ກໍ່ໄກ່",
+    "ຂ": "ຂໍ່ໄຂ່",
+    "ຄ": "ຄໍຄວາຍ",
+    "ງ": "ງໍງົວ",
+    "ຈ": "ຈໍຈອກ",
+    "ສ": "ສໍເສືອ",
+    "ຊ": "ຊໍຊ້າງ",
+    "ຍ": "ຍໍຍຸງ",
+    "ດ": "ດໍເດັກ",
+    "ຕ": "ຕໍຕາ",
+    "ຖ": "ຖໍຖົງ",
+    "ທ": "ທໍທຸງ",
+    "ນ": "ນໍນົກ",
+    "ບ": "ບໍແບ້",
+    "ປ": "ປໍປາ",
+    "ຜ": "ຜໍເຜິ້ງ",
+    "ຝ": "ຝໍຝົນ",
+    "ພ": "ພໍພູ",
+    "ຟ": "ຟໍໄຟ",
+    "ມ": "ມໍແມວ",
+    "ຢ": "ຢໍຢາ",
+    "ຣ": "ຣໍລົດ",
+    "ລ": "ລໍລີງ",
+    "ວ": "ວໍວີ",
+    "ຫ": "ຫໍຫ່ານ",
+    "ອ": "ອໍອ່າງ",
+    "ຮ": "ຮໍເຮືອນ",
+    "ໜ": "ໜໍໜູ",
+    "ໝ": "ໝໍໝາ",
+    "◌ະ": "ອະ",
+    "◌າ": "ອາ",
+    "◌ິ": "ອິ",
+    "◌ີ": "ອີ",
+    "◌ຶ": "ອຶ",
+    "◌ື": "ອື",
+    "◌ຸ": "ອຸ",
+    "◌ູ": "ອູ",
+    "ເ◌": "ເອ",
+    "ແ◌": "ແອ",
+    "ໂ◌": "ໂອ",
+    "ໃ◌": "ໃອ",
+    "ໄ◌": "ໄອ",
+    "◌ໍ": "ອໍ",
+    "◌ັ": "ໄມ້ກັນ",
+    "◌ົ": "ໄມ້ກົງ",
+    "◌່": "ໄມ້ເອກ",
+    "◌້": "ໄມ້ໂທ",
+    "◌໊": "ໄມ້ຕີ",
+    "◌໋": "ໄມ້ຈັດຕະວາ",
+    "ໆ": "ໄມ້ຍະໂມກ",
+    "◌໌": "ໄມ້ກາລັນ",
+    "ຯ": "ລະ",
+    "◌ຼ": "ລໍ",
+  },
+  "el-GR": {
+    // Greek — spoken by letter name (char field holds both cases).
+    "Α α": "άλφα",
+    "Β β": "βήτα",
+    "Γ γ": "γάμμα",
+    "Δ δ": "δέλτα",
+    "Ε ε": "έψιλον",
+    "Ζ ζ": "ζήτα",
+    "Η η": "ήτα",
+    "Θ θ": "θήτα",
+    "Ι ι": "ιώτα",
+    "Κ κ": "κάππα",
+    "Λ λ": "λάμδα",
+    "Μ μ": "μι",
+    "Ν ν": "νι",
+    "Ξ ξ": "ξι",
+    "Ο ο": "όμικρον",
+    "Π π": "πι",
+    "Ρ ρ": "ρο",
+    "Σ σ": "σίγμα",
+    "Τ τ": "ταυ",
+    "Υ υ": "ύψιλον",
+    "Φ φ": "φι",
+    "Χ χ": "χι",
+    "Ψ ψ": "ψι",
+    "Ω ω": "ωμέγα",
+    "ά έ ή ί ό ύ ώ": "τόνος",
+    "ϊ ϋ ΐ ΰ": "διαλυτικά",
+  },
+  "fa-IR": {
+    // Persian — letters by name; short-vowel marks by their sound on الف.
+    "ا": "الف",
+    "ب": "بِ",
+    "پ": "پِ",
+    "ت": "تِ",
+    "ث": "ثِ",
+    "ج": "جیم",
+    "چ": "چِ",
+    "ح": "حِ",
+    "خ": "خِ",
+    "د": "دال",
+    "ذ": "ذال",
+    "ر": "رِ",
+    "ز": "زِ",
+    "ژ": "ژِ",
+    "س": "سین",
+    "ش": "شین",
+    "ص": "صاد",
+    "ض": "ضاد",
+    "ط": "طا",
+    "ظ": "ظا",
+    "ع": "عین",
+    "غ": "غین",
+    "ف": "فِ",
+    "ق": "قاف",
+    "ک": "کاف",
+    "گ": "گاف",
+    "ل": "لام",
+    "م": "میم",
+    "ن": "نون",
+    "و": "واو",
+    "ه": "هِ",
+    "ی": "یِ",
+    "َ": "اَ",
+    "ِ": "اِ",
+    "ُ": "اُ",
+  },
+  "ur-PK": {
+    // Urdu — letters by name; short-vowel marks by sound; tashdid/jazm by name.
+    "ا": "الف",
+    "ب": "بے",
+    "پ": "پے",
+    "ت": "تے",
+    "ٹ": "ٹے",
+    "ث": "ثے",
+    "ج": "جیم",
+    "چ": "چے",
+    "ح": "بڑی ہے",
+    "خ": "خے",
+    "د": "دال",
+    "ڈ": "ڈال",
+    "ذ": "ذال",
+    "ر": "رے",
+    "ڑ": "ڑے",
+    "ز": "زے",
+    "ژ": "ژے",
+    "س": "سین",
+    "ش": "شین",
+    "ص": "صاد",
+    "ض": "ضاد",
+    "ط": "طوے",
+    "ظ": "ظوے",
+    "ع": "عین",
+    "غ": "غین",
+    "ف": "فے",
+    "ق": "قاف",
+    "ک": "کاف",
+    "گ": "گاف",
+    "ل": "لام",
+    "م": "میم",
+    "ن": "نون",
+    "ں": "نون غنہ",
+    "و": "واؤ",
+    "ہ": "گول ہے",
+    "ھ": "دو چشمی ہے",
+    "ء": "ہمزہ",
+    "ی": "چھوٹی ے",
+    "ے": "بڑی ے",
+    "◌َ": "اَ",
+    "◌ِ": "اِ",
+    "◌ُ": "اُ",
+    "◌ّ": "تشدید",
+    "◌ْ": "جزم",
+    "آ": "آ",
+  },
+  "bn-BD": {
+    // Bengali — vowel signs spoken as their independent vowel; marks by name. Bare consonants/vowels read natively.
+    "ৎ": "খণ্ড ত",
+    "া": "আ",
+    "ি": "ই",
+    "ী": "ঈ",
+    "ু": "উ",
+    "ূ": "ঊ",
+    "ৃ": "ঋ",
+    "ে": "এ",
+    "ৈ": "ঐ",
+    "ো": "ও",
+    "ৌ": "ঔ",
+    "ং": "অনুস্বার",
+    "ঃ": "বিসর্গ",
+    "ঁ": "চন্দ্রবিন্দু",
+    "্": "হসন্ত",
+  },
+  "ta-IN": {
+    // Tamil — vowel signs spoken as their independent vowel; marks by name. Bare consonants/vowels read natively.
+    "ஃ": "ஆய்தம்",
+    "ா": "ஆ",
+    "ி": "இ",
+    "ீ": "ஈ",
+    "ு": "உ",
+    "ூ": "ஊ",
+    "ெ": "எ",
+    "ே": "ஏ",
+    "ை": "ஐ",
+    "ொ": "ஒ",
+    "ோ": "ஓ",
+    "ௌ": "ஔ",
+    "்": "புள்ளி",
+  },
+  // ── Georgian: 33 Mkhedruli letters (unicase) ──
+  "ka-GE": {
+    "ა": "ანი", "ბ": "ბანი", "გ": "განი", "დ": "დონი", "ე": "ენი",
+    "ვ": "ვინი", "ზ": "ზენი", "თ": "თანი", "ი": "ინი", "კ": "კანი",
+    "ლ": "ლასი", "მ": "მანი", "ნ": "ნარი", "ო": "ონი", "პ": "პარი",
+    "ჟ": "ჟანი", "რ": "რაე", "ს": "სანი", "ტ": "ტარი", "უ": "უნი",
+    "ფ": "ფარი", "ქ": "ქანი", "ღ": "ღანი", "ყ": "ყარი", "შ": "შინი",
+    "ჩ": "ჩინი", "ც": "ცანი", "ძ": "ძილი", "წ": "წილი", "ჭ": "ჭარი",
+    "ხ": "ხანი", "ჯ": "ჯანი", "ჰ": "ჰაე",
+   },
 };
 
 function isConfigured() {
@@ -80,19 +342,35 @@ function stopCurrent() {
 
 // Decide WHAT to say and whether to spell it as a letter name.
 // Exposed for testing; also honors an optional `say` override field on a letter.
+const DOTTED_CIRCLE = /\u25CC/g; // ◌ — the placeholder combining marks are shown on
+
 export function resolveSpeech(opts) {
   const o = opts || {};
-  if (o.say && String(o.say).trim()) {
-    return { speakText: String(o.say).trim(), asChars: false };
+  // `say` is an optional exact-pronunciation override. It may be a plain string,
+  // OR an object like { char: "巴", roman: "baa1" } (Cantonese demonstrates each
+  // jyutping initial with a sample character). Speak that character so the voice
+  // says a real sound instead of "[object Object]".
+  if (o.say != null) {
+    if (typeof o.say === "object") {
+      const s = o.say.char || o.say.text || o.say.say || "";
+      if (String(s).trim()) return { speakText: String(s).trim(), asChars: false };
+    } else if (String(o.say).trim()) {
+      return { speakText: String(o.say).trim(), asChars: false };
+    }
   }
   const text = String(o.text == null ? "" : o.text).trim();
-  const isSingle = Array.from(text).length === 1;   // counts real characters
 
-  // Single letter with a native-script name → speak the name.
-  if (isSingle) {
-    const map = LETTER_NAMES[o.lang];
-    if (map && map[text]) return { speakText: map[text], asChars: false };
+  // Native-script NAME / SOUND table. Checked for ANY glyph — not just single
+  // characters — so vowel signs and tone marks (which carry a ◌ placeholder and
+  // are therefore multi-codepoint, e.g. "◌າ", "◌່") resolve too.
+  const map = LETTER_NAMES[o.lang];
+  if (map) {
+    if (map[text]) return { speakText: map[text], asChars: false };
+    const bare = text.replace(DOTTED_CIRCLE, "").trim(); // try without the ◌
+    if (bare && bare !== text && map[bare]) return { speakText: map[bare], asChars: false };
   }
+
+  const isSingle = Array.from(text).length === 1;   // counts real characters
 
   // Single Latin/Cyrillic letter with no name table → spell it as its letter name.
   const asChars = isSingle && LETTER_NAME_LOCALES.has(o.lang);

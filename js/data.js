@@ -1,4 +1,5 @@
 // data.js — registry + per-language data loading (fetch-based, drop-in JSON ready)
+import { applyJapaneseLayout } from './jp.js';
 
 const cache = new Map();
 let registry = null;
@@ -21,6 +22,9 @@ export async function loadLanguage(code) {
   const data = await res.json();
   // merge registry meta (group/script/accent) onto the language data
   data._meta = entry;
+  // Japanese: rebuild the kana layout (tabs / categories / 5-per-row) from the
+  // flat letter list so grid.js works without editing the data file.
+  applyJapaneseLayout(data);
   cache.set(code, data);
   return data;
 }
